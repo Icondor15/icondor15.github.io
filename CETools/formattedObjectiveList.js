@@ -11,11 +11,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Beast",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1530070/6980ece51baff3b9dbab2f7f780d191c65cd49eb.jpg"
-                },
-                {
                     "name": "Classy",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1530070/3d251f7ef40cb697f51e6f95985ff5c1dc4e38a2.jpg"
@@ -49,6 +44,11 @@ var objectiveData =
                     "name": "Ron Jeremy",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1530070/4c5744a3330d8455f6a5c8524f22fd22a5a678be.jpg"
+                },
+                {
+                    "name": "Beast",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1530070/6980ece51baff3b9dbab2f7f780d191c65cd49eb.jpg"
                 }
             ]
         }
@@ -321,11 +321,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fervor",
-                    "description": "Complete the game with Wrath, Undying, Furor, and Swarm active.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/76f7ff0a5bb7fa206fd397e2677d6150fb66ee21.jpg"
-                },
-                {
                     "name": "Goliath",
                     "description": "With the Undying Skull on, complete the game without picking up any damage upgrades.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/3d9bf97119456cad67c979ca2e504be320dec911.jpg"
@@ -349,6 +344,11 @@ var objectiveData =
                     "name": "Perfect Storm",
                     "description": "With the High Tide Skull on, complete the game without picking up any maximum health upgrades.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/703c510fe974b5c891295d5e221aaba62842863c.jpg"
+                },
+                {
+                    "name": "Fervor",
+                    "description": "Complete the game with Wrath, Undying, Furor, and Swarm active.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/76f7ff0a5bb7fa206fd397e2677d6150fb66ee21.jpg"
                 }
             ]
         }
@@ -635,21 +635,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "World 3 Speed Trial Complete",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/65407b678139851895068698a7caf7987c9500b5.jpg"
-                },
-                {
-                    "name": "World 1 Speed Trial Complete",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/01ad459f1a4510c3f8857fb151e2863fbab9c125.jpg"
-                },
-                {
-                    "name": "World 9 Speed Trial",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/1a5846aaaf98decac5258d4579f1c5942894d33b.jpg"
-                },
-                {
                     "name": "Bonus Level Complete",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/8f9b4dafd2eb319fbc9aa214096429f9cb98f071.jpg"
@@ -660,19 +645,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/60a1a6236f1af5ccf120230f46d90cfcf18adb1b.jpg"
                 },
                 {
-                    "name": "World 11 Trial",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/d71786afb64f2928bb3c677b846f052f12213c5c.jpg"
-                },
-                {
                     "name": "World 10 Speed Trial",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/9355ea570357c5ae8f28bbdebe79806ce10fed23.jpg"
                 },
                 {
+                    "name": "World 11 Trial",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/d71786afb64f2928bb3c677b846f052f12213c5c.jpg"
+                },
+                {
                     "name": "World 5 Speed Trial Complete",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/b5bdad2c6f3a6d17edf0bb195f7214c047c716e4.jpg"
+                },
+                {
+                    "name": "World 1 Speed Trial Complete",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/01ad459f1a4510c3f8857fb151e2863fbab9c125.jpg"
                 },
                 {
                     "name": "World 8 Speed Trial",
@@ -698,6 +688,16 @@ var objectiveData =
                     "name": "World 2 Speed Trial Complete",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/33ce3159188b2d5a522a10a975cf25a929ced170.jpg"
+                },
+                {
+                    "name": "World 9 Speed Trial",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/1a5846aaaf98decac5258d4579f1c5942894d33b.jpg"
+                },
+                {
+                    "name": "World 3 Speed Trial Complete",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/977950/65407b678139851895068698a7caf7987c9500b5.jpg"
                 }
             ]
         }
@@ -809,14 +809,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gold Medalist",
-                    "description": "Earned a gold medal in the Reverse Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3435050/8237ecedf5e60ce2d162ad0219207bd2b009cbf2.jpg"
-                },
-                {
                     "name": "A Fugu's Dive",
                     "description": "Dived in for the first time.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3435050/ed0e99ba1d4f5ef0c7bf397bc84b4e4e103ce366.jpg"
+                },
+                {
+                    "name": "Gold Medalist",
+                    "description": "Earned a gold medal in the Reverse Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3435050/8237ecedf5e60ce2d162ad0219207bd2b009cbf2.jpg"
                 }
             ]
         }
@@ -900,14 +900,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Their Journey Continues",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/453300/e040aa65581451d5de22e33b3494866e93bf8050.jpg"
-                },
-                {
                     "name": "Behind You",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/453300/70d1cd47020154e7b1b42b74485ddc381f928204.jpg"
+                },
+                {
+                    "name": "Their Journey Continues",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/453300/e040aa65581451d5de22e33b3494866e93bf8050.jpg"
                 }
             ]
         }
@@ -1413,11 +1413,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fire inmune",
-                    "description": "Defeat The Phoenix without taking any damage during the fight (Noctis)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1517970/d3ae9468185e1c64f8c44bcd88e528432766c518.jpg"
-                },
-                {
                     "name": "Devoured devourer",
                     "description": "Defeat the Devourer in the East Wall without taking any damage during the fight (Noctis)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1517970/321e623780be0063767d5223a16dd378350efa54.jpg"
@@ -1491,6 +1486,11 @@ var objectiveData =
                     "name": "Null Pointer Exception",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1517970/01f1368648a40136ecf09a44b4e4d15bbb4924ab.jpg"
+                },
+                {
+                    "name": "Fire inmune",
+                    "description": "Defeat The Phoenix without taking any damage during the fight (Noctis)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1517970/d3ae9468185e1c64f8c44bcd88e528432766c518.jpg"
                 }
             ]
         }
@@ -2039,11 +2039,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "I guess this is Fair Game",
-                    "description": "Beat all of World 4",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/514340/312303f624fd61253a4b8ff541f451733fccaa05.jpg"
-                },
-                {
                     "name": "Grand Slammer in the Works",
                     "description": "Beat all of World 5",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/514340/f53a5bacab819035b6a3b8f88e9be4d95cc202a0.jpg"
@@ -2067,6 +2062,11 @@ var objectiveData =
                     "name": "Who's the Boss",
                     "description": "Beat all of Boss Rush Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/514340/66c104bd1904cbb67450622f059ab6ee4f8a90b8.jpg"
+                },
+                {
+                    "name": "I guess this is Fair Game",
+                    "description": "Beat all of World 4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/514340/312303f624fd61253a4b8ff541f451733fccaa05.jpg"
                 }
             ]
         }
@@ -2135,14 +2135,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Liberation",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1968790/6e1ddc2ea4740d987b4348cee026f620d58346f7.jpg"
-                },
-                {
                     "name": "Speedkali",
                     "description": "Complete the game in 1 hour or less",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1968790/d68b845d8f01881e16e3edf61b0b2f1c9e8d9e3e.jpg"
+                },
+                {
+                    "name": "Liberation",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1968790/6e1ddc2ea4740d987b4348cee026f620d58346f7.jpg"
                 }
             ],
             "custom": "Screenshot of Gauntlet stats showing 36/36 diskettes collected."
@@ -2686,11 +2686,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ending: A Premature Conclusion",
-                    "description": "Finish the game obtaining the Early Ending.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380750/2092d8f86c4065fe07a5849308945dbe71c9e1a3.jpg"
-                },
-                {
                     "name": "True Ending",
                     "description": "Finish the game obtaining the True Ending.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380750/144670421ebfd4be8787a33b2454c83cc9a453c5.jpg"
@@ -2709,6 +2704,11 @@ var objectiveData =
                     "name": "Ending: Just Too Competent!",
                     "description": "Obtain the Joke Ending.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380750/d2faf9709f736e664c2a52013c9904fcaf30e534.jpg"
+                },
+                {
+                    "name": "Ending: A Premature Conclusion",
+                    "description": "Finish the game obtaining the Early Ending.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/380750/2092d8f86c4065fe07a5849308945dbe71c9e1a3.jpg"
                 }
             ],
             "custom": "Screenshots of all 5 end screens after each ending with Steam overlay visible."
@@ -2942,11 +2942,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "DISC FOUR HARD ARCADE",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447150/802b1134a9fc6efd60a19296a8cf206c525e9aab.jpg"
-                },
-                {
                     "name": "DISC THREE HARD ARCADE",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447150/c4b9d44832f738e0cd41ed76f08504e1cdc69491.jpg"
@@ -2960,6 +2955,11 @@ var objectiveData =
                     "name": "DISC ONE HARD ARCADE",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447150/ded744ae6bdcf3862b9ee7111f3ed3fa79e906f8.jpg"
+                },
+                {
+                    "name": "DISC FOUR HARD ARCADE",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/447150/802b1134a9fc6efd60a19296a8cf206c525e9aab.jpg"
                 }
             ]
         }
@@ -3023,21 +3023,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Watered Down",
-                    "description": "Complete all levels in the Water Temple",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/b772f224f171cd518a8ee1f842524e9784de76c2.jpg"
-                },
-                {
-                    "name": "Splatful Dodger",
-                    "description": "Finish level 12 of the Dank Dungeon without touching a slime",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/e9c88f9ce40521047f2e0a3faecee89d2bc2ab31.jpg"
-                },
-                {
-                    "name": "Fairy Long Time",
-                    "description": "Use only a single fairy in level 48 of the Forest Ruins",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/97d4c3644d077a7dea10e4a029481365c374d832.jpg"
-                },
-                {
                     "name": "Light A Fire",
                     "description": "Beat level 47 of the Dank Dungeon in under 10 seconds",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/79d1037cc389019d1f41c8dd6dd5288c06071736.jpg"
@@ -3053,6 +3038,11 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/64165f75f6b27e6811ff0387b00d1035c83c2952.jpg"
                 },
                 {
+                    "name": "Mega Mage",
+                    "description": "Complete level 22 of the Arcane Lair with at least 1 shot remaining",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/09d6b1862ebaf38391db169d17e4ae833648ce27.jpg"
+                },
+                {
                     "name": "Completely Dank",
                     "description": "Complete all levels in the Dank Dungeon",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/37d9d91628f32d3a76e2ca482eca3dd2ae7ed627.jpg"
@@ -3063,19 +3053,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/558a8c0d5247e8a953197f415563893f32af9311.jpg"
                 },
                 {
-                    "name": "Mega Mage",
-                    "description": "Complete level 22 of the Arcane Lair with at least 1 shot remaining",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/09d6b1862ebaf38391db169d17e4ae833648ce27.jpg"
-                },
-                {
                     "name": "A-Maze-Ing II",
                     "description": "Beat Level 40 of the Water Temple with 2 shots remaining",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/37e8898ac0bf2744020e4e990ee05d3a27f1dd9d.jpg"
-                },
-                {
-                    "name": "Wood You, Could You?",
-                    "description": "Break all of the wood blocks and complete level 28 of the Forest Ruins",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/ee37f51887b58be2ed70ad6219d1b56c9ac1b02f.jpg"
                 },
                 {
                     "name": "Bubble Time",
@@ -3086,6 +3066,11 @@ var objectiveData =
                     "name": "Spitting Fire",
                     "description": "Beat level 46 of the Forest Ruins in under 7 seconds",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/908067acfacdc7001ea0d121d950d0a4a7c6a191.jpg"
+                },
+                {
+                    "name": "Wood You, Could You?",
+                    "description": "Break all of the wood blocks and complete level 28 of the Forest Ruins",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/ee37f51887b58be2ed70ad6219d1b56c9ac1b02f.jpg"
                 },
                 {
                     "name": "Aquaphobia",
@@ -3113,19 +3098,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/1da10cf24efd2c2d012af4deabf0b7e1ad6322fd.jpg"
                 },
                 {
-                    "name": "A-Maze-Ing I",
-                    "description": "Beat Level 30 of the Dank Dungeon with 2 shots remaining",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/09b1334e2be1838cdc8ab613d68c1373eb56d7d4.jpg"
-                },
-                {
                     "name": "Nothing But Net",
                     "description": "Don't let the ball bounce on level 5 of the Dank Dungeon",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/23f7d51472754ea4ed8af0929a64722397ae3ea2.jpg"
                 },
                 {
+                    "name": "A-Maze-Ing I",
+                    "description": "Beat Level 30 of the Dank Dungeon with 2 shots remaining",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/09b1334e2be1838cdc8ab613d68c1373eb56d7d4.jpg"
+                },
+                {
                     "name": "Quest Complete",
                     "description": "Complete all levels in the Arcane Lair",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/91bd672956fa9d945ac3ff49c542d2fff9a04f01.jpg"
+                },
+                {
+                    "name": "Fairy Long Time",
+                    "description": "Use only a single fairy in level 48 of the Forest Ruins",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/97d4c3644d077a7dea10e4a029481365c374d832.jpg"
                 },
                 {
                     "name": "Pac-Lunch",
@@ -3156,6 +3146,16 @@ var objectiveData =
                     "name": "Slime Climb",
                     "description": "Beat level 14 in the Dank Dungeon in 5 seconds",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/079ad3be5c29e7b339b9ed3dfafcd1ca20257079.jpg"
+                },
+                {
+                    "name": "Watered Down",
+                    "description": "Complete all levels in the Water Temple",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/b772f224f171cd518a8ee1f842524e9784de76c2.jpg"
+                },
+                {
+                    "name": "Splatful Dodger",
+                    "description": "Finish level 12 of the Dank Dungeon without touching a slime",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897800/e9c88f9ce40521047f2e0a3faecee89d2bc2ab31.jpg"
                 }
             ]
         }
@@ -3737,16 +3737,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Eclipsean Pacifist",
-                    "description": "No enemy ships destroyed in 'Target Locked'",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/21d91b1cd6a231de4752c606b39d34ec83ace228.jpg"
-                },
-                {
-                    "name": "Gaxtian Pacificst",
-                    "description": "No saws dislodged in 'Stomach II'",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/2317fbee745d6e8207bda281068cf87925f3d6b2.jpg"
-                },
-                {
                     "name": "Malicean Warlord",
                     "description": "Collect All Atomiks in World 3",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/0534265eb6117669c2c7aa271a945271d098e4b0.jpg"
@@ -3777,9 +3767,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/ae7bd46648f3c9b3a319f1417d50d77480e8d0e3.jpg"
                 },
                 {
+                    "name": "Eclipsean Pacifist",
+                    "description": "No enemy ships destroyed in 'Target Locked'",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/21d91b1cd6a231de4752c606b39d34ec83ace228.jpg"
+                },
+                {
                     "name": "Ruler of Extax",
                     "description": "Collect all Atomiks",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/98d96f66411161ccd5388261738c7872ec3798f0.jpg"
+                },
+                {
+                    "name": "Gaxtian Pacificst",
+                    "description": "No saws dislodged in 'Stomach II'",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440550/2317fbee745d6e8207bda281068cf87925f3d6b2.jpg"
                 }
             ]
         }
@@ -4058,11 +4058,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "SynthRock Medium big score",
-                    "description": "Scored 100.000 points in SynthRock MEDIUM endless mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/286660/af115dd91f22192bf955faecaad2ff1454627762.jpg"
-                },
-                {
                     "name": "SynthRock Extreme big score",
                     "description": "Scored 100.000 points in SynthRock EXTREME endless mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/286660/ef40321befe1c1a50a2c6681412a570cd7ac527a.jpg"
@@ -4136,6 +4131,11 @@ var objectiveData =
                     "name": "Electronic Extreme big score",
                     "description": "Scored 100.000 points in Electronic EXTREME endless mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/286660/82bd0c1c295fb14903de2c0e1a80d22030dfedd3.jpg"
+                },
+                {
+                    "name": "SynthRock Medium big score",
+                    "description": "Scored 100.000 points in SynthRock MEDIUM endless mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/286660/af115dd91f22192bf955faecaad2ff1454627762.jpg"
                 }
             ]
         }
@@ -4470,11 +4470,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Most Responsible Person",
-                    "description": "Rescued the child of a very responsible parent.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1281040/f20c5809041027e162d2b8e3ac54cd110c5d5f8f.jpg"
-                },
-                {
                     "name": "Most Careful Person",
                     "description": "Returned the most careful person's vase without breaking it.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1281040/ecf208112f80ea7072dd1486ac4e22f33eb3cab6.jpg"
@@ -4483,6 +4478,11 @@ var objectiveData =
                     "name": "Coolest Hand",
                     "description": "Brought an ice cream to a very hot person.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1281040/fd5deeb9958c3a849935faaf83a917c1cdb95a08.jpg"
+                },
+                {
+                    "name": "Most Responsible Person",
+                    "description": "Rescued the child of a very responsible parent.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1281040/f20c5809041027e162d2b8e3ac54cd110c5d5f8f.jpg"
                 },
                 {
                     "name": "Most Economical",
@@ -5148,16 +5148,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Campaign Kitty",
-                    "description": "Obtain all 108 medals on the original Arkham City campaigns (as Catwoman)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/9a18e2011d12c04783731fbef492fe922ab62a88.jpg"
-                },
-                {
-                    "name": "Campaign Gold",
-                    "description": "Obtain all 108 medals on the original Arkham City campaigns (as Batman)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/864fc6fcab4381b9a4bf04a0233f411c2f354f38.jpg"
-                },
-                {
                     "name": "Campaign Wonder",
                     "description": "Obtain 114 medals on the original Arkham City and Robin Bundle Pack campaigns (as Robin)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/ff39bc0f05d5d844bb47e354c7f94b3be69be9f1.jpg"
@@ -5166,6 +5156,16 @@ var objectiveData =
                     "name": "Campaign Nightwing",
                     "description": "Obtain 114 medals on the original Arkham City and Nightwing Bundle Pack campaigns (as Nightwing)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/e1a84fd945ea0eacd79615ec9fe45da6c5ce2fe8.jpg"
+                },
+                {
+                    "name": "Campaign Kitty",
+                    "description": "Obtain all 108 medals on the original Arkham City campaigns (as Catwoman)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/9a18e2011d12c04783731fbef492fe922ab62a88.jpg"
+                },
+                {
+                    "name": "Campaign Gold",
+                    "description": "Obtain all 108 medals on the original Arkham City campaigns (as Batman)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200260/864fc6fcab4381b9a4bf04a0233f411c2f354f38.jpg"
                 }
             ],
             "custom": "Video/clip showing Joker's Carnival challenge completed on all characters."
@@ -5181,21 +5181,6 @@ var objectiveData =
         "points": 20,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Requiem for a Killer",
-                    "description": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/8893b49744eda39eb0b3a5b7fdbaeb785d95091e.jpg"
-                },
-                {
-                    "name": "Silent Night, Deadly Night",
-                    "description": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/b7980ca44033057a5912c77f6e322e0910ebd631.jpg"
-                },
-                {
-                    "name": "Secrets of the Batcave",
-                    "description": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/239b29f6554f8b7d581211f6f102d60f7480ff4d.jpg"
-                },
                 {
                     "name": "Eternal",
                     "description": "Complete the Endless Knight AR Challenge, taking out 50 Enemies as Batman.",
@@ -5215,6 +5200,21 @@ var objectiveData =
                     "name": "What the Butler Saw",
                     "description": "Complete the Wayne Manor AR Challenge as Batman without using any gadgets or taking any damage.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/4eca3f73a9a7c677ebb61710f0fb8810a9e4de3d.jpg"
+                },
+                {
+                    "name": "Requiem for a Killer",
+                    "description": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/8893b49744eda39eb0b3a5b7fdbaeb785d95091e.jpg"
+                },
+                {
+                    "name": "Silent Night, Deadly Night",
+                    "description": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/b7980ca44033057a5912c77f6e322e0910ebd631.jpg"
+                },
+                {
+                    "name": "Secrets of the Batcave",
+                    "description": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/239b29f6554f8b7d581211f6f102d60f7480ff4d.jpg"
                 }
             ],
             "custom": "Screenshot of challenge menu showing 243/243 at the top right."
@@ -5310,6 +5310,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "GUARDIAN",
+                    "description": "ACHIEVE AN 'S' RANK ON AREA 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/135c493f11c2bd7b2aea3343eb685c86b4fb7a66.jpg"
+                },
+                {
+                    "name": "PALADIN",
+                    "description": "ACHIEVE AN 'S' RANK ON AREA 4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/a58304d844d5f7f8ba1d73a9034a371d05b24720.jpg"
+                },
+                {
                     "name": "GALLANT",
                     "description": "ACHIEVE AN 'S' RANK ON AREA 1",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/d58ab2de04759421e15a9f08807d44c0473babe9.jpg"
@@ -5323,16 +5333,6 @@ var objectiveData =
                     "name": "WARDER",
                     "description": "ACHIEVE AN 'S' RANK ON AREA 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/8a06410995d89b00764866e7ba2d535f8eec8aae.jpg"
-                },
-                {
-                    "name": "GUARDIAN",
-                    "description": "ACHIEVE AN 'S' RANK ON AREA 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/135c493f11c2bd7b2aea3343eb685c86b4fb7a66.jpg"
-                },
-                {
-                    "name": "PALADIN",
-                    "description": "ACHIEVE AN 'S' RANK ON AREA 4",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167300/a58304d844d5f7f8ba1d73a9034a371d05b24720.jpg"
                 }
             ]
         }
@@ -5381,14 +5381,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Butter My Biscuits!",
-                    "description": "Beat the game without losing a match",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/452570/8586c149885e741bc426a37ab285a9afa2696498.jpg"
-                },
-                {
                     "name": "Heroine of Victusia",
                     "description": "Complete Story Mode on Hard",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/452570/c4d1028ce9cd1e0680864d54bad6097df8916dfa.jpg"
+                },
+                {
+                    "name": "Butter My Biscuits!",
+                    "description": "Beat the game without losing a match",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/452570/8586c149885e741bc426a37ab285a9afa2696498.jpg"
                 }
             ]
         }
@@ -5494,11 +5494,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Anger Management",
-                    "description": "Defeat every enraged boss",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1072640/f4730911737468400f8798c1ef2ac2fde252f397.jpg"
-                },
-                {
                     "name": "Unstoppable",
                     "description": "Clear all four levels without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1072640/11f1d7bf63d40e753f4d97eb28eb50a4aa936434.jpg"
@@ -5507,6 +5502,11 @@ var objectiveData =
                     "name": "Challenger",
                     "description": "Defeat the Seed with a difficulty rating of 1.0 or higher",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1072640/9b78ed7c07321ed7524eb5696ef66aecd337f002.jpg"
+                },
+                {
+                    "name": "Anger Management",
+                    "description": "Defeat every enraged boss",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1072640/f4730911737468400f8798c1ef2ac2fde252f397.jpg"
                 }
             ]
         }
@@ -5708,16 +5708,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gator Border",
-                    "description": "Unlock the Gator Border",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/f16fa9a4c686256d349e6eeaecfd938aafb6f3d4.jpg"
-                },
-                {
-                    "name": "Nerd Border",
-                    "description": "Unlock the Nerd Border",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/5d92ea9005a5d8a3447c4eef79d1a9294d181547.jpg"
-                },
-                {
                     "name": "XRAY Border",
                     "description": "Unlock the XRAY Border",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/4d0321c7e0ffc28420222d2f039ff258b2d2b5a8.jpg"
@@ -5726,6 +5716,16 @@ var objectiveData =
                     "name": "Crushed Border",
                     "description": "Unlock the Crushed Border",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/d6c29412b0374d9ddb8c6b2badd2957c2b6219ce.jpg"
+                },
+                {
+                    "name": "Gator Border",
+                    "description": "Unlock the Gator Border",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/f16fa9a4c686256d349e6eeaecfd938aafb6f3d4.jpg"
+                },
+                {
+                    "name": "Nerd Border",
+                    "description": "Unlock the Nerd Border",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/5d92ea9005a5d8a3447c4eef79d1a9294d181547.jpg"
                 }
             ]
         }
@@ -5740,6 +5740,21 @@ var objectiveData =
         "points": 5,
         "requirements": {
             "achievements": [
+                {
+                    "name": "CRT Border",
+                    "description": "Unlock the CRT Border",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/f4b2f82e254d681dee55636742ad68be8ad4a076.jpg"
+                },
+                {
+                    "name": "John's World Border",
+                    "description": "Unlock the John's World Border",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/8af5885b718f5a6e5c3c9fb180f4f0e5a57f9f29.jpg"
+                },
+                {
+                    "name": "The End of the Hour",
+                    "description": "Beat Happy Hour",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/b53e48b53d23aeb33b00aa13c0684f0e0349f2b6.jpg"
+                },
                 {
                     "name": "Spiral Border",
                     "description": "Unlock the Spiral Border",
@@ -5759,21 +5774,6 @@ var objectiveData =
                     "name": "Eternal Sobriety",
                     "description": "Beat Wasted",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/080cae77eb849117542ddcbb31bce2d342f55d51.jpg"
-                },
-                {
-                    "name": "The End of the Hour",
-                    "description": "Beat Happy Hour",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/b53e48b53d23aeb33b00aa13c0684f0e0349f2b6.jpg"
-                },
-                {
-                    "name": "CRT Border",
-                    "description": "Unlock the CRT Border",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/f4b2f82e254d681dee55636742ad68be8ad4a076.jpg"
-                },
-                {
-                    "name": "John's World Border",
-                    "description": "Unlock the John's World Border",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3912370/8af5885b718f5a6e5c3c9fb180f4f0e5a57f9f29.jpg"
                 }
             ]
         }
@@ -5788,6 +5788,11 @@ var objectiveData =
         "points": 15,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Ice Breaker: Platinum",
+                    "description": "Get a 15x column combo in Ice Storm Mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/78000/b2f845f60e64481ca59b4e6f7c6e4f41a51bce8f.jpg"
+                },
                 {
                     "name": "Diamond, Mine: Platinum",
                     "description": "Score 750,000 points in Diamond Mine Mode",
@@ -5822,11 +5827,6 @@ var objectiveData =
                     "name": "Butterfly Monarch: Platinum",
                     "description": "Score 750,000 points in Butterflies Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/78000/eb5768c2c7990cf455cb93fa01918d9dfb0b3167.jpg"
-                },
-                {
-                    "name": "Ice Breaker: Platinum",
-                    "description": "Get a 15x column combo in Ice Storm Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/78000/b2f845f60e64481ca59b4e6f7c6e4f41a51bce8f.jpg"
                 }
             ]
         }
@@ -5972,6 +5972,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Explorer",
+                    "description": "Beat a run having visited every room on the map",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/7ad8a20969617919253bb4e91d67be777d351d4d.jpg"
+                },
+                {
+                    "name": "Underpowered",
+                    "description": "Beat a run without using your Superpower",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/f722e9d121206e6866d7ea6148f974cf6048958e.jpg"
+                },
+                {
                     "name": "Resourceful",
                     "description": "Beat a run using your main bullets weapon 100 times or less",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/c103731ef7b56e814dae97acc29c7e28c87c963e.jpg"
@@ -5987,19 +5997,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/c191e2542f64679d152c3c24e7de63dac3ea0a94.jpg"
                 },
                 {
-                    "name": "Explorer",
-                    "description": "Beat a run having visited every room on the map",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/7ad8a20969617919253bb4e91d67be777d351d4d.jpg"
-                },
-                {
                     "name": "Random hero",
                     "description": "Beat a run in the mushroom hat",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/322658ed32ec953ff4d3895c4fcdd149dd295111.jpg"
-                },
-                {
-                    "name": "Underpowered",
-                    "description": "Beat a run without using your Superpower",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1730080/f722e9d121206e6866d7ea6148f974cf6048958e.jpg"
                 },
                 {
                     "name": "One heart hero",
@@ -6213,11 +6213,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "FLAWLESS.DISCOVERY",
-                    "description": "Get a PERFECT score in Discovery",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205060/47407380ae95b304b20e1933fcb146bdd864e1b1.jpg"
-                },
-                {
                     "name": "FLAWLESS.EXPLORATION",
                     "description": "Get a PERFECT score in Exploration",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205060/2e9ac2ad9325565e2333be806efff8e2b93e22b2.jpg"
@@ -6226,6 +6221,11 @@ var objectiveData =
                     "name": "FLAWLESS.CONTROL",
                     "description": "Get a PERFECT score in Control",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205060/c2b7070464a990694ee50acc0cea797f7ad575fa.jpg"
+                },
+                {
+                    "name": "FLAWLESS.DISCOVERY",
+                    "description": "Get a PERFECT score in Discovery",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205060/47407380ae95b304b20e1933fcb146bdd864e1b1.jpg"
                 }
             ]
         }
@@ -6241,21 +6241,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "FLAWLESS.FRUSTRATION",
-                    "description": "Get a PERFECT score in Frustration",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/1a7893c948afa825605a0d336220c25574958f28.jpg"
-                },
-                {
-                    "name": "FLAWLESS.ANGER",
-                    "description": "Get a PERFECT score in Anger",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/9a42146babf1cb517132db808f5cac24a12c7657.jpg"
-                },
-                {
-                    "name": "FLAWLESS.DESPERATION",
-                    "description": "Get a PERFECT score in Desperation",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/2af2aa5caca4ab1443dde2a641057bbb2d96d869.jpg"
-                },
-                {
                     "name": "FLAWLESS.DETERMINATION",
                     "description": "Get a PERFECT score in Determination",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/de0ec316ceb0b4818f9d6de96edaf9599953532d.jpg"
@@ -6269,6 +6254,21 @@ var objectiveData =
                     "name": "FLAWLESS.FALL",
                     "description": "Get a PERFECT score in Fall",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/21a5870a7069ecd11ab026e51a6f05eb71ba0d21.jpg"
+                },
+                {
+                    "name": "FLAWLESS.FRUSTRATION",
+                    "description": "Get a PERFECT score in Frustration",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/1a7893c948afa825605a0d336220c25574958f28.jpg"
+                },
+                {
+                    "name": "FLAWLESS.ANGER",
+                    "description": "Get a PERFECT score in Anger",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/9a42146babf1cb517132db808f5cac24a12c7657.jpg"
+                },
+                {
+                    "name": "FLAWLESS.DESPERATION",
+                    "description": "Get a PERFECT score in Desperation",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205080/2af2aa5caca4ab1443dde2a641057bbb2d96d869.jpg"
                 }
             ]
         }
@@ -6284,14 +6284,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "RUNNING.HARDER",
-                    "description": "Complete all bonus challenges with obstacle density set to high and stair assist off",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2222540/fe20af95dab38dba42f447b63091c26a5ca029ef.jpg"
-                },
-                {
                     "name": "RUNNING.HARD",
                     "description": "Complete all BIT.TRIP RERUNNER challenges with obstacle density set to high and stair assist off",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2222540/dca05e2dc86b52dc867e7c0344804706f255d2ca.jpg"
+                },
+                {
+                    "name": "RUNNING.HARDER",
+                    "description": "Complete all bonus challenges with obstacle density set to high and stair assist off",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2222540/fe20af95dab38dba42f447b63091c26a5ca029ef.jpg"
                 }
             ]
         }
@@ -6361,14 +6361,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Maestro",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929290/221e7804e7f15852364b7e8e7fd1501c1dbd3487.jpg"
-                },
-                {
                     "name": "Purely Perfect",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929290/9c81d19a23c8d6892bd957dcc310fd75940ce01b.jpg"
+                },
+                {
+                    "name": "Maestro",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1929290/221e7804e7f15852364b7e8e7fd1501c1dbd3487.jpg"
                 }
             ]
         }
@@ -6384,11 +6384,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Wish All Were Gone",
-                    "description": "Get 17 million score points in True Mode and watch this Bad Ending.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/857500/0f0a74ad3618a2312715060364bcb5b5e7d0cfd1.jpg"
-                },
-                {
                     "name": "Fully Fed Bird",
                     "description": "Get 7.5 million score points by using 1 bomb.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/857500/c72479e26320df087596b30b71d87c6bf66841e2.jpg"
@@ -6402,6 +6397,11 @@ var objectiveData =
                     "name": "Stage 1 Conqueror",
                     "description": "Get 5 million score points in stage 1.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/857500/d1782dfc25454c15568171748290cb4bdf3fa862.jpg"
+                },
+                {
+                    "name": "Wish All Were Gone",
+                    "description": "Get 17 million score points in True Mode and watch this Bad Ending.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/857500/0f0a74ad3618a2312715060364bcb5b5e7d0cfd1.jpg"
                 }
             ]
         }
@@ -6435,19 +6435,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Where You Step, It Is a Disaster",
-                    "description": "Finish the Crazy Avalanche without any restarts or deaths.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/eefa6f8de8625167cbb30cd1070c272fa2e6ee8c.jpg"
-                },
-                {
-                    "name": "Coffee Time Speedclimber",
-                    "description": "Collect Coffee Time mark in all Up & Down levels.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/48e5024c3e10c6ea46de87bae2a1fd895dc2e8f7.jpg"
-                },
-                {
-                    "name": "Coffee Time Secret A+",
-                    "description": "Collect Coffee Time mark in all Secret of the Entity levels.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/e4715da11a295731966a72358ed7b2252a203990.jpg"
+                    "name": "Coffee Time Speedjungler",
+                    "description": "Collect Coffee Time mark in all No-man's Land levels.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/38e83658179a60bbd8a1ef9c40330d695f9cbc43.jpg"
                 },
                 {
                     "name": "Coffee Time Speedscout",
@@ -6465,14 +6455,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/973e9259aa4c36ee4e0eda09f89693b080f1f770.jpg"
                 },
                 {
-                    "name": "Coffee Time Speedjungler",
-                    "description": "Collect Coffee Time mark in all No-man's Land levels.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/38e83658179a60bbd8a1ef9c40330d695f9cbc43.jpg"
-                },
-                {
                     "name": "Coffee Time Speedrunner",
                     "description": "Collect Coffee Time mark in all Crashsite levels.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/f921151161cb6b80e6f7b986bb71c7c139331e66.jpg"
+                },
+                {
+                    "name": "Where You Step, It Is a Disaster",
+                    "description": "Finish the Crazy Avalanche without any restarts or deaths.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/eefa6f8de8625167cbb30cd1070c272fa2e6ee8c.jpg"
+                },
+                {
+                    "name": "Coffee Time Speedclimber",
+                    "description": "Collect Coffee Time mark in all Up & Down levels.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/48e5024c3e10c6ea46de87bae2a1fd895dc2e8f7.jpg"
+                },
+                {
+                    "name": "Coffee Time Secret A+",
+                    "description": "Collect Coffee Time mark in all Secret of the Entity levels.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322680/e4715da11a295731966a72358ed7b2252a203990.jpg"
                 }
             ]
         }
@@ -6506,11 +6506,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speed Attack",
-                    "description": "Clear the game in 2 hours.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/927250/69487e7049dba61d081ac6f41f2f160ddfcf661e.jpg"
-                },
-                {
                     "name": "Unparalleled",
                     "description": "Complete Challenge Mode in 10 minutes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/927250/f99fc8fbeb07d18b5e47c5a530f0aac0af5cb901.jpg"
@@ -6519,6 +6514,11 @@ var objectiveData =
                     "name": "Invincible",
                     "description": "Complete the game on Hard difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/927250/da6d348b75ec3edc375fa5c7f4d32639a2ef7b58.jpg"
+                },
+                {
+                    "name": "Speed Attack",
+                    "description": "Clear the game in 2 hours.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/927250/69487e7049dba61d081ac6f41f2f160ddfcf661e.jpg"
                 }
             ]
         }
@@ -6552,14 +6552,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "1cc",
-                    "description": "Completed Standard mode without restarting.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1225370/3061cd0667cf9d288fe5774f95bf910f0e89e360.jpg"
-                },
-                {
                     "name": "Endurance Emperor",
                     "description": "Completed 200 or more waves in Endurance mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1225370/8f2278f34b531bef37f32f6f1d3230f897e8afc4.jpg"
+                },
+                {
+                    "name": "1cc",
+                    "description": "Completed Standard mode without restarting.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1225370/3061cd0667cf9d288fe5774f95bf910f0e89e360.jpg"
                 }
             ]
         }
@@ -6648,14 +6648,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Frame Advantage",
-                    "description": "[Challenge] Completed 100% of one character's challenges.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/388750/893f8af620c46be582238a6949a0405886939840.jpg"
-                },
-                {
                     "name": "Bread and Butter",
                     "description": "[Challenge] Completed 50% of all challenges.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/388750/1cdb68f84fbaa1095721966aad576f345e1a7d7f.jpg"
+                },
+                {
+                    "name": "Frame Advantage",
+                    "description": "[Challenge] Completed 100% of one character's challenges.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/388750/893f8af620c46be582238a6949a0405886939840.jpg"
                 }
             ]
         }
@@ -6671,11 +6671,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "SHMUP Lord",
-                    "description": "Beat the final level and boss without losing a life, and with no power ups, on any difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1757440/e978ca7a2ddb12125ad0e8bbe82f054d5fd1b340.jpg"
-                },
-                {
                     "name": "Savagery",
                     "description": "Complete a full playthrough on hard difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1757440/5401ac87f269f1c6c19cde4b977249307853838d.jpg"
@@ -6684,6 +6679,11 @@ var objectiveData =
                     "name": "1CC ",
                     "description": "Complete a full playthrough on one credit.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1757440/7d576437a676fe5248867810ec411aa0371be939.jpg"
+                },
+                {
+                    "name": "SHMUP Lord",
+                    "description": "Beat the final level and boss without losing a life, and with no power ups, on any difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1757440/e978ca7a2ddb12125ad0e8bbe82f054d5fd1b340.jpg"
                 }
             ]
         }
@@ -6711,6 +6711,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "The Right Way Is the Hard Way",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/585710/1fda7388698744cbe61145c44c5d8e0ac6523817.jpg"
+                },
+                {
                     "name": "Loop the Loop",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/585710/8f46448cb74b3ddc30ee719a1b60027fcb74238e.jpg"
@@ -6719,11 +6724,6 @@ var objectiveData =
                     "name": "Hard Shell",
                     "description": "Complete the game with the Egg",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/585710/04976253d3c19ff185524d77753b99952dfde0d8.jpg"
-                },
-                {
-                    "name": "The Right Way Is the Hard Way",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/585710/1fda7388698744cbe61145c44c5d8e0ac6523817.jpg"
                 }
             ]
         }
@@ -6751,11 +6751,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speedrunner",
-                    "description": "Complete the game in less than 40 minutes in normal or hardcore mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/609110/825bba90ccc4b83d91928a90b8bcb39ab7681b2b.jpg"
-                },
-                {
                     "name": "Colonel",
                     "description": "Complete the game in HARDCORE mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/609110/f7e1d25b50e6a0765b44ca1ac671f182c0397268.jpg"
@@ -6764,6 +6759,11 @@ var objectiveData =
                     "name": "Mech Rider III",
                     "description": "Complete Mission V with the orange mech.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/609110/8333bfbde6ab0066621a6a31e247445771b39f6b.jpg"
+                },
+                {
+                    "name": "Speedrunner",
+                    "description": "Complete the game in less than 40 minutes in normal or hardcore mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/609110/825bba90ccc4b83d91928a90b8bcb39ab7681b2b.jpg"
                 }
             ]
         }
@@ -6875,13 +6875,13 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No-Hit Perfectionist",
-                    "description": "Complete the game in one session without getting hit even once.",
+                    "name": "Points Club, Platinum Member",
+                    "description": "Get 1,000 points.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300600/44290a6a03465debfa7c957deb6915096c2c5f87.jpg"
                 },
                 {
-                    "name": "Points Club, Platinum Member",
-                    "description": "Get 1,000 points.",
+                    "name": "No-Hit Perfectionist",
+                    "description": "Complete the game in one session without getting hit even once.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300600/44290a6a03465debfa7c957deb6915096c2c5f87.jpg"
                 }
             ]
@@ -6898,21 +6898,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "TENACITY",
-                    "description": "You beat Gauntlet X. I...uhh...wow. That's a hard level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/6315b2a6a050cc4043f58c56368e059330567035.jpg"
-                },
-                {
-                    "name": "SCORE CENA",
-                    "description": "You scored 35,000 points in story mode, and have become the score CHAMPION!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/6fcc4a6494c689b2670a5c143d8ec5205d124aa1.jpg"
-                },
-                {
-                    "name": "SPEEDSTER AWARD",
-                    "description": "You beat arcade mode, and did it in less than 2100 seconds. That is reeeeeeeeeeeeally fast.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/99f18f9147fc9c12fb16dbcc9996827e7579c851.jpg"
-                },
-                {
                     "name": "THE STOCKPILE AWARD",
                     "description": "You beat arcade mode, and managed to rack up 40 lives. Wow jeez that's awesome!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/74d4f05667a69197282ccb2804e47374fe42d57b.jpg"
@@ -6926,6 +6911,21 @@ var objectiveData =
                     "name": "GREEN STAR?",
                     "description": "You've collected 101 stars in story mode. That's it, you should have gotten all the things by now. You know I think you may even be better at this game than the guy who made it.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/00ea9fdc59c6ce16b105f6428514687b5c9024fd.jpg"
+                },
+                {
+                    "name": "SPEEDSTER AWARD",
+                    "description": "You beat arcade mode, and did it in less than 2100 seconds. That is reeeeeeeeeeeeally fast.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/99f18f9147fc9c12fb16dbcc9996827e7579c851.jpg"
+                },
+                {
+                    "name": "TENACITY",
+                    "description": "You beat Gauntlet X. I...uhh...wow. That's a hard level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/6315b2a6a050cc4043f58c56368e059330567035.jpg"
+                },
+                {
+                    "name": "SCORE CENA",
+                    "description": "You scored 35,000 points in story mode, and have become the score CHAMPION!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416110/6fcc4a6494c689b2670a5c143d8ec5205d124aa1.jpg"
                 }
             ]
         }
@@ -6953,14 +6953,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "I am invincible !",
-                    "description": "Finish the advanced speedrun without retry",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2382410/74adc5a8cee360c928b55215ea9788584a7f1c7a.jpg"
-                },
-                {
                     "name": "That's it, I am faster than the dev, at least on the classics levels",
                     "description": "Finish the classic speedrun in less than 12 minutes 55 ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2382410/399b1bddc4e6e7fadb8ca3d3fefd8edb35b9fd03.jpg"
+                },
+                {
+                    "name": "I am invincible !",
+                    "description": "Finish the advanced speedrun without retry",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2382410/74adc5a8cee360c928b55215ea9788584a7f1c7a.jpg"
                 }
             ],
             "custom": "Screenshot of advanced speedrun leaderboard. (Related achievement is reported as broken)"
@@ -7025,21 +7025,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "C-C-Combo Maker!",
-                    "description": "Finish any level in one continuous Combo",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/c89d76acf70d3c361ff16cb0ba9b4266b2326552.jpg"
-                },
-                {
-                    "name": "The Politeness of Kings",
-                    "description": "Get Perfect Timing on half the kills of a level",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/7f5353d294f6213cc87590b6239ba6b34581be81.jpg"
-                },
-                {
-                    "name": "Haberdash-em-up",
-                    "description": "Unlock all hats",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/cff3b4826e6dd4af216d1b1cae7fcaf1e49660f2.jpg"
-                },
-                {
                     "name": "Hold Me Closer, Bullet Dancer",
                     "description": "Get a perfect score for Mobility in any level",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/aa78d61811542d60e79407d6e857ff657adcc447.jpg"
@@ -7053,6 +7038,21 @@ var objectiveData =
                     "name": "Meep Meep",
                     "description": "Finish any level in Act 2 in under 3.5 minutes",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/6cc664745a15dd49f06a4daa2ba35458bf87ffd7.jpg"
+                },
+                {
+                    "name": "C-C-Combo Maker!",
+                    "description": "Finish any level in one continuous Combo",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/c89d76acf70d3c361ff16cb0ba9b4266b2326552.jpg"
+                },
+                {
+                    "name": "The Politeness of Kings",
+                    "description": "Get Perfect Timing on half the kills of a level",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/7f5353d294f6213cc87590b6239ba6b34581be81.jpg"
+                },
+                {
+                    "name": "Haberdash-em-up",
+                    "description": "Unlock all hats",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/820540/cff3b4826e6dd4af216d1b1cae7fcaf1e49660f2.jpg"
                 }
             ]
         }
@@ -7080,14 +7080,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Big Game Hunting!",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838310/7585d349ee869d3840ef973c617acebdb02d57f9.jpg"
-                },
-                {
                     "name": "Fallen Moon's Requiem",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838310/e0701ed70db21bfb6187537d991d7a67ab0b5927.jpg"
+                },
+                {
+                    "name": "Big Game Hunting!",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838310/7585d349ee869d3840ef973c617acebdb02d57f9.jpg"
                 }
             ]
         }
@@ -7170,11 +7170,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "PARALLEL Clear!",
-                    "description": "Clear the game on Parallel mode. Thank you. [No free play]",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/a4f2b57218a226e19e67a1e65def8e93da856050.jpg"
-                },
-                {
                     "name": "Nothing I Could Do",
                     "description": "Clear the true last boss without bombing or dying.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/e534e9515dc62a0bfa03bea95bf9dfc1140bee24.jpg"
@@ -7183,6 +7178,11 @@ var objectiveData =
                     "name": "The Summit",
                     "description": "Score over 125 million points in a single run. We salute you!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/8a3d45b229165fad21640792abbb9801676f88ea.jpg"
+                },
+                {
+                    "name": "PARALLEL Clear!",
+                    "description": "Clear the game on Parallel mode. Thank you. [No free play]",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/a4f2b57218a226e19e67a1e65def8e93da856050.jpg"
                 }
             ]
         }
@@ -7228,6 +7228,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "HYPER Clear!",
+                    "description": "Clear the game on Hyper mode or higher. [No free play]",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/e69e0c9c687732b3189705c40c9c806c19f61af9.jpg"
+                },
+                {
                     "name": "Student",
                     "description": "Get a 50% completion rate in Missions mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/0282ce417c8e7a02e87a9166ee4674117864d39f.jpg"
@@ -7236,11 +7241,6 @@ var objectiveData =
                     "name": "The Struggle",
                     "description": "Score over 60 million points in a single run.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/3629ef030571094df3c84fe24ffb57515a16e600.jpg"
-                },
-                {
-                    "name": "HYPER Clear!",
-                    "description": "Clear the game on Hyper mode or higher. [No free play]",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/439490/e69e0c9c687732b3189705c40c9c806c19f61af9.jpg"
                 }
             ]
         }
@@ -7299,6 +7299,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "The Polar Bob",
+                    "description": "Complete All Hard Arctic Stages From Start to Finish Without Dying or Restarting",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/473e974d467c5e33423e213b1f84e50e7d2e9c08.jpg"
+                },
+                {
+                    "name": "The Lumberjack",
+                    "description": "Complete All Hard Plateau Stages From Start to Finish Without Dying or Restarting",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/fb24fbc50debc49a31ef28975a0f7cc63137c8cb.jpg"
+                },
+                {
                     "name": "The Pirate",
                     "description": "Complete All Hard Ocean Isles Stages From Start to Finish Without Dying or Restarting",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/8dadb79a2bdc7edfe8ef529402188993a69d62d5.jpg"
@@ -7312,16 +7322,6 @@ var objectiveData =
                     "name": "The Astronaut",
                     "description": "Complete All Hard Space Stages From Start to Finish Without Dying or Restarting",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/9897fea81614cb62cc23033beb2bcc340114b77b.jpg"
-                },
-                {
-                    "name": "The Polar Bob",
-                    "description": "Complete All Hard Arctic Stages From Start to Finish Without Dying or Restarting",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/473e974d467c5e33423e213b1f84e50e7d2e9c08.jpg"
-                },
-                {
-                    "name": "The Lumberjack",
-                    "description": "Complete All Hard Plateau Stages From Start to Finish Without Dying or Restarting",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/fb24fbc50debc49a31ef28975a0f7cc63137c8cb.jpg"
                 }
             ],
             "custom": "Video(s) of each chapter. Quit to menu is disallowed."
@@ -7338,11 +7338,6 @@ var objectiveData =
         "pointsPartial": 10,
         "requirements": {
             "achievements": [
-                {
-                    "name": "The Hiker",
-                    "description": "Complete All Normal Plateau Stages From Start to Finish Without Dying or Restarting",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/232710aa69960c04324dfb66856ae83813a698e0.jpg"
-                },
                 {
                     "name": "The Cave Dweller",
                     "description": "Complete All Normal Cave Stages From Start to Finish Without Dying or Restarting",
@@ -7362,6 +7357,11 @@ var objectiveData =
                     "name": "The Astronomer",
                     "description": "Complete All Normal Space Stages From Start to Finish Without Dying or Restarting",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/8fa5ea9f4ec37d750b8b4e69b55462637bf23e39.jpg"
+                },
+                {
+                    "name": "The Hiker",
+                    "description": "Complete All Normal Plateau Stages From Start to Finish Without Dying or Restarting",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343560/232710aa69960c04324dfb66856ae83813a698e0.jpg"
                 }
             ],
             "custom": "Video(s) of at least Ocean and Space.\n"
@@ -7476,11 +7476,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Graceful",
-                    "description": "Finish the 1st world without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658780/cede54696f0fea5d0b7a14c56175752545478aa4.jpg"
-                },
-                {
                     "name": "Unstoppable",
                     "description": "Beat the boss in under 2 minutes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658780/1aeb7668b8062ce2baa9e0c7b63235b71f46caec.jpg"
@@ -7494,6 +7489,11 @@ var objectiveData =
                     "name": "Gem Hunter",
                     "description": "Collect every gem.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658780/32110e4219902dcf290aaf95e031e9fb05960ca9.jpg"
+                },
+                {
+                    "name": "Graceful",
+                    "description": "Finish the 1st world without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658780/cede54696f0fea5d0b7a14c56175752545478aa4.jpg"
                 }
             ]
         }
@@ -7586,49 +7586,19 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Discover Anti Acceleron",
-                    "description": "Discover the Anti Acceleron particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/c4cd680f1afcf232bf2bf01d132f6380368e9635.jpg"
-                },
-                {
-                    "name": "Discover Anti Geon",
-                    "description": "Discover the Anti Geon particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/a58dd9c9698f0b0305d8720750edc1814f0a20d0.jpg"
-                },
-                {
-                    "name": "Discover Anti Y Boson",
-                    "description": "Discover the Anti Y Boson particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/b95612230ceed25ef2fefcf5370cdeac861dd6d1.jpg"
-                },
-                {
-                    "name": "Discover Acceleron",
-                    "description": "Discover the Acceleron particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/b1ae59fd3c4817530e5f7f5e071b8877aefd0a93.jpg"
-                },
-                {
-                    "name": "Discover Y Boson",
-                    "description": "Discover the Y Boson particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/1008fa186b2d7315f91aea3de7c212c55b76de35.jpg"
-                },
-                {
-                    "name": "Discover Radion",
-                    "description": "Discover the Radio particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/2147ae29494b5a44519808befb372cd927805874.jpg"
-                },
-                {
                     "name": "Discover Graviton",
                     "description": "Discover the Graviton particle",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/1354eeed466d7d940b1b21f21649c51b50b35ddd.jpg"
                 },
                 {
-                    "name": "Discover Dark Graviton",
-                    "description": "Discover the Dark Graviton particle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/61db6cc5e1e2c68003531d231eaee48db5db44b5.jpg"
-                },
-                {
                     "name": "Discover Dark Acceleron",
                     "description": "Discover the Dark Acceleron particle",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/2eea980d1272d04ea46f8bae36f606a8244713ff.jpg"
+                },
+                {
+                    "name": "Discover Dark Graviton",
+                    "description": "Discover the Dark Graviton particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/61db6cc5e1e2c68003531d231eaee48db5db44b5.jpg"
                 },
                 {
                     "name": "Discover Anti Graviton",
@@ -7674,6 +7644,36 @@ var objectiveData =
                     "name": "Discover Anti Radion",
                     "description": "Discover the Anti Radion particle",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/26732557d8890093a49d8f6d2ce09e4eb6f38af9.jpg"
+                },
+                {
+                    "name": "Discover Anti Geon",
+                    "description": "Discover the Anti Geon particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/a58dd9c9698f0b0305d8720750edc1814f0a20d0.jpg"
+                },
+                {
+                    "name": "Discover Anti Acceleron",
+                    "description": "Discover the Anti Acceleron particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/c4cd680f1afcf232bf2bf01d132f6380368e9635.jpg"
+                },
+                {
+                    "name": "Discover Anti Y Boson",
+                    "description": "Discover the Anti Y Boson particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/b95612230ceed25ef2fefcf5370cdeac861dd6d1.jpg"
+                },
+                {
+                    "name": "Discover Acceleron",
+                    "description": "Discover the Acceleron particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/b1ae59fd3c4817530e5f7f5e071b8877aefd0a93.jpg"
+                },
+                {
+                    "name": "Discover Y Boson",
+                    "description": "Discover the Y Boson particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/1008fa186b2d7315f91aea3de7c212c55b76de35.jpg"
+                },
+                {
+                    "name": "Discover Radion",
+                    "description": "Discover the Radio particle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/302610/2147ae29494b5a44519808befb372cd927805874.jpg"
                 }
             ]
         }
@@ -7701,54 +7701,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Svyatogor completely defeated",
-                    "description": "Get all stars for the Svyatogor",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/56a4fad601f2de9f4fbf852f81d994f25a9e4449.jpg"
-                },
-                {
-                    "name": "Anhur completely defeated",
-                    "description": "Get all stars for the Anhur",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/cd4c16bcb3c1bea56c233510926839a829b8c52d.jpg"
-                },
-                {
-                    "name": "Anubis completely defeated",
-                    "description": "Get all stars for the Anubis",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/5721855574460ca315223d806f659527c2550e5a.jpg"
-                },
-                {
-                    "name": "Gullveig completely defeated",
-                    "description": "Get all stars for the Gullveig",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/4907c0b8f84f9f7404e007bf4520db35555140de.jpg"
-                },
-                {
-                    "name": "Three Bogatyrs completely defeated",
-                    "description": "Get all stars for the Three Bogatyrs",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c40ab0b5afa66dda3fac24f46b43541f1b448f9f.jpg"
-                },
-                {
-                    "name": "Garm completely defeated",
-                    "description": "Get all stars for the Garm",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c754334aa2af933cdd9bc3971aeaea7b2cbcab80.jpg"
-                },
-                {
-                    "name": "Skadi completely defeated",
-                    "description": "Get all stars for the Skadi",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/03a0bbc3a2bf6e1a189292d285fe3a312b8549f5.jpg"
-                },
-                {
-                    "name": "Hephaestus completely defeated",
-                    "description": "Get all stars for the Hephaestus",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c9e173c912562fa543c69b6006e8a8b090b03da8.jpg"
-                },
-                {
-                    "name": "Ammit completely defeated",
-                    "description": "Get all stars for the Ammit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/b2229494f9c10cf7763e53a7165d4f65971acc5f.jpg"
-                },
-                {
-                    "name": "Ra completely defeated",
-                    "description": "Get all stars for the Ra",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/7a0917c360aaef29b494e420d7ef5687a7651fe5.jpg"
+                    "name": "Thor completely defeated",
+                    "description": "Get all stars for the Thor",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/385f8f0834cc35d696f84b17f7bb04fd8f88e7fa.jpg"
                 },
                 {
                     "name": "Chernobog completely defeated",
@@ -7756,14 +7711,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/4fa52ccbe24f43cd609bdac578c93432d23e22de.jpg"
                 },
                 {
-                    "name": "Gryphon completely defeated",
-                    "description": "Get all stars for the Gryphon",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/e218e7f74dd4c7d19aa1dac481048275b2cc94ad.jpg"
-                },
-                {
-                    "name": "Hut on chicken legs completely defeated",
-                    "description": "Get all stars for the Hut on chicken legs",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/a14707b6297e30da9c182e5ca984ca37f201f998.jpg"
+                    "name": "Ra completely defeated",
+                    "description": "Get all stars for the Ra",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/7a0917c360aaef29b494e420d7ef5687a7651fe5.jpg"
                 },
                 {
                     "name": "Loki completely defeated",
@@ -7776,9 +7726,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/f01f6d37efa0b6c57a3086b23d3060cc5d3064e0.jpg"
                 },
                 {
+                    "name": "Svyatogor completely defeated",
+                    "description": "Get all stars for the Svyatogor",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/56a4fad601f2de9f4fbf852f81d994f25a9e4449.jpg"
+                },
+                {
+                    "name": "Neith completely defeated",
+                    "description": "Get all stars for the Neith",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/64e8ba7b33d32892f38b83479f9521ad0a871729.jpg"
+                },
+                {
                     "name": "Zeus completely defeated",
                     "description": "Get all stars for the Zeus",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/b4b9699d265ae7cc38bd9d5b396f1a07a033621d.jpg"
+                },
+                {
+                    "name": "Anubis completely defeated",
+                    "description": "Get all stars for the Anubis",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/5721855574460ca315223d806f659527c2550e5a.jpg"
                 },
                 {
                     "name": "Minotaur completely defeated",
@@ -7786,19 +7751,54 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/8667728f76b51061ad01f3844e3a58efe5f31ee1.jpg"
                 },
                 {
+                    "name": "Three Bogatyrs completely defeated",
+                    "description": "Get all stars for the Three Bogatyrs",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c40ab0b5afa66dda3fac24f46b43541f1b448f9f.jpg"
+                },
+                {
                     "name": "Valkyrie completely defeated",
                     "description": "Get all stars for the Valkyrie",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/17d71e0f1d0651116620c476bdd3231b422b9016.jpg"
                 },
                 {
-                    "name": "Thor completely defeated",
-                    "description": "Get all stars for the Thor",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/385f8f0834cc35d696f84b17f7bb04fd8f88e7fa.jpg"
+                    "name": "Ammit completely defeated",
+                    "description": "Get all stars for the Ammit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/b2229494f9c10cf7763e53a7165d4f65971acc5f.jpg"
                 },
                 {
-                    "name": "Neith completely defeated",
-                    "description": "Get all stars for the Neith",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/64e8ba7b33d32892f38b83479f9521ad0a871729.jpg"
+                    "name": "Hephaestus completely defeated",
+                    "description": "Get all stars for the Hephaestus",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c9e173c912562fa543c69b6006e8a8b090b03da8.jpg"
+                },
+                {
+                    "name": "Hut on chicken legs completely defeated",
+                    "description": "Get all stars for the Hut on chicken legs",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/a14707b6297e30da9c182e5ca984ca37f201f998.jpg"
+                },
+                {
+                    "name": "Gryphon completely defeated",
+                    "description": "Get all stars for the Gryphon",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/e218e7f74dd4c7d19aa1dac481048275b2cc94ad.jpg"
+                },
+                {
+                    "name": "Anhur completely defeated",
+                    "description": "Get all stars for the Anhur",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/cd4c16bcb3c1bea56c233510926839a829b8c52d.jpg"
+                },
+                {
+                    "name": "Gullveig completely defeated",
+                    "description": "Get all stars for the Gullveig",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/4907c0b8f84f9f7404e007bf4520db35555140de.jpg"
+                },
+                {
+                    "name": "Garm completely defeated",
+                    "description": "Get all stars for the Garm",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/c754334aa2af933cdd9bc3971aeaea7b2cbcab80.jpg"
+                },
+                {
+                    "name": "Skadi completely defeated",
+                    "description": "Get all stars for the Skadi",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237870/03a0bbc3a2bf6e1a189292d285fe3a312b8549f5.jpg"
                 }
             ],
             "custom": "Video(s) of each boss done without being hit."
@@ -7839,14 +7839,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Botfather",
-                    "description": "Beat the Extra Missions mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/491040/7dbc222135a76142828259ced5b4cad0531a45c7.jpg"
-                },
-                {
                     "name": "Queen of Hearts",
                     "description": "Beat all stages with 4 life hearts.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/491040/22e73ceac2085251bf9dd4cc3d47e285155738f3.jpg"
+                },
+                {
+                    "name": "The Botfather",
+                    "description": "Beat the Extra Missions mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/491040/7dbc222135a76142828259ced5b4cad0531a45c7.jpg"
                 }
             ]
         }
@@ -8138,11 +8138,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "I am a shadow",
-                    "description": "5 Stars in Special Stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1860710/b9be27f9596a44010da08cb2f883036cb9923077.jpg"
-                },
-                {
                     "name": "I can do this all day",
                     "description": "5 Stars in Special Stage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1860710/eed98af939ac101fb57d34cc9ac53222e3b06bc6.jpg"
@@ -8161,6 +8156,11 @@ var objectiveData =
                     "name": "Sword of Hayabusa",
                     "description": "5 Stars in Special Stage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1860710/b23eb48b7adfe23287637a60bc12308c0a0e407c.jpg"
+                },
+                {
+                    "name": "I am a shadow",
+                    "description": "5 Stars in Special Stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1860710/b9be27f9596a44010da08cb2f883036cb9923077.jpg"
                 }
             ],
             "custom": "Video of Ninja Madness."
@@ -8384,14 +8384,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/0ae6a44c218170b2d3a90757524bcdec290c52b2.jpg"
                 },
                 {
-                    "name": "Someone Else's Wedding Ring",
-                    "description": "Unlocked a new item.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/b7527d685de06c17b877de5fc90187417288c38d.jpg"
-                },
-                {
                     "name": "Left Shoe",
                     "description": "Unlocked a new item.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/ed9f86c593864667cc73c183e0e5326f75b4c8a7.jpg"
+                },
+                {
+                    "name": "Someone Else's Wedding Ring",
+                    "description": "Unlocked a new item.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/b7527d685de06c17b877de5fc90187417288c38d.jpg"
                 },
                 {
                     "name": "Wels Catfish",
@@ -8399,14 +8399,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/5a913e162b36ab04d08e75808bd76ab7694d3984.jpg"
                 },
                 {
-                    "name": "Sculptor's Tools",
-                    "description": "Unlocked a new item.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/3570b37edf029c7946024f0c3a3f47c754acc573.jpg"
-                },
-                {
                     "name": "Total and Absolute Mastery",
                     "description": "Beat Brutal Orchestra 5 times consecutively. This achievement rewards several items!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/f374728ff6b3e3116fbd7c5834bd214eaca1f0db.jpg"
+                },
+                {
+                    "name": "Sculptor's Tools",
+                    "description": "Unlocked a new item.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/3570b37edf029c7946024f0c3a3f47c754acc573.jpg"
                 }
             ]
         }
@@ -8421,11 +8421,6 @@ var objectiveData =
         "points": 20,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Emotional and Physical Annihilation",
-                    "description": "Watch SmoothSkin's trauma be his undoing.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/2ebc1767dde2435775a5199499633eeab87b828e.jpg"
-                },
                 {
                     "name": "Brutality!",
                     "description": "Complete a difficult encounter before any enemies can act.",
@@ -8445,6 +8440,11 @@ var objectiveData =
                     "name": "Crisis of Faith",
                     "description": "Defeat the Charcarrion by letting its corpse decompose.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/da0928bcafef35fc7ec23f508f8bc63e2581787e.jpg"
+                },
+                {
+                    "name": "Emotional and Physical Annihilation",
+                    "description": "Watch SmoothSkin's trauma be his undoing.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/2ebc1767dde2435775a5199499633eeab87b828e.jpg"
                 }
             ]
         }
@@ -8459,16 +8459,6 @@ var objectiveData =
         "points": 10,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Kingslayer",
-                    "description": "Defeat all bosses found in the main campaign.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/1dbc05401760d9da3fdd3c8facdfeea86d2e413a.jpg"
-                },
-                {
-                    "name": "God is Dead and We Have Killed Him",
-                    "description": "Slay an Ungod... Kinda.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/c58f8b522584dfee1eb25b538487c6065d075b39.jpg"
-                },
                 {
                     "name": "Bloodline Drinker",
                     "description": "(Secret Achievement)",
@@ -8488,6 +8478,16 @@ var objectiveData =
                     "name": "Somebody Call The Vatican",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/356af55014914c9e90aac6d346dce737734957f4.jpg"
+                },
+                {
+                    "name": "Kingslayer",
+                    "description": "Defeat all bosses found in the main campaign.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/1dbc05401760d9da3fdd3c8facdfeea86d2e413a.jpg"
+                },
+                {
+                    "name": "God is Dead and We Have Killed Him",
+                    "description": "Slay an Ungod... Kinda.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1734320/c58f8b522584dfee1eb25b538487c6065d075b39.jpg"
                 }
             ]
         }
@@ -8503,14 +8503,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Size matters",
-                    "description": "Reach the maximum road length",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1714590/0564bda1c9a5e4ce5e84b9926f4f74106e9994c9.jpg"
-                },
-                {
                     "name": "Are we there yet?????",
                     "description": "Beat 25 stages in a run",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1714590/bed35c9b71a4f8d816b23ca7dbfb5c6eb33183c3.jpg"
+                },
+                {
+                    "name": "Size matters",
+                    "description": "Reach the maximum road length",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1714590/0564bda1c9a5e4ce5e84b9926f4f74106e9994c9.jpg"
                 }
             ]
         }
@@ -8556,11 +8556,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ultra Star",
-                    "description": "Get a star rank in all 50 standard levels, on Heavenly difficulty. (Difficulty: Heavenly) (Cheats Allowed)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/412670/4c26b949264af28215b17a1d2bb88694e6456234.jpg"
-                },
-                {
                     "name": "Ultra Star Deluxe",
                     "description": "Get a star rank in all 20 bonus levels, on Heavenly difficulty. (Difficulty: Heavenly) (Cheats Allowed)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/412670/8a3fd3cf5c694c58acdfab8853ab05556fdf38dc.jpg"
@@ -8569,6 +8564,11 @@ var objectiveData =
                     "name": "Burst Eyeballs",
                     "description": "Take out 60 of the eyeball boss's small eyes, during a single battle with it. Poke 'em out! (Difficulty: Heavenly) (No Cheats!)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/412670/a0900e5f58414bce4be0d393ce4d36952db2bb59.jpg"
+                },
+                {
+                    "name": "Ultra Star",
+                    "description": "Get a star rank in all 50 standard levels, on Heavenly difficulty. (Difficulty: Heavenly) (Cheats Allowed)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/412670/4c26b949264af28215b17a1d2bb88694e6456234.jpg"
                 }
             ]
         }
@@ -8632,14 +8632,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Heaven",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2003660/6cec8dcf2fc803b65a5477959e63e7b4c5642237.jpg"
-                },
-                {
                     "name": "Challenge ALL: U++",
                     "description": "Obtained grade U++ in Challenge ALL.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2003660/c2623040dde3d7f20055e3958ea1cc62fe0a633d.jpg"
+                },
+                {
+                    "name": "Heaven",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2003660/6cec8dcf2fc803b65a5477959e63e7b4c5642237.jpg"
                 }
             ]
         }
@@ -8702,16 +8702,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Extra: U++",
-                    "description": "Achieved U++ grade in Extra mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/a60da00bfbebb5281928e8687f9ad96996b8238b.jpg"
-                },
-                {
-                    "name": "Iridescent Finale",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/01c12d79e9dcb259cb0c7c1b62817b5f9ab999a9.jpg"
-                },
-                {
                     "name": "Extra: 1800",
                     "description": "Survived for over 30 minutes in Extra mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/55eab954aa2e9d5dcb602268416386bcba500384.jpg"
@@ -8720,6 +8710,16 @@ var objectiveData =
                     "name": "Speedster",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/b1e3142c9720f0a6a0812450b108c4ead380d612.jpg"
+                },
+                {
+                    "name": "Extra: U++",
+                    "description": "Achieved U++ grade in Extra mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/a60da00bfbebb5281928e8687f9ad96996b8238b.jpg"
+                },
+                {
+                    "name": "Iridescent Finale",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373850/01c12d79e9dcb259cb0c7c1b62817b5f9ab999a9.jpg"
                 }
             ]
         }
@@ -8735,11 +8735,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "`Otu` Again",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544580/f60730e9ce4bf1c916829f47d5162e8a206cd56e.jpg"
-                },
-                {
                     "name": "Platinum Bancho",
                     "description": "Earned Platinum Medal for every stages of bancho mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544580/16905e688c95b18c6b2f5ea74d18151f55f7cfc4.jpg"
@@ -8748,6 +8743,11 @@ var objectiveData =
                     "name": "Caravan Bancho",
                     "description": "Earned a Platinum Medal at caravan mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544580/fac962c9af4b91fd88a312b5726e3c0b7eb70e22.jpg"
+                },
+                {
+                    "name": "`Otu` Again",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544580/f60730e9ce4bf1c916829f47d5162e8a206cd56e.jpg"
                 }
             ]
         }
@@ -8849,16 +8849,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Stone madness",
-                    "description": "Finish Stone 2.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/526bda328a0e6247ac4f89af6ac6267ecad88bd1.jpg"
-                },
-                {
-                    "name": "What's this?",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/02d68b4bf752ece3ef508cc8fbb9464244e86256.jpg"
-                },
-                {
                     "name": "Hollow",
                     "description": "Finish Hollow 1!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/99c51f55e325b0d54fb3f1e5fd00ae079f3e5eb0.jpg"
@@ -8867,6 +8857,16 @@ var objectiveData =
                     "name": "Hollow 2?",
                     "description": "Great! You finished Hollow 2...",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/34a0acee34fb4b26b59b10852a4b8b19c55598ba.jpg"
+                },
+                {
+                    "name": "Stone madness",
+                    "description": "Finish Stone 2.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/526bda328a0e6247ac4f89af6ac6267ecad88bd1.jpg"
+                },
+                {
+                    "name": "What's this?",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/02d68b4bf752ece3ef508cc8fbb9464244e86256.jpg"
                 }
             ],
             "custom": "Screenshot of 'Welkin Blue' clear (can be a screenshot having loaded the map, with a time present)"
@@ -8882,41 +8882,6 @@ var objectiveData =
         "points": 10,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Purist",
-                    "description": "Finished Pure eh?",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/303feb9bad2c82349d06bfb96a377796a00f5fbc.jpg"
-                },
-                {
-                    "name": "Stoned",
-                    "description": "Finish Stone 1!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/9b5843d8c1466c6d07468d0ea16755edfc2babdc.jpg"
-                },
-                {
-                    "name": "Ruined once again...",
-                    "description": "Finish Ruins 2!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/e0dc95f104754ebadbbbe59a845b932cbd8aa870.jpg"
-                },
-                {
-                    "name": "Just like all the other ones...",
-                    "description": "Who needs to be special anyways? Stick with generic. Finished Generic 2!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/d18f131ce1cfb85b2c48cc4a4a50a702fddc0cb5.jpg"
-                },
-                {
-                    "name": "Did someone say dungeon?",
-                    "description": "Make your way through the dark dungeon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/40bf659b308d03dcd4ae95fc48ae508d64ed4fc6.jpg"
-                },
-                {
-                    "name": "What a nice garden",
-                    "description": "Finished Zen!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/76246d86420cf6c0a42c19d3c1a33c4ba205262e.jpg"
-                },
-                {
-                    "name": "Heaven or hell?",
-                    "description": "Completed Heaven.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/5395fc5732af255c8a20469b75688e6ee71feffa.jpg"
-                },
                 {
                     "name": "HOT HOT HOT!",
                     "description": "Stayed out of lava long enough to finish Vulcano!",
@@ -8961,6 +8926,41 @@ var objectiveData =
                     "name": "Even foggier",
                     "description": "What's hiding behind all that fog? Nothing really it would seem..  Finished Fog 2.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/5a892cfe184e77adda8d82aabaaee8a658d2840a.jpg"
+                },
+                {
+                    "name": "Purist",
+                    "description": "Finished Pure eh?",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/303feb9bad2c82349d06bfb96a377796a00f5fbc.jpg"
+                },
+                {
+                    "name": "Stoned",
+                    "description": "Finish Stone 1!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/9b5843d8c1466c6d07468d0ea16755edfc2babdc.jpg"
+                },
+                {
+                    "name": "Ruined once again...",
+                    "description": "Finish Ruins 2!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/e0dc95f104754ebadbbbe59a845b932cbd8aa870.jpg"
+                },
+                {
+                    "name": "Just like all the other ones...",
+                    "description": "Who needs to be special anyways? Stick with generic. Finished Generic 2!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/d18f131ce1cfb85b2c48cc4a4a50a702fddc0cb5.jpg"
+                },
+                {
+                    "name": "Did someone say dungeon?",
+                    "description": "Make your way through the dark dungeon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/40bf659b308d03dcd4ae95fc48ae508d64ed4fc6.jpg"
+                },
+                {
+                    "name": "What a nice garden",
+                    "description": "Finished Zen!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/76246d86420cf6c0a42c19d3c1a33c4ba205262e.jpg"
+                },
+                {
+                    "name": "Heaven or hell?",
+                    "description": "Completed Heaven.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/429780/5395fc5732af255c8a20469b75688e6ee71feffa.jpg"
                 }
             ],
             "custom": "Screenshot of 'Fast' clear (can be a screenshot having loaded the map, with a time present)"
@@ -8989,24 +8989,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Saloon Challenge Gold",
-                    "description": "Achieve a gold medal in the Saloon Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/20d1b9dd18a86cedba9e0c8e3ab0fba6ef992196.jpg"
-                },
-                {
-                    "name": "Spaceship Challenge Gold",
-                    "description": "Achieve a gold medal in the Spaceship Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/b2a49b77af500421b796876d94ef86fce5bc32b4.jpg"
-                },
-                {
-                    "name": "Extreme Boardwalk Complete",
-                    "description": "Complete all levels of the Extreme Boardwalk Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/1a2fa0562d605070c3dd85d4dfd460f95083fed3.jpg"
-                },
-                {
-                    "name": "Sports Bar Challenge Gold",
-                    "description": "Achieve a gold medal in the Sports Bar Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/0499e0a5f646aaf27b1d3ed7300237e2677297e1.jpg"
+                    "name": "Extreme City Complete",
+                    "description": "Complete all levels of the Extreme City Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/43e6ee300289f3ca88b1867d1062fd81bbc5bb71.jpg"
                 },
                 {
                     "name": "Diner Challenge Gold",
@@ -9014,13 +8999,13 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/d2c91956cf6d47c5d7175214843ffd5dbc1b8df4.jpg"
                 },
                 {
-                    "name": "Extreme Spaceship Complete",
-                    "description": "Complete all levels of the Extreme Spaceship Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/43ec0fdb74e284c0d47e6a16a9725133c8e58185.jpg"
-                },
-                {
                     "name": "Extreme Beach Hut Complete",
                     "description": "Complete all levels of the Extreme Beach Hut Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/698937ebd4f88ede5d4feb633061fa50f7c66112.jpg"
+                },
+                {
+                    "name": "City Challenge Gold",
+                    "description": "Achieve a gold medal in the City Challenge.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/698937ebd4f88ede5d4feb633061fa50f7c66112.jpg"
                 },
                 {
@@ -9029,9 +9014,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/049247f9a6f5f89386b6a8f3a5ea7429dcfb77e7.jpg"
                 },
                 {
-                    "name": "Beach Hut Challenge Gold",
-                    "description": "Achieve a gold medal in the Beach Hut Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/7bf32f9a8778dbf1c8d02510ffc0df281057f402.jpg"
+                    "name": "Pagoda Challenge Gold",
+                    "description": "Achieve a gold medal in the Pagoda Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/4be855aaf6656e94a766339c5eb32568ad2f80e3.jpg"
                 },
                 {
                     "name": "Extreme Sports Bar Complete",
@@ -9039,34 +9024,49 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/db86555c3da4a806a3d731d1d053e3c6709be24d.jpg"
                 },
                 {
-                    "name": "Extreme Diner Complete",
-                    "description": "Complete all levels of the Extreme Diner Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/33a71f9c34680cfa9355f5807f5fe9f0e42f1e87.jpg"
-                },
-                {
-                    "name": "Extreme City Complete",
-                    "description": "Complete all levels of the Extreme City Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/43e6ee300289f3ca88b1867d1062fd81bbc5bb71.jpg"
-                },
-                {
-                    "name": "City Challenge Gold",
-                    "description": "Achieve a gold medal in the City Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/698937ebd4f88ede5d4feb633061fa50f7c66112.jpg"
-                },
-                {
-                    "name": "Pagoda Challenge Gold",
-                    "description": "Achieve a gold medal in the Pagoda Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/4be855aaf6656e94a766339c5eb32568ad2f80e3.jpg"
-                },
-                {
                     "name": "Extreme Pagoda Complete",
                     "description": "Complete all levels of the Extreme Pagoda Stage.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/7027c0590ce305784569baf2e3c20394050c79c9.jpg"
                 },
                 {
+                    "name": "Extreme Diner Complete",
+                    "description": "Complete all levels of the Extreme Diner Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/33a71f9c34680cfa9355f5807f5fe9f0e42f1e87.jpg"
+                },
+                {
                     "name": "Extreme Saloon Complete",
                     "description": "Complete all levels of the Extreme Saloon Stage.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/6a01e37259cf47067185a35691fecdd75c306caf.jpg"
+                },
+                {
+                    "name": "Spaceship Challenge Gold",
+                    "description": "Achieve a gold medal in the Spaceship Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/b2a49b77af500421b796876d94ef86fce5bc32b4.jpg"
+                },
+                {
+                    "name": "Sports Bar Challenge Gold",
+                    "description": "Achieve a gold medal in the Sports Bar Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/0499e0a5f646aaf27b1d3ed7300237e2677297e1.jpg"
+                },
+                {
+                    "name": "Extreme Spaceship Complete",
+                    "description": "Complete all levels of the Extreme Spaceship Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/43ec0fdb74e284c0d47e6a16a9725133c8e58185.jpg"
+                },
+                {
+                    "name": "Beach Hut Challenge Gold",
+                    "description": "Achieve a gold medal in the Beach Hut Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/7bf32f9a8778dbf1c8d02510ffc0df281057f402.jpg"
+                },
+                {
+                    "name": "Saloon Challenge Gold",
+                    "description": "Achieve a gold medal in the Saloon Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/20d1b9dd18a86cedba9e0c8e3ab0fba6ef992196.jpg"
+                },
+                {
+                    "name": "Extreme Boardwalk Complete",
+                    "description": "Complete all levels of the Extreme Boardwalk Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/1a2fa0562d605070c3dd85d4dfd460f95083fed3.jpg"
                 }
             ]
         }
@@ -9081,6 +9081,26 @@ var objectiveData =
         "points": 15,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Expert Beach Hut Perfect Service",
+                    "description": "Achieve Perfect Service in all levels of the Expert Beach Hut Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/bbc6d393be85af2784e6eb31167a493cf5c38419.jpg"
+                },
+                {
+                    "name": "Expert Spaceship Perfect Service",
+                    "description": "Achieve Perfect Service in all levels of the Expert Spaceship Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/643eb853f284bee0edc21ad94cd311a721fdf99c.jpg"
+                },
+                {
+                    "name": "Expert Diner Perfect Service",
+                    "description": "Achieve Perfect Service in all levels of the Expert Diner Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/0a61b5497c17889124e25516b367538c3c99c8f0.jpg"
+                },
+                {
+                    "name": "Expert Boardwalk Perfect Service",
+                    "description": "Achieve Perfect Service in all levels of the Expert Boardwalk Stage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/bbc6d393be85af2784e6eb31167a493cf5c38419.jpg"
+                },
                 {
                     "name": "Expert Saloon Perfect Service",
                     "description": "Achieve Perfect Service in all levels of the Expert Saloon Stage.",
@@ -9100,26 +9120,6 @@ var objectiveData =
                     "name": "Expert City Perfect Service",
                     "description": "Achieve Perfect Service in all levels of the Expert City Stage.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/0a61b5497c17889124e25516b367538c3c99c8f0.jpg"
-                },
-                {
-                    "name": "Expert Diner Perfect Service",
-                    "description": "Achieve Perfect Service in all levels of the Expert Diner Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/0a61b5497c17889124e25516b367538c3c99c8f0.jpg"
-                },
-                {
-                    "name": "Expert Boardwalk Perfect Service",
-                    "description": "Achieve Perfect Service in all levels of the Expert Boardwalk Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/bbc6d393be85af2784e6eb31167a493cf5c38419.jpg"
-                },
-                {
-                    "name": "Expert Beach Hut Perfect Service",
-                    "description": "Achieve Perfect Service in all levels of the Expert Beach Hut Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/bbc6d393be85af2784e6eb31167a493cf5c38419.jpg"
-                },
-                {
-                    "name": "Expert Spaceship Perfect Service",
-                    "description": "Achieve Perfect Service in all levels of the Expert Spaceship Stage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730840/643eb853f284bee0edc21ad94cd311a721fdf99c.jpg"
                 }
             ]
         }
@@ -9135,14 +9135,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speed Runner",
-                    "description": "Beat the game in under 10 minutes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657440/20514bed428a8cd69a672b55a9bdcda993f7ba71.jpg"
-                },
-                {
                     "name": "That's not how you play this game!",
                     "description": " Complete the game without a single death",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657440/fb29b2ace107e8156fcba8beec538502fc2ea3c4.jpg"
+                },
+                {
+                    "name": "Speed Runner",
+                    "description": "Beat the game in under 10 minutes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657440/20514bed428a8cd69a672b55a9bdcda993f7ba71.jpg"
                 }
             ]
         }
@@ -9158,14 +9158,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "F#@$ You Ultimately",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/474210/f4ef737a0a907d3a3b577570848acdfeb7e8569a.jpg"
-                },
-                {
                     "name": "Expert Speedrunner",
                     "description": "Complete the game in 45 minutes on at least HARD difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/474210/16779bc78ee3d4cab867dc5bb4ec70d460e7b4e3.jpg"
+                },
+                {
+                    "name": "F#@$ You Ultimately",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/474210/f4ef737a0a907d3a3b577570848acdfeb7e8569a.jpg"
                 }
             ]
         }
@@ -9181,14 +9181,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Abyss Ascendant",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278480/c54d804280fab602519f4e25fb2e82d04bbc5b52.jpg"
-                },
-                {
                     "name": "Inferno",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278480/eb2ff55e85bbc36dbdae2ea44c2a47ba675d6408.jpg"
+                },
+                {
+                    "name": "Abyss Ascendant",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278480/c54d804280fab602519f4e25fb2e82d04bbc5b52.jpg"
                 }
             ]
         }
@@ -9216,14 +9216,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Insane Skill",
-                    "description": "Finish the game on insane difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293170/d8bf5ea9fcf2953aaa8d8839ab2ed8a255d25c22.jpg"
-                },
-                {
                     "name": "Robo-Ninja",
                     "description": "Perform a golden flawless run in all story mode stages.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293170/f7123d15d95b8c0e51e1330519f0d3f48dd3bb19.jpg"
+                },
+                {
+                    "name": "Insane Skill",
+                    "description": "Finish the game on insane difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1293170/d8bf5ea9fcf2953aaa8d8839ab2ed8a255d25c22.jpg"
                 }
             ]
         }
@@ -9342,41 +9342,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/b9483cd26483a4bbdcf2a6c2dd5ca874227f9de3.jpg"
                 },
                 {
-                    "name": "Pit Boss",
-                    "description": "Run The Pit in 'S.S.D.D.' and finish with a final time under 30 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/6a731e9054c7c45762edba8f2f903b652463db84.jpg"
-                },
-                {
-                    "name": "Red Dawn",
-                    "description": "Complete 'Wolverines!' and 'Exodus' on Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/1e6f2ab58ead66688a7a83de95c1c4e3d7738f0f.jpg"
-                },
-                {
-                    "name": "Homecoming",
-                    "description": "Complete 'Of Their Own Accord', 'Second Sun', and 'Whiskey Hotel' on Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/c53ee84b24006b9ee3401c0ad5cf54bb58e35104.jpg"
-                },
-                {
-                    "name": "Ends Justify the Means",
-                    "description": "Complete 'Contingency' on Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/cc6ded84f74fd3e53592eef1312e8a2383960445.jpg"
-                },
-                {
-                    "name": "The Price of War",
-                    "description": "Complete the single player campaign on Hardened or Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/0edb82f1a75600b64e945ad6f3dbb4e64f0d9de1.jpg"
-                },
-                {
-                    "name": "Black Diamond",
-                    "description": "Complete 'Cliffhanger' on Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/2b262d371d326d8fff38988a0309cf2a33eb3bda.jpg"
-                },
-                {
-                    "name": "Off the Grid",
-                    "description": "Complete 'Just Like Old Times' and 'Endgame' on Veteran Difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/38707f00accbcd1c6d449f76319395442aa57216.jpg"
-                },
-                {
                     "name": "First Day of School",
                     "description": "Complete 'S.S.D.D.' and 'Team Player' on Veteran Difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/00358acc4ce4a3efc986c2f29fe976a4ee810ba0.jpg"
@@ -9390,6 +9355,41 @@ var objectiveData =
                     "name": "Prisoner #627",
                     "description": "Complete 'The Only Easy Day... Was Yesterday' and 'The Gulag' on Veteran Difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/77d7006cc21dd4b88ac77d350aab843e67385e2c.jpg"
+                },
+                {
+                    "name": "Homecoming",
+                    "description": "Complete 'Of Their Own Accord', 'Second Sun', and 'Whiskey Hotel' on Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/c53ee84b24006b9ee3401c0ad5cf54bb58e35104.jpg"
+                },
+                {
+                    "name": "The Price of War",
+                    "description": "Complete the single player campaign on Hardened or Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/0edb82f1a75600b64e945ad6f3dbb4e64f0d9de1.jpg"
+                },
+                {
+                    "name": "Off the Grid",
+                    "description": "Complete 'Just Like Old Times' and 'Endgame' on Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/38707f00accbcd1c6d449f76319395442aa57216.jpg"
+                },
+                {
+                    "name": "Pit Boss",
+                    "description": "Run The Pit in 'S.S.D.D.' and finish with a final time under 30 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/6a731e9054c7c45762edba8f2f903b652463db84.jpg"
+                },
+                {
+                    "name": "Red Dawn",
+                    "description": "Complete 'Wolverines!' and 'Exodus' on Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/1e6f2ab58ead66688a7a83de95c1c4e3d7738f0f.jpg"
+                },
+                {
+                    "name": "Ends Justify the Means",
+                    "description": "Complete 'Contingency' on Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/cc6ded84f74fd3e53592eef1312e8a2383960445.jpg"
+                },
+                {
+                    "name": "Black Diamond",
+                    "description": "Complete 'Cliffhanger' on Veteran Difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10180/2b262d371d326d8fff38988a0309cf2a33eb3bda.jpg"
                 }
             ]
         }
@@ -9423,14 +9423,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Unstoppable",
-                    "description": "Reach Wave 15 in each mission of Special Ops Survival mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/14a26a020d335318d68156ce083e6f6ffd0a0dc4.jpg"
-                },
-                {
                     "name": "Overachiever",
                     "description": "Earn 48 stars in Special Ops Mission Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/de976673dbce59cdca7fe447e75fcbbda8d66355.jpg"
+                },
+                {
+                    "name": "Unstoppable",
+                    "description": "Reach Wave 15 in each mission of Special Ops Survival mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/14a26a020d335318d68156ce083e6f6ffd0a0dc4.jpg"
                 }
             ]
         }
@@ -9445,16 +9445,6 @@ var objectiveData =
         "points": 5,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Skilled Negotiator",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/ca2364199a997532778f60232f2beba08db5d0ae.jpg"
-                },
-                {
-                    "name": "EMPressive\u2026",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/25aa34d32dd9ae27fce4735c00dbe4c44d09f686.jpg"
-                },
                 {
                     "name": "High Roller",
                     "description": "(Secret Achievement)",
@@ -9484,6 +9474,16 @@ var objectiveData =
                     "name": "Pinnacle",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/4c16cb59d7040558e88e3e6bfc3966b60d98875c.jpg"
+                },
+                {
+                    "name": "Skilled Negotiator",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/ca2364199a997532778f60232f2beba08db5d0ae.jpg"
+                },
+                {
+                    "name": "EMPressive\u2026",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/42680/25aa34d32dd9ae27fce4735c00dbe4c44d09f686.jpg"
                 }
             ]
         }
@@ -9510,31 +9510,6 @@ var objectiveData =
         "points": 10,
         "requirements": {
             "achievements": [
-                {
-                    "name": "The Search",
-                    "description": "Complete 'Charlie Don't Surf' on Veteran difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/7b4f2211d7d0e3126d1273e2f149c15bb1af7ece.jpg"
-                },
-                {
-                    "name": "The Third Horseman",
-                    "description": "Complete 'Heat' and 'The Sins of the Father' on Veteran difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/3dd2268cdd8e93d4aab0b6c13f0512618082bf01.jpg"
-                },
-                {
-                    "name": "The Rescue",
-                    "description": "Complete 'Blackout' on Veteran difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/8f10b895decd9faf19094240100aa40fc6cc83fd.jpg"
-                },
-                {
-                    "name": "The First Horseman",
-                    "description": "Complete 'Shock and Awe' on Veteran difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/517fd6cb6dc8fb792f4b46c95b42496c2828d2a7.jpg"
-                },
-                {
-                    "name": "The Escape",
-                    "description": "Complete 'Hunted' and 'Death From Above' on Veteran difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/7d281212b276602912dd12163a7ff215cf8d3542.jpg"
-                },
                 {
                     "name": "Mile High Club",
                     "description": "Sky dive to safety on Veteran difficulty.",
@@ -9574,6 +9549,31 @@ var objectiveData =
                     "name": "The Bog",
                     "description": "Complete 'The Bog' and 'War Pig' on Veteran difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/23097aa9c0091437747d6ec9c4d4c91aef2c88b4.jpg"
+                },
+                {
+                    "name": "The Search",
+                    "description": "Complete 'Charlie Don't Surf' on Veteran difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/7b4f2211d7d0e3126d1273e2f149c15bb1af7ece.jpg"
+                },
+                {
+                    "name": "The Third Horseman",
+                    "description": "Complete 'Heat' and 'The Sins of the Father' on Veteran difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/3dd2268cdd8e93d4aab0b6c13f0512618082bf01.jpg"
+                },
+                {
+                    "name": "The Rescue",
+                    "description": "Complete 'Blackout' on Veteran difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/8f10b895decd9faf19094240100aa40fc6cc83fd.jpg"
+                },
+                {
+                    "name": "The First Horseman",
+                    "description": "Complete 'Shock and Awe' on Veteran difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/517fd6cb6dc8fb792f4b46c95b42496c2828d2a7.jpg"
+                },
+                {
+                    "name": "The Escape",
+                    "description": "Complete 'Hunted' and 'Death From Above' on Veteran difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/393080/7d281212b276602912dd12163a7ff215cf8d3542.jpg"
                 }
             ]
         }
@@ -9589,11 +9589,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Last Man Standing",
-                    "description": "Complete the Story on True West difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204450/f6a531c732b882fd6c063f3ca6288ab757f142b7.jpg"
-                },
-                {
                     "name": "Legend Among Legends",
                     "description": "Get all Arcade Mode stars.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204450/507bddc92d0c23d7af324fcbb2315da4a7870aaa.jpg"
@@ -9602,6 +9597,11 @@ var objectiveData =
                     "name": "Honor Intact",
                     "description": "Complete the duel challenge, winning all duels honorably.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204450/7aa8ee06e78f28ac09df7c706054f989eebaf28d.jpg"
+                },
+                {
+                    "name": "Last Man Standing",
+                    "description": "Complete the Story on True West difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204450/f6a531c732b882fd6c063f3ca6288ab757f142b7.jpg"
                 }
             ]
         }
@@ -9780,14 +9780,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No Continues: Hard",
-                    "description": "Clear the Hard difficulty without using a continue.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582980/dec687f321503b75e79d3c9b02473b11e33f6cb6.jpg"
-                },
-                {
                     "name": "No Continues: Very Hard",
                     "description": "Clear the Very Hard difficulty without using a continue.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582980/0f8cd62e7fa980d11f7f5a4ab4fcd21c1a1cf0c7.jpg"
+                },
+                {
+                    "name": "No Continues: Hard",
+                    "description": "Clear the Hard difficulty without using a continue.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582980/dec687f321503b75e79d3c9b02473b11e33f6cb6.jpg"
                 }
             ],
             "custom": "1cc replay on Very Hard."
@@ -9840,14 +9840,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Quick as lightning",
-                    "description": "Finish the game under 3 h. 30 min.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/731b9381b4241f9938c064447f214bc17b38f232.jpg"
-                },
-                {
                     "name": "I'm Dracula!",
                     "description": "Finish the game on Hardcore without lowering the difficulty nor enabling the navigation aids from the map",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/59a66a78f268002532582d28cae0b97c89f69181.jpg"
+                },
+                {
+                    "name": "Quick as lightning",
+                    "description": "Finish the game under 3 h. 30 min.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/731b9381b4241f9938c064447f214bc17b38f232.jpg"
                 }
             ]
         }
@@ -9968,11 +9968,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Wind Fortress S Rank",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200900/8095ff5b262f31528766a12257fc9513b314ce94.jpg"
-                },
-                {
                     "name": "Unstoppable",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200900/6fa5cd5423b980f8208228c585569d8d358b7110.jpg"
@@ -9991,6 +9986,11 @@ var objectiveData =
                     "name": "Sanctuary S Rank",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200900/d6712ca57b79e8acb7ed4f3697074cc9f5d4eeff.jpg"
+                },
+                {
+                    "name": "Wind Fortress S Rank",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200900/8095ff5b262f31528766a12257fc9513b314ce94.jpg"
                 }
             ]
         }
@@ -10126,14 +10126,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Platinum Medals",
-                    "description": "Achieve platinum medals on all singleplayer maps",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1081650/f84a4728599e14420576cec541363d8666d39905.jpg"
-                },
-                {
                     "name": "Collector",
                     "description": "collect all hidden spheres in singleplayer mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1081650/37631466d0dfa4e9ae60a45ab40a46883cf7b0a4.jpg"
+                },
+                {
+                    "name": "Platinum Medals",
+                    "description": "Achieve platinum medals on all singleplayer maps",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1081650/f84a4728599e14420576cec541363d8666d39905.jpg"
                 }
             ]
         }
@@ -10174,21 +10174,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Real Gamer",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/2b5f3e3777afa012ea64f2c1fd5ee810b6d52efa.jpg"
-                },
-                {
-                    "name": "Thanks For Playing",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/9492cd8d788b45471c098fa29372570892be4452.jpg"
-                },
-                {
-                    "name": "Impress Your Friends",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/9b043fec21f1028d306f0908b401c86d8869c334.jpg"
-                },
-                {
                     "name": "1UP!",
                     "description": "Get a 1UP",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/01751a67a64a8d6883480f5626233d2952b3faff.jpg"
@@ -10197,6 +10182,21 @@ var objectiveData =
                     "name": "Wow",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/b002c7e5e8cb1da71c5992a73076a26a5403e1ee.jpg"
+                },
+                {
+                    "name": "Thanks For Playing",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/9492cd8d788b45471c098fa29372570892be4452.jpg"
+                },
+                {
+                    "name": "Real Gamer",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/2b5f3e3777afa012ea64f2c1fd5ee810b6d52efa.jpg"
+                },
+                {
+                    "name": "Impress Your Friends",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504230/9b043fec21f1028d306f0908b401c86d8869c334.jpg"
                 }
             ],
             "custom": "Video of final farewell screen or any B side golden strawberry without the use of assist mode."
@@ -10321,6 +10321,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "World 4: All Objectives",
+                    "description": "Complete all objectives in World 4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1120950/b6842de71381868bbf42672fe101151b4a652721.jpg"
+                },
+                {
                     "name": "World 2: 3 Stars Everywhere",
                     "description": "Get 3 stars in all in World 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1120950/b6842de71381868bbf42672fe101151b4a652721.jpg"
@@ -10353,11 +10358,6 @@ var objectiveData =
                 {
                     "name": "World 2: All Objectives",
                     "description": "Complete all objectives in World 2",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1120950/b6842de71381868bbf42672fe101151b4a652721.jpg"
-                },
-                {
-                    "name": "World 4: All Objectives",
-                    "description": "Complete all objectives in World 4",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1120950/b6842de71381868bbf42672fe101151b4a652721.jpg"
                 }
             ]
@@ -10451,9 +10451,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Queen Mate",
-                    "description": "Dungeon: Clear the game in under 25 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1571220/cc3ada32b95cac39e1bcbdb152e7a8f10a1308e5.jpg"
+                    "name": "Rook Mate",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1571220/337af3c45bf0531e6d19c7ac4d9b80ebd03abd00.jpg"
                 },
                 {
                     "name": "How to Checkmate With Two Bishops",
@@ -10461,9 +10461,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1571220/a8c8863034374f1910a8cc19c6202eee3bdc44f4.jpg"
                 },
                 {
-                    "name": "Rook Mate",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1571220/337af3c45bf0531e6d19c7ac4d9b80ebd03abd00.jpg"
+                    "name": "Queen Mate",
+                    "description": "Dungeon: Clear the game in under 25 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1571220/cc3ada32b95cac39e1bcbdb152e7a8f10a1308e5.jpg"
                 }
             ],
             "custom": "Video of Difficulty 5 clear. Assist mode and quit to menu are disallowed."
@@ -10521,14 +10521,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2826970/a8d0eed8074d2d5929ec6db1096e127b8009089c.jpg"
                 },
                 {
-                    "name": "Pro plunging",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2826970/84ef81e95c76ec86c0650e774da4f4c43ea68da1.jpg"
-                },
-                {
                     "name": "Failing fast",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2826970/80896d02181115e80dd5fbf7eccea0b4158a0968.jpg"
+                },
+                {
+                    "name": "Pro plunging",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2826970/84ef81e95c76ec86c0650e774da4f4c43ea68da1.jpg"
                 }
             ]
         }
@@ -10636,6 +10636,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Abstinence",
+                    "description": "Complete Hermit without getting any powerups",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/4e4730a9f26ef37ee404a5e8716611adfbb0c62c.jpg"
+                },
+                {
+                    "name": "Xenophobia",
+                    "description": "Complete Xulgon after destroying each type of minion",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/fb139d747f5d500c23847538e865cf48f2baa6be.jpg"
+                },
+                {
+                    "name": "Heavy Weaponry",
+                    "description": "Complete Overgrowth with at least +50 damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/b2dbd3283285f377d144b6d55e70e48d9a2154ec.jpg"
+                },
+                {
                     "name": "Pop No Bubbles",
                     "description": "Complete Kraken without popping a single bubble",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/54730a51a50b1d695d06270caa4cbe040cfa2e53.jpg"
@@ -10654,21 +10669,6 @@ var objectiveData =
                     "name": "Spawner",
                     "description": "Complete Medusa with bullet spawner powerup active",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/1e7747cd7c28e2940a92bc48fa81712fac066f91.jpg"
-                },
-                {
-                    "name": "Abstinence",
-                    "description": "Complete Hermit without getting any powerups",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/4e4730a9f26ef37ee404a5e8716611adfbb0c62c.jpg"
-                },
-                {
-                    "name": "Xenophobia",
-                    "description": "Complete Xulgon after destroying each type of minion",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/fb139d747f5d500c23847538e865cf48f2baa6be.jpg"
-                },
-                {
-                    "name": "Heavy Weaponry",
-                    "description": "Complete Overgrowth with at least +50 damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/602700/b2dbd3283285f377d144b6d55e70e48d9a2154ec.jpg"
                 }
             ]
         }
@@ -10779,6 +10779,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Deathless",
+                    "description": "Complete Every Level Without Dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/719a747eefc20d563b4ef12970699a62a9de2898.jpg"
+                },
+                {
+                    "name": "Affinity II+: 50",
+                    "description": "Reach the 50th Circle of Part II+ in Circle Affinity",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/0da78bbce4c5c38c94e24d99170862e45845b8d4.jpg"
+                },
+                {
+                    "name": "Speed Devil: Part IV",
+                    "description": "Have a combined best of under 9 minutes for Part IV",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/f0bc45e8ad170ba0522cceb221e078e49b2258ff.jpg"
+                },
+                {
                     "name": "Affinity III+: 50",
                     "description": "Reach the 50th Circle of Part III+ in Circle Affinity",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/0da78bbce4c5c38c94e24d99170862e45845b8d4.jpg"
@@ -10822,21 +10837,6 @@ var objectiveData =
                     "name": "Speed Devil: Part I",
                     "description": "Have a combined best of under 4 minutes for Part I",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/9be42d9d3894c02364d6ea916f8cb21b52d4079a.jpg"
-                },
-                {
-                    "name": "Deathless",
-                    "description": "Complete Every Level Without Dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/719a747eefc20d563b4ef12970699a62a9de2898.jpg"
-                },
-                {
-                    "name": "Affinity II+: 50",
-                    "description": "Reach the 50th Circle of Part II+ in Circle Affinity",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/0da78bbce4c5c38c94e24d99170862e45845b8d4.jpg"
-                },
-                {
-                    "name": "Speed Devil: Part IV",
-                    "description": "Have a combined best of under 9 minutes for Part IV",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/390610/f0bc45e8ad170ba0522cceb221e078e49b2258ff.jpg"
                 }
             ]
         }
@@ -10938,6 +10938,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "The Unbreakable Diamond",
+                    "description": "Obtain diamond medals in all the hard levels of 'The Big Job'.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/416a47e538a228e5b9f72d8b329d2cd285ae8292.jpg"
+                },
+                {
+                    "name": "Fled to Belize",
+                    "description": "Obtain diamond medals in all the hard levels of 'Dungeonous Depths'.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/40405b3b64616ce4416a1a7de86db5c793598e76.jpg"
+                },
+                {
+                    "name": "Warrior Monk",
+                    "description": "Obtain Diamond medals in all of the Hard levels of 'Spiritual Solace'.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/cafa82638c99d97fe82c56fae1b8f9aadb7df2e0.jpg"
+                },
+                {
                     "name": "Valedictorian",
                     "description": "Obtain diamond medals in all the normal levels of 'First Steps'.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/416a47e538a228e5b9f72d8b329d2cd285ae8292.jpg"
@@ -10981,21 +10996,6 @@ var objectiveData =
                     "name": "I Already Ate",
                     "description": "Obtain diamond medals in all the hard levels of 'Carnivorous Caverns'.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/416a47e538a228e5b9f72d8b329d2cd285ae8292.jpg"
-                },
-                {
-                    "name": "The Unbreakable Diamond",
-                    "description": "Obtain diamond medals in all the hard levels of 'The Big Job'.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/416a47e538a228e5b9f72d8b329d2cd285ae8292.jpg"
-                },
-                {
-                    "name": "Fled to Belize",
-                    "description": "Obtain diamond medals in all the hard levels of 'Dungeonous Depths'.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/40405b3b64616ce4416a1a7de86db5c793598e76.jpg"
-                },
-                {
-                    "name": "Warrior Monk",
-                    "description": "Obtain Diamond medals in all of the Hard levels of 'Spiritual Solace'.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/cafa82638c99d97fe82c56fae1b8f9aadb7df2e0.jpg"
                 }
             ]
         }
@@ -11010,6 +11010,11 @@ var objectiveData =
         "points": 5,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Religious Relics",
+                    "description": "Collect all Gems in the Hard levels of 'Spiritual Solace'.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/dc60be74a72a4cc0859710bd9b83333ebd4edd15.jpg"
+                },
                 {
                     "name": "Treasure Hoard",
                     "description": "Collect all Gems in all Hard Mode levels in Dungeonous Depths.",
@@ -11034,11 +11039,6 @@ var objectiveData =
                     "name": "Growing Your Wealth",
                     "description": "Collect all Gems in all Hard Mode levels in Overgrown Ruins.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/d73d200c0ee66ffbf7c43908db576d116ff2ef6b.jpg"
-                },
-                {
-                    "name": "Religious Relics",
-                    "description": "Collect all Gems in the Hard levels of 'Spiritual Solace'.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114620/dc60be74a72a4cc0859710bd9b83333ebd4edd15.jpg"
                 }
             ],
             "custom": "Screenshot of the Normal and Hard level select screens in Adventure mode, with Steam Overlay showing username."
@@ -11054,6 +11054,46 @@ var objectiveData =
         "points": 15,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Attack of the Enemy Zombies",
+                    "description": "Defeat the Enemy Zombie Adventure!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/906c558e1f3dc459f9e3fd7b0a416346194a4ea1.jpg"
+                },
+                {
+                    "name": "Raptor Insanity Challenge",
+                    "description": "Beat the Raptor Insanity Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/ab515529947ad1a34a184e45fe23210bce84b590.jpg"
+                },
+                {
+                    "name": "Endless Greatsword Challenge",
+                    "description": "Beat the Endless Greatsword Challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/cf8d0e32432a4670caed230672b9d06a7f3a1bb8.jpg"
+                },
+                {
+                    "name": "Kick Only Challenge",
+                    "description": "Beat the Kick Only Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/233d08e5f512a75cae016c15816d2d9f3cfab713.jpg"
+                },
+                {
+                    "name": "Raptor Challenge",
+                    "description": "Beat the Raptor Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/09b7510b2c16c885631439a36af6d54bf3248f96.jpg"
+                },
+                {
+                    "name": "Ally Challenge",
+                    "description": "Beat the Ally Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/1da0de0d76e8203d4e288d897edc18238d7437f9.jpg"
+                },
+                {
+                    "name": "Bow Only Challenge",
+                    "description": "Beat the Bow Only Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/8ce1a446a61a26d664d07994742588b5093847ab.jpg"
+                },
+                {
+                    "name": "Laser Challenge",
+                    "description": "Beat the Laser Challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/bfce37c1a3fc29300fb6012645027cecf8179839.jpg"
+                },
                 {
                     "name": "Endless Spear Challenge",
                     "description": "Beat the Endless Spear Challenge",
@@ -11090,49 +11130,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/32cac556de1c2975bc6beebc443143637947aa43.jpg"
                 },
                 {
-                    "name": "Raptor Insanity Challenge",
-                    "description": "Beat the Raptor Insanity Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/ab515529947ad1a34a184e45fe23210bce84b590.jpg"
-                },
-                {
                     "name": "Mind Transfer Challenge",
                     "description": "Beat the Mind Transfer Challenge.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/cfe37927b387e780923c859aea25ec7f02a5cb4f.jpg"
-                },
-                {
-                    "name": "Kick Only Challenge",
-                    "description": "Beat the Kick Only Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/233d08e5f512a75cae016c15816d2d9f3cfab713.jpg"
-                },
-                {
-                    "name": "Attack of the Enemy Zombies",
-                    "description": "Defeat the Enemy Zombie Adventure!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/906c558e1f3dc459f9e3fd7b0a416346194a4ea1.jpg"
-                },
-                {
-                    "name": "Ally Challenge",
-                    "description": "Beat the Ally Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/1da0de0d76e8203d4e288d897edc18238d7437f9.jpg"
-                },
-                {
-                    "name": "Endless Greatsword Challenge",
-                    "description": "Beat the Endless Greatsword Challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/cf8d0e32432a4670caed230672b9d06a7f3a1bb8.jpg"
-                },
-                {
-                    "name": "Laser Challenge",
-                    "description": "Beat the Laser Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/bfce37c1a3fc29300fb6012645027cecf8179839.jpg"
-                },
-                {
-                    "name": "Raptor Challenge",
-                    "description": "Beat the Raptor Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/09b7510b2c16c885631439a36af6d54bf3248f96.jpg"
-                },
-                {
-                    "name": "Bow Only Challenge",
-                    "description": "Beat the Bow Only Challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/8ce1a446a61a26d664d07994742588b5093847ab.jpg"
                 }
             ]
         }
@@ -11148,19 +11148,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Story Insanity 1",
-                    "description": "Beat Chaper 1 on Insane Difficulty!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/1a202c3efc64f04528da71e919355c101da45edc.jpg"
-                },
-                {
-                    "name": "Story Insanity 5",
-                    "description": "Beat Chapter 5 on Insane Difficulty!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/676495b2105038253d0adbe17d5884f020aa4a0a.jpg"
-                },
-                {
-                    "name": "Story Insanity 3",
-                    "description": "Beat Chaper 3 on Insane Difficulty!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/106bafa5404fe87b7f679dfa36ec2dd1c9080604.jpg"
+                    "name": "Story Insanity 4",
+                    "description": "Beat Chaper 4 on Insane Difficulty!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/117fba2f8f3e314b981ddbb7d99d47d0e92ef6e7.jpg"
                 },
                 {
                     "name": "Story Insanity 2",
@@ -11168,9 +11158,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/eff6c28a9f0ea5ab9722f3510e363c8a0a869271.jpg"
                 },
                 {
-                    "name": "Story Insanity 4",
-                    "description": "Beat Chaper 4 on Insane Difficulty!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/117fba2f8f3e314b981ddbb7d99d47d0e92ef6e7.jpg"
+                    "name": "Story Insanity 5",
+                    "description": "Beat Chapter 5 on Insane Difficulty!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/676495b2105038253d0adbe17d5884f020aa4a0a.jpg"
+                },
+                {
+                    "name": "Story Insanity 1",
+                    "description": "Beat Chaper 1 on Insane Difficulty!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/1a202c3efc64f04528da71e919355c101da45edc.jpg"
+                },
+                {
+                    "name": "Story Insanity 3",
+                    "description": "Beat Chaper 3 on Insane Difficulty!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/106bafa5404fe87b7f679dfa36ec2dd1c9080604.jpg"
                 }
             ]
         }
@@ -11186,19 +11186,49 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Co-op One Weapon Challenge",
+                    "description": "Defeat the Co-op One Weapon Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/307f2684ac051b596bc8e27cf6f632c2f8a353c5.jpg"
+                },
+                {
+                    "name": "Co-op Bow Only Challenge",
+                    "description": "Defeat the Co-op Bow only Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/6a92cf9801e233eea7436351695c419b79270005.jpg"
+                },
+                {
+                    "name": "Co-op Raptor Insanity Challenge",
+                    "description": "Defeat the Co-op Raptor Insanity Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/9439ef016c818c69bebec931c556594494eacc20.jpg"
+                },
+                {
+                    "name": "Co-op Hammer Only Challenge",
+                    "description": "Defeat the Co-op Hammer Only Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/e87b1aad129d1b22eecd601ccabaa964d11c4c0b.jpg"
+                },
+                {
+                    "name": "Meet people, go insane!",
+                    "description": "Reach Insanium in a public co-op match!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/32027ab797d4281f0f6ff9adb82c395a09c909fe.jpg"
+                },
+                {
+                    "name": "Co-op Spider-tron Challenge",
+                    "description": "Defeat the Co-op Spider-tron Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/0f176a0b57298545537e7b93deeed95e7339e70d.jpg"
+                },
+                {
                     "name": "Co-op Zombie Challenge",
                     "description": "Defeat the Co-op Zombie Challenge!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/6385bf51687a69264f12524be2894e71933b8dd6.jpg"
                 },
                 {
-                    "name": "Co-op Spear Only Challenge",
-                    "description": "Defeat the Co-op Spear Only Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/8dbfb09e861bc8c921b2e1aaf481d3ae2100715a.jpg"
-                },
-                {
                     "name": "Co-op Kick Only Challenge",
                     "description": "Defeat the Co-op Kick Only Challenge!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/fc2575331c4be7526eec912259fcb4dd50135209.jpg"
+                },
+                {
+                    "name": "Co-op Spear Only Challenge",
+                    "description": "Defeat the Co-op Spear Only Challenge!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/8dbfb09e861bc8c921b2e1aaf481d3ae2100715a.jpg"
                 },
                 {
                     "name": "Co-op Random Upgrade Challenge",
@@ -11211,39 +11241,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/adae6665765de886af1e40a850a7b5ffb3b149e9.jpg"
                 },
                 {
-                    "name": "Co-op Bow Only Challenge",
-                    "description": "Defeat the Co-op Bow only Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/6a92cf9801e233eea7436351695c419b79270005.jpg"
-                },
-                {
                     "name": "Co-op Laser Challenge",
                     "description": "Defeat the Co-op Laser Challenge!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/48bd3e216168f5263d7974ec2144d725eba9d69f.jpg"
-                },
-                {
-                    "name": "Co-op One Weapon Challenge",
-                    "description": "Defeat the Co-op One Weapon Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/307f2684ac051b596bc8e27cf6f632c2f8a353c5.jpg"
-                },
-                {
-                    "name": "Co-op Raptor Insanity Challenge",
-                    "description": "Defeat the Co-op Raptor Insanity Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/9439ef016c818c69bebec931c556594494eacc20.jpg"
-                },
-                {
-                    "name": "Co-op Spider-tron Challenge",
-                    "description": "Defeat the Co-op Spider-tron Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/0f176a0b57298545537e7b93deeed95e7339e70d.jpg"
-                },
-                {
-                    "name": "Co-op Hammer Only Challenge",
-                    "description": "Defeat the Co-op Hammer Only Challenge!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/e87b1aad129d1b22eecd601ccabaa964d11c4c0b.jpg"
-                },
-                {
-                    "name": "Meet people, go insane!",
-                    "description": "Reach Insanium in a public co-op match!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/597170/32027ab797d4281f0f6ff9adb82c395a09c909fe.jpg"
                 }
             ]
         }
@@ -21335,21 +21335,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Absolutely, Totally, Inconceivable!",
-                    "description": "Complete an Arena Mode run without taking any damage. (Any difficulty.)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/0c972ef518672b18b2569fcd7afc8f8bf920870d.jpg"
-                },
-                {
-                    "name": "Arena Legend",
-                    "description": "Finish a Legend run in Arena Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/1aa99219239ada536abc1de2b10e8f5f3b946db7.jpg"
-                },
-                {
-                    "name": "Fire Emergency",
-                    "description": "Complete Episode 2 in less than 30 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/5218a390598699995f8314c5522b73f334d3ef34.jpg"
-                },
-                {
                     "name": "Inconceivable!",
                     "description": "Complete an Episode without taking any damage. (Any difficulty.)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/c039a780036fecdf89ed366da86cea585edfd796.jpg"
@@ -21368,6 +21353,21 @@ var objectiveData =
                     "name": "Conspiraspeedster",
                     "description": "Complete Episode 4 in less than 30 minutes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/e457c9a8bfdbd35f215ca0b7a3d15f6710a655e1.jpg"
+                },
+                {
+                    "name": "Absolutely, Totally, Inconceivable!",
+                    "description": "Complete an Arena Mode run without taking any damage. (Any difficulty.)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/0c972ef518672b18b2569fcd7afc8f8bf920870d.jpg"
+                },
+                {
+                    "name": "Arena Legend",
+                    "description": "Finish a Legend run in Arena Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/1aa99219239ada536abc1de2b10e8f5f3b946db7.jpg"
+                },
+                {
+                    "name": "Fire Emergency",
+                    "description": "Complete Episode 2 in less than 30 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1654660/5218a390598699995f8314c5522b73f334d3ef34.jpg"
                 }
             ]
         }
@@ -23578,19 +23578,24 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Winterhome Survivor",
-                    "description": "Finish the Fall of Winterhome scenario in Survivor Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/e7050084dcc08e37f01625a35afcfc275d562ac6.jpg"
-                },
-                {
                     "name": "New Home Survivor",
                     "description": "Finish the New Home scenario in Survivor Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/16b541af3314d28e25a79ba76809515248621bd8.jpg"
                 },
                 {
+                    "name": "The Last Autumn Survivor",
+                    "description": "Build the Generator in The Last Autumn scenario in Survivor Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/f99f208bff5ff04439995b75c0909cd214b0ba5f.jpg"
+                },
+                {
                     "name": "The Arks Survivor",
                     "description": "Finish The Arks scenario in Survivor Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/4196efdac9648bb7f51a9b5d06e3c82771dc76c7.jpg"
+                },
+                {
+                    "name": "The Winterhome Survivor",
+                    "description": "Finish the Fall of Winterhome scenario in Survivor Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/e7050084dcc08e37f01625a35afcfc275d562ac6.jpg"
                 },
                 {
                     "name": "Refugees Survivor",
@@ -23601,11 +23606,6 @@ var objectiveData =
                     "name": "On The Edge Survivor",
                     "description": "Finish On The Edge scenario in Survivor Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/63afdc3a1fae210df7c553e113ffee2d4baa9b5b.jpg"
-                },
-                {
-                    "name": "The Last Autumn Survivor",
-                    "description": "Build the Generator in The Last Autumn scenario in Survivor Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/323190/f99f208bff5ff04439995b75c0909cd214b0ba5f.jpg"
                 }
             ],
             "custom": "Video of the Fall of Winterhome scenario."
@@ -23694,11 +23694,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Federation Victory (Normal)",
-                    "description": "Beat the boss on Normal.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/212680/6ec94a9be115d5a7b62aaef7c5bdddc068b962aa.jpg"
-                },
-                {
                     "name": "On a Wing and a Prayer",
                     "description": "Get to sector 5 without repairing at a store.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/212680/a2c9a99cc039fea0df0005adedfe17ec0351ce94.jpg"
@@ -23722,6 +23717,11 @@ var objectiveData =
                     "name": "Technophobia",
                     "description": "Get to sector 8 without using drones.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/212680/e6ecf9b4c9908d4a18c7fb96c733c989ee4d9dd6.jpg"
+                },
+                {
+                    "name": "Federation Victory (Normal)",
+                    "description": "Beat the boss on Normal.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/212680/6ec94a9be115d5a7b62aaef7c5bdddc068b962aa.jpg"
                 }
             ]
         }
@@ -23963,13 +23963,13 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Invincible Hero",
-                    "description": "Complete the game without losing a single life",
+                    "name": "Clean-cut affair",
+                    "description": "Complete the game within 1h15",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1856910/6e8f64437432a3771f63efbd061d778b71c0e38e.jpg"
                 },
                 {
-                    "name": "Clean-cut affair",
-                    "description": "Complete the game within 1h15",
+                    "name": "Invincible Hero",
+                    "description": "Complete the game without losing a single life",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1856910/6e8f64437432a3771f63efbd061d778b71c0e38e.jpg"
                 }
             ]
@@ -24052,14 +24052,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Great Cat-hatter",
-                    "description": "Win all the golden hats",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085510/469cfceec0b184b2227476e31e40c7c53d940347.jpg"
-                },
-                {
                     "name": "Super Mechano Cat",
                     "description": "Win all the golden spoilers",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085510/8280eab2ccf1f1ca5037c819da418f9d0b0636dd.jpg"
+                },
+                {
+                    "name": "Great Cat-hatter",
+                    "description": "Win all the golden hats",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085510/469cfceec0b184b2227476e31e40c7c53d940347.jpg"
                 }
             ]
         }
@@ -24087,14 +24087,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Thrifty",
-                    "description": "Score 2.500.000.000 points in touch mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/272990/699d1b5d8b708c1dc1dfe0e1ad645080bba68346.jpg"
-                },
-                {
                     "name": "Iron arm",
                     "description": "Score 20.000.000.000 points without using second gauge.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/272990/cd2f8360a08fe21d8a75fed5c3374c3e0379b855.jpg"
+                },
+                {
+                    "name": "Thrifty",
+                    "description": "Score 2.500.000.000 points in touch mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/272990/699d1b5d8b708c1dc1dfe0e1ad645080bba68346.jpg"
                 },
                 {
                     "name": "Supraluminal",
@@ -24185,9 +24185,24 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Eiriel",
-                    "description": "Survive the power outage.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/cfe70d89388538ba797fdd375ae1a157bf02917b.jpg"
+                    "name": "Extermination",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/bfe44cd2ad6bda26df7d92692df9a1875663b4dc.jpg"
+                },
+                {
+                    "name": "Library Defeated",
+                    "description": "Clear the archives of The Library.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/24a7ebb48b5c4015a0eec46aa6a3de5d320fe8ee.jpg"
+                },
+                {
+                    "name": "Fallen West Defeated",
+                    "description": "Clear the frontiers of the Fallen West.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/d886767812a856d3b06f850851ef84aaf2fdc304.jpg"
+                },
+                {
+                    "name": "Time for Some Action...",
+                    "description": "Clear the entrance to Soytham City.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/283d2a552773d3b25258eb66119f1641fdbea14d.jpg"
                 },
                 {
                     "name": "Tutorial Cleared",
@@ -24195,14 +24210,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/39893e4fd6580543038f79e5757c8d1fd6937b36.jpg"
                 },
                 {
-                    "name": "Bugopolis Defeated",
-                    "description": "Clear the ruins of The Bugopolis.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/b9bd1b6192961a13f3b7abf760591dc1d154b2d9.jpg"
+                    "name": "Eiriel",
+                    "description": "Survive the power outage.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/cfe70d89388538ba797fdd375ae1a157bf02917b.jpg"
                 },
                 {
                     "name": "Soyburbia Defeated",
                     "description": "Clear the streets of Soyburbia.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/b4d5f8fb00ee83bbf4d63a25e20a11ab00621a9c.jpg"
+                },
+                {
+                    "name": "Bugopolis Defeated",
+                    "description": "Clear the ruins of The Bugopolis.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/b9bd1b6192961a13f3b7abf760591dc1d154b2d9.jpg"
                 },
                 {
                     "name": "CHUG THE WORLD",
@@ -24230,19 +24250,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/3e47b9c6b5ed357e40a0a1db08d8ead91c0e2ca3.jpg"
                 },
                 {
-                    "name": "Extermination",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/bfe44cd2ad6bda26df7d92692df9a1875663b4dc.jpg"
-                },
-                {
                     "name": "Asoylum Defeated",
                     "description": "Clear the expanses of The Asoylum.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/db77928cda0dcebec2c88a3fa911ef388337458e.jpg"
-                },
-                {
-                    "name": "Fallen West Defeated",
-                    "description": "Clear the frontiers of the Fallen West.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/d886767812a856d3b06f850851ef84aaf2fdc304.jpg"
                 },
                 {
                     "name": "Daycare Defeated",
@@ -24258,16 +24268,6 @@ var objectiveData =
                     "name": "Soytham Defeated",
                     "description": "Clear the alleyways of Soytham City.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/b357a859a7a9a2223f762a9f426c9750dd4bb34b.jpg"
-                },
-                {
-                    "name": "Library Defeated",
-                    "description": "Clear the archives of The Library.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/24a7ebb48b5c4015a0eec46aa6a3de5d320fe8ee.jpg"
-                },
-                {
-                    "name": "Time for Some Action...",
-                    "description": "Clear the entrance to Soytham City.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2599270/283d2a552773d3b25258eb66119f1641fdbea14d.jpg"
                 }
             ]
         }
@@ -24367,9 +24367,64 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Theory of Everything 2!",
+                    "description": "Complete \"Theory of Everything 2\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/25993ff18ecac6a635e2303f3667cfc03ff1c3f3.jpg"
+                },
+                {
+                    "name": "Hexagon Force!",
+                    "description": "Complete \"Hexagon Force\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e78acb50aff3fee30dc4cd412dcaa0e99f0f58ba.jpg"
+                },
+                {
+                    "name": "Polargeist!",
+                    "description": "Complete \"Polargeist\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/d551ff66c6511371696a9deb128c22915b190889.jpg"
+                },
+                {
+                    "name": "Blast Processing!",
+                    "description": "Complete \"Blast Processing\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/f725338ee6d83c118f929cbe075c63920b4f0999.jpg"
+                },
+                {
+                    "name": "Cycles!",
+                    "description": "Complete \"Cycles\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e86c6f2d307b946682fe6ebdb9f6c93285a0d1aa.jpg"
+                },
+                {
+                    "name": "Deadlocked!",
+                    "description": "Complete \"Deadlocked\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/000559586ac684c9fdd67cefe889dabf46d9d603.jpg"
+                },
+                {
                     "name": "Theory of Everything!",
                     "description": "Complete \"Theory of Everything\" in Normal mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/facc49794a4b1d831559603050bb278fa6dcd7a1.jpg"
+                },
+                {
+                    "name": "Fingerdash!",
+                    "description": "Complete \"Fingerdash\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/ea6e853ae2f649349872799846f924e33fbb27e1.jpg"
+                },
+                {
+                    "name": "Dash!",
+                    "description": "Complete \"Dash\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/bf6cae1f28a412b5ff5a8c096c7a4927ea249c84.jpg"
+                },
+                {
+                    "name": "Electrodynamix!",
+                    "description": "Complete \"Electrodynamix\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/6e2171b806f6068544c6f068fa3ffd8e262c5276.jpg"
+                },
+                {
+                    "name": "Dry Out!",
+                    "description": "Complete \"Dry Out\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/b84257883b55e4a219a65e14db56bd8cdebe584e.jpg"
+                },
+                {
+                    "name": "Clubstep!",
+                    "description": "Complete \"Clubstep\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/d87a7b0898c8b3a047588e28baa979e4fccbcbbe.jpg"
                 },
                 {
                     "name": "Time Machine!",
@@ -24397,11 +24452,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/99c3a08d8cd4d8d40e7c6acd9a25dda4e1dc8f5b.jpg"
                 },
                 {
-                    "name": "Clutterfunk!",
-                    "description": "Complete \"Clutterfunk\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e643076c0c6620a581c2aa5c0f292df774fe7a31.jpg"
-                },
-                {
                     "name": "Electroman Adventures!",
                     "description": "Complete \"Electroman Adventures\" in Normal mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/14b17f0e0c8ab13b261c788903d8b03557c7d3f8.jpg"
@@ -24412,9 +24462,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/df778364f2bc97a2ad3abea313139c1b86e681de.jpg"
                 },
                 {
-                    "name": "Clubstep!",
-                    "description": "Complete \"Clubstep\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/d87a7b0898c8b3a047588e28baa979e4fccbcbbe.jpg"
+                    "name": "Clutterfunk!",
+                    "description": "Complete \"Clutterfunk\" in Normal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e643076c0c6620a581c2aa5c0f292df774fe7a31.jpg"
                 },
                 {
                     "name": "Jumper!",
@@ -24425,56 +24475,6 @@ var objectiveData =
                     "name": "Stereo Madness!",
                     "description": "Complete \"Stereo Madness\" in Normal mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/c13a227b5fa2c0f7b8056480d429c7a961f315fd.jpg"
-                },
-                {
-                    "name": "Theory of Everything 2!",
-                    "description": "Complete \"Theory of Everything 2\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/25993ff18ecac6a635e2303f3667cfc03ff1c3f3.jpg"
-                },
-                {
-                    "name": "Hexagon Force!",
-                    "description": "Complete \"Hexagon Force\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e78acb50aff3fee30dc4cd412dcaa0e99f0f58ba.jpg"
-                },
-                {
-                    "name": "Blast Processing!",
-                    "description": "Complete \"Blast Processing\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/f725338ee6d83c118f929cbe075c63920b4f0999.jpg"
-                },
-                {
-                    "name": "Deadlocked!",
-                    "description": "Complete \"Deadlocked\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/000559586ac684c9fdd67cefe889dabf46d9d603.jpg"
-                },
-                {
-                    "name": "Cycles!",
-                    "description": "Complete \"Cycles\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/e86c6f2d307b946682fe6ebdb9f6c93285a0d1aa.jpg"
-                },
-                {
-                    "name": "Fingerdash!",
-                    "description": "Complete \"Fingerdash\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/ea6e853ae2f649349872799846f924e33fbb27e1.jpg"
-                },
-                {
-                    "name": "Electrodynamix!",
-                    "description": "Complete \"Electrodynamix\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/6e2171b806f6068544c6f068fa3ffd8e262c5276.jpg"
-                },
-                {
-                    "name": "Polargeist!",
-                    "description": "Complete \"Polargeist\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/d551ff66c6511371696a9deb128c22915b190889.jpg"
-                },
-                {
-                    "name": "Dry Out!",
-                    "description": "Complete \"Dry Out\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/b84257883b55e4a219a65e14db56bd8cdebe584e.jpg"
-                },
-                {
-                    "name": "Dash!",
-                    "description": "Complete \"Dash\" in Normal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322170/bf6cae1f28a412b5ff5a8c096c7a4927ea249c84.jpg"
                 }
             ]
         }
@@ -24574,29 +24574,24 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Bullet Proof",
-                    "description": "Score over 2 million on Maze in Adventure Mode without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/ece34e80da43caa37b8262b248071c5511ed2b15.jpg"
-                },
-                {
-                    "name": "Beat Col",
-                    "description": "Beat the Developer high score of 4,769,150 on Gate Dash in Adventure Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/eea92a5beeb3e62871ade54cbdca5b4547b811c6.jpg"
-                },
-                {
                     "name": "Beat Craig",
                     "description": "Beat the Developer high score of 11,261,635 on Peanut Dreams in Adventure Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/034fbae1cac076bc5836ebe3b0865315811de450.jpg"
                 },
                 {
-                    "name": "Beat Andy",
-                    "description": "Beat the Developer high score of 21,468,350 on Pacifism Classic",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/f9127f7770c8dfa0e69766d4b7696cf14105db0f.jpg"
+                    "name": "Stationary",
+                    "description": "Score over 500,000 points on Waves Classic without moving",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/a706f28af8478f0f891e04858e57619f57518374.jpg"
                 },
                 {
                     "name": "Geometry Warrior",
                     "description": "Earn 3 Stars on all 50 levels of Adventure Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/093e2922f3b7e06db137b05286b3ff652a727ec6.jpg"
+                },
+                {
+                    "name": "Beat Col",
+                    "description": "Beat the Developer high score of 4,769,150 on Gate Dash in Adventure Mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/eea92a5beeb3e62871ade54cbdca5b4547b811c6.jpg"
                 },
                 {
                     "name": "Survivalist",
@@ -24614,11 +24609,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/a73d47021d18aa84c41e7006e389d74c32c998f9.jpg"
                 },
                 {
-                    "name": "Stationary",
-                    "description": "Score over 500,000 points on Waves Classic without moving",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/a706f28af8478f0f891e04858e57619f57518374.jpg"
-                },
-                {
                     "name": "King Killer",
                     "description": "Spend 60 seconds outside of the safety King Zones in King Classic",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/3a94fe2fbc1a165a869035db850d46625c8a510d.jpg"
@@ -24634,9 +24624,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/f69d7ef392319d79cbdb2280a4ebbd8dc5854ceb.jpg"
                 },
                 {
+                    "name": "Bullet Proof",
+                    "description": "Score over 2 million on Maze in Adventure Mode without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/ece34e80da43caa37b8262b248071c5511ed2b15.jpg"
+                },
+                {
                     "name": "Deadliest",
                     "description": "Complete Deadline Classic without losing a life",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/e0c8ec14ae4fd8a8d75877fe4d45a45612e34e2e.jpg"
+                },
+                {
+                    "name": "Beat Andy",
+                    "description": "Beat the Developer high score of 21,468,350 on Pacifism Classic",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/310790/f9127f7770c8dfa0e69766d4b7696cf14105db0f.jpg"
                 }
             ]
         }
@@ -24681,6 +24681,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Grieving reliefs",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/7c8d1620ca84e5c570106b38b4d510f7ca8df359.jpg"
+                },
+                {
+                    "name": "Close your circle",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/04f9aac6e059d8e9a61a0e390a4013fc92dbe74e.jpg"
+                },
+                {
                     "name": "Fight bad habits",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/cdd21df00f2b273cad64d6aa25cbf7f0b97d0103.jpg"
@@ -24694,16 +24704,6 @@ var objectiveData =
                     "name": "Just breathe",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/30cceab07b2537274e2bcdb4445eb629ab70d7fa.jpg"
-                },
-                {
-                    "name": "Grieving reliefs",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/7c8d1620ca84e5c570106b38b4d510f7ca8df359.jpg"
-                },
-                {
-                    "name": "Close your circle",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1967940/04f9aac6e059d8e9a61a0e390a4013fc92dbe74e.jpg"
                 }
             ]
         }
@@ -24797,11 +24797,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Wait, Seriously???",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2706170/734bbfef5c085c774341a5acb7e503ce090feffd.jpg"
-                },
-                {
                     "name": "The Richest Man On Earth",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2706170/351ab8bfab7a6a7e6033441b0e09a91307368c34.jpg"
@@ -24810,6 +24805,11 @@ var objectiveData =
                     "name": "Grindset Mindset 3",
                     "description": "Listen to all of the podcasts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2706170/2f9e8452ef057940b9e472c8f100eaea8b1fceb6.jpg"
+                },
+                {
+                    "name": "Wait, Seriously???",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2706170/734bbfef5c085c774341a5acb7e503ce090feffd.jpg"
                 }
             ]
         }
@@ -24837,14 +24837,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Hero We Need",
-                    "description": "Save all the Battery Bots",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1269590/2b0a5e8001e96fd1510e95c2120f619a5a305808.jpg"
-                },
-                {
                     "name": "No Warranty Needed",
                     "description": "Complete all levels with 0 wrecks",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1269590/7cefa14b9c9a0786941a3c7e6e25dfe42e615686.jpg"
+                },
+                {
+                    "name": "The Hero We Need",
+                    "description": "Save all the Battery Bots",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1269590/2b0a5e8001e96fd1510e95c2120f619a5a305808.jpg"
                 }
             ]
         }
@@ -24938,6 +24938,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Bug Slayer",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347800/5c0ec17e2dcf180d91578e721073e3e3a2a7e1ef.jpg"
+                },
+                {
                     "name": "Hardened",
                     "description": "Complete the game on Original difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347800/c7e6c1d107a79c8ed0885a0fbc447d8a30981bf8.jpg"
@@ -24951,11 +24956,6 @@ var objectiveData =
                     "name": "Make Haste",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347800/7d432721763522ccd25102b4485add3236bba813.jpg"
-                },
-                {
-                    "name": "Bug Slayer",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347800/5c0ec17e2dcf180d91578e721073e3e3a2a7e1ef.jpg"
                 }
             ]
         }
@@ -24983,6 +24983,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Just A Man",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1139900/490294178c08d93cca5c7916e4c561f207c44b5d.jpg"
+                },
+                {
                     "name": "Scrapped",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1139900/0677ba84820150b600270003ae74ea74b5ff7c0a.jpg"
@@ -24991,11 +24996,6 @@ var objectiveData =
                     "name": "A Grade",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1139900/d1e7e040f37ca0089f97086c5d54859c09346db8.jpg"
-                },
-                {
-                    "name": "Just A Man",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1139900/490294178c08d93cca5c7916e4c561f207c44b5d.jpg"
                 },
                 {
                     "name": "Obedient Machine",
@@ -25080,6 +25080,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Godrunner",
+                    "description": "Finish any 5 levels without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2144740/8d2096e7d5a37abe528f6910f1e348980c7bb7df.jpg"
+                },
+                {
                     "name": "Un-Resurrected",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2144740/6e768de940c1d0d47e246269d5287832de3f3a33.jpg"
@@ -25088,11 +25093,6 @@ var objectiveData =
                     "name": "Faster Than Light",
                     "description": "Earn a gold medal in every challenge",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2144740/e31f7321bf824c79c21e74706df8527b2c2abf0d.jpg"
-                },
-                {
-                    "name": "Godrunner",
-                    "description": "Finish any 5 levels without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2144740/8d2096e7d5a37abe528f6910f1e348980c7bb7df.jpg"
                 }
             ]
         }
@@ -25209,6 +25209,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Frog leap",
+                    "description": "Get over the moat without lowering the bridge in Tadpole Temple",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2994880/ded42b7c523371510fa1b00dfacd5a795674b0e8.jpg"
+                },
+                {
                     "name": "Iron man",
                     "description": "Complete an entire level without resetting at checkpoint",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2994880/baa06ccc1f1008a4cd5715c02a9490e4aa07e893.jpg"
@@ -25222,11 +25227,6 @@ var objectiveData =
                     "name": "Seed of destruction",
                     "description": "Defeat boss in Tadpole Temple without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2994880/fb357dc19705487298cbcf6254cc543590228fcd.jpg"
-                },
-                {
-                    "name": "Frog leap",
-                    "description": "Get over the moat without lowering the bridge in Tadpole Temple",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2994880/ded42b7c523371510fa1b00dfacd5a795674b0e8.jpg"
                 }
             ]
         }
@@ -25260,6 +25260,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Sympathy for the Devil",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9500/4fe9fe2bdd2eed64529228044a7f20038af9a892.jpg"
+                },
+                {
                     "name": "Satan Slayer",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9500/c3a787ad622a47d1a0eb9e52b70f03010046c9f8.jpg"
@@ -25273,11 +25278,6 @@ var objectiveData =
                     "name": "The Secret",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9500/67741c518f409d7fe643d42be0bc46862ca04512.jpg"
-                },
-                {
-                    "name": "Sympathy for the Devil",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9500/4fe9fe2bdd2eed64529228044a7f20038af9a892.jpg"
                 }
             ]
         }
@@ -25305,11 +25305,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Kantan Master",
-                    "description": "Complete all Kantan levels without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/ab52f0b118dce8cb83b2b982e1224ee7b440b59f.jpg"
-                },
-                {
                     "name": "Staubland Master",
                     "description": "Complete all Staubland levels without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/cbf76836e246b0ced5a0b56a92e901dd0a33e6ae.jpg"
@@ -25318,6 +25313,11 @@ var objectiveData =
                     "name": "Moonfall Master",
                     "description": "Complete all Moonfall levels without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/89867d9a432f059b9abbf13adb3771e78dd0a1c8.jpg"
+                },
+                {
+                    "name": "Kantan Master",
+                    "description": "Complete all Kantan levels without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/ab52f0b118dce8cb83b2b982e1224ee7b440b59f.jpg"
                 },
                 {
                     "name": "Ast\u00fan Master",
@@ -25343,6 +25343,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Energized Kantan",
+                    "description": "Collect all Kantan batteries",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/cc1ff9fea7dea86d486419f2e7556d77294728a3.jpg"
+                },
+                {
                     "name": "Energized Ast\u00fan",
                     "description": "Collect all Ast\u00fan batteries",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/df9ccd095b1cf3a36bc2e1768111e44657184acf.jpg"
@@ -25356,11 +25361,6 @@ var objectiveData =
                     "name": "Energized Staubland",
                     "description": "Collect all Staubland batteries",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/bc820782ef97e3dbada6070ff1c5899a7c5f7bda.jpg"
-                },
-                {
-                    "name": "Energized Kantan",
-                    "description": "Collect all Kantan batteries",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2286720/cc1ff9fea7dea86d486419f2e7556d77294728a3.jpg"
                 }
             ]
         }
@@ -25513,9 +25513,44 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Xenophobia",
-                    "description": "Reject all the shrine offerings",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/412dea978575a631722f0ce1c1f0629aac154d6c.jpg"
+                    "name": "There are still things that bug me...",
+                    "description": "Tell more than 8 successful lies",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/b76d711bc355140f889ce1c853c3d224600c86ee.jpg"
+                },
+                {
+                    "name": "Let's talk about it",
+                    "description": "Don't shoot a single bullet",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/d25e10d790361796499bef12409b3270ddae1247.jpg"
+                },
+                {
+                    "name": "The Engineer",
+                    "description": "Repair the radio in just a week",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/078ed2539ac424dc9528fc0793aa1838c956c486.jpg"
+                },
+                {
+                    "name": "Not on my watch",
+                    "description": "Reach the camp with 7 members alive",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/a8a08885bf044c558f76f3879abd68d4a7fbecd2.jpg"
+                },
+                {
+                    "name": "Statistics",
+                    "description": "Don't let more than ten million people die",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/e1024707692ada61539860f3da95ba16eab9291a.jpg"
+                },
+                {
+                    "name": "Winners don't use drugs",
+                    "description": "Don't use the doctor's shots on anyone",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/da8027560505225d8cd20c7029ad1c0d2b347f93.jpg"
+                },
+                {
+                    "name": "I don't like risks",
+                    "description": "Produce a safe antidote in less than 5 hours",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/a4f16a1c52478e5f1e515387925599a42f5a4462.jpg"
+                },
+                {
+                    "name": "Speed climb",
+                    "description": "Get to the peak in less than 32 turns",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/0ec70652c9def39081ad782cdd8a43e05c708344.jpg"
                 },
                 {
                     "name": "Don't Panic",
@@ -25528,14 +25563,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/b61601e73b44880524a2f28d62d627b371b5b3fa.jpg"
                 },
                 {
-                    "name": "Moral Dilemma",
-                    "description": "Don't use the kid",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/f0eae332a7ad81c7882ae51a47629b6c0f8aa457.jpg"
+                    "name": "Xenophobia",
+                    "description": "Reject all the shrine offerings",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/412dea978575a631722f0ce1c1f0629aac154d6c.jpg"
                 },
                 {
                     "name": "The comedian",
                     "description": "Don't let Burden get burnt",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/564e3a6569bab67897ad35754b0c280f9312a790.jpg"
+                },
+                {
+                    "name": "Moral Dilemma",
+                    "description": "Don't use the kid",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/f0eae332a7ad81c7882ae51a47629b6c0f8aa457.jpg"
+                },
+                {
+                    "name": "Serious",
+                    "description": "Beat 4 enemy patrols using just one soldier",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/d33635e8e427c329f97b64c5b3abe38239c993cf.jpg"
                 },
                 {
                     "name": "Sgt Burden",
@@ -25548,19 +25593,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/0e5b462ab54d31a077c752b5f2b815b8ef7f5cc6.jpg"
                 },
                 {
-                    "name": "Serious",
-                    "description": "Beat 4 enemy patrols using just one soldier",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/d33635e8e427c329f97b64c5b3abe38239c993cf.jpg"
+                    "name": "Adrenaline Rush",
+                    "description": "Have a character's performance over 250%",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/59967349b69b3647cb1ff69c92906ab968dab2be.jpg"
                 },
                 {
                     "name": "The Psychiatrist",
                     "description": "Don't let anyone become depressed",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/08fdec9c3429aa0dfe4253021cf56fa9c6efd832.jpg"
-                },
-                {
-                    "name": "Adrenaline Rush",
-                    "description": "Have a character's performance over 250%",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/59967349b69b3647cb1ff69c92906ab968dab2be.jpg"
                 },
                 {
                     "name": "I'm not a snitch",
@@ -25583,11 +25623,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/bed6bb5ef7b884b0448a531d08ef761a6bbb9a53.jpg"
                 },
                 {
-                    "name": "Marvin loves you",
-                    "description": "Keep everybody alive",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/b12c1e7cb538c6e1efb972fb2beca4ace637ff00.jpg"
-                },
-                {
                     "name": "We're not terrorists",
                     "description": "Keep all the hostages alive",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/91d904ccfd62e1115a000d8d8523e04867385a18.jpg"
@@ -25598,9 +25633,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/44e8137897c19b75d251240792d3632dae92f4d9.jpg"
                 },
                 {
+                    "name": "Marvin loves you",
+                    "description": "Keep everybody alive",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/b12c1e7cb538c6e1efb972fb2beca4ace637ff00.jpg"
+                },
+                {
                     "name": "Mission Accomplished",
                     "description": "Reach the camp before the estimated time of departure",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/02356607a2013f6cac9e02a9fb9b0d99cb93f161.jpg"
+                },
+                {
+                    "name": "Quickstep",
+                    "description": "Never use more than 3 hours to travel between zones",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/3a0fe6bf695e4e83b8dea4e74e0df4cff7a9dd95.jpg"
                 },
                 {
                     "name": "F**k the police",
@@ -25613,21 +25658,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/c2e84655a6036f81e073f8a7a218ea37e20ec06d.jpg"
                 },
                 {
-                    "name": "Quickstep",
-                    "description": "Never use more than 3 hours to travel between zones",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/3a0fe6bf695e4e83b8dea4e74e0df4cff7a9dd95.jpg"
-                },
-                {
-                    "name": "The Engineer",
-                    "description": "Repair the radio in just a week",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/078ed2539ac424dc9528fc0793aa1838c956c486.jpg"
-                },
-                {
-                    "name": "Let's talk about it",
-                    "description": "Don't shoot a single bullet",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/d25e10d790361796499bef12409b3270ddae1247.jpg"
-                },
-                {
                     "name": "Flesh-Reparation Kit",
                     "description": "Cure 3 legs injuries",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/45b0302a13822beb306434efdd0b113dc744260a.jpg"
@@ -25638,19 +25668,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/6194e24d38519423da56f93c125dba15b13458f3.jpg"
                 },
                 {
-                    "name": "Speed climb",
-                    "description": "Get to the peak in less than 32 turns",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/0ec70652c9def39081ad782cdd8a43e05c708344.jpg"
+                    "name": "More than words",
+                    "description": "Complete the level without persuading anyone",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/859d143f83e084801274247f74120581d67d32dd.jpg"
                 },
                 {
                     "name": "Human Experimentation",
                     "description": "Discover the cure in less than 20 hours",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/a17d2d425caf1635e17894aa9a87886fee0ff5f7.jpg"
-                },
-                {
-                    "name": "More than words",
-                    "description": "Complete the level without persuading anyone",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/859d143f83e084801274247f74120581d67d32dd.jpg"
                 },
                 {
                     "name": "From zero to hero",
@@ -25661,31 +25686,6 @@ var objectiveData =
                     "name": "Two Suns",
                     "description": "Don't spend more than 25 hours sleeping",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/5199100796642e5996b8ae52275ecd1d661d7567.jpg"
-                },
-                {
-                    "name": "There are still things that bug me...",
-                    "description": "Tell more than 8 successful lies",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/b76d711bc355140f889ce1c853c3d224600c86ee.jpg"
-                },
-                {
-                    "name": "Statistics",
-                    "description": "Don't let more than ten million people die",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/e1024707692ada61539860f3da95ba16eab9291a.jpg"
-                },
-                {
-                    "name": "Not on my watch",
-                    "description": "Reach the camp with 7 members alive",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/a8a08885bf044c558f76f3879abd68d4a7fbecd2.jpg"
-                },
-                {
-                    "name": "Winners don't use drugs",
-                    "description": "Don't use the doctor's shots on anyone",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/da8027560505225d8cd20c7029ad1c0d2b347f93.jpg"
-                },
-                {
-                    "name": "I don't like risks",
-                    "description": "Produce a safe antidote in less than 5 hours",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/274290/a4f16a1c52478e5f1e515387925599a42f5a4462.jpg"
                 }
             ]
         }
@@ -26173,14 +26173,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Purple Gem Legend",
-                    "description": "Collect all Purple Gems",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1345860/d24503f4b61c1848d224f1d567c4fc52b22fba20.jpg"
-                },
-                {
                     "name": "Hyper Speed",
                     "description": "Collect all Gold Time Trial Medals",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1345860/e9d4f28bd9f8b5d322b91c43c04e1c27f9298927.jpg"
+                },
+                {
+                    "name": "Purple Gem Legend",
+                    "description": "Collect all Purple Gems",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1345860/d24503f4b61c1848d224f1d567c4fc52b22fba20.jpg"
                 }
             ]
         }
@@ -26196,14 +26196,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gem Collector",
-                    "description": "Collect all Gems.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278790/415a10f333a2c71329c430861b7573f8be9a4617.jpg"
-                },
-                {
                     "name": "Time Trial Master",
                     "description": "Complete all Time Trials with a gold medal.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278790/44ae7e0730686bd871933d42dd9bbf039f8dc344.jpg"
+                },
+                {
+                    "name": "Gem Collector",
+                    "description": "Collect all Gems.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2278790/415a10f333a2c71329c430861b7573f8be9a4617.jpg"
                 }
             ]
         }
@@ -26257,6 +26257,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Final Gauntlet",
+                    "description": "Clear Course 6-4 without getting hit once",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/794550/71558b578bffa1ecc6bde5944e0bc483a4435bef.jpg"
+                },
+                {
                     "name": "Champion",
                     "description": "Clear Boss Rush without using any recovery hearts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/794550/3da705ed6d7713e7d213274787e3a18dee5b876a.jpg"
@@ -26270,11 +26275,6 @@ var objectiveData =
                     "name": "Ace Adventurer",
                     "description": "Get an 'A' rank or higher an all courses.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/794550/eb88a6a4e6645b76acac498ef39422cbecd9c002.jpg"
-                },
-                {
-                    "name": "Final Gauntlet",
-                    "description": "Clear Course 6-4 without getting hit once",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/794550/71558b578bffa1ecc6bde5944e0bc483a4435bef.jpg"
                 }
             ]
         }
@@ -31016,14 +31016,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Duality",
-                    "description": "Complete all Main Sectors in R8",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/1f309aa4b0111398372933334718b2d6195fac01.jpg"
-                },
-                {
                     "name": "R8 Absolute",
                     "description": "Complete all Sectors in R8",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/d3b66c5dfcd09a45692a3032ee7e0466ac102eaf.jpg"
+                },
+                {
+                    "name": "Duality",
+                    "description": "Complete all Main Sectors in R8",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/1f309aa4b0111398372933334718b2d6195fac01.jpg"
                 },
                 {
                     "name": "Pure Will",
@@ -31105,14 +31105,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Contact",
-                    "description": "Complete all Main Sectors in ALT://R4",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/10d7a04374a6b2718c2cd0a37d17b7cfc75ed763.jpg"
-                },
-                {
                     "name": "R4 Absolute",
                     "description": "Complete all Sectors in ALT://R4",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/c14b569709c81e4048d06d18c407f3c3bcaf4b31.jpg"
+                },
+                {
+                    "name": "Contact",
+                    "description": "Complete all Main Sectors in ALT://R4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/10d7a04374a6b2718c2cd0a37d17b7cfc75ed763.jpg"
                 }
             ],
             "custom": "Replay of R4E1."
@@ -31141,14 +31141,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "R7 Absolute",
-                    "description": "Complete all Sectors in R7",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/307f4b2c83e513b6be49d8f22ebae37b71a26c4f.jpg"
-                },
-                {
                     "name": "Rise",
                     "description": "Complete all Main Sectors in R7",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/4b83dfc34d4ca512f8c3e3f063622f44d492bbdf.jpg"
+                },
+                {
+                    "name": "R7 Absolute",
+                    "description": "Complete all Sectors in R7",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/307f4b2c83e513b6be49d8f22ebae37b71a26c4f.jpg"
                 }
             ],
             "custom": "Replays of R7C3 & R7E1."
@@ -31270,11 +31270,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Deviation",
-                    "description": "Complete all Main Sectors in ALT://R1",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/afc57c27a9c30971e4e3a9a2e2b623ed9556e3d2.jpg"
-                },
-                {
                     "name": "Controlled Response",
                     "description": "Complete any B-tier expedition alone with only pistols or revolvers equipped as main and secondary",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/ccb63aa452f8a3c9da6c8f845e231b05b245af78.jpg"
@@ -31283,6 +31278,11 @@ var objectiveData =
                     "name": "Close Quarters",
                     "description": "Complete any D-tier expedition with everyone using shotguns equipped as main and secondary",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/dc2ddb0dc6941d7cef15f4acf592af2d1571c84a.jpg"
+                },
+                {
+                    "name": "Deviation",
+                    "description": "Complete all Main Sectors in ALT://R1",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493520/afc57c27a9c30971e4e3a9a2e2b623ed9556e3d2.jpg"
                 }
             ]
         }
@@ -31886,14 +31886,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/97caa23cdfb43ae581ee56c0b3b4eaadd7eda49d.jpg"
                 },
                 {
-                    "name": "Haste of Hermes",
-                    "description": "Get 20% dodge chance with the Lambent Plume",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/5dbe89eed58da232615918addfc856441465ca04.jpg"
-                },
-                {
                     "name": "Champion of Elysium",
                     "description": "Clear Elysium with the 'Extreme Measures' Condition",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/2556b5d122c23c3bf105f99ba0f08e24fae42e05.jpg"
+                },
+                {
+                    "name": "Haste of Hermes",
+                    "description": "Get 20% dodge chance with the Lambent Plume",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/5dbe89eed58da232615918addfc856441465ca04.jpg"
                 }
             ]
         }
@@ -33698,14 +33698,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/29d538fcf448baafe7bb427d7788b416f0e2e00f.jpg"
                 },
                 {
-                    "name": "Solace",
-                    "description": "Bring peace to the Grey Mourner",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/5599c786f2c5a411951563f33abed35f08ad76e4.jpg"
-                },
-                {
                     "name": "Dream No More",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/8236b05d402215e4cd497af18248d19210d8fbea.jpg"
+                },
+                {
+                    "name": "Solace",
+                    "description": "Bring peace to the Grey Mourner",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/5599c786f2c5a411951563f33abed35f08ad76e4.jpg"
                 },
                 {
                     "name": "Mortality",
@@ -33837,14 +33837,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1b40a2e64093d4fa38218d61e0980970ac143b80.jpg"
                 },
                 {
-                    "name": "Seed",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/35a5fec5d59538ef4c24e0fba6948e67f12ccb5d.jpg"
-                },
-                {
                     "name": "Fatal Resolve",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/52ce18a42124ab6f262fb1ff58601d5a6f69f8ef.jpg"
+                },
+                {
+                    "name": "Seed",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/35a5fec5d59538ef4c24e0fba6948e67f12ccb5d.jpg"
                 },
                 {
                     "name": "Fanatic",
@@ -34800,11 +34800,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Master of the Hive",
-                    "description": "Collect 50 Royal Jellies. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/822e4b0236f417d1131007976bc298efdca46b39.jpg"
-                },
-                {
                     "name": "Master of the Volcano",
                     "description": "Collect 50 Lava Lilies. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/15238c715b604203b2101fc8c34f73d121b856c3.jpg"
@@ -34818,6 +34813,11 @@ var objectiveData =
                     "name": "Rich Metal Beast",
                     "description": "Collect 50 Fulgurites. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/cdaeb69ad125d4d281fd4b400eda669b1def5dd8.jpg"
+                },
+                {
+                    "name": "Master of the Hive",
+                    "description": "Collect 50 Royal Jellies. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/822e4b0236f417d1131007976bc298efdca46b39.jpg"
                 },
                 {
                     "name": "Master of the Blizzard",
@@ -34880,16 +34880,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/3c0749c6e17e9d3f98f1869c464aefa5ff3568fd.jpg"
                 },
                 {
-                    "name": "Master of the Jungle",
-                    "description": "Collect 50 Rubies. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/071ea25e0812c64d3260aaa6ef6424c1037c2045.jpg"
-                },
-                {
-                    "name": "Master of the Windy Plains",
-                    "description": "Collect 50 White Dove Feathers. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/40867868956ae2d6b2d70f3d6eecd3bdab5e24c3.jpg"
-                },
-                {
                     "name": "Master of Cocytus",
                     "description": "Collect 50 Ice Sapphires. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/c2ddfe97a47758b1d0a6153bc091270068525f55.jpg"
@@ -34900,9 +34890,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/dfee8aaa08d0b7267a247ffb717825470df5b992.jpg"
                 },
                 {
-                    "name": "The Emperor",
-                    "description": "Collect 50 Ancient Weapons. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/f9c6e74118f8dbb30b0e63ce7028016d316587b3.jpg"
+                    "name": "Master of the Jungle",
+                    "description": "Collect 50 Rubies. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/071ea25e0812c64d3260aaa6ef6424c1037c2045.jpg"
+                },
+                {
+                    "name": "Master of the Windy Plains",
+                    "description": "Collect 50 White Dove Feathers. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/40867868956ae2d6b2d70f3d6eecd3bdab5e24c3.jpg"
                 },
                 {
                     "name": "Master of Elements",
@@ -34950,6 +34945,11 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/cbaf99dccd8ea55cde345fffd5dd45d4e253ab16.jpg"
                 },
                 {
+                    "name": "The Emperor",
+                    "description": "Collect 50 Ancient Weapons. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/f9c6e74118f8dbb30b0e63ce7028016d316587b3.jpg"
+                },
+                {
                     "name": "Master of the Wetland",
                     "description": "Collect 50 Water Lilies. (not in the Orb Strategy Mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/e0d4a673d18cb8c67b647cf2a882470ca20cea52.jpg"
@@ -34965,11 +34965,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/de90e738bb4cb796495436fd86c5337e4d4921b5.jpg"
                 },
                 {
-                    "name": "Master of Power",
-                    "description": "Collect 50 Powerstones. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/608e92cd7b70d1b4678989643ffb0a1a7a7d78b1.jpg"
-                },
-                {
                     "name": "Master of the Valley",
                     "description": "Collect 50 Red Gems. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/6d643fd7a4334896187c6a4fa230c462254ca896.jpg"
@@ -34978,6 +34973,11 @@ var objectiveData =
                     "name": "Master of the Clearing",
                     "description": "Collect 50 Mutant Fruits. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/41e96278377df9ab1d3fbf04637f8ad2fd360099.jpg"
+                },
+                {
+                    "name": "Master of Power",
+                    "description": "Collect 50 Powerstones. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/608e92cd7b70d1b4678989643ffb0a1a7a7d78b1.jpg"
                 },
                 {
                     "name": "Master of Ice",
@@ -35065,11 +35065,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/1f93198e6ebb0058b8d41ffea12997a93c4c5f41.jpg"
                 },
                 {
-                    "name": "Master of Bull Dash",
-                    "description": "Collect 50 Spinels. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/e2c4b0d4eacdc0a92ed3ef8823ef55d79e90cf67.jpg"
-                },
-                {
                     "name": "Master of Liberty",
                     "description": "Collect 50 Turquoises. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/456b27120b5375a245ede3496b87b992996defaf.jpg"
@@ -35080,14 +35075,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/0b8742ccf7d861460d4f14ad082141fb58314b88.jpg"
                 },
                 {
+                    "name": "Master of Bull Dash",
+                    "description": "Collect 50 Spinels. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/e2c4b0d4eacdc0a92ed3ef8823ef55d79e90cf67.jpg"
+                },
+                {
                     "name": "Master of Ghosts",
                     "description": "Collect 50 Black Lotuses, and escape. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/f13029c646f4a5a12f596a85db4d929de23c5296.jpg"
-                },
-                {
-                    "name": "Master of the Warp",
-                    "description": "Collect 50 Corals. (not in the Orb Strategy mode)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/b9c7a127c23b1008fb855d4469a065026d3c3a00.jpg"
                 },
                 {
                     "name": "Troll King",
@@ -35098,6 +35093,11 @@ var objectiveData =
                     "name": "Master Necromancer",
                     "description": "Collect 50 Necromancer's Totems. (not in the Orb Strategy mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/3672ad8b3c3204b9495b17261fc361c4d65401dd.jpg"
+                },
+                {
+                    "name": "Master of the Warp",
+                    "description": "Collect 50 Corals. (not in the Orb Strategy mode)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/b9c7a127c23b1008fb855d4469a065026d3c3a00.jpg"
                 },
                 {
                     "name": "Master of the Brown Island",
@@ -35130,19 +35130,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Martial Artist",
-                    "description": "Let the unarmed Princess win a fight.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/0e8db94ad2d5c7b11d6d65cb537980aa19d50921.jpg"
-                },
-                {
                     "name": "Exotic Swordsman",
                     "description": "Kill a monster by making it step right onto your magical sword.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/70c6a67badc5cb62ba403836a10c4600a8bdd840.jpg"
                 },
                 {
-                    "name": "Master of Melee",
-                    "description": "Defeat five monsters in melee at the same time (with a blade).",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/cdb296a5160e467a38f799bba371ac30d74a9542.jpg"
+                    "name": "Martial Artist",
+                    "description": "Let the unarmed Princess win a fight.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/0e8db94ad2d5c7b11d6d65cb537980aa19d50921.jpg"
                 },
                 {
                     "name": "Master of Flash",
@@ -35150,14 +35145,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/9fb399debd86636660f602e32ab66239562d39cf.jpg"
                 },
                 {
-                    "name": "Golden Beast",
-                    "description": "Kill 10 monsters at once with an electric discharge in the Land of Storms.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/ccf9faa44f817dadc42b0b4fc421063e73cced55.jpg"
+                    "name": "Master of Melee",
+                    "description": "Defeat five monsters in melee at the same time (with a blade).",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/cdb296a5160e467a38f799bba371ac30d74a9542.jpg"
                 },
                 {
                     "name": "Master of Mirrors",
                     "description": "Kill three enemies at once with Mirrors or Mirages.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/bf29322d7fc45ae0202c850bca894ae2094ab39b.jpg"
+                },
+                {
+                    "name": "Golden Beast",
+                    "description": "Kill 10 monsters at once with an electric discharge in the Land of Storms.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/342610/ccf9faa44f817dadc42b0b4fc421063e73cced55.jpg"
                 },
                 {
                     "name": "Black Mark",
@@ -36116,19 +36116,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Challenge 4-2 crown earned!",
-                    "description": "Earned the crown for challenge stage 4-2!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/1c5dd0eb2d2d6616ee017dc65ec9a5e585762340.jpg"
-                },
-                {
                     "name": "Challenge 5-2 crown earned!",
                     "description": "Earned the crown for challenge stage 5-2!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/89b58f5ec57a7ce00715dd655018e6dfc2c52750.jpg"
                 },
                 {
-                    "name": "Challenge 7-1 crown earned!",
-                    "description": "Earned the crown for challenge stage 7-1!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/88b62610e3ff20363e5340def396c2403ae371ce.jpg"
+                    "name": "Challenge 4-2 crown earned!",
+                    "description": "Earned the crown for challenge stage 4-2!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/1c5dd0eb2d2d6616ee017dc65ec9a5e585762340.jpg"
                 },
                 {
                     "name": "Challenge 10-1 crown earned!",
@@ -36146,9 +36141,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/a2db67785e5df829561debe179179a41a4fa21df.jpg"
                 },
                 {
-                    "name": "Challenge 4-3 crown earned!",
-                    "description": "Earned the crown for challenge stage 4-3!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/8dfe4d2288f73132729abfb9636a549959ce5a12.jpg"
+                    "name": "Challenge 7-1 crown earned!",
+                    "description": "Earned the crown for challenge stage 7-1!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/88b62610e3ff20363e5340def396c2403ae371ce.jpg"
                 },
                 {
                     "name": "Challenge 9-4 crown earned!",
@@ -36156,9 +36151,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/86941ebf3919257619f4cf4772e382ee3ac36e6f.jpg"
                 },
                 {
-                    "name": "Challenge 3-4 crown earned!",
-                    "description": "Earned the crown for challenge stage 3-4!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/ddc80cb2dcb122212cd7993a487ffe7ab1cf6a6f.jpg"
+                    "name": "Challenge 4-3 crown earned!",
+                    "description": "Earned the crown for challenge stage 4-3!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/8dfe4d2288f73132729abfb9636a549959ce5a12.jpg"
                 },
                 {
                     "name": "Challenge 10-4 crown earned!",
@@ -36169,6 +36164,11 @@ var objectiveData =
                     "name": "Challenge 10-2 crown earned!",
                     "description": "Earned the crown for challenge stage 10-2!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/5aba26f7235ca34ce90247ef091d4b206dc601fd.jpg"
+                },
+                {
+                    "name": "Challenge 3-4 crown earned!",
+                    "description": "Earned the crown for challenge stage 3-4!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/ddc80cb2dcb122212cd7993a487ffe7ab1cf6a6f.jpg"
                 },
                 {
                     "name": "Challenge 2-4 crown earned!",
@@ -36246,14 +36246,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/1fdd94417bdbb6c490ab7ac3f1ed141c9823d192.jpg"
                 },
                 {
-                    "name": "Challenge 5-1 crown earned!",
-                    "description": "Earned the crown for challenge stage 5-1!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/1eafce88e5a59054c589d95cbabd550d4b106b41.jpg"
-                },
-                {
                     "name": "Challenge 8-2 crown earned!",
                     "description": "Earned the crown for challenge stage 8-2!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/a67d1a1403abbe27907d5fbeddaaab73f161345e.jpg"
+                },
+                {
+                    "name": "Challenge 5-1 crown earned!",
+                    "description": "Earned the crown for challenge stage 5-1!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1123360/1eafce88e5a59054c589d95cbabd550d4b106b41.jpg"
                 },
                 {
                     "name": "Challenge 10-3 crown earned!",
@@ -37478,11 +37478,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Nobody's Perfect",
-                    "description": "Complete Ghost of the Babe with only 2 falls.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/28c0aaa11bcd073d4c7994e54d6d25c5a5b39926.jpg"
-                },
-                {
                     "name": "Giant Leaps Ghost",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/7456177419c6b6b8d67e320284887518e24872dd.jpg"
@@ -37491,6 +37486,11 @@ var objectiveData =
                     "name": "Absolute Will Ghost",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/c38baf99a63b016e18b102cc332c3774e6f5908b.jpg"
+                },
+                {
+                    "name": "Nobody's Perfect",
+                    "description": "Complete Ghost of the Babe with only 2 falls.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/28c0aaa11bcd073d4c7994e54d6d25c5a5b39926.jpg"
                 }
             ],
             "custom": "Video of the 2 fall run."
@@ -37548,9 +37548,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Absolute Will",
+                    "name": "Giant Leaps",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/a653b329d3d48cbe98b91cebf6e0d7bdfa8498aa.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/c98f05caf5e8dc5cb596d3be141d55d72d1d71da.jpg"
                 },
                 {
                     "name": "Godlike Jumper",
@@ -37558,9 +37558,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/e6f482572d4d5ff60d5deaea98fb6bb9745c0aa5.jpg"
                 },
                 {
-                    "name": "Giant Leaps",
+                    "name": "Absolute Will",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/c98f05caf5e8dc5cb596d3be141d55d72d1d71da.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/a653b329d3d48cbe98b91cebf6e0d7bdfa8498aa.jpg"
                 }
             ]
         }
@@ -37588,9 +37588,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "New King+",
-                    "description": "Complete New Babe+.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/f5aeccd220e89f0117588ddb1bb933ff142df92f.jpg"
+                    "name": "Exorcist King",
+                    "description": "Complete Ghost of the Babe.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/8cc6467e8e63055dc328f67bc0bb118148051764.jpg"
                 },
                 {
                     "name": "Jump King",
@@ -37598,9 +37598,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/bf915702744096651240c834ef08c91920c60111.jpg"
                 },
                 {
-                    "name": "Exorcist King",
-                    "description": "Complete Ghost of the Babe.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/8cc6467e8e63055dc328f67bc0bb118148051764.jpg"
+                    "name": "New King+",
+                    "description": "Complete New Babe+.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1061090/f5aeccd220e89f0117588ddb1bb933ff142df92f.jpg"
                 }
             ]
         }
@@ -37736,11 +37736,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Quadrant 1 Survivor",
-                    "description": "Clear Quadrant 1 with no retries",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942060/ed15e402d1323292337822349f7ff1d45d61d216.jpg"
-                },
-                {
                     "name": "Quadrant 2 Survivor",
                     "description": "Clear Quadrant 2 with no retries",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942060/114e94ed2111f8e1c65ad9489e3d7bd6a273c620.jpg"
@@ -37774,6 +37769,11 @@ var objectiveData =
                     "name": "Quadrant 3 Survivor",
                     "description": "Clear Quadrant 3 with no retries",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942060/bb20a5619c2d934a2585714ac7ca129368cf03b0.jpg"
+                },
+                {
+                    "name": "Quadrant 1 Survivor",
+                    "description": "Clear Quadrant 1 with no retries",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/942060/ed15e402d1323292337822349f7ff1d45d61d216.jpg"
                 }
             ]
         }
@@ -39094,16 +39094,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Lens",
-                    "description": "Found the lens",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/265fc45dd8b81f2494eb1fdf8e6092a6288976fb.jpg"
-                },
-                {
-                    "name": "Welcome to the machine",
-                    "description": "Completed the Hydro Plant",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/3600e432f2d73456b2c33f550a26b7f22edb4462.jpg"
-                },
-                {
                     "name": "Dirty Birds",
                     "description": "Scared away the Dirty Birds",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/07d971a2d74619bdb0d4d6895377818ab78b1269.jpg"
@@ -39139,9 +39129,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/6f07deff2960f21704bf92d09b0c428f2b2e096d.jpg"
                 },
                 {
+                    "name": "The Lens",
+                    "description": "Found the lens",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/265fc45dd8b81f2494eb1fdf8e6092a6288976fb.jpg"
+                },
+                {
                     "name": "Scaredy Cat",
                     "description": "Followed The Scaredy Cat out of the Observatory",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/3a4d558dd8f6729ee70871204d3b69b4793280e6.jpg"
+                },
+                {
+                    "name": "Welcome to the machine",
+                    "description": "Completed the Hydro Plant",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2696660/3600e432f2d73456b2c33f550a26b7f22edb4462.jpg"
                 }
             ]
         }
@@ -39544,11 +39544,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Clogged The Gears",
-                    "description": "Mining zone cleared.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/938980/41ac6f10280906024595e0a5f696b2fbb55f3ef9.jpg"
-                },
-                {
                     "name": "Stomped The Fire",
                     "description": "Fire zone cleared.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/938980/645eef193eb28eb29bb72b3374c3c528f737b4c9.jpg"
@@ -39567,6 +39562,11 @@ var objectiveData =
                     "name": "Slashed The Jungle",
                     "description": "Jungle zone cleared.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/938980/e3e6f539eab91475b659fb9b4c528e704fe42f4c.jpg"
+                },
+                {
+                    "name": "Clogged The Gears",
+                    "description": "Mining zone cleared.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/938980/41ac6f10280906024595e0a5f696b2fbb55f3ef9.jpg"
                 }
             ]
         }
@@ -39686,11 +39686,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Nightmare Origin",
-                    "description": "Defeated Iron Guard Knight - Origin on Nightmare Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1487270/286a5c105cd4bf7202a296c3db2fddcf22bbc9b3.jpg"
-                },
-                {
                     "name": "Nightmare The Truth",
                     "description": "Defeated Publicity Official - The Truth on Nightmare Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1487270/a0aca9862886df30289e6a57f99d647c644baafa.jpg"
@@ -39769,6 +39764,11 @@ var objectiveData =
                     "name": "Nightmare Master Tao",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1487270/2f4521119d7e6c95705efca3cb4e7e719b2db3ca.jpg"
+                },
+                {
+                    "name": "Nightmare Origin",
+                    "description": "Defeated Iron Guard Knight - Origin on Nightmare Mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1487270/286a5c105cd4bf7202a296c3db2fddcf22bbc9b3.jpg"
                 }
             ]
         }
@@ -40831,14 +40831,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ilona Zevon & Milton Foley Grand Prize",
-                    "description": "Awarded for commendable comradery and masterful navigation of relationships.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2008920/43fa1130e2f84da7766fbf6ba396da2c73a8ddfb.jpg"
-                },
-                {
                     "name": "Theseus Award",
                     "description": "Awarded for exemplary dexterity and skillful traversal of mazes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2008920/96f6c1dadcbdcc1add7c099d38da6c038ad480f6.jpg"
+                },
+                {
+                    "name": "Ilona Zevon & Milton Foley Grand Prize",
+                    "description": "Awarded for commendable comradery and masterful navigation of relationships.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2008920/43fa1130e2f84da7766fbf6ba396da2c73a8ddfb.jpg"
                 }
             ]
         }
@@ -41710,16 +41710,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Classic \u2162 \u2605",
-                    "description": "Ace Classic Vol. 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/9234e3bfd2eec9d2e8ded16116eb346ed7604f8c.jpg"
-                },
-                {
-                    "name": "Tactical \u2161 \u2605",
-                    "description": "Ace Tactical Vol. 2",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/ed324ff60b85f80a68a1671c7dc1e42a161adb24.jpg"
-                },
-                {
                     "name": "Jelly \u2161 \u2605",
                     "description": "Ace Jelly Vol. 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/9cb023be1107d574be325d3b97ba6deb068ed0fb.jpg"
@@ -41743,6 +41733,11 @@ var objectiveData =
                     "name": "Mountains \u2160 \u2605",
                     "description": "Ace Mountains Vol. 1",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/66322b3d1ce0fc767011f66e7f2f5217e0aabca7.jpg"
+                },
+                {
+                    "name": "Tactical \u2161 \u2605",
+                    "description": "Ace Tactical Vol. 2",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/ed324ff60b85f80a68a1671c7dc1e42a161adb24.jpg"
                 },
                 {
                     "name": "Tactical \u2160 \u2605",
@@ -41778,6 +41773,11 @@ var objectiveData =
                     "name": "Beach \u2160 \u2605",
                     "description": "Ace Beach Vol. 1",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/5328902d0e4f4e031eea81d52ca9d5ba5a62d8dd.jpg"
+                },
+                {
+                    "name": "Classic \u2162 \u2605",
+                    "description": "Ace Classic Vol. 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604780/9234e3bfd2eec9d2e8ded16116eb346ed7604f8c.jpg"
                 }
             ]
         }
@@ -42684,11 +42684,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Ambition Resurges!",
-                    "description": "Liberate Dr. Light and complete Mega Man 9.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495050/b2649c101032fe10d77c8156b23be64794482bc7.jpg"
-                },
-                {
                     "name": "The Fateful Showdown!",
                     "description": "Prove yourself stronger than Bass and complete Mega Man 7.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495050/bdf8760674314be387c090c610428870b1c93a6a.jpg"
@@ -42707,6 +42702,11 @@ var objectiveData =
                     "name": "The Threat from Space!",
                     "description": "Cure the Roboenza and complete Mega Man 10.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495050/7137e3f7a8ff29df80e9ee16e2d2ad6f39ac58da.jpg"
+                },
+                {
+                    "name": "The Ambition Resurges!",
+                    "description": "Liberate Dr. Light and complete Mega Man 9.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495050/b2649c101032fe10d77c8156b23be64794482bc7.jpg"
                 }
             ],
             "custom": "Video of the Extra Challenges list showing a gold medal on all of the four \"BOSS RUSH \u2605BUSTER ONLY!\" challenges."
@@ -42807,11 +42807,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Watch, Zero...",
-                    "description": "Complete Mega Man Zero 4 (cannot be earned in Casual Scenario Mode).",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/999020/d934bc7f7eae6f5456aa2c4cfc371b58c4b1a062.jpg"
-                },
-                {
                     "name": "Running The Gauntlet",
                     "description": "Complete all stages in Z Chaser (including hidden stage).",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/999020/78b2c2ff4a9c5584229439c899f4386d88fd0185.jpg"
@@ -42840,6 +42835,11 @@ var objectiveData =
                     "name": "I'll Leave This World To You...",
                     "description": "Complete Mega Man Zero (cannot be earned in Casual Scenario Mode).",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/999020/fa27761b3a1d67b977cd47efb98e41bc3216caf8.jpg"
+                },
+                {
+                    "name": "Watch, Zero...",
+                    "description": "Complete Mega Man Zero 4 (cannot be earned in Casual Scenario Mode).",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/999020/d934bc7f7eae6f5456aa2c4cfc371b58c4b1a062.jpg"
                 }
             ]
         }
@@ -42897,11 +42897,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Chosen by History",
-                    "description": "Defeat Samuel without taking any damage on Hard difficulty or above.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/235460/17e23ef2440325f162b5b0df06c2cdae6a70513e.jpg"
-                },
-                {
                     "name": "Truly Human",
                     "description": "Defeat Sundowner without taking any damage on Hard difficulty or above.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/235460/d40a065da2816aba1fd5d31670aaf8080c862061.jpg"
@@ -42915,6 +42910,11 @@ var objectiveData =
                     "name": "Virtually Flawless",
                     "description": "Set the highest score on every VR Mission.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/235460/b6da0998b1ed98b7fa5b397986c4bd27dad5d9e7.jpg"
+                },
+                {
+                    "name": "Chosen by History",
+                    "description": "Defeat Samuel without taking any damage on Hard difficulty or above.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/235460/17e23ef2440325f162b5b0df06c2cdae6a70513e.jpg"
                 },
                 {
                     "name": "You're Hired",
@@ -43613,11 +43613,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fastest",
-                    "description": "Get par time on adept",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1425640/c3d0db61c53d36adaa15962e9b3ed63a46968fb3.jpg"
-                },
-                {
                     "name": "Fast",
                     "description": "Get par time on beginner",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1425640/bb692cee65d7f20693acbfc45111b07264fdce5b.jpg"
@@ -43636,6 +43631,11 @@ var objectiveData =
                     "name": "Persister ",
                     "description": "Reach two minutes in survival",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1425640/c190e3a3bf1f71a135ad7e107e1f921889a08594.jpg"
+                },
+                {
+                    "name": "Fastest",
+                    "description": "Get par time on adept",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1425640/c3d0db61c53d36adaa15962e9b3ed63a46968fb3.jpg"
                 }
             ]
         }
@@ -43769,31 +43769,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "From Buda to Pest and back again",
-                    "description": "Deliver 1200 passengers in Budapest using no more than two tunnels.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
-                },
-                {
-                    "name": "The City of Six Carriages",
-                    "description": "Deliver 1400 passengers in Cairo using no more than one carriage per line.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/fb56c9a825a0cec629a45ff63cf862345011e4ec.jpg"
-                },
-                {
-                    "name": "The Grey Lokomotive",
-                    "description": "Deliver 1000 passengers in Berlin using no more than one locomotive per line.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/12017a2c7fe7152ff3a3a494bbb2316451b9f835.jpg"
-                },
-                {
-                    "name": "Thames Tunnel",
-                    "description": "Deliver 1000 passengers in London using no more than one tunnel.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
-                },
-                {
-                    "name": "It's about the journey",
-                    "description": "Deliver 1600 passengers in Tashkent with tunnels on no more than one line.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
-                },
-                {
                     "name": "Centralen",
                     "description": "Reach week eight in Stockholm with at least one station connected to all lines.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/51075f8b1863765639787782614f633e706d842b.jpg"
@@ -43809,14 +43784,29 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
                 },
                 {
+                    "name": "Second Harbor Crossing",
+                    "description": "Deliver 1500 passengers in Auckland using no more than two tunnels.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
+                },
+                {
                     "name": "Mapu chuco",
                     "description": "Deliver 1500 passengers in Santiago using no more than one tunnel.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
                 },
                 {
-                    "name": "Second Harbor Crossing",
-                    "description": "Deliver 1500 passengers in Auckland using no more than two tunnels.",
+                    "name": "From Buda to Pest and back again",
+                    "description": "Deliver 1200 passengers in Budapest using no more than two tunnels.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
+                },
+                {
+                    "name": "It's about the journey",
+                    "description": "Deliver 1600 passengers in Tashkent with tunnels on no more than one line.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
+                },
+                {
+                    "name": "The City of Six Carriages",
+                    "description": "Deliver 1400 passengers in Cairo using no more than one carriage per line.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/fb56c9a825a0cec629a45ff63cf862345011e4ec.jpg"
                 },
                 {
                     "name": "Elaborate Dance Number",
@@ -43827,6 +43817,11 @@ var objectiveData =
                     "name": "Bean there done that",
                     "description": "Deliver 1800 passengers in Addis Ababa using only loops.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/33a9ef7ab0a6039ce70f47dc5243049ab76e2f74.jpg"
+                },
+                {
+                    "name": "Thames Tunnel",
+                    "description": "Deliver 1000 passengers in London using no more than one tunnel.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/ca1ed93d5efca5641445080eadb5b6c07ef0da32.jpg"
                 },
                 {
                     "name": "Shanglow? Shanghai!",
@@ -43907,6 +43902,11 @@ var objectiveData =
                     "name": "Four ways to Fenway",
                     "description": "Deliver 1600 passengers in Boston using no more than four lines.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/4583440fd23587dadc29c893a276b0ab974e262e.jpg"
+                },
+                {
+                    "name": "The Grey Lokomotive",
+                    "description": "Deliver 1000 passengers in Berlin using no more than one locomotive per line.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287980/12017a2c7fe7152ff3a3a494bbb2316451b9f835.jpg"
                 }
             ]
         }
@@ -43927,18 +43927,13 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/a652827fd9c2913c4c7e1b633dba6a1614e33695.jpg"
                 },
                 {
-                    "name": "Mexico City Challenger",
-                    "description": "Complete 600 trips in any challenge in Mexico City.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/269f4fe9386908ca4d2343151a515ab05775106c.jpg"
+                    "name": "Moscow Driver",
+                    "description": "Complete 2000 trips in Moscow.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/a652827fd9c2913c4c7e1b633dba6a1614e33695.jpg"
                 },
                 {
                     "name": "Zurich Driver",
                     "description": "Complete 2000 trips in Zurich.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/a652827fd9c2913c4c7e1b633dba6a1614e33695.jpg"
-                },
-                {
-                    "name": "Moscow Driver",
-                    "description": "Complete 2000 trips in Moscow.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/a652827fd9c2913c4c7e1b633dba6a1614e33695.jpg"
                 },
                 {
@@ -43952,14 +43947,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/269f4fe9386908ca4d2343151a515ab05775106c.jpg"
                 },
                 {
-                    "name": "Wellington Driver",
-                    "description": "Complete 2000 trips in Wellington.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/d91ab99c096c9dde54ad146699ccbde7d5ce8c23.jpg"
-                },
-                {
                     "name": "Los Angeles Driver",
                     "description": "Complete 2000 trips in Los Angeles.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/a652827fd9c2913c4c7e1b633dba6a1614e33695.jpg"
+                },
+                {
+                    "name": "Wellington Driver",
+                    "description": "Complete 2000 trips in Wellington.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/d91ab99c096c9dde54ad146699ccbde7d5ce8c23.jpg"
                 },
                 {
                     "name": "Dar es Salaam Challenger",
@@ -44070,6 +44065,11 @@ var objectiveData =
                     "name": "Beijing Challenger",
                     "description": "Complete 600 trips in any challenge in Beijing.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/269f4fe9386908ca4d2343151a515ab05775106c.jpg"
+                },
+                {
+                    "name": "Mexico City Challenger",
+                    "description": "Complete 600 trips in any challenge in Mexico City.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127500/269f4fe9386908ca4d2343151a515ab05775106c.jpg"
                 }
             ]
         }
@@ -44169,16 +44169,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "MIRAY: Polygons",
-                    "description": "Clear the Stage 7 without miss.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/bece03088cea750e986367b8fa7f4f9127a45194.jpg"
-                },
-                {
-                    "name": "MIRAY: Starry Night",
-                    "description": "Clear the Stage 9 without miss.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/92c1cfa92b320de3e659913f546b1ecc2dfe14d2.jpg"
-                },
-                {
                     "name": "MIRAY: Nevertheless",
                     "description": "Clear the Stage 10 without miss.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/87c865568662cb9ab7a727166da099f215f6cf19.jpg"
@@ -44197,6 +44187,11 @@ var objectiveData =
                     "name": "MIRAY: Physical Emotion",
                     "description": "Clear the Stage 11 without miss.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/b7f138302f9a65ecb12e24471571ad2ec267d6bc.jpg"
+                },
+                {
+                    "name": "MIRAY: Starry Night",
+                    "description": "Clear the Stage 9 without miss.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/92c1cfa92b320de3e659913f546b1ecc2dfe14d2.jpg"
                 },
                 {
                     "name": "MIRAY: Child",
@@ -44247,6 +44242,11 @@ var objectiveData =
                     "name": "MIRAY: Free!",
                     "description": "Clear the Stage 6 without miss.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/05d09609ffb203b1b3082e681011849a2918d6fc.jpg"
+                },
+                {
+                    "name": "MIRAY: Polygons",
+                    "description": "Clear the Stage 7 without miss.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1410600/bece03088cea750e986367b8fa7f4f9127a45194.jpg"
                 }
             ]
         }
@@ -45292,11 +45292,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Chapter 3 No Death",
-                    "description": "Complete Chapter 3 In a Single No Death Run",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243160/7e9121cf03bc70f0d58a4ec4febd6dd20f06cd20.jpg"
-                },
-                {
                     "name": "Chapter 1 No Death",
                     "description": "Complete Chapter 1 In a Single No Death Run",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243160/32ffba066ba26bde73b325cfafce3e71bbb807ad.jpg"
@@ -45325,6 +45320,11 @@ var objectiveData =
                     "name": "Chapter 6 No Death",
                     "description": "Complete Chapter 6 In a Single No Death Run",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243160/d3f7d56a1fff1724c04fdbd42368863f0117cfcb.jpg"
+                },
+                {
+                    "name": "Chapter 3 No Death",
+                    "description": "Complete Chapter 3 In a Single No Death Run",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243160/7e9121cf03bc70f0d58a4ec4febd6dd20f06cd20.jpg"
                 }
             ]
         }
@@ -45730,14 +45730,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Clever",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230270/4eb628d0d12dc48af1c0d8851b6f7728f7f446e5.jpg"
-                },
-                {
                     "name": "Golden",
                     "description": "Get all of the All-Gold badges in every page of Solo",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230270/8871d13b3fed293ed00d127b03a9744464813ae6.jpg"
+                },
+                {
+                    "name": "Clever",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230270/4eb628d0d12dc48af1c0d8851b6f7728f7f446e5.jpg"
                 }
             ],
             "custom": "Video of progress and statistics tabs in User Profile + all tabs and secret levels in Solo Mode with name on leaderboard visible."
@@ -45850,9 +45850,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/8ae833e150b357d1822ca24abbe53b4a82387b9f.jpg"
                 },
                 {
-                    "name": "Dominate Molter",
+                    "name": "Dominate Reaper",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/a6a668639d040dae6fa3b34e586e5278395a2af0.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/e6970a9cb93b48305dc1a2ad1822393fcd1b26a0.jpg"
                 },
                 {
                     "name": "Dominate Commander",
@@ -45860,19 +45860,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/09a8b4e61964702e323e50b6cc48b69962ab0b12.jpg"
                 },
                 {
-                    "name": "Dominate Reaper",
+                    "name": "Dominate Berserker",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/e6970a9cb93b48305dc1a2ad1822393fcd1b26a0.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/1952df9b34b0fb902dcfb3558def951f88486c06.jpg"
+                },
+                {
+                    "name": "Dominate Molter",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/a6a668639d040dae6fa3b34e586e5278395a2af0.jpg"
                 },
                 {
                     "name": "Dominate Kurozan",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/6585648330701504a9a632100050def2f4e8bc5e.jpg"
-                },
-                {
-                    "name": "Dominate Berserker",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2400640/1952df9b34b0fb902dcfb3558def951f88486c06.jpg"
                 }
             ]
         }
@@ -45925,14 +45925,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Dreamcatcher",
-                    "description": "Finish \"Terry's Dream\" Side Story",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/607400/b912fa1f9fea0777681fab2c46ff74c3a1e5442d.jpg"
-                },
-                {
                     "name": "Sitcom Fan",
                     "description": "Collect all DVDs",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/607400/4926e69df37292b6917bd876745729d5f665e0c7.jpg"
+                },
+                {
+                    "name": "Dreamcatcher",
+                    "description": "Finish \"Terry's Dream\" Side Story",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/607400/b912fa1f9fea0777681fab2c46ff74c3a1e5442d.jpg"
                 }
             ]
         }
@@ -45948,14 +45948,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ultimate survivor 2",
-                    "description": "Finish the ultimate level 2 without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528950/60182833883ac2688a32e8ca5b58ed0d3d7b5b5d.jpg"
-                },
-                {
                     "name": "Ultimate survivor 1",
                     "description": "Finish the ultimate level 1 without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528950/2efb007c8e0cadecec45ee242028bb43cf49cf3c.jpg"
+                },
+                {
+                    "name": "Ultimate survivor 2",
+                    "description": "Finish the ultimate level 2 without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528950/60182833883ac2688a32e8ca5b58ed0d3d7b5b5d.jpg"
                 }
             ],
             "custom": "Video of ultimate level 4 deathless."
@@ -46002,21 +46002,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speeed Runner Master",
-                    "description": "With Speeed Runner, reach the 6th zone within 100 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/f0cd1ebdd9e6907d7aede0bd47f9bace441c2200.jpg"
-                },
-                {
-                    "name": "Infinite Redz Master",
-                    "description": "With Infinite Redz, kill 80 enemies within 120 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/1ecdd8378f33af6cce07c682e5d7755fcd7e8270.jpg"
-                },
-                {
-                    "name": "Godlike Hunter",
-                    "description": "Get a score of 500",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/d550e8df960ab65b69d7d059e2cba2bf0b96e49c.jpg"
-                },
-                {
                     "name": "Random Storm Master",
                     "description": "With Random Storm, kill 120 enemies within 180 seconds.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/b0dd5acf80e565091302f8d66825876fe67e19cb.jpg"
@@ -46035,6 +46020,21 @@ var objectiveData =
                     "name": "Infinite Warp Master",
                     "description": "With Infinite Warp, Teleport 80 times within 240 seconds.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/f412fc2e4d7b87d4476f8e0c5de9bc0223d1b0bf.jpg"
+                },
+                {
+                    "name": "Godlike Hunter",
+                    "description": "Get a score of 500",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/d550e8df960ab65b69d7d059e2cba2bf0b96e49c.jpg"
+                },
+                {
+                    "name": "Speeed Runner Master",
+                    "description": "With Speeed Runner, reach the 6th zone within 100 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/f0cd1ebdd9e6907d7aede0bd47f9bace441c2200.jpg"
+                },
+                {
+                    "name": "Infinite Redz Master",
+                    "description": "With Infinite Redz, kill 80 enemies within 120 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873070/1ecdd8378f33af6cce07c682e5d7755fcd7e8270.jpg"
                 }
             ]
         }
@@ -46068,11 +46068,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Action Supremacist",
-                    "description": "Defeat Argus without picking up any items.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/788100/25d18c1eba4b3ba9b153af766713a92b1876d682.jpg"
-                },
-                {
                     "name": "Safety First",
                     "description": "Complete a run without getting hurt.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/788100/01084c6b3b94f0dd532169bb9d2991cf40b6cb66.jpg"
@@ -46081,6 +46076,11 @@ var objectiveData =
                     "name": "Ultimate Challenge",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/788100/e06fe641021b58689f585eb508d9de59df0077a4.jpg"
+                },
+                {
+                    "name": "Action Supremacist",
+                    "description": "Defeat Argus without picking up any items.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/788100/25d18c1eba4b3ba9b153af766713a92b1876d682.jpg"
                 }
             ]
         }
@@ -46096,9 +46096,29 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Gale Fingers",
+                    "description": "Clear Temperate on difficulty 20 within 20 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/299a590cef53761a79e208e04d6e08c73a9a6f83.jpg"
+                },
+                {
+                    "name": "Scorching Speedster",
+                    "description": "Clear Tropics on difficulty 20 within 25 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/6061b95235795359c0ffcd7cac3b3633c2120415.jpg"
+                },
+                {
+                    "name": "Faster than General Winter",
+                    "description": "Clear Frigid Zone on difficulty 20 within 7 years.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/babe9b000819975dd34c9c2efb049a06a50bf50c.jpg"
+                },
+                {
                     "name": "Rapid Development City",
                     "description": "Clear Tropics on difficulty 20 within 7 years.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/7ebda23a6bb98e0f25f6e45121169f8528143bd1.jpg"
+                },
+                {
+                    "name": "God-speed Pioneer",
+                    "description": "Clear Temperate on difficulty 20 within 7 years.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/0eaedd5c899709c65adc868c3e198997238178ca.jpg"
                 },
                 {
                     "name": "Greedy Vacation",
@@ -46109,11 +46129,6 @@ var objectiveData =
                     "name": "Too Lively Village",
                     "description": "Clear Temperate on difficulty 20 with 40 or more pieces in the deck.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/f8b463e4f71c925919d394da55e67581c40a6755.jpg"
-                },
-                {
-                    "name": "God-speed Pioneer",
-                    "description": "Clear Temperate on difficulty 20 within 7 years.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/0eaedd5c899709c65adc868c3e198997238178ca.jpg"
                 },
                 {
                     "name": "Perfect Collection",
@@ -46129,21 +46144,6 @@ var objectiveData =
                     "name": "Unfrozen Fingers",
                     "description": "Clear Frigid Zone on difficulty 20 within 20 minutes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/d0d269700a3c184cd56434db9dc5a46c866be149.jpg"
-                },
-                {
-                    "name": "Scorching Speedster",
-                    "description": "Clear Tropics on difficulty 20 within 25 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/6061b95235795359c0ffcd7cac3b3633c2120415.jpg"
-                },
-                {
-                    "name": "Gale Fingers",
-                    "description": "Clear Temperate on difficulty 20 within 20 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/299a590cef53761a79e208e04d6e08c73a9a6f83.jpg"
-                },
-                {
-                    "name": "Faster than General Winter",
-                    "description": "Clear Frigid Zone on difficulty 20 within 7 years.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/babe9b000819975dd34c9c2efb049a06a50bf50c.jpg"
                 }
             ]
         }
@@ -46159,11 +46159,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Tropical Village 20",
-                    "description": "Complete difficulty level 20 in Tropics",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/ab5f4ab7f6ddbb3299f5009d9bfcb7b7a183e9c1.jpg"
-                },
-                {
                     "name": "Temperate Village 20",
                     "description": "Complete difficulty level 20 in Temperate ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/7524ff4ca42cded2c125256cca9024c9a48d2bed.jpg"
@@ -46172,6 +46167,11 @@ var objectiveData =
                     "name": "Boreal Village 20",
                     "description": "Complete difficulty level 20 in Frigid Zone",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/57b43953508551296f0f4f86ca4381cb351d805d.jpg"
+                },
+                {
+                    "name": "Tropical Village 20",
+                    "description": "Complete difficulty level 20 in Tropics",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2916670/ab5f4ab7f6ddbb3299f5009d9bfcb7b7a183e9c1.jpg"
                 }
             ]
         }
@@ -46252,14 +46252,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/3982380d40932def2de65cb8645d4fe8c999c80f.jpg"
                 },
                 {
-                    "name": "Straight A's",
-                    "description": "Earn an Ace medal on every level",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/99795ed6f9fa13b273ef392ce76abdeb9238a377.jpg"
-                },
-                {
                     "name": "Clockwork",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/822709182ec27d86828f279579d67f766766207d.jpg"
+                },
+                {
+                    "name": "Straight A's",
+                    "description": "Earn an Ace medal on every level",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/99795ed6f9fa13b273ef392ce76abdeb9238a377.jpg"
                 },
                 {
                     "name": "Red's Hell Rush Complete",
@@ -46267,14 +46267,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/ae4ac3820fa870e72510066d435aafc38619a04a.jpg"
                 },
                 {
-                    "name": "Divine Intervention",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/6962fe2ce1bd8fd39adbd1e87a88dfb9b6e0c2bb.jpg"
-                },
-                {
                     "name": "Violet's Hell Rush Complete",
                     "description": "Complete Violet's Hell Rush",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/a0164afc272033b485af772cbe59fcdf8b4c89e5.jpg"
+                },
+                {
+                    "name": "Divine Intervention",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1533420/6962fe2ce1bd8fd39adbd1e87a88dfb9b6e0c2bb.jpg"
                 }
             ]
         }
@@ -46457,9 +46457,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/05e8fbbed3e2e258237910cf98df375d450c5662.jpg"
                 },
                 {
+                    "name": "Unumpuriss Vanquished\t",
+                    "description": "Get S Rank in World 10",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/f3f666d0d0ac1eb82d3d76637084f0b82c305d4f.jpg"
+                },
+                {
                     "name": "Quaerper Vanquished\t",
                     "description": "Get S Rank in World 4",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/d89847329cc02437c643512611a5103083576573.jpg"
+                },
+                {
+                    "name": "Desoforn Vanquished\t",
+                    "description": "Get S Rank in World 7",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/aea40097cb4e859962824adcf6af9e18876fe423.jpg"
                 },
                 {
                     "name": "Illudolet Vanquished\t",
@@ -46472,14 +46482,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/e83cb43e6c18c2b49b5bcbf629956917401e22ee.jpg"
                 },
                 {
-                    "name": "Remittet Vanquished\t",
-                    "description": "Get S Rank in World 5",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/4b9408596843dd9c3d2fdd0bb27bf0532febc077.jpg"
-                },
-                {
                     "name": "Tribulus Vanquished\t",
                     "description": "Get S Rank in World 1",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/e9a707a38a7a18d267928b423093b398df8100cc.jpg"
+                },
+                {
+                    "name": "Remittet Vanquished\t",
+                    "description": "Get S Rank in World 5",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/4b9408596843dd9c3d2fdd0bb27bf0532febc077.jpg"
                 },
                 {
                     "name": "Petulmuta Vanquished\t",
@@ -46490,16 +46500,6 @@ var objectiveData =
                     "name": "Spinaclyp Vanquished\t",
                     "description": "Get S Rank in World 3",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/60951634fef6196a8bc26cd58df176c02bde2c54.jpg"
-                },
-                {
-                    "name": "Unumpuriss Vanquished\t",
-                    "description": "Get S Rank in World 10",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/f3f666d0d0ac1eb82d3d76637084f0b82c305d4f.jpg"
-                },
-                {
-                    "name": "Desoforn Vanquished\t",
-                    "description": "Get S Rank in World 7",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1016000/aea40097cb4e859962824adcf6af9e18876fe423.jpg"
                 }
             ]
         }
@@ -46637,11 +46637,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fea(s)ts!",
-                    "description": "Complete 100 feats",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/404540/070cc2bcd8d627d1b17815ffcf6371fe7ef7e685.jpg"
-                },
-                {
                     "name": "Veteran",
                     "description": "Complete Arcade mode on Veteran difficulty",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/404540/dde73edb6487ca737bad94b75f3f89542d79ad87.jpg"
@@ -46650,6 +46645,11 @@ var objectiveData =
                     "name": "Master",
                     "description": "Complete Techno Forest on Master difficulty",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/404540/b558d0e47f16dade8d7f0d5272dc1397f9acb548.jpg"
+                },
+                {
+                    "name": "Fea(s)ts!",
+                    "description": "Complete 100 feats",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/404540/070cc2bcd8d627d1b17815ffcf6371fe7ef7e685.jpg"
                 }
             ]
         }
@@ -46696,6 +46696,31 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Time attack: World 2-11",
+                    "description": "Beat 27.5 seconds on World 2-11.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
+                },
+                {
+                    "name": "Time attack: World 2-7",
+                    "description": "Beat 30 seconds on World 2-7.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
+                },
+                {
+                    "name": "Time attack: World 5-2",
+                    "description": "Beat 30 seconds on World 5-2.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
+                },
+                {
+                    "name": "Time attack: World 4-7",
+                    "description": "Beat 45 seconds on World 4-7.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
+                },
+                {
+                    "name": "Time attack: World 3-2",
+                    "description": "Beat 20 seconds on World 3-2.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
+                },
+                {
                     "name": "Treasure hunter",
                     "description": "Collected all coins.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/e477403ea3f4ab00e1dbed0e530014024a5cd695.jpg"
@@ -46723,31 +46748,6 @@ var objectiveData =
                 {
                     "name": "Time attack: World 3-5c",
                     "description": "Beat 42 seconds on World 3-5c.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
-                },
-                {
-                    "name": "Time attack: World 2-11",
-                    "description": "Beat 27.5 seconds on World 2-11.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
-                },
-                {
-                    "name": "Time attack: World 2-7",
-                    "description": "Beat 30 seconds on World 2-7.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
-                },
-                {
-                    "name": "Time attack: World 5-2",
-                    "description": "Beat 30 seconds on World 5-2.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
-                },
-                {
-                    "name": "Time attack: World 4-7",
-                    "description": "Beat 45 seconds on World 4-7.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
-                },
-                {
-                    "name": "Time attack: World 3-2",
-                    "description": "Beat 20 seconds on World 3-2.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/50000/63949aa0ca981e03ca9f7bc17a5f96a0653e2e39.jpg"
                 }
             ],
@@ -46822,6 +46822,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Prestige",
+                    "description": "Cleared 5 Leader Trials.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/719233bb6ee6f25506fe0cea62926a880f755003.jpg"
+                },
+                {
+                    "name": "Ultimate",
+                    "description": "Cleared 3 Ultimate Ninja Trials.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/4cf79771187c2dc8e6217e80f3e7b7814dab1ea3.jpg"
+                },
+                {
                     "name": "Initiate",
                     "description": "Cleared 10 Acolyte Trials.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/5f583f7c4d073740144a0a9dced9e5cd77db5d0c.jpg"
@@ -46835,16 +46845,6 @@ var objectiveData =
                     "name": "Overlord",
                     "description": "Cleared 5 Master Ninja Trials.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/64ebdba2fe2096e220e538e60275c4ffce40a61f.jpg"
-                },
-                {
-                    "name": "Prestige",
-                    "description": "Cleared 5 Leader Trials.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/719233bb6ee6f25506fe0cea62926a880f755003.jpg"
-                },
-                {
-                    "name": "Ultimate",
-                    "description": "Cleared 3 Ultimate Ninja Trials.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369760/4cf79771187c2dc8e6217e80f3e7b7814dab1ea3.jpg"
                 }
             ],
             "custom": "Clip showing all trials as cleared."
@@ -46926,6 +46926,11 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2542120/a85d3ce0b49283a25b9aa6fa43bf9bcd2028f3ba.jpg"
                 },
                 {
+                    "name": "Endless Struggle",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2542120/b78435353ca28bea90f5fc3a682512cbce626554.jpg"
+                },
+                {
                     "name": "The Fate of the Giant",
                     "description": "Find all Crystal Skulls.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2542120/32314d088afaae54d18cb6827b68dd1380a4dca4.jpg"
@@ -46954,11 +46959,6 @@ var objectiveData =
                     "name": "Legendary Ninja",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2542120/58a67dc1f8b29d284ef94cdcb783c40bff883287.jpg"
-                },
-                {
-                    "name": "Endless Struggle",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2542120/b78435353ca28bea90f5fc3a682512cbce626554.jpg"
                 }
             ]
         }
@@ -46974,16 +46974,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Untouchable",
-                    "description": "Complete all \"Perfect\" challenges.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/e044a32a547c576b0d183542b7ac3077d3e97717.jpg"
-                },
-                {
-                    "name": "The Superior Shinobi",
-                    "description": "Defeat Shiro without getting hit.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/0f8d58de143a17a06e5fdc27d323e015e152cb94.jpg"
-                },
-                {
                     "name": "Shurikenjutsu Master",
                     "description": "Clear the game without dying in \"Hardcore\" mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/7d4e33c1d5f59eed848c2ffa681bcb3aa4c81505.jpg"
@@ -46992,6 +46982,16 @@ var objectiveData =
                     "name": "Speed Run",
                     "description": "Clear the game in 25 minutes or less in \"Hardcore\" mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/84ea0a272f542fe634d17e2b0d13178592a15367.jpg"
+                },
+                {
+                    "name": "Untouchable",
+                    "description": "Complete all \"Perfect\" challenges.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/e044a32a547c576b0d183542b7ac3077d3e97717.jpg"
+                },
+                {
+                    "name": "The Superior Shinobi",
+                    "description": "Defeat Shiro without getting hit.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405540/0f8d58de143a17a06e5fdc27d323e015e152cb94.jpg"
                 }
             ]
         }
@@ -47068,11 +47068,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Grand Master",
-                    "description": "Beat Security Level 10 with L33.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1709050/92476f9208328ea6e57ec5303e51dd65e4e9be6a.jpg"
-                },
-                {
                     "name": "Champion",
                     "description": "Beat Security Level 10 with J4X.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1709050/64eac9515b38b63223cc34524b1b39e223ef10c5.jpg"
@@ -47081,6 +47076,11 @@ var objectiveData =
                     "name": "Legendary Assassin",
                     "description": "Beat Security Level 10 with K31.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1709050/2d31f5b16c22a1acb59a6fb5c176f91b915cc858.jpg"
+                },
+                {
+                    "name": "Grand Master",
+                    "description": "Beat Security Level 10 with L33.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1709050/92476f9208328ea6e57ec5303e51dd65e4e9be6a.jpg"
                 }
             ],
             "custom": "Videos of Security Level 10 with all three characters without quitting to menu."
@@ -47237,6 +47237,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Story G Master",
+                    "description": "Clear Story G on Hard.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/0c81c1017a5e283856010d7d9ff10d66b3537c42.jpg"
+                },
+                {
                     "name": "GM3 Terror-Instinct",
                     "description": "Get AA or higher on every song in epG on Overload.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/866514bdb9d93041bc634e7b142a25ba3e5ea68c.jpg"
@@ -47245,11 +47250,6 @@ var objectiveData =
                     "name": "One Over Zero",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/92f9b3bd61b1fce5df102e67942e32b6ab648030.jpg"
-                },
-                {
-                    "name": "Story G Master",
-                    "description": "Clear Story G on Hard.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/0c81c1017a5e283856010d7d9ff10d66b3537c42.jpg"
                 }
             ]
         }
@@ -47289,11 +47289,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Another Possibility (1) (1)",
-                    "description": "Clear all EX Stories in re:||VERSE on Hard or above.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/fc229da7c82e2fb2bca4b913b1f1e5f5ce03a372.jpg"
-                },
-                {
                     "name": "GM2 The Absolute Plus",
                     "description": "Get A or higher on every song in epG on Hard.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/d1ac672b1f7789af0951c939e0d128b3315933c4.jpg"
@@ -47302,6 +47297,11 @@ var objectiveData =
                     "name": "Awakened reV Master",
                     "description": "Get A or higher on every song in re:||VERSE on Hard.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/41eaec510033606064bfbd9879f1eb89977f2c25.jpg"
+                },
+                {
+                    "name": "Another Possibility (1) (1)",
+                    "description": "Clear all EX Stories in re:||VERSE on Hard or above.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/fc229da7c82e2fb2bca4b913b1f1e5f5ce03a372.jpg"
                 }
             ]
         }
@@ -47317,14 +47317,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Story C Master",
-                    "description": "Clear Story C on Hardcore Mode on Hard or above.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/26c8fcbf2e44504345bead4eaf9d1709eee82c21.jpg"
-                },
-                {
                     "name": "Ultimate NOISZ Master",
                     "description": "Get AA or higher on every song on Overload.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/64ec3835a5e8d3c603f62a9493ebd137828eb664.jpg"
+                },
+                {
+                    "name": "Story C Master",
+                    "description": "Clear Story C on Hardcore Mode on Hard or above.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/26c8fcbf2e44504345bead4eaf9d1709eee82c21.jpg"
                 }
             ]
         }
@@ -47352,6 +47352,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "WHITE Challenger",
+                    "description": "Clear Ranking Course WHITE.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/201f1f150b9d5cef88d5db0b7cc735991cdbd24c.jpg"
+                },
+                {
                     "name": "BRONZE Challenger",
                     "description": "Clear Ranking Course BRONZE.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/afaf7c855974101cbc0386a4c50bbb6637043d1e.jpg"
@@ -47360,11 +47365,6 @@ var objectiveData =
                     "name": "RED Challenger",
                     "description": "Clear Ranking Course RED.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/65da6d2c6ccc3ecb57abac3ece5578144256adb1.jpg"
-                },
-                {
-                    "name": "WHITE Challenger",
-                    "description": "Clear Ranking Course WHITE.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/201f1f150b9d5cef88d5db0b7cc735991cdbd24c.jpg"
                 }
             ]
         }
@@ -47380,14 +47380,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Awakened NOISZ Master",
-                    "description": "Get A or higher on every song on Hard.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/b8cc16fabe69dcabb24e214556da2e867688cfea.jpg"
-                },
-                {
                     "name": "Lore Master",
                     "description": "Clear all EX Stories on Hard or above.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/dccea49c43640231c745cceb83685447a588ccfe.jpg"
+                },
+                {
+                    "name": "Awakened NOISZ Master",
+                    "description": "Get A or higher on every song on Hard.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/b8cc16fabe69dcabb24e214556da2e867688cfea.jpg"
                 }
             ]
         }
@@ -47403,14 +47403,19 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Dance Masters",
+                    "description": "Get SS with Dancer Style on any song.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/bfda18dadcbdb59ac99b97020a354f464d0e0141.jpg"
+                },
+                {
                     "name": "Story C Reader",
                     "description": "Clear Story C.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/6327ac1a54332c91a4cde19046a3ef95eaa0bbe0.jpg"
                 },
                 {
-                    "name": "Sequence Unlimited",
-                    "description": "Obtain a Max Combo of 300 or higher.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/cc9612679655dd1ccf5ebe8a23c2738ca71f7703.jpg"
+                    "name": "Blaster Expert",
+                    "description": "Get SS with Blaster Style on any song.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/e48dbf9c443d0541ae38b611b6eb7bdf0c443c1c.jpg"
                 },
                 {
                     "name": "Hardcore",
@@ -47428,14 +47433,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/e313e644a6f6df9ad02d45a168069bb7964653e8.jpg"
                 },
                 {
-                    "name": "Blaster Expert",
-                    "description": "Get SS with Blaster Style on any song.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/e48dbf9c443d0541ae38b611b6eb7bdf0c443c1c.jpg"
-                },
-                {
-                    "name": "Dance Masters",
-                    "description": "Get SS with Dancer Style on any song.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/bfda18dadcbdb59ac99b97020a354f464d0e0141.jpg"
+                    "name": "Sequence Unlimited",
+                    "description": "Obtain a Max Combo of 300 or higher.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/681530/cc9612679655dd1ccf5ebe8a23c2738ca71f7703.jpg"
                 }
             ]
         }
@@ -47493,6 +47493,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "The Gods Are Afraid",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/08794789c5e8c3f1f85e3993fb36a4b49ac29b91.jpg"
+                },
+                {
+                    "name": "100% Spell Progress",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg"
+                },
+                {
+                    "name": "100% Perk Progress",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/4a730e833b0b3d1c626ea5036db56e81054b7d7b.jpg"
+                },
+                {
                     "name": "100% Enemy Progress",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/18c76ae26e6cb5c0743863e8e31a45b203ce7fa9.jpg"
@@ -47501,21 +47516,6 @@ var objectiveData =
                     "name": "The Gods Are Impressed",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/b9aae70a7f07ca96cb9f531bff48119611e0227d.jpg"
-                },
-                {
-                    "name": "100% Spell Progress",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/fc37560f3506ab3cfd5e4f5513d6c8c2885a40ec.jpg"
-                },
-                {
-                    "name": "The Gods Are Afraid",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/08794789c5e8c3f1f85e3993fb36a4b49ac29b91.jpg"
-                },
-                {
-                    "name": "100% Perk Progress",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/4a730e833b0b3d1c626ea5036db56e81054b7d7b.jpg"
                 }
             ]
         }
@@ -47773,24 +47773,19 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Never Look Back",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/75a447a9ce0c7cec938d7d7862cede980ef622f1.jpg"
-                },
-                {
                     "name": "Way Of The Chicken",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/782845b1ea50b6a4d8574ea9a4902c046e8defd9.jpg"
                 },
                 {
-                    "name": "Everything Hurts",
-                    "description": "Reach the Nuclear Throne without Rhino Skin or Strong Spirit as Melting.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/f2f1d786f4170ad731da97143b01080672b6ff11.jpg"
-                },
-                {
                     "name": "Fish Can Roll",
                     "description": "Loop as every character.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/14724caacc4e1ac8677a6fa9eaccdae97e133a0c.jpg"
+                },
+                {
+                    "name": "Everything Hurts",
+                    "description": "Reach the Nuclear Throne without Rhino Skin or Strong Spirit as Melting.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/f2f1d786f4170ad731da97143b01080672b6ff11.jpg"
                 },
                 {
                     "name": "Forget The Old Days",
@@ -47803,14 +47798,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/cde1782cc483245f029ab9e92b84b3d589922fc8.jpg"
                 },
                 {
+                    "name": "Verified",
+                    "description": "Unlock a Golden Weapon for every character.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/091e5044171ff65426f23cf94cefb8aa35187953.jpg"
+                },
+                {
                     "name": "Blood Blood Blood",
                     "description": "Reach the Nuclear Throne in under 10 minutes as Plant.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/123bd2731057345610c9050c23547e037237eb71.jpg"
                 },
                 {
-                    "name": "Verified",
-                    "description": "Unlock a Golden Weapon for every character.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/091e5044171ff65426f23cf94cefb8aa35187953.jpg"
+                    "name": "Thriller",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/31b4e38502df4e030cd61520f10f7952dd46b9d9.jpg"
                 },
                 {
                     "name": "Science",
@@ -47818,9 +47818,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/0f6b54f7438bfcd6dbbf2c953b5fe50a5166a3af.jpg"
                 },
                 {
-                    "name": "Thriller",
+                    "name": "Never Look Back",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/31b4e38502df4e030cd61520f10f7952dd46b9d9.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242680/75a447a9ce0c7cec938d7d7862cede980ef622f1.jpg"
                 }
             ]
         }
@@ -48034,16 +48034,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "PAR 100%",
-                    "description": "Get all Par 100% Medals",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/11677572ef4153fd5e6527be97643ced776cab2e.jpg"
-                },
-                {
-                    "name": "TIME",
-                    "description": "Get all Time Medals",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/feb5e399bdd254735753a04c5d863c4aeb656bb9.jpg"
-                },
-                {
                     "name": "ROGUE TRAVELLER",
                     "description": "Beat World 1 in Rogue Extra mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/1ccefbcee23c3e86c78ddb50a9fdaf74c576cb58.jpg"
@@ -48067,6 +48057,16 @@ var objectiveData =
                     "name": "GHOST 2",
                     "description": "Beat 4-7, collect and destroy nothing, don't get detected by a scanner, don't get hit",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/c8f3e4712344f8f70234e0e65817b4616c82fd7b.jpg"
+                },
+                {
+                    "name": "PAR 100%",
+                    "description": "Get all Par 100% Medals",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/11677572ef4153fd5e6527be97643ced776cab2e.jpg"
+                },
+                {
+                    "name": "TIME",
+                    "description": "Get all Time Medals",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434660/feb5e399bdd254735753a04c5d863c4aeb656bb9.jpg"
                 }
             ]
         }
@@ -48082,11 +48082,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speedrunner",
-                    "description": "Completed the game in less than 2 hours.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319480/2ff8e509467a32006dd1d811599338abfc641e43.jpg"
-                },
-                {
                     "name": "Mortal Beheadings",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319480/da82a8aac3550572f3cb997209c45cf0d5d95429.jpg"
@@ -48100,6 +48095,11 @@ var objectiveData =
                     "name": "Highlander",
                     "description": "Beat the entire game only using Haggis' Sword.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319480/4aba202f7508c46c54916b30e3395c879b44469a.jpg"
+                },
+                {
+                    "name": "Speedrunner",
+                    "description": "Completed the game in less than 2 hours.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/319480/2ff8e509467a32006dd1d811599338abfc641e43.jpg"
                 }
             ]
         }
@@ -48115,14 +48115,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "New 'n' Hasty",
-                    "description": "Rescue every Mudokon with an overall Best Time of 3:00:00 or less.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/314660/efc2e79f6d674ea5a04d57fc9767fa93880dc47f.jpg"
-                },
-                {
                     "name": "Odd Messiah",
                     "description": "Rescue every Mudokon while finishing New 'n' Tasty in Hard mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/314660/40cfc3e327368e79d2d9a49556dff899c194db6d.jpg"
+                },
+                {
+                    "name": "New 'n' Hasty",
+                    "description": "Rescue every Mudokon with an overall Best Time of 3:00:00 or less.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/314660/efc2e79f6d674ea5a04d57fc9767fa93880dc47f.jpg"
                 }
             ]
         }
@@ -48174,9 +48174,69 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Steep Descent",
+                    "name": "The Underground Tower",
                     "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/edda38f28b54edc5f0d54c2e9f0b753d8490bd2f.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/d4c2f27daf3cd82cb88d0dd155755254eacdd26c.jpg"
+                },
+                {
+                    "name": "The Hut Roof",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/6345cee1ca05f13812a04dc4a8f27c9d06088298.jpg"
+                },
+                {
+                    "name": "The Graveyard Wall",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/0296d39f9b82261999b612aef401b139cd3b4855.jpg"
+                },
+                {
+                    "name": "The Secluded Village",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/ecec54124f1630cab6bb05535c31a651d762c0c9.jpg"
+                },
+                {
+                    "name": "The Cliff Path",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/df47a4b53018e40bd4c55bf3c7e87858f16c9f40.jpg"
+                },
+                {
+                    "name": "The Tower Roof",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/c983b38406b8d9f0bed7b279ee0fd53884d96791.jpg"
+                },
+                {
+                    "name": "The Groundsman's Hut",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/d4c2f27daf3cd82cb88d0dd155755254eacdd26c.jpg"
+                },
+                {
+                    "name": "The Draw-Bridge",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/5487557ccd0b998ba67c8134b3270a10f3419f78.jpg"
+                },
+                {
+                    "name": "The Shattered Town",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/06cb1bbd89e1d7026af32f4503ecc1a440f2f667.jpg"
+                },
+                {
+                    "name": "The Long Pipe",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/5342542de273e0c47e4e5727963f17f3d9e881ff.jpg"
+                },
+                {
+                    "name": "The Big Cave",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/8db74ab7d4fb331325c5b5e56cccbeb23dbccc5c.jpg"
+                },
+                {
+                    "name": "The Palace Walls",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/6a79a5ec218f4dbc91d5d6d8d26ded3b231b6164.jpg"
+                },
+                {
+                    "name": "The Palace Roof",
+                    "description": "Checkpoint reached!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/303fd86bca85e99cddc3f613389ec0a9bc7bf8d7.jpg"
                 },
                 {
                     "name": "The Side Gate",
@@ -48194,19 +48254,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/9c8aa690c90bf791eb0a77f0b6347abeec53901d.jpg"
                 },
                 {
-                    "name": "The Garden Scaffold",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/183da3ccf679e1e0d9fbe40cee6fab0e7282ffcd.jpg"
-                },
-                {
                     "name": "The Chapel Roof",
                     "description": "Checkpoint reached!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/8db74ab7d4fb331325c5b5e56cccbeb23dbccc5c.jpg"
-                },
-                {
-                    "name": "The Graveyard Wall",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/0296d39f9b82261999b612aef401b139cd3b4855.jpg"
                 },
                 {
                     "name": "The Sacred Nest",
@@ -48219,11 +48269,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/a8be0f6f2285e847b1398f885e867acdb83a4e47.jpg"
                 },
                 {
-                    "name": "The Cliff Path",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/df47a4b53018e40bd4c55bf3c7e87858f16c9f40.jpg"
-                },
-                {
                     "name": "The Cliff Scaffold",
                     "description": "Checkpoint reached!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/49ffbb3c38ebf8a7b6dc3e47c7dbacf7165140e2.jpg"
@@ -48234,59 +48279,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/001af6f6fb4752d20b9e93fa04f398500ba89bac.jpg"
                 },
                 {
-                    "name": "The Draw-Bridge",
+                    "name": "The Steep Descent",
                     "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/5487557ccd0b998ba67c8134b3270a10f3419f78.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/edda38f28b54edc5f0d54c2e9f0b753d8490bd2f.jpg"
                 },
                 {
-                    "name": "The Shattered Town",
+                    "name": "The Garden Scaffold",
                     "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/06cb1bbd89e1d7026af32f4503ecc1a440f2f667.jpg"
-                },
-                {
-                    "name": "The Big Cave",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/8db74ab7d4fb331325c5b5e56cccbeb23dbccc5c.jpg"
-                },
-                {
-                    "name": "The Palace Walls",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/6a79a5ec218f4dbc91d5d6d8d26ded3b231b6164.jpg"
-                },
-                {
-                    "name": "The Underground Tower",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/d4c2f27daf3cd82cb88d0dd155755254eacdd26c.jpg"
-                },
-                {
-                    "name": "The Hut Roof",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/6345cee1ca05f13812a04dc4a8f27c9d06088298.jpg"
-                },
-                {
-                    "name": "The Secluded Village",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/ecec54124f1630cab6bb05535c31a651d762c0c9.jpg"
-                },
-                {
-                    "name": "The Tower Roof",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/c983b38406b8d9f0bed7b279ee0fd53884d96791.jpg"
-                },
-                {
-                    "name": "The Groundsman's Hut",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/d4c2f27daf3cd82cb88d0dd155755254eacdd26c.jpg"
-                },
-                {
-                    "name": "The Long Pipe",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/5342542de273e0c47e4e5727963f17f3d9e881ff.jpg"
-                },
-                {
-                    "name": "The Palace Roof",
-                    "description": "Checkpoint reached!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/303fd86bca85e99cddc3f613389ec0a9bc7bf8d7.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3831080/183da3ccf679e1e0d9fbe40cee6fab0e7282ffcd.jpg"
                 }
             ]
         }
@@ -48332,16 +48332,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Space Ka",
-                    "description": "Complete a race at Space Impacts without dying in Time Attack mode ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/b9729b503806018014e5587da80e4733dff15711.jpg"
-                },
-                {
-                    "name": "Fairy Ka",
-                    "description": "Complete a race at Fairy Bugs without dying in Time Attack mode ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/bde59016c05ee2948a18da1c26eaaeec43dc53f4.jpg"
-                },
-                {
                     "name": "Madness Ka",
                     "description": "Complete a race at Madness without dying in Time Attack mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/eb402fd9aa0c087ff3dad8cea653ec96f03a50ab.jpg"
@@ -48355,6 +48345,16 @@ var objectiveData =
                     "name": "Desert Ka",
                     "description": "Complete a race at Desert Plains without dying in Time Attack mode ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/ff8acc5ec43906d5184a744d689987ba802d1d03.jpg"
+                },
+                {
+                    "name": "Space Ka",
+                    "description": "Complete a race at Space Impacts without dying in Time Attack mode ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/b9729b503806018014e5587da80e4733dff15711.jpg"
+                },
+                {
+                    "name": "Fairy Ka",
+                    "description": "Complete a race at Fairy Bugs without dying in Time Attack mode ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/bde59016c05ee2948a18da1c26eaaeec43dc53f4.jpg"
                 }
             ]
         }
@@ -48370,14 +48370,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Super",
-                    "description": "Complete all levels in all worlds with a score of S",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/9a7bac47e29f32cf725e2800746696edefaaf34c.jpg"
-                },
-                {
                     "name": "Golden Ka",
                     "description": "Finish the game at 100%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/fb91578342f5c849db10bdb83b3938afddfaba30.jpg"
+                },
+                {
+                    "name": "Super",
+                    "description": "Complete all levels in all worlds with a score of S",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969200/9a7bac47e29f32cf725e2800746696edefaaf34c.jpg"
                 }
             ]
         }
@@ -48393,14 +48393,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speedy Pilot!",
-                    "description": " Complete the game in 15 minutes or less",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2254110/8815d8bac143e8ae1b14ca21ac955e4480a29510.jpg"
-                },
-                {
                     "name": "Infallible Pilot!",
                     "description": "Complete the game with no failures",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2254110/e6b3d90b505e1b8a3b175d34462089760dcf8139.jpg"
+                },
+                {
+                    "name": "Speedy Pilot!",
+                    "description": " Complete the game in 15 minutes or less",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2254110/8815d8bac143e8ae1b14ca21ac955e4480a29510.jpg"
                 }
             ]
         }
@@ -48584,16 +48584,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Cloverrad",
-                    "description": "Beat all Radysus Challenges in Cloverbrook",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/25581b25cb7785f67774029c0787117777fa2f26.jpg"
-                },
-                {
-                    "name": "Burntrad",
-                    "description": "Beat all Radysus Challenges in Burntrock",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/4f127cb2d4e8e8f0dd30cab03efff56480e00aa3.jpg"
-                },
-                {
                     "name": "Rad Vulgas",
                     "description": "Beat all Radysus Challenges in Los Vulgas",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/0c0fe63b923ae624bb3f16698817314ef8d54b33.jpg"
@@ -48607,6 +48597,16 @@ var objectiveData =
                     "name": "Sunshine Raddy",
                     "description": "Beat all Radysus Challenges in Sunshine Valley",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/3e38a0d5a5c80f5dc88973d90760140fe82c3f43.jpg"
+                },
+                {
+                    "name": "Cloverrad",
+                    "description": "Beat all Radysus Challenges in Cloverbrook",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/25581b25cb7785f67774029c0787117777fa2f26.jpg"
+                },
+                {
+                    "name": "Burntrad",
+                    "description": "Beat all Radysus Challenges in Burntrock",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190170/4f127cb2d4e8e8f0dd30cab03efff56480e00aa3.jpg"
                 }
             ]
         }
@@ -48675,21 +48675,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gold Bus",
-                    "description": "Get gold medals in all story missions",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/7e115cc913324e1b27781a60beaf83b89399408a.jpg"
-                },
-                {
-                    "name": "Hats Forever",
-                    "description": "Get all the hats",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/68440d91e170c2566fa0a2a21c9bfee0c52c4c3c.jpg"
-                },
-                {
-                    "name": "Cow Care",
-                    "description": "Complete 4-2 with at least 17 cows",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/16d737730279851ee3692ebeddc3c29843ede383.jpg"
-                },
-                {
                     "name": "Chicken Magnet",
                     "description": "Collect your 40th chicken",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/260fc48bf2fb56e579d8325d85f857dd2aa124c6.jpg"
@@ -48698,6 +48683,21 @@ var objectiveData =
                     "name": "Stayin' Dry",
                     "description": "Don't get hit by any attacks in 4-7",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/cebb7078ead9eae95dc7653a3506ca0bd4cd7838.jpg"
+                },
+                {
+                    "name": "Cow Care",
+                    "description": "Complete 4-2 with at least 17 cows",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/16d737730279851ee3692ebeddc3c29843ede383.jpg"
+                },
+                {
+                    "name": "Gold Bus",
+                    "description": "Get gold medals in all story missions",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/7e115cc913324e1b27781a60beaf83b89399408a.jpg"
+                },
+                {
+                    "name": "Hats Forever",
+                    "description": "Get all the hats",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415740/68440d91e170c2566fa0a2a21c9bfee0c52c4c3c.jpg"
                 }
             ]
         }
@@ -48743,14 +48743,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Commoner",
-                    "description": "Finish a rift without ever picking a rare card",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1910600/95bd75178576eb25005bd211def972cfb17b0fb2.jpg"
-                },
-                {
                     "name": "CompletioniSSSSSSt",
                     "description": "Complete EVERY level in the CAMPAIGN with an S rank!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1910600/7b83076c29e7c7781f64f53ae188d8f8b09d60ec.jpg"
+                },
+                {
+                    "name": "Commoner",
+                    "description": "Finish a rift without ever picking a rare card",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1910600/95bd75178576eb25005bd211def972cfb17b0fb2.jpg"
                 }
             ]
         }
@@ -48766,11 +48766,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Score 7000 Kills in Survival Mode",
-                    "description": "Score 7000 Kills in Survival Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264200/9ef8363546eecc08c1fe8e7ffa551102ef0057e6.jpg"
-                },
-                {
                     "name": "Score 6000 Kills in Blind Survival Mode",
                     "description": "Score 6000 Kills in Blind Survival Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264200/2b46f7c980dcde9e76c3afa32c085071ef9cd54c.jpg"
@@ -48779,6 +48774,11 @@ var objectiveData =
                     "name": "Score 5000 Kills in No Luca No Survival Mode",
                     "description": "Score 5000 Kills in No Luca No Survival Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264200/42d6c8c5808cc921bd17e0d8810644013bfc9d8c.jpg"
+                },
+                {
+                    "name": "Score 7000 Kills in Survival Mode",
+                    "description": "Score 7000 Kills in Survival Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264200/9ef8363546eecc08c1fe8e7ffa551102ef0057e6.jpg"
                 }
             ]
         }
@@ -48885,19 +48885,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Sans-Serif",
-                    "description": "Execute Serif",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/29092f8414f2ef73ba677b9c56fc204ac3284cfa.jpg"
-                },
-                {
                     "name": "Eat the Rich",
                     "description": "Defeat tier 4 Shopkeeper",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/f302acac98379366b55dd077b337251fdb76c494.jpg"
-                },
-                {
-                    "name": "Bravely Default",
-                    "description": "Beat the game without taking any spells",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/d0392363894ca92b9698d7186383d3f0aef0fb60.jpg"
                 },
                 {
                     "name": "One Shot",
@@ -48908,6 +48898,16 @@ var objectiveData =
                     "name": "Ascetic",
                     "description": "Beat the game without collecting any Artifacts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/1ef42042ada26fe520107763e2ed557fa5eba4b9.jpg"
+                },
+                {
+                    "name": "Bravely Default",
+                    "description": "Beat the game without taking any spells",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/d0392363894ca92b9698d7186383d3f0aef0fb60.jpg"
+                },
+                {
+                    "name": "Sans-Serif",
+                    "description": "Execute Serif",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/960690/29092f8414f2ef73ba677b9c56fc204ac3284cfa.jpg"
                 }
             ],
             "custom": "Video of the full run of at least one of the linked achievements. Seeded runs and use of Angel Mode are both disallowed."
@@ -48959,6 +48959,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Time Trial 3",
+                    "description": "Cleared Mission 3 in less than 2:30",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252010/f8b7006d02b864f7c38d0d85aceec036d665a476.jpg"
+                },
+                {
                     "name": "Boss Rush",
                     "description": "Cleared the Boss Rush mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252010/6592023d1283eeec1c9bbce95e7db0625254077e.jpg"
@@ -48992,11 +48997,6 @@ var objectiveData =
                     "name": "Secret Ending",
                     "description": "Cleared the Hardcore Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252010/0bff6f6aee3309fdae1c62a79ab87d1d6a668789.jpg"
-                },
-                {
-                    "name": "Time Trial 3",
-                    "description": "Cleared Mission 3 in less than 2:30",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252010/f8b7006d02b864f7c38d0d85aceec036d665a476.jpg"
                 }
             ]
         }
@@ -49070,6 +49070,18 @@ var objectiveData =
         "gameId": "a59989ce-0420-46f9-8546-aad3750f34b7",
         "gameName": "Open Hexagon",
         "community": false,
+        "name": "Vanity God",
+        "description": "Complete \"Bass Slut\", \"Berserk\", and \"Dark Matter\" from the Vanity custom level pack on Elite difficulty (multiplier x1.002).",
+        "icon": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1358090/e69baa958a967ab47cdf5cf0c369848808feba39.jpg",
+        "points": 300,
+        "requirements": {
+            "custom": "Video(s) or replays of each level."
+        }
+    },
+    {
+        "gameId": "a59989ce-0420-46f9-8546-aad3750f34b7",
+        "gameName": "Open Hexagon",
+        "community": false,
         "name": "Shapeshifter",
         "description": "Complete all levels at the highest difficulty multiplier.",
         "icon": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1358090/e64e0c0a417bbeb0bffc4706e14c2cd7be786ef0.jpg",
@@ -49107,9 +49119,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Cube Master",
-                    "description": "Complete all the \"Cube\" pack achievements",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358090/07ebe77113f5910f533a2873d38f23668a6547b8.jpg"
+                    "name": "Hypercube Master",
+                    "description": "Complete all the \"Hypercube\" pack achievements",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358090/9acebd2a52aed9594d5090bcd6b8ed3a1183ea5a.jpg"
                 },
                 {
                     "name": "Impulsive",
@@ -49117,9 +49129,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358090/91045961352b4a69c097eac163b663ac07ddac4d.jpg"
                 },
                 {
-                    "name": "Hypercube Master",
-                    "description": "Complete all the \"Hypercube\" pack achievements",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358090/9acebd2a52aed9594d5090bcd6b8ed3a1183ea5a.jpg"
+                    "name": "Cube Master",
+                    "description": "Complete all the \"Cube\" pack achievements",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358090/07ebe77113f5910f533a2873d38f23668a6547b8.jpg"
                 }
             ]
         }
@@ -49152,22 +49164,10 @@ var objectiveData =
         "gameId": "a59989ce-0420-46f9-8546-aad3750f34b7",
         "gameName": "Open Hexagon",
         "community": false,
-        "name": "Vanity God",
-        "description": "Complete \"Bass Slut\", \"Berserk\", and \"Dark Matter\" from the Vanity custom level pack on Elite difficulty (multiplier x1.002).",
-        "icon": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1358090/e69baa958a967ab47cdf5cf0c369848808feba39.jpg",
-        "points": 0,
-        "requirements": {
-            "custom": "Video(s) or replays of each level."
-        }
-    },
-    {
-        "gameId": "a59989ce-0420-46f9-8546-aad3750f34b7",
-        "gameName": "Open Hexagon",
-        "community": false,
         "name": "Vanity Grandmaster",
         "description": "Complete \"Bass Slut\", \"Berserk\", and \"Dark Matter\" from the Vanity custom level pack on Hard difficulty (multiplier x1.001).",
         "icon": "https://upload.cedb.me/openHexagon_SO2.png",
-        "points": 0,
+        "points": 100,
         "requirements": {
             "custom": "Video(s) or replays of each level, or completion of \"Vanity God\"."
         }
@@ -49569,21 +49569,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Too Smart for This",
-                    "description": "Complete 8 Grids in a row without any error.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/611975ba6d62c23e8fc93479f007c31ac0948b2f.jpg"
-                },
-                {
-                    "name": "Fat Stacks",
-                    "description": "Gain 200 Watts in a single run.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/57329dedd6e83dad9daa89059cf10f1ed2b7645f.jpg"
-                },
-                {
-                    "name": "A Formidable Foe",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/49d9fc46892680d9d9fe812bdc5f2ef0e3780708.jpg"
-                },
-                {
                     "name": "Reawakened Harmony",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/a450e70ded4a1e9817836faeb75bcd62eb666baa.jpg"
@@ -49597,6 +49582,21 @@ var objectiveData =
                     "name": "Here for the Challenge",
                     "description": "Complete 7 Rooms of Intensity 4 in a single run.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/f43617dd6ca85029610fab0b4c5bd86d038ce9e0.jpg"
+                },
+                {
+                    "name": "Too Smart for This",
+                    "description": "Complete 8 Grids in a row without any error.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/611975ba6d62c23e8fc93479f007c31ac0948b2f.jpg"
+                },
+                {
+                    "name": "Fat Stacks",
+                    "description": "Gain 200 Watts in a single run.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/57329dedd6e83dad9daa89059cf10f1ed2b7645f.jpg"
+                },
+                {
+                    "name": "A Formidable Foe",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1608660/49d9fc46892680d9d9fe812bdc5f2ef0e3780708.jpg"
                 }
             ]
         }
@@ -49704,11 +49704,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Victorious Shaman",
-                    "description": "Complete the game with one of the Shamans.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343100/8b4e82b33f52dbc6d788c88680a97ae3a08df3ad.jpg"
-                },
-                {
                     "name": "Victorious Rogue",
                     "description": "Complete the game with one of the Rogues.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343100/edf49300cfab95b4570119005eb026f52dfc071d.jpg"
@@ -49717,6 +49712,11 @@ var objectiveData =
                     "name": "Victorious Warrior",
                     "description": "Complete the game with one of the Warriors.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343100/5bb5bc6b6222977b479e4df58d2250f7477134a5.jpg"
+                },
+                {
+                    "name": "Victorious Shaman",
+                    "description": "Complete the game with one of the Shamans.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/343100/8b4e82b33f52dbc6d788c88680a97ae3a08df3ad.jpg"
                 },
                 {
                     "name": "Victorious Mage",
@@ -49995,29 +49995,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Secret Spy... Secrets",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/ca9e4ec1a6df33e5d9e41c7819f1fa1db73c5994.jpg"
-                },
-                {
-                    "name": "Sunflower Secrets",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/c486cb7f5a217c06a3a504c44e4ace8ea6c06547.jpg"
-                },
-                {
-                    "name": "Deep Sea Secrets",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/f19c64dba8006491b21b14dcd8980e01f8e51da4.jpg"
-                },
-                {
                     "name": "Cherry Sky Secrets",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/121221bf2663d4e4d3263ad86bb473df40f913e3.jpg"
                 },
                 {
-                    "name": "Intermediate Secrets",
+                    "name": "Secret Spy... Secrets",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/8f56cf8b290a1aa37431bba6a346e69243be0a94.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/ca9e4ec1a6df33e5d9e41c7819f1fa1db73c5994.jpg"
                 },
                 {
                     "name": "Champion Secrets",
@@ -50025,14 +50010,29 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/a8ad5d91c18a99a5dbe5551914c0f9a6a4f14144.jpg"
                 },
                 {
-                    "name": "Expert Secrets",
+                    "name": "Deep Sea Secrets",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/6ea5215f400e5af6e57d0707928c2c50f45c348b.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/f19c64dba8006491b21b14dcd8980e01f8e51da4.jpg"
                 },
                 {
                     "name": "Novice Secrets",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/b32b99a09d7285e6ae0e0ffeca447b58d03524f0.jpg"
+                },
+                {
+                    "name": "Intermediate Secrets",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/8f56cf8b290a1aa37431bba6a346e69243be0a94.jpg"
+                },
+                {
+                    "name": "Expert Secrets",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/6ea5215f400e5af6e57d0707928c2c50f45c348b.jpg"
+                },
+                {
+                    "name": "Sunflower Secrets",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1198510/c486cb7f5a217c06a3a504c44e4ace8ea6c06547.jpg"
                 }
             ],
             "custom": "Video(s) of Expert, Champion, Secret Spy and Cherry Sky Arcade Mode, showing encore being reached without the use of quit to menu or low gravity."
@@ -50097,6 +50097,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Gotta Go Fast",
+                    "description": "Beat any mode in under 15 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250580/a097a5f68657c8df677fb84329728340747a9327.jpg"
+                },
+                {
                     "name": "Heavy Hitter",
                     "description": "Beat 4 floors in a row using only melee attacks.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250580/896b3a197b4ea4b43cd129ca0426696a86cd1818.jpg"
@@ -50105,11 +50110,6 @@ var objectiveData =
                     "name": "Frugal",
                     "description": "Beat hardcore mode without spending money.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250580/070bd80e80e798e8084ad3f474fdafc1c5aff169.jpg"
-                },
-                {
-                    "name": "Gotta Go Fast",
-                    "description": "Beat any mode in under 15 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250580/a097a5f68657c8df677fb84329728340747a9327.jpg"
                 }
             ]
         }
@@ -50198,14 +50198,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Beat Master",
-                    "description": "Defeat Plaganetes without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/785abfd36e02ed1857466cb707c2390a39b1a7df.jpg"
-                },
-                {
-                    "name": "Helloooo Nurse!",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/88da6a6eb6450abec3b771d0314df8bb792f4c56.jpg"
+                    "name": "Untouchable",
+                    "description": "Defeat Dark Pato without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/b1792e5cc7b81a0265c5869885a8e8f91c5855f9.jpg"
                 },
                 {
                     "name": "All in",
@@ -50218,6 +50213,16 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/315fa746981ee05617d05d10ee7092aa346ed522.jpg"
                 },
                 {
+                    "name": "Beat Master",
+                    "description": "Defeat Plaganetes without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/785abfd36e02ed1857466cb707c2390a39b1a7df.jpg"
+                },
+                {
+                    "name": "Helloooo Nurse!",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/88da6a6eb6450abec3b771d0314df8bb792f4c56.jpg"
+                },
+                {
                     "name": "Full Metal Pato",
                     "description": "Defeat Brauch without getting hit",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/2d46cff6326e118d92a5adbb65c3070305631393.jpg"
@@ -50226,11 +50231,6 @@ var objectiveData =
                     "name": "Fireproof",
                     "description": "Defeat Vorutki without getting hit",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/3dccf724a8992d85fe4ffab402f4b641e17ce3ac.jpg"
-                },
-                {
-                    "name": "Untouchable",
-                    "description": "Defeat Dark Pato without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682080/b1792e5cc7b81a0265c5869885a8e8f91c5855f9.jpg"
                 }
             ],
             "custom": "Video of Dark Pato without pausing."
@@ -50246,6 +50246,11 @@ var objectiveData =
         "points": 50,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Cold Blood",
+                    "description": "Finish Alaska in Normal or Hard difficulty without being hit!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/610410/5b3d89006a8b2ff6885679e06737cfdeb7ff2acf.jpg"
+                },
                 {
                     "name": "You can rest now",
                     "description": "Finish the Arcade mode in Hard difficulty",
@@ -50280,11 +50285,6 @@ var objectiveData =
                     "name": "Vengeance is bliss",
                     "description": "Finish K-7Z4-C0A7L in Normal or Hard difficulty level without being hit!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/610410/232f329cb2e998703355d9f6063bd8803c71e1b9.jpg"
-                },
-                {
-                    "name": "Cold Blood",
-                    "description": "Finish Alaska in Normal or Hard difficulty without being hit!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/610410/5b3d89006a8b2ff6885679e06737cfdeb7ff2acf.jpg"
                 }
             ]
         }
@@ -50301,14 +50301,24 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Mystic X",
-                    "description": "Conquer all dungeons with the Mystic at chain X.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/d74d9d7f7b86521c7edc8eff6289591b5036654f.jpg"
+                    "name": "Capyzerker X",
+                    "description": "Conquer all dungeons with the Capyzerker at chain X.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/7c47f455697cca74fcf87ac51bf4bfaa15f44f9e.jpg"
+                },
+                {
+                    "name": "Pawnbarian X",
+                    "description": "Conquer all dungeons with the Pawnbarian at chain X.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/0297990e9e57ae2c33b0fb860e843c94fbac2d56.jpg"
                 },
                 {
                     "name": "Nomad X",
                     "description": "Conquer all dungeons with the Nomad at chain X.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/abd8af5820ae4a6b94ed31479481dcea1b54bda8.jpg"
+                },
+                {
+                    "name": "Mystic X",
+                    "description": "Conquer all dungeons with the Mystic at chain X.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/d74d9d7f7b86521c7edc8eff6289591b5036654f.jpg"
                 },
                 {
                     "name": "Knight Templar X",
@@ -50319,16 +50329,6 @@ var objectiveData =
                     "name": "Shogun X",
                     "description": "Conquer all dungeons with the Shogun at chain X.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/625f95546268fae7a7ea08a9a44e17ec60052a4a.jpg"
-                },
-                {
-                    "name": "Capyzerker X",
-                    "description": "Conquer all dungeons with the Capyzerker at chain X.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/7c47f455697cca74fcf87ac51bf4bfaa15f44f9e.jpg"
-                },
-                {
-                    "name": "Pawnbarian X",
-                    "description": "Conquer all dungeons with the Pawnbarian at chain X.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/0297990e9e57ae2c33b0fb860e843c94fbac2d56.jpg"
                 }
             ],
             "custom": "Video(s) of \"Foul Shrine\" with Knight Templar, \"Golem Fortress\" with Nomad, and \"Goblin Caves\" with Capyzerker. Quit to menu is disallowed."
@@ -50345,9 +50345,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Mystic V",
-                    "description": "Conquer all dungeons with the Mystic at chain V (or higher).",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/3ada84365f4a71c5356ef11fc63fcc7f858a938d.jpg"
+                    "name": "Pawnbarian V",
+                    "description": "Conquer all dungeons with the Pawnbarian at chain V (or higher).",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/8a47efedaff8fd058e7abb55ecc80a5296de5999.jpg"
                 },
                 {
                     "name": "Shogun V",
@@ -50355,9 +50355,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/c81889b21d470ed5ea0c4bb8a5c64b2a54955f40.jpg"
                 },
                 {
-                    "name": "Pawnbarian V",
-                    "description": "Conquer all dungeons with the Pawnbarian at chain V (or higher).",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/8a47efedaff8fd058e7abb55ecc80a5296de5999.jpg"
+                    "name": "Mystic V",
+                    "description": "Conquer all dungeons with the Mystic at chain V (or higher).",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1142080/3ada84365f4a71c5356ef11fc63fcc7f858a938d.jpg"
                 },
                 {
                     "name": "Nomad V",
@@ -50388,34 +50388,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Slaughterfest",
-                    "description": "Complete the Slaughterhouse job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d537b712eb1d5a5c45dd357f8b1f1ec83260c17a.jpg"
-                },
-                {
-                    "name": "Disaster Tourist",
-                    "description": "Complete the Aftershock job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/08d37aeefa986b4792be0a2c20ee24eb27291776.jpg"
-                },
-                {
-                    "name": "Not Radical Enough For You?",
-                    "description": "Complete the Beneath the Mountain job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f627da40b424e78b44f9ffc9513f9b77c4be51b5.jpg"
-                },
-                {
-                    "name": "Last Meal",
-                    "description": "Complete the Hell's Island job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39c0f1405746c243818a4b1cb3c9bd52f11d17cd.jpg"
-                },
-                {
-                    "name": "Hills Street Blues",
-                    "description": "Complete the Heat Street job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30fc3abf0569e791fa50b652ac1f70ccae3784ea.jpg"
-                },
-                {
-                    "name": "Keep Your Feet on the Ground",
-                    "description": "Complete The Bomb: Forest job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/fac34fcb082926f37d567d32dea346386ea054b7.jpg"
+                    "name": "Dr. Strangevlad",
+                    "description": "Complete the Meltdown job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b6ba42f0da24686bd58e768f0c75f5de338cb4cb.jpg"
                 },
                 {
                     "name": "Highly Mother-Fucking-Dangerous",
@@ -50423,19 +50398,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/01d7df3e35c3bd9117eeb807d7771672b05a57b2.jpg"
                 },
                 {
-                    "name": "Making it Rain",
-                    "description": "Complete the Birth of Sky job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0df10ff942ee62fbcd3c05918b35137fb1a5444f.jpg"
-                },
-                {
-                    "name": "Dr. Strangevlad",
-                    "description": "Complete the Meltdown job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b6ba42f0da24686bd58e768f0c75f5de338cb4cb.jpg"
+                    "name": "Slaughterfest",
+                    "description": "Complete the Slaughterhouse job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d537b712eb1d5a5c45dd357f8b1f1ec83260c17a.jpg"
                 },
                 {
                     "name": "Still Got That Lucky Dollar?",
                     "description": "Complete the Hoxton Breakout job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4ef8d42c334c5b3c1ef3dfe4acbd247bf9156f11.jpg"
+                },
+                {
+                    "name": "Making it Rain",
+                    "description": "Complete the Birth of Sky job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0df10ff942ee62fbcd3c05918b35137fb1a5444f.jpg"
+                },
+                {
+                    "name": "Last Meal",
+                    "description": "Complete the Hell's Island job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39c0f1405746c243818a4b1cb3c9bd52f11d17cd.jpg"
                 },
                 {
                     "name": "Valkyries",
@@ -50476,6 +50456,26 @@ var objectiveData =
                     "name": "Beat the Shield",
                     "description": "Complete the Green Bridge job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9e91bb9ff2124250a9e436ee697a38873643ee04.jpg"
+                },
+                {
+                    "name": "Not Radical Enough For You?",
+                    "description": "Complete the Beneath the Mountain job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f627da40b424e78b44f9ffc9513f9b77c4be51b5.jpg"
+                },
+                {
+                    "name": "Keep Your Feet on the Ground",
+                    "description": "Complete The Bomb: Forest job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/fac34fcb082926f37d567d32dea346386ea054b7.jpg"
+                },
+                {
+                    "name": "Disaster Tourist",
+                    "description": "Complete the Aftershock job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/08d37aeefa986b4792be0a2c20ee24eb27291776.jpg"
+                },
+                {
+                    "name": "Hills Street Blues",
+                    "description": "Complete the Heat Street job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30fc3abf0569e791fa50b652ac1f70ccae3784ea.jpg"
                 }
             ]
         }
@@ -50491,44 +50491,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Thalassophobia",
-                    "description": "Complete The Yacht Heist within 6 minutes, on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/52931b7db549d978f1c709a9087b5cf6f518eee6.jpg"
-                },
-                {
-                    "name": "Wasteful",
-                    "description": "On day 1 of the Firestarter job, complete heist having burned all weapons on the Death Wish difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/44c15acd613676f5eea48ba5f5e97cf93bf91d5c.jpg"
-                },
-                {
-                    "name": "Goat In 60 Seconds",
-                    "description": "In the first day of the Goat Simulator job, secure 6 goats in the escape truck within 1 minute of it arriving. Unlocks the \"Scout Goat\" mask, \"Goat Eye\" material and \"Giraffe\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8dff2f4096d8a02fcabfaf43ecbb45d2d092aa14.jpg"
-                },
-                {
-                    "name": "Cleaning out the House",
-                    "description": "Having started from wave 1, beat wave 9 of Holdout on the Golden Grin Casino heist. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/de1297252d7269b8da2e797993c960437c6435b1.jpg"
-                },
-                {
-                    "name": "A Long Night of Horrors",
-                    "description": "Complete the Prison Nightmare job, getting at least 15 keycards on the Mayhem difficulty or above without any player ever going into custody. Unlocks the \"Risen Chains\" mask.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/be6fbe36e9ee17bc6a116d470e0270a4e787170f.jpg"
-                },
-                {
-                    "name": "Money on the Asphalt",
-                    "description": "Having started from wave 1, beat wave 9 of Holdout on the Heat Street heist. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8d79a86503a352ff18c42a2b5cfc83f69dba8fd9.jpg"
-                },
-                {
-                    "name": "Done in 60 Seconds",
-                    "description": "In The Bomb: Dockyard job, open the dock gate in 60 seconds using the keycards. Unlocks the \"Custom Slide\" for the LEO pistol.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/47f95b3ac55369c041ef62fbf2e06dec15277ff1.jpg"
-                },
-                {
-                    "name": "Gone in 240 Seconds",
-                    "description": "In the Car Shop job, complete the heist within 4 minutes. Unlocks \"The Tids\" mask.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bfa71a572c0efba950f5a337f02f75e9cdb37600.jpg"
+                    "name": "Matrix With Lasers",
+                    "description": "In the Big Bank job, open the vault by using the \"Beast\" drill and escape using the C4 Tunneling asset without killing any snipers on the Death Wish difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ddcbdbc6231451b972648a98dca33b91b01c030c.jpg"
                 },
                 {
                     "name": "The End",
@@ -50536,19 +50501,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/86b980866bcc828371ac241a5a781dbca3d8d824.jpg"
                 },
                 {
-                    "name": "Pinky Swear",
-                    "description": "On day 2 of the Reservoir Dogs job, escort Mr. Pink back to the warehouse within 60 seconds after rescuing him from the car on the Death Wish difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/31de6a7c464d86838ef31df5f70a0ec124222f5d.jpg"
+                    "name": "Wasteful",
+                    "description": "On day 1 of the Firestarter job, complete heist having burned all weapons on the Death Wish difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/44c15acd613676f5eea48ba5f5e97cf93bf91d5c.jpg"
                 },
                 {
-                    "name": "Matrix With Lasers",
-                    "description": "In the Big Bank job, open the vault by using the \"Beast\" drill and escape using the C4 Tunneling asset without killing any snipers on the Death Wish difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ddcbdbc6231451b972648a98dca33b91b01c030c.jpg"
-                },
-                {
-                    "name": "I Feel Like Robin Hood!",
-                    "description": "Complete the Undercover job with every crew member using only a bow without any modifications on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f49cb0d52cb1510823b7db4601d501f37aaed8ed.jpg"
+                    "name": "Cleaning out the House",
+                    "description": "Having started from wave 1, beat wave 9 of Holdout on the Golden Grin Casino heist. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/de1297252d7269b8da2e797993c960437c6435b1.jpg"
                 },
                 {
                     "name": "The Auction Cry",
@@ -50556,14 +50516,44 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4ecfcf0ad5227500b933ba4280e2dce0ad166a6f.jpg"
                 },
                 {
-                    "name": "A Rendezvous With Destiny",
-                    "description": "On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the \"Lady Liberty\" mask, \"Underground Neon\" material and \"Baba Yaga\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/252234b69f526c68268f6925827cfe596e45cf0a.jpg"
+                    "name": "A Long Night of Horrors",
+                    "description": "Complete the Prison Nightmare job, getting at least 15 keycards on the Mayhem difficulty or above without any player ever going into custody. Unlocks the \"Risen Chains\" mask.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/be6fbe36e9ee17bc6a116d470e0270a4e787170f.jpg"
+                },
+                {
+                    "name": "Done in 60 Seconds",
+                    "description": "In The Bomb: Dockyard job, open the dock gate in 60 seconds using the keycards. Unlocks the \"Custom Slide\" for the LEO pistol.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/47f95b3ac55369c041ef62fbf2e06dec15277ff1.jpg"
                 },
                 {
                     "name": "Salem Asylum",
                     "description": "On the Prison Nightmare job, get on the train in less than 4 min and 44 sec on the Mayhem difficulty or above. You have to have played the heist from the start. Unlocks the \"Risen Wolf\" mask.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/da364463003769e015882d4436974f9f5b88efaf.jpg"
+                },
+                {
+                    "name": "Pinky Swear",
+                    "description": "On day 2 of the Reservoir Dogs job, escort Mr. Pink back to the warehouse within 60 seconds after rescuing him from the car on the Death Wish difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/31de6a7c464d86838ef31df5f70a0ec124222f5d.jpg"
+                },
+                {
+                    "name": "Goat In 60 Seconds",
+                    "description": "In the first day of the Goat Simulator job, secure 6 goats in the escape truck within 1 minute of it arriving. Unlocks the \"Scout Goat\" mask, \"Goat Eye\" material and \"Giraffe\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8dff2f4096d8a02fcabfaf43ecbb45d2d092aa14.jpg"
+                },
+                {
+                    "name": "I Feel Like Robin Hood!",
+                    "description": "Complete the Undercover job with every crew member using only a bow without any modifications on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f49cb0d52cb1510823b7db4601d501f37aaed8ed.jpg"
+                },
+                {
+                    "name": "Money on the Asphalt",
+                    "description": "Having started from wave 1, beat wave 9 of Holdout on the Heat Street heist. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8d79a86503a352ff18c42a2b5cfc83f69dba8fd9.jpg"
+                },
+                {
+                    "name": "A Rendezvous With Destiny",
+                    "description": "On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the \"Lady Liberty\" mask, \"Underground Neon\" material and \"Baba Yaga\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/252234b69f526c68268f6925827cfe596e45cf0a.jpg"
                 },
                 {
                     "name": "Reputation Beyond Reproach",
@@ -50581,14 +50571,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bbeb20a03deea54eefe029d28f216e0c2c3daa25.jpg"
                 },
                 {
+                    "name": "Full Throttle",
+                    "description": "Complete day 2 of The Biker Heist within 120 seconds on the OVERKILL difficulty or above. Unlocks the \"Speed Devil\" mask, \"Devil Eye\" material and \"Skull Wing\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/2960c70dc914ca4763a0eb2237ea709aaa9db342.jpg"
+                },
+                {
                     "name": "Commando Crew",
                     "description": "In the Beneath the Mountain job, open the 4 vaults that contain loot within 10 minutes of starting the heist on the OVERKILL difficulty or above. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f51bb589320548f68dec4f88745766b4ce76ff12.jpg"
                 },
                 {
-                    "name": "Full Throttle",
-                    "description": "Complete day 2 of The Biker Heist within 120 seconds on the OVERKILL difficulty or above. Unlocks the \"Speed Devil\" mask, \"Devil Eye\" material and \"Skull Wing\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/2960c70dc914ca4763a0eb2237ea709aaa9db342.jpg"
+                    "name": "Thalassophobia",
+                    "description": "Complete The Yacht Heist within 6 minutes, on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/52931b7db549d978f1c709a9087b5cf6f518eee6.jpg"
+                },
+                {
+                    "name": "Gone in 240 Seconds",
+                    "description": "In the Car Shop job, complete the heist within 4 minutes. Unlocks \"The Tids\" mask.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bfa71a572c0efba950f5a337f02f75e9cdb37600.jpg"
                 }
             ]
         }
@@ -50604,14 +50604,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Every Heister Has His Day",
-                    "description": "Complete the Reservoir Dogs job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/66711b6e5808e9a9a4e1eb3df109f94413b5beb9.jpg"
-                },
-                {
-                    "name": "The Definition of Safe House is Changing",
-                    "description": "Complete the Panic Room job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/72d738dca85a39226bbf88d366abc472a6d6c73d.jpg"
+                    "name": "Bodhi's Pool Repair Crew",
+                    "description": "Complete the Counterfeit job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a1cd3e6c90d49c518a8d835aad56ffdf8f529216.jpg"
                 },
                 {
                     "name": "First World Problems",
@@ -50619,14 +50614,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c631bb838ef1c2c4ec5b51e9c1209e83792f289c.jpg"
                 },
                 {
+                    "name": "Say Good Night to the Bad Guy",
+                    "description": "Complete the Scarface Mansion job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b8e85712bdbab54edef6c8aff721801a6db4e2ef.jpg"
+                },
+                {
                     "name": "Beat the Shield",
                     "description": "Complete the Green Bridge job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9e91bb9ff2124250a9e436ee697a38873643ee04.jpg"
                 },
                 {
-                    "name": "On my Twelfth Try with One Down, The True Pain Began",
-                    "description": "Complete the Santa's Workshop job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/43a3cdc4fd34d97f321eed2c9d35376aea92d72c.jpg"
+                    "name": "In the Name of Heisenberg",
+                    "description": "Complete the Cook Off job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b34ba06fb3a90086583a7e0048a7f1a4ecc2c62f.jpg"
                 },
                 {
                     "name": "Heisting on the Salt Flats",
@@ -50634,9 +50634,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b95b7dfc1fffea9c88824d9787b8b00e4436506b.jpg"
                 },
                 {
-                    "name": "Ship It",
-                    "description": "Complete The Bomb: Dockyard job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/658fca56bbd665417e83be45b5ed7d0bd7d02931.jpg"
+                    "name": "Every Heister Has His Day",
+                    "description": "Complete the Reservoir Dogs job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/66711b6e5808e9a9a4e1eb3df109f94413b5beb9.jpg"
+                },
+                {
+                    "name": "Treason in Alaskan",
+                    "description": "Complete the Alaskan Deal job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/118b5327b5542cd342c6845ef68e4e3d1932feba.jpg"
                 },
                 {
                     "name": "Brooklyn Battle",
@@ -50654,16 +50659,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7a63dc38550cf0b85397a74e13ae7dfcbabd1601.jpg"
                 },
                 {
-                    "name": "Second Star to the Right, then Straight On 'Til Morning",
-                    "description": "Complete the Black Cat job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c7763f2890711125344ac460e201e228d550481b.jpg"
-                },
-                {
-                    "name": "A Steel Container of Professional Badasses",
-                    "description": "Complete the Transport: Harbor job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6b454bc37e787b7000e92dc9ba80ed5500ea2c3e.jpg"
-                },
-                {
                     "name": "The Jonssonligan",
                     "description": "Complete The Diamond job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e6ee8da92c0b97a0d16766da377d7976e757d51d.jpg"
@@ -50674,9 +50669,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/125da06a57f4e06b0564be0f120b1dddc1023ebd.jpg"
                 },
                 {
-                    "name": "Sunset Serenade",
-                    "description": "Complete the Buluc's Mansion job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/405bc30fd76e854d3725ec942eb6f5f5881a5bec.jpg"
+                    "name": "Dance Dance GenSec",
+                    "description": "Complete The Alesso Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1279534603e84c4ca36c381d69a3bb6e75f9adf8.jpg"
                 },
                 {
                     "name": "Leaving Tijuana",
@@ -50684,114 +50679,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e72dd33aa96ffa7760562ede1a4381b58a7f15d2.jpg"
                 },
                 {
-                    "name": "All You Need is A Knife",
-                    "description": "Complete the Cursed Kill Room job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4034578d5ae5b04b0c4091461c87cd12ab4d1a43.jpg"
-                },
-                {
-                    "name": "Platinum Card",
-                    "description": "Complete the Four Stores job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/10fb74b723f437a620ce46391b3fccac61965de4.jpg"
-                },
-                {
-                    "name": "Ocean's Four",
-                    "description": "Complete the Golden Grin Casino job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/585d0ac91a68bfe32fb3d54cae48d2f26a92fecb.jpg"
-                },
-                {
-                    "name": "Why Did The Heister Cross The Road?",
-                    "description": "Complete the Transport: Crossroads job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39de88e1e84c0aa496d7acf6b3af71e0d657b9a4.jpg"
-                },
-                {
-                    "name": "Frames Per Second?",
-                    "description": "Complete the Framing Frame job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bfcd473bccedeca1fc5d59c258ad79e7192f2b4b.jpg"
-                },
-                {
-                    "name": "Corporate Espionage",
-                    "description": "Complete the Hostile Takeover job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9090674a3995e405e680da7a3257d175bcb15a62.jpg"
-                },
-                {
-                    "name": "How the Ranch was Won",
-                    "description": "Complete the Midland Ranch job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/699296e433a3c12d7c8c61e267374955d10b4ce7.jpg"
-                },
-                {
-                    "name": "Last Meal",
-                    "description": "Complete the Hell's Island job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39c0f1405746c243818a4b1cb3c9bd52f11d17cd.jpg"
-                },
-                {
-                    "name": "Not the Forgiving Kind",
-                    "description": "Complete the Hoxton Revenge job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e3ad3b1dbacd98ebd137a69dd9c83b6d35727b9a.jpg"
-                },
-                {
-                    "name": "Piggy Broke the Bank",
-                    "description": "Complete The Big Bank job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ab0d032576878cce8741ca0f387de35df1533c19.jpg"
-                },
-                {
-                    "name": "I Survived Lab Rats with One Down And All I Got Was This Achievement",
-                    "description": "Complete the Lab Rats job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3d6cb4e5e4016fc82125ff46ad17e20acd17e600.jpg"
-                },
-                {
-                    "name": "Leviathan",
-                    "description": "Complete The Yacht Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/249c83ff859faaab2d104ec91e9b9bf585b7ab1d.jpg"
-                },
-                {
-                    "name": "Fight Like Cornered Animals",
-                    "description": "Complete the Watchdogs job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7fa24b650086c34d69baeb925564bf5d5965211d.jpg"
-                },
-                {
-                    "name": "Haunted House of Heisters",
-                    "description": "Complete the Prison Nightmare job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cf94c4139b8470c38ea8f6b7ec6626bb5618c886.jpg"
-                },
-                {
-                    "name": "Say Good Night to the Bad Guy",
-                    "description": "Complete the Scarface Mansion job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b8e85712bdbab54edef6c8aff721801a6db4e2ef.jpg"
-                },
-                {
-                    "name": "Not on the Guest List",
-                    "description": "Complete the Nightclub job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/314c2fbb7e6a9ecffccd1d9c52825d7bf874efca.jpg"
-                },
-                {
-                    "name": "In the Name of Heisenberg",
-                    "description": "Complete the Cook Off job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b34ba06fb3a90086583a7e0048a7f1a4ecc2c62f.jpg"
-                },
-                {
-                    "name": "Bodhi's Pool Repair Crew",
-                    "description": "Complete the Counterfeit job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a1cd3e6c90d49c518a8d835aad56ffdf8f529216.jpg"
-                },
-                {
-                    "name": "Dance Dance GenSec",
-                    "description": "Complete The Alesso Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1279534603e84c4ca36c381d69a3bb6e75f9adf8.jpg"
-                },
-                {
-                    "name": "Treason in Alaskan",
-                    "description": "Complete the Alaskan Deal job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/118b5327b5542cd342c6845ef68e4e3d1932feba.jpg"
-                },
-                {
-                    "name": "Dennis' Menace",
-                    "description": "Complete the Hotline Miami job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/fb87057de6be54774a44c33f6e302e45b617d31e.jpg"
-                },
-                {
-                    "name": "Long Gone",
-                    "description": "Complete the Car Shop job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/34a6afda977a366e27a33e7a42ef53c2f7c74d06.jpg"
+                    "name": "Sunset Serenade",
+                    "description": "Complete the Buluc's Mansion job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/405bc30fd76e854d3725ec942eb6f5f5881a5bec.jpg"
                 },
                 {
                     "name": "Dirty Energy",
@@ -50804,9 +50694,44 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cb9ad7700a725c8295cc74afc98a3c9967da4b12.jpg"
                 },
                 {
-                    "name": "Like Taking Candy From a Heavily Armed Military Force",
-                    "description": "Complete the Shadow Raid job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/574c85c4c89bb59c6d99d3eb4a3f257aab36084b.jpg"
+                    "name": "All You Need is A Knife",
+                    "description": "Complete the Cursed Kill Room job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4034578d5ae5b04b0c4091461c87cd12ab4d1a43.jpg"
+                },
+                {
+                    "name": "Dennis' Menace",
+                    "description": "Complete the Hotline Miami job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/fb87057de6be54774a44c33f6e302e45b617d31e.jpg"
+                },
+                {
+                    "name": "Ocean's Four",
+                    "description": "Complete the Golden Grin Casino job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/585d0ac91a68bfe32fb3d54cae48d2f26a92fecb.jpg"
+                },
+                {
+                    "name": "Why Did The Heister Cross The Road?",
+                    "description": "Complete the Transport: Crossroads job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39de88e1e84c0aa496d7acf6b3af71e0d657b9a4.jpg"
+                },
+                {
+                    "name": "Long Gone",
+                    "description": "Complete the Car Shop job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/34a6afda977a366e27a33e7a42ef53c2f7c74d06.jpg"
+                },
+                {
+                    "name": "Corporate Espionage",
+                    "description": "Complete the Hostile Takeover job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9090674a3995e405e680da7a3257d175bcb15a62.jpg"
+                },
+                {
+                    "name": "Not the Forgiving Kind",
+                    "description": "Complete the Hoxton Revenge job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e3ad3b1dbacd98ebd137a69dd9c83b6d35727b9a.jpg"
+                },
+                {
+                    "name": "Piggy Broke the Bank",
+                    "description": "Complete The Big Bank job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ab0d032576878cce8741ca0f387de35df1533c19.jpg"
                 },
                 {
                     "name": "EMPathy",
@@ -50814,9 +50739,44 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1d8842722a80906266b009c14ec0af68c8a5fa8d.jpg"
                 },
                 {
+                    "name": "I Survived Lab Rats with One Down And All I Got Was This Achievement",
+                    "description": "Complete the Lab Rats job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3d6cb4e5e4016fc82125ff46ad17e20acd17e600.jpg"
+                },
+                {
+                    "name": "Like Taking Candy From a Heavily Armed Military Force",
+                    "description": "Complete the Shadow Raid job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/574c85c4c89bb59c6d99d3eb4a3f257aab36084b.jpg"
+                },
+                {
+                    "name": "Fight Like Cornered Animals",
+                    "description": "Complete the Watchdogs job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7fa24b650086c34d69baeb925564bf5d5965211d.jpg"
+                },
+                {
+                    "name": "Not on the Guest List",
+                    "description": "Complete the Nightclub job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/314c2fbb7e6a9ecffccd1d9c52825d7bf874efca.jpg"
+                },
+                {
+                    "name": "Haunted House of Heisters",
+                    "description": "Complete the Prison Nightmare job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cf94c4139b8470c38ea8f6b7ec6626bb5618c886.jpg"
+                },
+                {
+                    "name": "On my Twelfth Try with One Down, The True Pain Began",
+                    "description": "Complete the Santa's Workshop job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/43a3cdc4fd34d97f321eed2c9d35376aea92d72c.jpg"
+                },
+                {
                     "name": "The Ballad of San Mart\u00edn",
                     "description": "Complete the San Mart\u00edn Bank job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5dc594c290e694c837be760956b4289e39e0b958.jpg"
+                },
+                {
+                    "name": "The Definition of Safe House is Changing",
+                    "description": "Complete the Panic Room job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/72d738dca85a39226bbf88d366abc472a6d6c73d.jpg"
                 },
                 {
                     "name": "I'll Break Your Malls",
@@ -50839,6 +50799,31 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/08d37aeefa986b4792be0a2c20ee24eb27291776.jpg"
                 },
                 {
+                    "name": "Ship It",
+                    "description": "Complete The Bomb: Dockyard job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/658fca56bbd665417e83be45b5ed7d0bd7d02931.jpg"
+                },
+                {
+                    "name": "Second Star to the Right, then Straight On 'Til Morning",
+                    "description": "Complete the Black Cat job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c7763f2890711125344ac460e201e228d550481b.jpg"
+                },
+                {
+                    "name": "A Steel Container of Professional Badasses",
+                    "description": "Complete the Transport: Harbor job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6b454bc37e787b7000e92dc9ba80ed5500ea2c3e.jpg"
+                },
+                {
+                    "name": "Dr. Strangevlad",
+                    "description": "Complete the Meltdown job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b6ba42f0da24686bd58e768f0c75f5de338cb4cb.jpg"
+                },
+                {
+                    "name": "Frames Per Second?",
+                    "description": "Complete the Framing Frame job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bfcd473bccedeca1fc5d59c258ad79e7192f2b4b.jpg"
+                },
+                {
                     "name": "Only Losers Play Fair",
                     "description": "Complete the Election Day job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/78e26f3c75de2b4e6c1d5dacb2ed50f31dd87f35.jpg"
@@ -50849,14 +50834,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8842853896bd19f08eb8d3b899dc11866f734850.jpg"
                 },
                 {
-                    "name": "Dr. Strangevlad",
-                    "description": "Complete the Meltdown job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b6ba42f0da24686bd58e768f0c75f5de338cb4cb.jpg"
-                },
-                {
-                    "name": "A Good Old Fashioned Train Robbery",
-                    "description": "Complete the Transport: Train Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/63f4eef3691a2560f23622a305895fa154e5f381.jpg"
+                    "name": "Platinum Card",
+                    "description": "Complete the Four Stores job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/10fb74b723f437a620ce46391b3fccac61965de4.jpg"
                 },
                 {
                     "name": "Still Got That Lucky Dollar?",
@@ -50864,9 +50844,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4ef8d42c334c5b3c1ef3dfe4acbd247bf9156f11.jpg"
                 },
                 {
-                    "name": "A Horrible Seventh Nightmare",
-                    "description": "Complete the Safe House Nightmare job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e877b961ad2b86432bc13528f56dd484e95888e6.jpg"
+                    "name": "Leviathan",
+                    "description": "Complete The Yacht Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/249c83ff859faaab2d104ec91e9b9bf585b7ab1d.jpg"
+                },
+                {
+                    "name": "How the Ranch was Won",
+                    "description": "Complete the Midland Ranch job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/699296e433a3c12d7c8c61e267374955d10b4ce7.jpg"
+                },
+                {
+                    "name": "Last Meal",
+                    "description": "Complete the Hell's Island job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/39c0f1405746c243818a4b1cb3c9bd52f11d17cd.jpg"
+                },
+                {
+                    "name": "A Good Old Fashioned Train Robbery",
+                    "description": "Complete the Transport: Train Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/63f4eef3691a2560f23622a305895fa154e5f381.jpg"
                 },
                 {
                     "name": "Holding Court in the Street",
@@ -50879,14 +50874,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cf40d039fe4717f919c403c3840b647386bff8b5.jpg"
                 },
                 {
-                    "name": "My Chemical Brothers",
-                    "description": "Complete the Rats job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ae659fc012cfd5ed6259ddba3e763ef3ccd780ab.jpg"
+                    "name": "A Horrible Seventh Nightmare",
+                    "description": "Complete the Safe House Nightmare job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e877b961ad2b86432bc13528f56dd484e95888e6.jpg"
                 },
                 {
                     "name": "Valkyries",
                     "description": "Complete the Brooklyn 10-10 job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1804d0e06cd0b04838da533a768d8699378e2440.jpg"
+                },
+                {
+                    "name": "My Chemical Brothers",
+                    "description": "Complete the Rats job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ae659fc012cfd5ed6259ddba3e763ef3ccd780ab.jpg"
                 },
                 {
                     "name": "Keep Your Feet on the Ground",
@@ -50904,19 +50904,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f89ad2ccc495e1be496805b567aca4aad885b994.jpg"
                 },
                 {
-                    "name": "Making it Rain",
-                    "description": "Complete the Birth of Sky job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0df10ff942ee62fbcd3c05918b35137fb1a5444f.jpg"
-                },
-                {
                     "name": "Thundersnow",
                     "description": "Complete the Stealing Xmas job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/147f9d15bdd91c7fe59c0a9b2163cbd0ecf3eb1e.jpg"
                 },
                 {
-                    "name": "Crime.net Street Party",
-                    "description": "Complete the Transport: Downtown job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4c65abcf1b6a0a02efdfabdb86e11ca59de9b782.jpg"
+                    "name": "Making it Rain",
+                    "description": "Complete the Birth of Sky job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0df10ff942ee62fbcd3c05918b35137fb1a5444f.jpg"
                 },
                 {
                     "name": "All About the Green",
@@ -50929,6 +50924,11 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8f601f042e38ba0f446b27e90d69fc4692c371bc.jpg"
                 },
                 {
+                    "name": "Crime.net Street Party",
+                    "description": "Complete the Transport: Downtown job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4c65abcf1b6a0a02efdfabdb86e11ca59de9b782.jpg"
+                },
+                {
                     "name": "Fog This Shit I'm Out!",
                     "description": "Complete the Transport: Underpass job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e887fd3b3be22c449803f77c2dae54a4ef45327b.jpg"
@@ -50937,11 +50937,6 @@ var objectiveData =
                     "name": "Texas Heat",
                     "description": "Complete the Crude Awakening job on the Death Sentence difficulty with One Down active. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/40ceeef80029a9a5e7197f4fe36a311bfebbe964.jpg"
-                },
-                {
-                    "name": "Welcoming the Neighbors",
-                    "description": "Complete the Safe House Raid on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4060d8750023629faa0722e53481a1823217618b.jpg"
                 },
                 {
                     "name": "Slaughterfest",
@@ -50954,14 +50949,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/45672871389732ca1c53850430be096ae884ad6a.jpg"
                 },
                 {
-                    "name": "Dmitri, Dearest of All My Friends!",
-                    "description": "Complete the Ukrainian Job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/070ccb0bad2c0609759053fe66aad7286074f23a.jpg"
-                },
-                {
                     "name": "Hero of the Underworld",
                     "description": "Complete the Dragon Heist job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9da25393a53b036750b46e957f91bd0677fbca8f.jpg"
+                },
+                {
+                    "name": "Welcoming the Neighbors",
+                    "description": "Complete the Safe House Raid on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4060d8750023629faa0722e53481a1823217618b.jpg"
                 },
                 {
                     "name": "Killer Pad",
@@ -50969,14 +50964,29 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/792973e848b23f55f6fb32a2ff90156085e3a2e2.jpg"
                 },
                 {
-                    "name": "Just One More...",
-                    "description": "Complete the Bank Heist: Deposit job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0acc31b0119fdbf08cff91db8150cbdf3fc8628f.jpg"
+                    "name": "Dmitri, Dearest of All My Friends!",
+                    "description": "Complete the Ukrainian Job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/070ccb0bad2c0609759053fe66aad7286074f23a.jpg"
                 },
                 {
                     "name": "Bag Throwing Simulator",
                     "description": "Complete the Diamond Store job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/340ffb7bba81dfdf0f9f98450feca84cbc41c7ec.jpg"
+                },
+                {
+                    "name": "Filing for Malpractice",
+                    "description": "Complete the No Mercy job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/dc9ed2cd38481f1d6cd921ca6678ec66b5783f91.jpg"
+                },
+                {
+                    "name": "Just One More...",
+                    "description": "Complete the Bank Heist: Deposit job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/0acc31b0119fdbf08cff91db8150cbdf3fc8628f.jpg"
+                },
+                {
+                    "name": "Take care of Your Frenemies",
+                    "description": "Complete the Ukrainian Prisoner job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/26cf8580067504b81341a9fb6b8b0a98da72c984.jpg"
                 },
                 {
                     "name": "What Is It Good For?",
@@ -50989,16 +50999,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/01d7df3e35c3bd9117eeb807d7771672b05a57b2.jpg"
                 },
                 {
-                    "name": "Filing for Malpractice",
-                    "description": "Complete the No Mercy job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/dc9ed2cd38481f1d6cd921ca6678ec66b5783f91.jpg"
-                },
-                {
-                    "name": "Take care of Your Frenemies",
-                    "description": "Complete the Ukrainian Prisoner job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/26cf8580067504b81341a9fb6b8b0a98da72c984.jpg"
-                },
-                {
                     "name": "A Hard Won Price",
                     "description": "Complete the Diamond Heist on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/737e6869edce0a5846e7588f07b39cc5e419cc35.jpg"
@@ -51007,6 +51007,11 @@ var objectiveData =
                     "name": "Not Radical Enough For You?",
                     "description": "Complete the Beneath the Mountain job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f627da40b424e78b44f9ffc9513f9b77c4be51b5.jpg"
+                },
+                {
+                    "name": "No Coming Back for Seconds",
+                    "description": "Complete the Border Crystals job on the Death Sentence difficulty with the One Down mechanic activated. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5467bed277a5b5f68762dc5405fa58d674830dff.jpg"
                 },
                 {
                     "name": "Going once...",
@@ -51022,11 +51027,6 @@ var objectiveData =
                     "name": "Hills Street Blues",
                     "description": "Complete the Heat Street job on the Death Sentence difficulty with the One Down mechanic activated. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30fc3abf0569e791fa50b652ac1f70ccae3784ea.jpg"
-                },
-                {
-                    "name": "No Coming Back for Seconds",
-                    "description": "Complete the Border Crystals job on the Death Sentence difficulty with the One Down mechanic activated. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5467bed277a5b5f68762dc5405fa58d674830dff.jpg"
                 }
             ]
         }
@@ -51047,49 +51047,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3ad2fd3d04911408c1cde9ca57e972b9322c4420.jpg"
                 },
                 {
-                    "name": "Black Tie Event",
-                    "description": "Complete the Birth of Sky job, have the entire crew use only pistols and Two Piece Suits on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c69721b24377eb4332fba37df320b649d054b286.jpg"
-                },
-                {
-                    "name": "Get Off My Property",
-                    "description": "On day 2 of the Reservoir Dogs job, keep the law enforcers from entering the warehouse until Twitch arrives with the escape van. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5ba770ddc8effd10dc4f1ca1d8ff88e54920354f.jpg"
-                },
-                {
-                    "name": "This Calls for a Round of Sputniks!",
-                    "description": "In the Ukrainian Prisoner job, kill at least 100 enemies with a sniper rifle and complete the level with 100% or higher accuracy on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/dcc285653fde4192b84dea8502656b2e67cf17be.jpg"
-                },
-                {
-                    "name": "Out Of Bounds",
-                    "description": "On day 2 of the Watchdogs job, secure 12 bags without letting any law enforcer enter the warehouse on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/2177c2456a4216d358d354d1e12afbf692609b98.jpg"
-                },
-                {
-                    "name": "Pacifish",
-                    "description": "Complete The Yacht Heist without killing anyone. Unlocks the \"Sailor\" mask, \"Neon Blue\" material and \"Hotel Pattern\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/854a490575c2b27138085beed4a593314ec0c0d1.jpg"
-                },
-                {
-                    "name": "Hazzard County",
-                    "description": "Complete day 2 of the Goat Simulator job within 4 minutes from when the escape car is available. Unlocks the \"Goat Goat\" mask, \"Flamingo Eye\" material and \"Illumigoati\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/63274b1a712af82ca4c6b681a2db5800ef6d142e.jpg"
-                },
-                {
-                    "name": "Gunpowder Glory",
-                    "description": "In the San Mart\u00edn Bank job, let the heist go loud before anyone enters the bank and keep all enemies away from the fountain plaza until the escape is available on the OVERKILL difficulty or above. Unlocks the \"Skull White\" weapon color.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cdc82ac5e8d1f9ea242f9009a573b3458972f1f8.jpg"
-                },
-                {
-                    "name": "OVERDRILL",
-                    "description": "In the First World Bank job, solve the PAYDAY: The Heist secret on the Death Wish difficulty or above and enter the OVERVAULT. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1524cdf40961c07df66e857880b8daa4b7bafd4a.jpg"
-                },
-                {
-                    "name": "Nyctophobia",
-                    "description": "Complete the No Mercy on the hard difficulty or above, getting the power back up within 5 seconds of it being shut down. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/24248442ef62b1cb48342bc852725d147b0d0407.jpg"
+                    "name": "Crazy Ivan",
+                    "description": "Complete the Boiling Point job having everyone only using melee weapons without electricity or poison to kill enemies on the Very Hard difficulty or above. Unlocks the \"Safety First\" mask, \"Planet\" material and \"Phoenix\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b2ba876a18febc06c4e44c6aaacd4661aaf9d9f0.jpg"
                 },
                 {
                     "name": "The Ground Is Too Cold",
@@ -51097,19 +51057,29 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/daa119910e8ab02c2cae3a9451b04b7f0844ecdb.jpg"
                 },
                 {
-                    "name": "What's in the Box?",
-                    "description": "On the White Xmas job open 40 packages before escaping on the OVERKILL difficulty or above. ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/491a2e46c9c8aec9618249d83c169b647bd894a3.jpg"
+                    "name": "This Calls for a Round of Sputniks!",
+                    "description": "In the Ukrainian Prisoner job, kill at least 100 enemies with a sniper rifle and complete the level with 100% or higher accuracy on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/dcc285653fde4192b84dea8502656b2e67cf17be.jpg"
                 },
                 {
-                    "name": "Crazy Ivan",
-                    "description": "Complete the Boiling Point job having everyone only using melee weapons without electricity or poison to kill enemies on the Very Hard difficulty or above. Unlocks the \"Safety First\" mask, \"Planet\" material and \"Phoenix\" pattern.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b2ba876a18febc06c4e44c6aaacd4661aaf9d9f0.jpg"
+                    "name": "Pacifish",
+                    "description": "Complete The Yacht Heist without killing anyone. Unlocks the \"Sailor\" mask, \"Neon Blue\" material and \"Hotel Pattern\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/854a490575c2b27138085beed4a593314ec0c0d1.jpg"
                 },
                 {
                     "name": "Kiss the Chef",
                     "description": "In the Cook Off job, cook 25 bags of meth on the OVERKILL difficulty or above. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7a3d2546404dbf2d996fe6875ec0a0625820de72.jpg"
+                },
+                {
+                    "name": "What's in the Box?",
+                    "description": "On the White Xmas job open 40 packages before escaping on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/491a2e46c9c8aec9618249d83c169b647bd894a3.jpg"
+                },
+                {
+                    "name": "OVERDRILL",
+                    "description": "In the First World Bank job, solve the PAYDAY: The Heist secret on the Death Wish difficulty or above and enter the OVERVAULT. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1524cdf40961c07df66e857880b8daa4b7bafd4a.jpg"
                 },
                 {
                     "name": "Doctor Miserable",
@@ -51150,6 +51120,36 @@ var objectiveData =
                     "name": "Self Checkout",
                     "description": "In the Mallcrasher job, complete the heist and escape within 3 minutes. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b1ddb214d6c935a487898e03647f4e3c51faca5b.jpg"
+                },
+                {
+                    "name": "Get Off My Property",
+                    "description": "On day 2 of the Reservoir Dogs job, keep the law enforcers from entering the warehouse until Twitch arrives with the escape van. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5ba770ddc8effd10dc4f1ca1d8ff88e54920354f.jpg"
+                },
+                {
+                    "name": "Gunpowder Glory",
+                    "description": "In the San Mart\u00edn Bank job, let the heist go loud before anyone enters the bank and keep all enemies away from the fountain plaza until the escape is available on the OVERKILL difficulty or above. Unlocks the \"Skull White\" weapon color.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cdc82ac5e8d1f9ea242f9009a573b3458972f1f8.jpg"
+                },
+                {
+                    "name": "Black Tie Event",
+                    "description": "Complete the Birth of Sky job, have the entire crew use only pistols and Two Piece Suits on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c69721b24377eb4332fba37df320b649d054b286.jpg"
+                },
+                {
+                    "name": "Out Of Bounds",
+                    "description": "On day 2 of the Watchdogs job, secure 12 bags without letting any law enforcer enter the warehouse on the OVERKILL difficulty or above. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/2177c2456a4216d358d354d1e12afbf692609b98.jpg"
+                },
+                {
+                    "name": "Hazzard County",
+                    "description": "Complete day 2 of the Goat Simulator job within 4 minutes from when the escape car is available. Unlocks the \"Goat Goat\" mask, \"Flamingo Eye\" material and \"Illumigoati\" pattern.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/63274b1a712af82ca4c6b681a2db5800ef6d142e.jpg"
+                },
+                {
+                    "name": "Nyctophobia",
+                    "description": "Complete the No Mercy on the hard difficulty or above, getting the power back up within 5 seconds of it being shut down. ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/24248442ef62b1cb48342bc852725d147b0d0407.jpg"
                 }
             ]
         }
@@ -51164,6 +51164,21 @@ var objectiveData =
         "points": 30,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Bad code",
+                    "description": "Beat DIAMOND HEIST on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/ecc8d63b91f843ea6a645690f6c1e0f35378e481.jpg"
+                },
+                {
+                    "name": "Under Pressure",
+                    "description": "Complete COUNTERFEIT on OVERKILL 145+ difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/0ec0d965f58ba607e6019331b489606164081c26.jpg"
+                },
+                {
+                    "name": "Brush with death",
+                    "description": "Beat PANIC ROOM on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/4068eed2d47c568ceef615ee99b81de755048223.jpg"
+                },
                 {
                     "name": "You are GOLDEN! OVERKILL salutes you!",
                     "description": "Beat all heists on OVERKILL 145+ difficulty and show them all you are on top! Completing this will make you golden!",
@@ -51193,21 +51208,6 @@ var objectiveData =
                     "name": "Bank on me",
                     "description": "Beat FIRST WORLD BANK on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/3b52e85e13d9bd40db64501a3c4483da3a5f06fc.jpg"
-                },
-                {
-                    "name": "Bad code",
-                    "description": "Beat DIAMOND HEIST on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/ecc8d63b91f843ea6a645690f6c1e0f35378e481.jpg"
-                },
-                {
-                    "name": "Under Pressure",
-                    "description": "Complete COUNTERFEIT on OVERKILL 145+ difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/0ec0d965f58ba607e6019331b489606164081c26.jpg"
-                },
-                {
-                    "name": "Brush with death",
-                    "description": "Beat PANIC ROOM on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/24240/4068eed2d47c568ceef615ee99b81de755048223.jpg"
                 }
             ]
         }
@@ -51270,6 +51270,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Excellent job, Reaper! II",
+                    "description": "Complete all days of the second week with mark not lower than A+",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/588690/0304bf1ed21d0d6fbdae0f8ef9fa73aaf52ebbe3.jpg"
+                },
+                {
                     "name": "Excellent job, Reaper! I",
                     "description": "Complete all days of the first week with mark not lower than A+",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/588690/dd44d9325155490ee211b42d0489b0bcef5048f9.jpg"
@@ -51288,11 +51293,6 @@ var objectiveData =
                     "name": "Excellent job, Reaper! V",
                     "description": "Complete all days of the fifth week with mark not lower than A+",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/588690/05e3ab5a4fd735090e5b810b0e1eeb4940720ac6.jpg"
-                },
-                {
-                    "name": "Excellent job, Reaper! II",
-                    "description": "Complete all days of the second week with mark not lower than A+",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/588690/0304bf1ed21d0d6fbdae0f8ef9fa73aaf52ebbe3.jpg"
                 },
                 {
                     "name": "Excellent job, Reaper! VI",
@@ -51521,14 +51521,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Expert Free Soloist",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/345c708636db8d9336c7b417d9cfaddd10c970d3.jpg"
-                },
-                {
                     "name": "Advanced Free Soloist",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/bc1e25e2a4246ac44bfd33d056350b4c82049f81.jpg"
+                },
+                {
+                    "name": "Expert Free Soloist",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/345c708636db8d9336c7b417d9cfaddd10c970d3.jpg"
                 }
             ]
         }
@@ -51567,11 +51567,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/7218eb296cf405881967bf646df4b13ae1f4e3d8.jpg"
                 },
                 {
-                    "name": "Great Gaol",
-                    "description": "Summit Great Gaol without Safety Harness.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/5e093c0e59e2217286dff09d476b06c6cde8c9cb.jpg"
-                },
-                {
                     "name": "Walker's Pillar",
                     "description": "Summit Walker's Pillar without Safety Harness.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/c39c0153f185e2480d2db58150f6e5018429eedc.jpg"
@@ -51587,14 +51582,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/00e84fb66f5eede292bcb1cf4eda3a4bafb0a977.jpg"
                 },
                 {
+                    "name": "The Great Bulwark of the North",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/d6c8516881922fd0c0ba718d0bbab39f137828a5.jpg"
+                },
+                {
                     "name": "Ymir's Shadow",
                     "description": "Summit Ymir's Shadow without Safety Harness.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/ff68ace48af285ba2b88d124ed2bc23b32906814.jpg"
                 },
                 {
-                    "name": "The Great Bulwark of the North",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/d6c8516881922fd0c0ba718d0bbab39f137828a5.jpg"
+                    "name": "Great Gaol",
+                    "description": "Summit Great Gaol without Safety Harness.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2236070/5e093c0e59e2217286dff09d476b06c6cde8c9cb.jpg"
                 }
             ]
         }
@@ -51670,6 +51670,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Speed Strats",
+                    "description": "Earn a gold medal time attack record for every stage of World 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2076580/b91aba1a56cfb27fe9b1004024200eb591be3c5d.jpg"
+                },
+                {
                     "name": "Done Quick",
                     "description": "Earn a gold medal time attack record for every stage of World 4",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2076580/a15db56ed99b663769b432a16f2de854d165f59a.jpg"
@@ -51683,11 +51688,6 @@ var objectiveData =
                     "name": "Treasure Rush",
                     "description": "Earn a gold medal time attack record for every stage of World 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2076580/ee82b7c198339858d1b0fda4288f485dae4c209c.jpg"
-                },
-                {
-                    "name": "Speed Strats",
-                    "description": "Earn a gold medal time attack record for every stage of World 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2076580/b91aba1a56cfb27fe9b1004024200eb591be3c5d.jpg"
                 }
             ]
         }
@@ -52031,6 +52031,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Flawless",
+                    "description": "Finish a run without being hit by an enemy or boss or bullet.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2088840/cff3b696db5a0fd6fe081ee24668b95a8ad34308.jpg"
+                },
+                {
                     "name": "instance_exists(picayune)",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2088840/451826714e6c46f707b5cb40cafe905f65d6f613.jpg"
@@ -52039,11 +52044,6 @@ var objectiveData =
                     "name": "Condensation",
                     "description": "Finish a run with only elemental weapons.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2088840/f57630c785c4864158e5c64d214d2189fd66ed9e.jpg"
-                },
-                {
-                    "name": "Flawless",
-                    "description": "Finish a run without being hit by an enemy or boss or bullet.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2088840/cff3b696db5a0fd6fe081ee24668b95a8ad34308.jpg"
                 }
             ]
         }
@@ -52188,14 +52188,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Almost Perfect Ball",
-                    "description": "Beat Pinfall with less than 20 Falls",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3875180/439e7bc1bc2b63452cec4790edcb9490feb97632.jpg"
-                },
-                {
                     "name": "Fastest Ball",
                     "description": "Beat Pinfall in 1 hour",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3875180/aa7c764f6622aaba4322bfe3e102efc2f5b4c39d.jpg"
+                },
+                {
+                    "name": "Almost Perfect Ball",
+                    "description": "Beat Pinfall with less than 20 Falls",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3875180/439e7bc1bc2b63452cec4790edcb9490feb97632.jpg"
                 }
             ]
         }
@@ -52316,14 +52316,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "HOW DID YOU DO THAT?!",
-                    "description": "Score 1 500 000 points in the arcade dessert grid",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330180/cd9bb4d9025f83aec1ff0c33f37ce82bb2259fef.jpg"
-                },
-                {
                     "name": "CREME DE LA CREME",
                     "description": "Score 2 000 000 points in the arcade main grid",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330180/9e498cd022888a285e0301efaa0e09ac113a67af.jpg"
+                },
+                {
+                    "name": "HOW DID YOU DO THAT?!",
+                    "description": "Score 1 500 000 points in the arcade dessert grid",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330180/cd9bb4d9025f83aec1ff0c33f37ce82bb2259fef.jpg"
                 }
             ]
         }
@@ -52387,6 +52387,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "P Ranked #1",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/43a0b175f759617e5ed7cdbfa7e052160122a3be.jpg"
+                },
+                {
                     "name": "P Ranked #5",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/fa6563774bf83dfcde1cea16d325fbaa07f72385.jpg"
@@ -52400,11 +52405,6 @@ var objectiveData =
                     "name": "P Ranked #4",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/e5c5783e64ec2b126d5e6fc9da7d3c0bf0a21693.jpg"
-                },
-                {
-                    "name": "P Ranked #1",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/43a0b175f759617e5ed7cdbfa7e052160122a3be.jpg"
                 },
                 {
                     "name": "P Ranked #2",
@@ -52426,16 +52426,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Ugly",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/b3a58efac20f6992d01ee5e9557d36eea5240789.jpg"
-                },
-                {
-                    "name": "Face Off",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/573020363e25f95304755717b5713e350414928a.jpg"
-                },
-                {
                     "name": "Denoise",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/9540b05ca1b509700cfcda4c339f057f6d7a8d35.jpg"
@@ -52446,9 +52436,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/4bdcc784a5035b8d6f8a105ec8259b5eb8aef6a7.jpg"
                 },
                 {
+                    "name": "Face Off",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/573020363e25f95304755717b5713e350414928a.jpg"
+                },
+                {
                     "name": "Faker",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/8a6f71e2acd6263af52c09a0c6df3edda2c6a5e6.jpg"
+                },
+                {
+                    "name": "The Ugly",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231450/b3a58efac20f6992d01ee5e9557d36eea5240789.jpg"
                 }
             ]
         }
@@ -52554,9 +52554,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Chapter 3 HC",
+                    "name": "Chapter 9 HC",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/4095813d936db78bde6e02ed4563ae86737f0794.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/89f6bf8f3505b8e0efa2f668eef150585f389a0d.jpg"
+                },
+                {
+                    "name": "Chapter 6 HC",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/bcb6e7225874d346bec80657af6bd53f1d256aee.jpg"
                 },
                 {
                     "name": "Chapter 4 HC",
@@ -52564,14 +52569,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/10e1fcca791e4dc43c9979e6f205f99762cf90e8.jpg"
                 },
                 {
-                    "name": "Chapter 8 HC",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/ebb59f8fee4ceb2d2d02e8af9d0ac8f043e3acc6.jpg"
-                },
-                {
                     "name": "Chapter 1 HC",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/0508bf8890fe3a160814dcc3bcaa4310917ec985.jpg"
+                },
+                {
+                    "name": "Chapter 3 HC",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/4095813d936db78bde6e02ed4563ae86737f0794.jpg"
+                },
+                {
+                    "name": "Chapter 8 HC",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/ebb59f8fee4ceb2d2d02e8af9d0ac8f043e3acc6.jpg"
                 },
                 {
                     "name": "Chapter 5 HC",
@@ -52592,16 +52602,6 @@ var objectiveData =
                     "name": "Chapter 2 HC",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/d88b71e8f4203be9cd41270ff77b2c51e6bf6f35.jpg"
-                },
-                {
-                    "name": "Chapter 9 HC",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/89f6bf8f3505b8e0efa2f668eef150585f389a0d.jpg"
-                },
-                {
-                    "name": "Chapter 6 HC",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2007030/bcb6e7225874d346bec80657af6bd53f1d256aee.jpg"
                 }
             ]
         }
@@ -52924,6 +52924,51 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Drakula's Speedway",
+                    "description": "Beat the bonus map Drakula's Castle in under 3 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/48434872feef23c44f0796d2a72246f8bc6987cc.jpg"
+                },
+                {
+                    "name": "Human Rocket",
+                    "description": "Beat map 2 puzzle mode in under 3 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
+                },
+                {
+                    "name": "Purist",
+                    "description": "Avoid water and rings and beat map 3.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/d4b56813314cf13444d6c4c985a6839b4887287e.jpg"
+                },
+                {
+                    "name": "Turtle Friend",
+                    "description": "Feed the turtle.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
+                },
+                {
+                    "name": "Frosty Fray",
+                    "description": "Beat the map 1 ice mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/acd1fb0a38735e8a0f4cbcf6a3d5a0aec64ad0c6.jpg"
+                },
+                {
+                    "name": "The Spirit Of Greed",
+                    "description": "Collect all 100 coins in map 3.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/2ba130319bb45baf0c51e2975339e26b0edfaf11.jpg"
+                },
+                {
+                    "name": "Bully!",
+                    "description": "Beat the developer in any mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/7e4862595678f94256ce80599a17e694302bd773.jpg"
+                },
+                {
+                    "name": "Human Rocket",
+                    "description": "Beat the map 3 puzzle mode in under 3 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
+                },
+                {
+                    "name": "Double Jump Speedrun",
+                    "description": "Beat the map 3 double jump mode in under 5 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
+                },
+                {
                     "name": "Easy Prey",
                     "description": "Beat map 1 in under 10 minutes after getting eaten by the snake.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/eab20bc0f34a30005e085146b1660966abd8565e.jpg"
@@ -52934,29 +52979,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8a5eac7109cc3b7c3e542feeab4f89290813d653.jpg"
                 },
                 {
-                    "name": "Bully!",
-                    "description": "Beat the developer in any mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/7e4862595678f94256ce80599a17e694302bd773.jpg"
-                },
-                {
-                    "name": "Tick-Tock",
-                    "description": "Beat the pear gauntlet with clockwise turns only.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/c236921863e42aa22c2305ccc2a0cc8c8b2acf5d.jpg"
-                },
-                {
-                    "name": "Human Rocket",
-                    "description": "Beat the map 3 puzzle mode in under 3 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
-                },
-                {
                     "name": "Upside-Down",
                     "description": "Beat the map 2 upside-down mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/22afaa5b2f3d9dce3196ca65733a000f491cfef8.jpg"
-                },
-                {
-                    "name": "Purist",
-                    "description": "Avoid water and rings and beat map 3.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/d4b56813314cf13444d6c4c985a6839b4887287e.jpg"
                 },
                 {
                     "name": "Boost Refusenik",
@@ -52964,39 +52989,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/2a5856f35a41b39d4372978aa52900def84e1b74.jpg"
                 },
                 {
-                    "name": "Double Jump Speedrun",
-                    "description": "Beat the map 3 double jump mode in under 5 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
-                },
-                {
-                    "name": "Turtle Friend",
-                    "description": "Feed the turtle.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
+                    "name": "Tick-Tock",
+                    "description": "Beat the pear gauntlet with clockwise turns only.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/c236921863e42aa22c2305ccc2a0cc8c8b2acf5d.jpg"
                 },
                 {
                     "name": "Straight A's",
                     "description": "Beat map 3 by following route A.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/40345e31b9811c85782d6a507ae300f6f0f3ceba.jpg"
-                },
-                {
-                    "name": "The Spirit Of Greed",
-                    "description": "Collect all 100 coins in map 3.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/2ba130319bb45baf0c51e2975339e26b0edfaf11.jpg"
-                },
-                {
-                    "name": "Frosty Fray",
-                    "description": "Beat the map 1 ice mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/acd1fb0a38735e8a0f4cbcf6a3d5a0aec64ad0c6.jpg"
-                },
-                {
-                    "name": "Human Rocket",
-                    "description": "Beat map 2 puzzle mode in under 3 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8bf5a64bd1b2e59ed7da40117ca86243107b0a52.jpg"
-                },
-                {
-                    "name": "Drakula's Speedway",
-                    "description": "Beat the bonus map Drakula's Castle in under 3 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/48434872feef23c44f0796d2a72246f8bc6987cc.jpg"
                 }
             ]
         }
@@ -53216,11 +53216,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "You're doing wellll",
-                    "description": "Clear the Jacob Collier Challenge Plus.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/4b19150b60bcc8484c967e866333acd33c95864a.jpg"
-                },
-                {
                     "name": "Offbeat Official",
                     "description": "Survive for eternity in Polymemorhythmic Offbeat.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/817dc9ddde66c4b2f89441be47030bc79b9668af.jpg"
@@ -53229,6 +53224,11 @@ var objectiveData =
                     "name": "Polyrhythmic Coexistence",
                     "description": "Survive for eternity in Polymemorhythmnesia.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/bb9e4cf942d2549f20d84a5b51bbc138211aa3cb.jpg"
+                },
+                {
+                    "name": "You're doing wellll",
+                    "description": "Clear the Jacob Collier Challenge Plus.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/4b19150b60bcc8484c967e866333acd33c95864a.jpg"
                 }
             ]
         }
@@ -53244,9 +53244,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Sixteenth Rest",
-                    "description": "Survive for eternity in It's Time For More Rest!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/994536bd134d452383ab716f2bb609227eccdec3.jpg"
+                    "name": "No Longer Human",
+                    "description": "Survive for eternity in Polylylyrhythm.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/b7fd22bc3120c396a9fbacc928b0a22b79fe1047.jpg"
                 },
                 {
                     "name": "Infinite Tuplets",
@@ -53264,6 +53264,11 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/012f66529ddac530b9dca72fa8da1f8e541d4b31.jpg"
                 },
                 {
+                    "name": "Sixteenth Rest",
+                    "description": "Survive for eternity in It's Time For More Rest!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/994536bd134d452383ab716f2bb609227eccdec3.jpg"
+                },
+                {
                     "name": "Sorry for Including Such an Impossible Achievement",
                     "description": "Survive for eternity in Polylylyrhythmosis.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/893f5ab5435814e853f404246c3e11ac2451a234.jpg"
@@ -53277,11 +53282,6 @@ var objectiveData =
                     "name": "Offbeat's Offbeat's Offbeat's Offbeat's Offbeat",
                     "description": "Survive for eternity in Polylylyrhythmic Offbeat.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/4fededa8db91eb8f324de106be8ee9c9f9d88555.jpg"
-                },
-                {
-                    "name": "No Longer Human",
-                    "description": "Survive for eternity in Polylylyrhythm.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/b7fd22bc3120c396a9fbacc928b0a22b79fe1047.jpg"
                 }
             ]
         }
@@ -53302,6 +53302,16 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/958c262b9a4c14430687da05d8a1eaf7238c8b6e.jpg"
                 },
                 {
+                    "name": "Polylylyrhythmophobic Offbeat",
+                    "description": "Reach random in Polylylyrhythmophobic Offbeat.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/ee4222662190ca6bda4fb9fea0ca51c4472f1029.jpg"
+                },
+                {
+                    "name": "It's Time For Ample Rest!",
+                    "description": "Reach random in It's Time For Ample Rest!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/9d73ddeedaf999390669ef1abb918867c8070d91.jpg"
+                },
+                {
                     "name": "Polylylyrhythmosis",
                     "description": "Reach random in Polylylyrhythmosis.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/eacfe7b2f6d259c91d7d25635b543646a326fb92.jpg"
@@ -53315,16 +53325,6 @@ var objectiveData =
                     "name": "Polylylyrhythmophobia",
                     "description": "Reach random in Polylylyrhythmophobia.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/e9c52317e1006d52f9dfcc7862430e15c7a37742.jpg"
-                },
-                {
-                    "name": "Polylylyrhythmophobic Offbeat",
-                    "description": "Reach random in Polylylyrhythmophobic Offbeat.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/ee4222662190ca6bda4fb9fea0ca51c4472f1029.jpg"
-                },
-                {
-                    "name": "It's Time For Ample Rest!",
-                    "description": "Reach random in It's Time For Ample Rest!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/9d73ddeedaf999390669ef1abb918867c8070d91.jpg"
                 }
             ]
         }
@@ -53340,11 +53340,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Player Piano",
-                    "description": "Get a 1,000 combo.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/f63b4d1dcececea9bf7033720d553bcadb9518b4.jpg"
-                },
-                {
                     "name": "Polylylytuplet",
                     "description": "Reach random in Polylylytuplet.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/5865421937db9a6fcfbc95de07e475c1b341c236.jpg"
@@ -53358,6 +53353,11 @@ var objectiveData =
                     "name": "It's Time For More Rest!",
                     "description": "Reach random in It's Time For More Rest!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/ac50b867effe143d9e0c446f4bf2fba823edee6b.jpg"
+                },
+                {
+                    "name": "Player Piano",
+                    "description": "Get a 1,000 combo.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3006240/f63b4d1dcececea9bf7033720d553bcadb9518b4.jpg"
                 },
                 {
                     "name": "Fascinating Rhythm",
@@ -53400,6 +53400,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Touch The Sky Below",
+                    "description": "Get to the hard credits",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/522240/6c8d5f2ee53b97a9b6c45fb1b4c80ffd7fdc4506.jpg"
+                },
+                {
                     "name": "Don't Panic!",
                     "description": "Get to level 10 of Panic Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/522240/8eb8807aea411f9d22c80c83b06a0c85f7a536e8.jpg"
@@ -53408,11 +53413,6 @@ var objectiveData =
                     "name": "Award Hoard 360",
                     "description": "Get three hundred and sixty gold end-of-level awards",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/522240/ff5e344183fee20a841156ce02889d6d227be108.jpg"
-                },
-                {
-                    "name": "Touch The Sky Below",
-                    "description": "Get to the hard credits",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/522240/6c8d5f2ee53b97a9b6c45fb1b4c80ffd7fdc4506.jpg"
                 }
             ]
         }
@@ -53652,6 +53652,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Normal 60\"",
+                    "description": "Score the record of 60 sec. on Normal difficulty",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735570/c982bd043357b2153d656faec69c5e81343e9fca.jpg"
+                },
+                {
                     "name": "Hard 60\"",
                     "description": "Score the record of 60 sec. on Hard difficulty",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735570/2e27409ab650028507e13ba09e79c4dd1a2d78f6.jpg"
@@ -53665,11 +53670,6 @@ var objectiveData =
                     "name": "Expert 60\"",
                     "description": "Score the record of 60 sec. on Expert difficulty",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735570/41d7dc82ef6204dc941c9f535f861ef68a2c43dc.jpg"
-                },
-                {
-                    "name": "Normal 60\"",
-                    "description": "Score the record of 60 sec. on Normal difficulty",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735570/c982bd043357b2153d656faec69c5e81343e9fca.jpg"
                 }
             ]
         }
@@ -53685,6 +53685,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Looper Lvl 2",
+                    "description": "Reach level...11?",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175430/5b6f51c089283639e115c5299e1c60a98f841193.jpg"
+                },
+                {
                     "name": "A Terrible Person!",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175430/a6d04b0ff5713e13dd1e0b35ca197ddd148688b1.jpg"
@@ -53698,11 +53703,6 @@ var objectiveData =
                     "name": "Highscorer Lvl 3",
                     "description": "Score at least 3.000.000",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175430/2e26a596791f9271405a792657c4cc93f62f820f.jpg"
-                },
-                {
-                    "name": "Looper Lvl 2",
-                    "description": "Reach level...11?",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175430/5b6f51c089283639e115c5299e1c60a98f841193.jpg"
                 }
             ]
         }
@@ -53994,6 +53994,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "ULTRA PIZZA!",
+                    "description": "Beat the game in Hard or Ultra and collect your pizza!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/21cf3b55b4de0bad04a931d74cf1e543cf8559d3.jpg"
+                },
+                {
+                    "name": "Power Up Allergy",
+                    "description": "Beat the game without collecting a single power up",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/ed2b641ead7a42b4869cab416c6b49286647df80.jpg"
+                },
+                {
                     "name": "Zero Continues",
                     "description": "Beat the game without using a single continue",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/57d111e7cd087a3ef35296713496ab02c78326d4.jpg"
@@ -54004,11 +54014,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/6e8ec68629a5a94540ddfa6d441d34bdda04e026.jpg"
                 },
                 {
-                    "name": "ULTRA PIZZA!",
-                    "description": "Beat the game in Hard or Ultra and collect your pizza!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/21cf3b55b4de0bad04a931d74cf1e543cf8559d3.jpg"
-                },
-                {
                     "name": "Bombless",
                     "description": "Beat the game without using a single bomb",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/fe5774f1c94564009111eed1d3b737cecac2fbd8.jpg"
@@ -54017,11 +54022,6 @@ var objectiveData =
                     "name": "Master Pilot",
                     "description": "Beat 200 or more opponents in Survival",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/036a63f86229f5cb4857d526ba78bf360e564245.jpg"
-                },
-                {
-                    "name": "Power Up Allergy",
-                    "description": "Beat the game without collecting a single power up",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1148500/ed2b641ead7a42b4869cab416c6b49286647df80.jpg"
                 }
             ]
         }
@@ -54245,14 +54245,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "EVERYONE Season 1",
-                    "description": "You have completed all the questions in EVERYONE Season 1.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/0705ecf1a9d5b15678a490086545ca3f8c8bebf8.jpg"
-                },
-                {
                     "name": "EVERYONE Season 2",
                     "description": "You have completed all the questions in EVERYONE Season 2.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/166d671967d98f32deaa769b40b9d5f4240d2dee.jpg"
+                },
+                {
+                    "name": "EVERYONE Season 1",
+                    "description": "You have completed all the questions in EVERYONE Season 1.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/0705ecf1a9d5b15678a490086545ca3f8c8bebf8.jpg"
                 }
             ]
         }
@@ -54268,14 +54268,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Laplace's demon",
-                    "description": "300 questions completed in 1 move.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/1a8b435ef70914409f058d77eff0f276950234d2.jpg"
-                },
-                {
                     "name": "&A",
                     "description": "All questions completed.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/ef25add50fe3859762625eeb2443e3f2a00b0769.jpg"
+                },
+                {
+                    "name": "Laplace's demon",
+                    "description": "300 questions completed in 1 move.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246110/1a8b435ef70914409f058d77eff0f276950234d2.jpg"
                 }
             ]
         }
@@ -54420,11 +54420,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Chain Keeper 3",
-                    "description": "Clear Stage 3 without your Chain being interrupted on Normal difficulty or higher.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/316600/e46347e8e31143bc6776aee69db182c22d252fb4.jpg"
-                },
-                {
                     "name": "No Hyper",
                     "description": "Clear the game without using Hyper Attacks.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/316600/cf75a7aa26349b4a23b859e51747b196413438fa.jpg"
@@ -54458,6 +54453,11 @@ var objectiveData =
                     "name": "Chain Keeper 5",
                     "description": "Clear Stage 5 without your Chain being interrupted on Normal difficulty or higher.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/316600/4d7f88e60c4aa19ed0fd8fe8235b35aee20325e3.jpg"
+                },
+                {
+                    "name": "Chain Keeper 3",
+                    "description": "Clear Stage 3 without your Chain being interrupted on Normal difficulty or higher.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/316600/e46347e8e31143bc6776aee69db182c22d252fb4.jpg"
                 }
             ]
         }
@@ -54528,6 +54528,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Still Alive",
+                    "description": "Made it through every level at least once without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200010/bb7cb672438b7185dc9acbdd4fcaba0e7761d916.jpg"
+                },
+                {
                     "name": "In less than 12 parsecs",
                     "description": "Achieved Goal Times on all maps.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200010/16be7465e4dd93980f23ae81fa0fa555042ed0c1.jpg"
@@ -54536,11 +54541,6 @@ var objectiveData =
                     "name": "Honor Student",
                     "description": "Achieved Shifts Goal on all maps.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200010/17e9682ef04b20178f3e1c4b4f80a33cff3873ce.jpg"
-                },
-                {
-                    "name": "Still Alive",
-                    "description": "Made it through every level at least once without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200010/bb7cb672438b7185dc9acbdd4fcaba0e7761d916.jpg"
                 }
             ]
         }
@@ -54574,14 +54574,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No Stone Unturned",
-                    "description": "Achieve 100%",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3870310/33dacf307c64b4fa3c6dc8e77f89823509d5d6d3.jpg"
-                },
-                {
                     "name": "Untouchable",
                     "description": "Beat the game without dying a single time",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3870310/85158abde313261b73527cd0ba478e6435b66fd5.jpg"
+                },
+                {
+                    "name": "No Stone Unturned",
+                    "description": "Achieve 100%",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3870310/33dacf307c64b4fa3c6dc8e77f89823509d5d6d3.jpg"
                 }
             ]
         }
@@ -54765,14 +54765,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2132850/2203300503b931744229f97e5a83209bc5a9eb2d.jpg"
                 },
                 {
-                    "name": "Lunar Clear",
-                    "description": "Beat the Moonlit Pinnacle on Lunar Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2132850/b853f34f6722b0d13d5d46dc19e667ae06b5a7cc.jpg"
-                },
-                {
                     "name": "The Scholar's Nest (Lunar)",
                     "description": "Beat the Scholar's Nest on Lunar Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2132850/933815e705b5a2025496448eaaf50ba884eec0f2.jpg"
+                },
+                {
+                    "name": "Lunar Clear",
+                    "description": "Beat the Moonlit Pinnacle on Lunar Mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2132850/b853f34f6722b0d13d5d46dc19e667ae06b5a7cc.jpg"
                 }
             ]
         }
@@ -54884,14 +54884,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/0f8f525d523709abb93dbd75f270fddd29a84456.jpg"
                 },
                 {
-                    "name": "Super Hyper Ultimate Boss Rush Master!",
-                    "description": "Cleared the True Boss Rush in Bunny Extinction Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/45648b6045d860f1024ed0a11edb9016e00bedaf.jpg"
-                },
-                {
-                    "name": "Kaleidoscopic Island Boss Challenge B",
+                    "name": "But I hope I can follow you, to fullfill her dreams...",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/e14e67d4536aed5d177352c7b5c7212d82952ba3.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/facd02e6befc0784c75f56bf7efcd52fa5d26813.jpg"
                 },
                 {
                     "name": "Deep Hall of Memories Boss Challenge B",
@@ -54899,9 +54894,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/3d2b39f2a3551678836aa496b226e36691f379d5.jpg"
                 },
                 {
-                    "name": "But I hope I can follow you, to fullfill her dreams...",
+                    "name": "Kaleidoscopic Island Boss Challenge B",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/facd02e6befc0784c75f56bf7efcd52fa5d26813.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/e14e67d4536aed5d177352c7b5c7212d82952ba3.jpg"
+                },
+                {
+                    "name": "Super Hyper Ultimate Boss Rush Master!",
+                    "description": "Cleared the True Boss Rush in Bunny Extinction Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/45648b6045d860f1024ed0a11edb9016e00bedaf.jpg"
                 }
             ]
         }
@@ -54973,14 +54973,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/cf29a62f10f128062ee74493073c2692abebd55a.jpg"
                 },
                 {
-                    "name": "Loop the P twice.",
-                    "description": "Recruit Keke Bunny in a 0% items run.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/f7e498187d837f3ad45eff5225a7eac0fc917965.jpg"
-                },
-                {
                     "name": "Actually Erina is the one who reaches the eggs...",
                     "description": "Collect 20 Easter Eggs with 0% items.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/ef77fc83a205c2f1be88e4584ff9d662ac448358.jpg"
+                },
+                {
+                    "name": "Loop the P twice.",
+                    "description": "Recruit Keke Bunny in a 0% items run.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400910/f7e498187d837f3ad45eff5225a7eac0fc917965.jpg"
                 }
             ]
         }
@@ -55272,16 +55272,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Meteorite",
-                    "description": "Clear Region 6 in Apocalypse",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/1b1d36ea45b698981215d896edc8951f042907e2.jpg"
-                },
-                {
-                    "name": "Cumulonimbus",
-                    "description": "Touch 3 Clouds in 1 Run",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/1285343e6ca9e246c39e1e25e3c23f74d0f3eb13.jpg"
-                },
-                {
                     "name": "Gagarin",
                     "description": "Finish 9 \"Perfect Regions\" in 1 Run",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/bed5752906719a041ad768d262da2580abe97088.jpg"
@@ -55295,6 +55285,16 @@ var objectiveData =
                     "name": "Goddard",
                     "description": "Collect 100 Tris In-Air in 1 Run",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/c4c271a8737f6e1f23eec859a860df80e58743b5.jpg"
+                },
+                {
+                    "name": "Meteorite",
+                    "description": "Clear Region 6 in Apocalypse",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/1b1d36ea45b698981215d896edc8951f042907e2.jpg"
+                },
+                {
+                    "name": "Cumulonimbus",
+                    "description": "Touch 3 Clouds in 1 Run",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/253030/1285343e6ca9e246c39e1e25e3c23f74d0f3eb13.jpg"
                 }
             ]
         }
@@ -55309,16 +55309,6 @@ var objectiveData =
         "points": 170,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Hurricane",
-                    "description": "Completed Hurricane.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/ba058ba25f2e27d7ff78d7d4d92c60ddf22c208d.jpg"
-                },
-                {
-                    "name": "Fusion",
-                    "description": "Completed Fusion.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/ef540689746042b4f53bcacac0d25377d049ef28.jpg"
-                },
                 {
                     "name": "Flow 5",
                     "description": "Completed Flow 5.",
@@ -55343,6 +55333,16 @@ var objectiveData =
                     "name": "Rupture",
                     "description": "Completed Rupture.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/bc1cc072afb9329130425103869866349cc6a480.jpg"
+                },
+                {
+                    "name": "Fusion",
+                    "description": "Completed Fusion.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/ef540689746042b4f53bcacac0d25377d049ef28.jpg"
+                },
+                {
+                    "name": "Hurricane",
+                    "description": "Completed Hurricane.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/ba058ba25f2e27d7ff78d7d4d92c60ddf22c208d.jpg"
                 }
             ],
             "custom": "Video(s) of each level."
@@ -55359,19 +55359,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Radiation",
-                    "description": "Completed Radiation.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/895e58f8ffb66957eff423474e5f4ecef1bbf66a.jpg"
+                    "name": "Flow 4",
+                    "description": "Completed Flow 4.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/00810165cd2019a77bd3c5da5379ca0e32da7cdf.jpg"
                 },
                 {
                     "name": "Wormhole",
                     "description": "Completed Wormhole.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/1c8ba278ff3679942fa2959cc7a93fffce444cec.jpg"
-                },
-                {
-                    "name": "Flow 4",
-                    "description": "Completed Flow 4.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/00810165cd2019a77bd3c5da5379ca0e32da7cdf.jpg"
                 },
                 {
                     "name": "Refraction",
@@ -55392,6 +55387,11 @@ var objectiveData =
                     "name": "Incision",
                     "description": "Completed Incision.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/6d1cc6c5016391f6e578646f7140c949bc5e8ccf.jpg"
+                },
+                {
+                    "name": "Radiation",
+                    "description": "Completed Radiation.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/895e58f8ffb66957eff423474e5f4ecef1bbf66a.jpg"
                 }
             ]
         }
@@ -55406,11 +55406,6 @@ var objectiveData =
         "points": 35,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Razor",
-                    "description": "Completed Razor.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/98f6ecba2cbc7b9090a5dec1b6bdaf98ee58faf8.jpg"
-                },
                 {
                     "name": "Enigma",
                     "description": "Completed Enigma.",
@@ -55440,6 +55435,11 @@ var objectiveData =
                     "name": "Flow 3",
                     "description": "Completed Flow 3.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/6693ed5ab58571d394352724cdd799a9240941e8.jpg"
+                },
+                {
+                    "name": "Razor",
+                    "description": "Completed Razor.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/98f6ecba2cbc7b9090a5dec1b6bdaf98ee58faf8.jpg"
                 }
             ]
         }
@@ -55455,24 +55455,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Flow 1",
-                    "description": "Completed Flow 1.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/65e3c41bf05a6f6514c5f7986e7d5d1735ca092d.jpg"
-                },
-                {
-                    "name": "Duality",
-                    "description": "Completed Duality.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/038f9eb0ecef94108978bc3ee9136c475572bac7.jpg"
-                },
-                {
-                    "name": "Resistor",
-                    "description": "Completed Resistor.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/514cf8146f2febf12c4abf5afd1c9d10d05d5039.jpg"
-                },
-                {
-                    "name": "Flow 2",
-                    "description": "Completed Flow 2.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/9f7643b6ef6b33320bb0099d89d3e0de47cda074.jpg"
+                    "name": "Wave",
+                    "description": "Completed Wave.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/171b3277e442e60f7b0fc8894f546a9dbc8f5dee.jpg"
                 },
                 {
                     "name": "Schism",
@@ -55480,9 +55465,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/8a5a7af518852441fd04bea8ecfee657c71e5ebf.jpg"
                 },
                 {
-                    "name": "Wave",
-                    "description": "Completed Wave.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/171b3277e442e60f7b0fc8894f546a9dbc8f5dee.jpg"
+                    "name": "Flow 2",
+                    "description": "Completed Flow 2.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/9f7643b6ef6b33320bb0099d89d3e0de47cda074.jpg"
                 },
                 {
                     "name": "Labyrinth",
@@ -55513,6 +55498,21 @@ var objectiveData =
                     "name": "Surge",
                     "description": "Completed Surge.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/d0adfe132721937004bb76a02c7490e852bfd731.jpg"
+                },
+                {
+                    "name": "Flow 1",
+                    "description": "Completed Flow 1.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/65e3c41bf05a6f6514c5f7986e7d5d1735ca092d.jpg"
+                },
+                {
+                    "name": "Resistor",
+                    "description": "Completed Resistor.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/514cf8146f2febf12c4abf5afd1c9d10d05d5039.jpg"
+                },
+                {
+                    "name": "Duality",
+                    "description": "Completed Duality.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2068820/038f9eb0ecef94108978bc3ee9136c475572bac7.jpg"
                 }
             ]
         }
@@ -55540,14 +55540,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Spotless Napkin",
-                    "description": "Play through the game without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1232010/46ad5f4ccd8b89a4375e9b289b5b93826dece83c.jpg"
-                },
-                {
                     "name": "Dish Done Quick",
                     "description": "Play through the game in under 1 hour",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1232010/a8eeb9ef5cbd90b7d7a09382b3628e884c73285a.jpg"
+                },
+                {
+                    "name": "Spotless Napkin",
+                    "description": "Play through the game without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1232010/46ad5f4ccd8b89a4375e9b289b5b93826dece83c.jpg"
                 }
             ]
         }
@@ -55876,6 +55876,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Closure",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312520/e2e09bfe57c130b1d8efac89c22b26e0f9ba1c4e.jpg"
+                },
+                {
                     "name": "The Cycle",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312520/77056134eaedfeecec1cb9540afb894f55034b09.jpg"
@@ -55884,11 +55889,6 @@ var objectiveData =
                     "name": "Within Time",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312520/f177f9b7831c780826d1fd0f90ba6423c8399cc0.jpg"
-                },
-                {
-                    "name": "Closure",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312520/e2e09bfe57c130b1d8efac89c22b26e0f9ba1c4e.jpg"
                 },
                 {
                     "name": "Migration",
@@ -55961,16 +55961,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "return 3221225725;",
-                    "description": "Clear R HARD at least 98%",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/576ecb0c512c830be7bc76a40d46f224f3a43f3e.jpg"
-                },
-                {
-                    "name": "Soulwind",
-                    "description": "Clear Soulwind HARD at least 98% (DLC)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/7f3e0c2923cedffd1e4f79f781f7b2832039aca7.jpg"
-                },
-                {
                     "name": "Ending Credit",
                     "description": "Clear The End HARD at least 98%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/51f5223aef117d9de541c05106b92398658875dd.jpg"
@@ -55996,14 +55986,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/8b3d862f9470801cdded0bfe87985018b1c2eede.jpg"
                 },
                 {
-                    "name": "Downpour",
-                    "description": "Clear Raindrop HARD at least 98%",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/a5623a1fc8a1119cc581c9fd2020c9df5476092e.jpg"
-                },
-                {
                     "name": "Cotton Cotton Cotton",
                     "description": "Clear Cotton Candy HARD at least 98%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/a3c40c25d7465a6b9e59a09ae45f98410b662943.jpg"
+                },
+                {
+                    "name": "Downpour",
+                    "description": "Clear Raindrop HARD at least 98%",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/a5623a1fc8a1119cc581c9fd2020c9df5476092e.jpg"
                 },
                 {
                     "name": "Heavy Rainy waltz",
@@ -56011,19 +56001,24 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/04c4e4fe288b56c4f84dfef37929b5572e09a8a3.jpg"
                 },
                 {
-                    "name": "Rainbow chaser",
-                    "description": "Clear Skyscape HARD at least 98%",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/54f93029fe67f2bcf4cee56e5608127d0924cf3e.jpg"
-                },
-                {
                     "name": "The second one",
                     "description": "Clear The Last One HARD at least 98%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/b9ce8f7687838f2236a9e048927809c978306415.jpg"
                 },
                 {
+                    "name": "Rainbow chaser",
+                    "description": "Clear Skyscape HARD at least 98%",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/54f93029fe67f2bcf4cee56e5608127d0924cf3e.jpg"
+                },
+                {
                     "name": "Still Alive",
                     "description": "Clear Portal HARD at least 98%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/b833b627bb95621a7bd767e8e2a44986285845f1.jpg"
+                },
+                {
+                    "name": "return 3221225725;",
+                    "description": "Clear R HARD at least 98%",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/576ecb0c512c830be7bc76a40d46f224f3a43f3e.jpg"
                 },
                 {
                     "name": "PROXY ERROR",
@@ -56064,6 +56059,11 @@ var objectiveData =
                     "name": "404 not found",
                     "description": "Clear Find Our Way HARD at least 98%",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/62f80b6ff8c8741dd6f2d244d71e388790715ade.jpg"
+                },
+                {
+                    "name": "Soulwind",
+                    "description": "Clear Soulwind HARD at least 98% (DLC)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1268860/7f3e0c2923cedffd1e4f79f781f7b2832039aca7.jpg"
                 }
             ],
             "custom": "Screenshots of all Flood songs completed."
@@ -56309,16 +56309,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Medal of Valor",
-                    "description": "Complete all base game missions at S on 'Standard' difficulty or higher",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/fb8f19ef3a5d49451e89c9b436ec0ecec787849f.jpg"
-                },
-                {
-                    "name": "Nosce Te Ipsum",
-                    "description": "Complete all Boiling Point levels at S on 'Standard' difficulty or higher",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/75c0ce83714c9e20d8b10323359b49a0cf6a68dd.jpg"
-                },
-                {
                     "name": "From Land to Sea",
                     "description": "Complete all Dark Waters levels at S on 'Standard' difficulty or higher",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/84e784ba3f85d35a2edbb5fc4c770cce6d4fe03d.jpg"
@@ -56327,6 +56317,16 @@ var objectiveData =
                     "name": "After the Storm",
                     "description": "Complete all Home Invasion levels at S on 'Standard' difficulty or higher",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/96f85edf5f2fe257b4963708f29496963a0f4645.jpg"
+                },
+                {
+                    "name": "Medal of Valor",
+                    "description": "Complete all base game missions at S on 'Standard' difficulty or higher",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/fb8f19ef3a5d49451e89c9b436ec0ecec787849f.jpg"
+                },
+                {
+                    "name": "Nosce Te Ipsum",
+                    "description": "Complete all Boiling Point levels at S on 'Standard' difficulty or higher",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144200/75c0ce83714c9e20d8b10323359b49a0cf6a68dd.jpg"
                 }
             ]
         }
@@ -56569,6 +56569,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "I, need, more, shelves!",
+                    "description": "Collect all bonus trophies",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1799930/87ff93bb34083b768a1e64b4a104a422b5a42baa.jpg"
+                },
+                {
                     "name": "Put a sign on it",
                     "description": "Unlock every SIGNATURE module",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1799930/7080cca2dc412c0f82673276a48eb2d324e6b2c4.jpg"
@@ -56582,11 +56587,6 @@ var objectiveData =
                     "name": "Redout Champion",
                     "description": "Complete the Career",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1799930/5bd8120c25d6e67d500f8e92875d21f8a3ccd41f.jpg"
-                },
-                {
-                    "name": "I, need, more, shelves!",
-                    "description": "Collect all bonus trophies",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1799930/87ff93bb34083b768a1e64b4a104a422b5a42baa.jpg"
                 }
             ],
             "custom": "Screenshot of Campaign select showing all stars obtained."
@@ -56603,21 +56603,6 @@ var objectiveData =
         "pointsPartial": 15,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Gold",
-                    "description": "Stage 11, with five buttons, was completed with fewer than 10 mistakes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/45db4e7674cbe76347a784daf9fd7b4b78830dfc.jpg"
-                },
-                {
-                    "name": "Purple",
-                    "description": "Stage 2, with five buttons, was completed with fewer than 10 mistakes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/1d266e0ddb931a0f00a0963fe40bff5e3d2cdd46.jpg"
-                },
-                {
-                    "name": "Cyan",
-                    "description": "Stage 1, with five buttons, was completed with fewer than 10 mistakes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/c83dd75898c1229de2974d51ab066b282f99a19a.jpg"
-                },
                 {
                     "name": "Green",
                     "description": "Stage 9, with five buttons, was completed with fewer than 10 mistakes.",
@@ -56662,6 +56647,21 @@ var objectiveData =
                     "name": "Transparent",
                     "description": "Stage 8, with five buttons, was completed with fewer than 10 mistakes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/c53514dd74757af163c4ad30be0172c21ebfdb78.jpg"
+                },
+                {
+                    "name": "Gold",
+                    "description": "Stage 11, with five buttons, was completed with fewer than 10 mistakes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/45db4e7674cbe76347a784daf9fd7b4b78830dfc.jpg"
+                },
+                {
+                    "name": "Purple",
+                    "description": "Stage 2, with five buttons, was completed with fewer than 10 mistakes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/1d266e0ddb931a0f00a0963fe40bff5e3d2cdd46.jpg"
+                },
+                {
+                    "name": "Cyan",
+                    "description": "Stage 1, with five buttons, was completed with fewer than 10 mistakes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2433220/c83dd75898c1229de2974d51ab066b282f99a19a.jpg"
                 }
             ],
             "custom": "Scrolling proof of levels."
@@ -56843,11 +56843,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Don't Stop Running",
-                    "description": "Finish the game in three hours.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304240/143c8cb99697ab393725eb447be7c77f0ec9417c.jpg"
-                },
-                {
                     "name": "Ghost of a Chance",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304240/9fc10ce8640d2df866a843c9abbb0a6ca09ada29.jpg"
@@ -56866,6 +56861,11 @@ var objectiveData =
                     "name": "CQC FTW",
                     "description": "Finish the game using only your knife.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304240/8871d6d59d9da4b9789191bf7024a6e89587ffa2.jpg"
+                },
+                {
+                    "name": "Don't Stop Running",
+                    "description": "Finish the game in three hours.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/304240/143c8cb99697ab393725eb447be7c77f0ec9417c.jpg"
                 }
             ]
         }
@@ -56905,14 +56905,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hell of a Sheriff",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/90310066ed37e94d8b7fe95e52244060690bf58a.jpg"
-                },
-                {
                     "name": "Grim Reaper",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/d91350129de16ad6c5b2161bfcb5c49fbb1324b8.jpg"
+                },
+                {
+                    "name": "Hell of a Sheriff",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/90310066ed37e94d8b7fe95e52244060690bf58a.jpg"
                 }
             ]
         }
@@ -57196,14 +57196,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Light-Speed Debugger!",
-                    "description": "Beat up to Stage 7-8 within 80 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413580/11c387063d64fdc7ee398bf9afc4ec5dbcc0b3a7.jpg"
-                },
-                {
                     "name": "ReveReveR Master!",
                     "description": "Obtain S ranks or better on all stages up to World 9.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413580/a40a36cd7f13271d8057f33bae57731e2f016c08.jpg"
+                },
+                {
+                    "name": "Light-Speed Debugger!",
+                    "description": "Beat up to Stage 7-8 within 80 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413580/11c387063d64fdc7ee398bf9afc4ec5dbcc0b3a7.jpg"
                 }
             ]
         }
@@ -57231,11 +57231,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Child of the Unknown",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/4fc70300d21a9ccfed01f6d9cfbd5985e800fbf4.jpg"
-                },
-                {
                     "name": "Loooooop",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/082dd45cff4af7faf078cf6ec1e752b760098310.jpg"
@@ -57244,6 +57239,11 @@ var objectiveData =
                     "name": "Not Even a Scratch",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/4b52b0153f4ba99636595267c1f0c2bf993c451e.jpg"
+                },
+                {
+                    "name": "Child of the Unknown",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/4fc70300d21a9ccfed01f6d9cfbd5985e800fbf4.jpg"
                 }
             ],
             "custom": "Video of successful hitless run and video of hitless Last Refuge."
@@ -57260,19 +57260,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gunslinger",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/248fc289854e5f558502cc45d787e42bf109d437.jpg"
-                },
-                {
                     "name": "Shard Obliterator",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/223d0dde9a913e47ec595364bd68a084e197fa52.jpg"
-                },
-                {
-                    "name": "Child of the Tower",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/70286edcfc3ba8717102bf7c74c9dd903c82858c.jpg"
                 },
                 {
                     "name": "True Chaos",
@@ -57288,6 +57278,16 @@ var objectiveData =
                     "name": "False Hearts",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/f7dd40a480c48f4fb1967e4869be9da3ae5cbc59.jpg"
+                },
+                {
+                    "name": "Child of the Tower",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/70286edcfc3ba8717102bf7c74c9dd903c82858c.jpg"
+                },
+                {
+                    "name": "Gunslinger",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/248fc289854e5f558502cc45d787e42bf109d437.jpg"
                 }
             ],
             "custom": "Video of hitless Ticking Towertop."
@@ -57304,6 +57304,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Loop",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/d01e3e6d74184d1fbafca65b46c11fa069656891.jpg"
+                },
+                {
                     "name": "Child of the Spa",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/e89195f33d09d6cccf2a45bf1adaaeaa0d3c5131.jpg"
@@ -57312,11 +57317,6 @@ var objectiveData =
                     "name": "Shard Conquerer",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/e26a343937e3368a67b2bb582eb59b9434406504.jpg"
-                },
-                {
-                    "name": "Loop",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/d01e3e6d74184d1fbafca65b46c11fa069656891.jpg"
                 },
                 {
                     "name": "SPEEEED",
@@ -57338,16 +57338,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Shard Hunter",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/43c92d29c78358d9394271b3121cf1b74b7b3f1b.jpg"
-                },
-                {
-                    "name": "Can't outrun your Problems",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/99d19e5ae959df8b9f011ad3f08acb7e6c86e3a7.jpg"
-                },
-                {
                     "name": "Child of the Crypt",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/9c1be13a5273cf84794b5b493ca4a3177005259c.jpg"
@@ -57366,6 +57356,16 @@ var objectiveData =
                     "name": "Child of the Hive",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/4a93d30c16c726c9fe563660da260ed2cb74eada.jpg"
+                },
+                {
+                    "name": "Shard Hunter",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/43c92d29c78358d9394271b3121cf1b74b7b3f1b.jpg"
+                },
+                {
+                    "name": "Can't outrun your Problems",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175460/99d19e5ae959df8b9f011ad3f08acb7e6c86e3a7.jpg"
                 }
             ]
         }
@@ -57409,6 +57409,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Challenge Master",
+                    "description": "Successfully completed 50 challenges ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/8eff741c443da1cba25277a04cdadec0345672c8.jpg"
+                },
+                {
+                    "name": "Reactor Professional",
+                    "description": "Reached 20,000,000,000 pts in RE:ACTOR mode ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/bcf6b447220caa39727d40358a36981d5861fab7.jpg"
+                },
+                {
+                    "name": "Perfectionist",
+                    "description": "Destroyed the boss and all its parts in sector4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/f20752d6cd87d9c8a4bfb16adf007d3ef8b71379.jpg"
+                },
+                {
                     "name": "Sector1 Professional",
                     "description": "Reached 3,000,000,000 pts in SECTORDIVE1 ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/3f438e4d81e92d0b1e886da12288bb7d067bc171.jpg"
@@ -57427,21 +57442,6 @@ var objectiveData =
                     "name": "Sector2 Professional",
                     "description": "Reached 3,000,000,000 pts in SECTORDIVE2 ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/4755036745ea9aabd665cd3554b35eb704d7817f.jpg"
-                },
-                {
-                    "name": "Challenge Master",
-                    "description": "Successfully completed 50 challenges ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/8eff741c443da1cba25277a04cdadec0345672c8.jpg"
-                },
-                {
-                    "name": "Reactor Professional",
-                    "description": "Reached 20,000,000,000 pts in RE:ACTOR mode ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/bcf6b447220caa39727d40358a36981d5861fab7.jpg"
-                },
-                {
-                    "name": "Perfectionist",
-                    "description": "Destroyed the boss and all its parts in sector4",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/313400/f20752d6cd87d9c8a4bfb16adf007d3ef8b71379.jpg"
                 }
             ]
         }
@@ -57488,6 +57488,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "This is my ship!",
+                    "description": "Defeat LAUREN.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/288020/297bed8ca83dfd1aa567e9e1eb444401a00c1818.jpg"
+                },
+                {
                     "name": "Run, Rex, Run!",
                     "description": "Find the Air-Talarias.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/288020/36c1a1140d6d3fb819b951b0e658bbca468fa407.jpg"
@@ -57496,11 +57501,6 @@ var objectiveData =
                     "name": "Down in front!",
                     "description": "Find the Grenade Launcher.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/288020/25d2dce5ba617f5975ffa87cd5368bef6969c5ea.jpg"
-                },
-                {
-                    "name": "This is my ship!",
-                    "description": "Defeat LAUREN.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/288020/297bed8ca83dfd1aa567e9e1eb444401a00c1818.jpg"
                 }
             ]
         }
@@ -57540,14 +57540,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "EYE BET THAT HURT",
-                    "description": "Beat the game on hard difficulty ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/849520/c0357e87a9d58329da919ae6b34dc9b50b91cd43.jpg"
-                },
-                {
                     "name": "EYE-CEPTION",
                     "description": "Beat the game without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/849520/99897c377393376ef3d210fcd2d6e9fa53b71af2.jpg"
+                },
+                {
+                    "name": "EYE BET THAT HURT",
+                    "description": "Beat the game on hard difficulty ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/849520/c0357e87a9d58329da919ae6b34dc9b50b91cd43.jpg"
                 }
             ]
         }
@@ -57611,14 +57611,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "1.5x!!",
-                    "description": "Clear all of the bonus tracks except xhard and long (22-29) at 1.5x the speed",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/41976d0d235294ab7869b7947c3b4cd3c198f6b6.jpg"
-                },
-                {
                     "name": "Perfect!!",
                     "description": "Get perfects in all of the bonus tracks except XHARD and LONG (22-29)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/99fae28d14bbe39dbd5c66abc8f372b7e396bf0b.jpg"
+                },
+                {
+                    "name": "1.5x!!",
+                    "description": "Clear all of the bonus tracks except xhard and long (22-29) at 1.5x the speed",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/41976d0d235294ab7869b7947c3b4cd3c198f6b6.jpg"
                 }
             ]
         }
@@ -57634,14 +57634,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "1.5x!",
-                    "description": "Clear all of the main and the collab tracks (1-21) at 1.5x the speed",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/7b253f7887de42325432bdd5d929241d3e00e907.jpg"
-                },
-                {
                     "name": "Perfect!",
                     "description": "Get perfects in all of the main and the collab tracks (1-21)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/c7b27c14ae901a576c0d0274e618141af73521d4.jpg"
+                },
+                {
+                    "name": "1.5x!",
+                    "description": "Clear all of the main and the collab tracks (1-21) at 1.5x the speed",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1945220/7b253f7887de42325432bdd5d929241d3e00e907.jpg"
                 }
             ]
         }
@@ -57695,6 +57695,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Troglodyte - \"All Mutators Challenge\"",
+                    "description": "Complete the level \"Troglodyte\" from Kaixo with the \"All Mutators Challenge\" enabled",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/9a61da53cfa06b436426495fad5af6f11b980436.jpg"
+                },
+                {
+                    "name": "Clown - \"All Mutators Challenge\"",
+                    "description": "Complete the level \"Clown\" from Thaehan with the \"All Mutators Challenge\" enabled",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/0f095d28aec083753b047131aee1ac3172c8a931.jpg"
+                },
+                {
+                    "name": "Ember - \"All Mutators Challenge\"",
+                    "description": "Complete the level \"Ember\" from Kubbi with the \"All Mutators Challenge\" enabled",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/0f095d28aec083753b047131aee1ac3172c8a931.jpg"
+                },
+                {
                     "name": "Go - \"All Mutators Challenge\"",
                     "description": "Complete the level \"Go\" from Vexento with the \"All Mutators Challenge\" enabled",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/9a61da53cfa06b436426495fad5af6f11b980436.jpg"
@@ -57712,21 +57727,6 @@ var objectiveData =
                 {
                     "name": "Doki Doki - \"All Mutators Challenge\"",
                     "description": "Complete the level \"Doki Doki\" from Thaehan with the \"All Mutators Challenge\" enabled",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/0f095d28aec083753b047131aee1ac3172c8a931.jpg"
-                },
-                {
-                    "name": "Troglodyte - \"All Mutators Challenge\"",
-                    "description": "Complete the level \"Troglodyte\" from Kaixo with the \"All Mutators Challenge\" enabled",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/9a61da53cfa06b436426495fad5af6f11b980436.jpg"
-                },
-                {
-                    "name": "Clown - \"All Mutators Challenge\"",
-                    "description": "Complete the level \"Clown\" from Thaehan with the \"All Mutators Challenge\" enabled",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/0f095d28aec083753b047131aee1ac3172c8a931.jpg"
-                },
-                {
-                    "name": "Ember - \"All Mutators Challenge\"",
-                    "description": "Complete the level \"Ember\" from Kubbi with the \"All Mutators Challenge\" enabled",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1001970/0f095d28aec083753b047131aee1ac3172c8a931.jpg"
                 }
             ]
@@ -57920,6 +57920,31 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Giantslayer",
+                    "description": "Complete the Giantslayer Trial",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/dd5ce5f1386975554b9d3ec538adf665547115c8.jpg"
+                },
+                {
+                    "name": "Limited Spellbook",
+                    "description": "Complete the Limited Spellbook Trial",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/cbaf395127e6d26f67dcd6ab0d47c24a2ce26e83.jpg"
+                },
+                {
+                    "name": "Menagerie",
+                    "description": "Complete the Menagerie Trial",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/a1187e8944429eef8ace3bf0f997b1fab44e7a40.jpg"
+                },
+                {
+                    "name": "Humbler Horde",
+                    "description": "Complete the Humble Horde Trial",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/f3438f1ffbaf6d18798b09954d86bd77daceb353.jpg"
+                },
+                {
+                    "name": "Improviser",
+                    "description": "Complete the Improviser Trial",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/488944540595d7eba3950e659fe0937c56ffa170.jpg"
+                },
+                {
                     "name": "Flamefest",
                     "description": "Complete the Flamefest Trial",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/0fa0f4f4170005b2658a6fa34a7829f1126ef6ce.jpg"
@@ -57958,31 +57983,6 @@ var objectiveData =
                     "name": "Wolfer",
                     "description": "Complete the Wolfer Trial",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/e342a2bc846f31ef4fd173f1c30cfc7e82600a2a.jpg"
-                },
-                {
-                    "name": "Giantslayer",
-                    "description": "Complete the Giantslayer Trial",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/dd5ce5f1386975554b9d3ec538adf665547115c8.jpg"
-                },
-                {
-                    "name": "Limited Spellbook",
-                    "description": "Complete the Limited Spellbook Trial",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/cbaf395127e6d26f67dcd6ab0d47c24a2ce26e83.jpg"
-                },
-                {
-                    "name": "Menagerie",
-                    "description": "Complete the Menagerie Trial",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/a1187e8944429eef8ace3bf0f997b1fab44e7a40.jpg"
-                },
-                {
-                    "name": "Humbler Horde",
-                    "description": "Complete the Humble Horde Trial",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/f3438f1ffbaf6d18798b09954d86bd77daceb353.jpg"
-                },
-                {
-                    "name": "Improviser",
-                    "description": "Complete the Improviser Trial",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1271280/488944540595d7eba3950e659fe0937c56ffa170.jpg"
                 }
             ]
         }
@@ -58040,6 +58040,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Ending: King",
+                    "description": "The king is dead, ...",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/625740/8be60982a341ad45d7d2d223d3320477e0fac560.jpg"
+                },
+                {
                     "name": "Ending: Sacrifice",
                     "description": "Destroy the sun... and yourself",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/625740/f35d643adccd05aeb3aa115a6bc850dee20a0ae8.jpg"
@@ -58048,11 +58053,6 @@ var objectiveData =
                     "name": "Ending: Release",
                     "description": "Letting go...",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/625740/38a9460abf9a1ea46ef148f1c2c82c0b5366de9e.jpg"
-                },
-                {
-                    "name": "Ending: King",
-                    "description": "The king is dead, ...",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/625740/8be60982a341ad45d7d2d223d3320477e0fac560.jpg"
                 }
             ]
         }
@@ -58091,6 +58091,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "A Hard Carry",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/998740/1c9af883738662dbd6e1ea5bf6969caadb722e73.jpg"
+                },
+                {
                     "name": "Ignoring Midgame",
                     "description": "Complete a run without ever equipping a Rare or Epic item",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/998740/d94916fed88a7827d1a5fb2d0dbafd316eaf54b6.jpg"
@@ -58119,11 +58124,6 @@ var objectiveData =
                     "name": "Sprinter",
                     "description": "Complete a run in under 18 minutes",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/998740/94e977e072803df056253a41f183b0d2737746a9.jpg"
-                },
-                {
-                    "name": "A Hard Carry",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/998740/1c9af883738662dbd6e1ea5bf6969caadb722e73.jpg"
                 }
             ]
         }
@@ -58169,16 +58169,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Like an Absolute Madman",
-                    "description": "Beat the Ancient Ruins without taking damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/0e18526adfcc763028484dd4acb36f3023f52dce.jpg"
-                },
-                {
-                    "name": "Shhh, Don't Wake The Skeletons",
-                    "description": "Beat the Crypt without taking damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/fdbd67424f2f50fbd645036404d76f00a9c718cf.jpg"
-                },
-                {
                     "name": "Not a Single Spore On Me!",
                     "description": "Beat the Mushroom Caverns without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/f0a8e6ac42a2bf3966944bece9df56965722097e.jpg"
@@ -58187,6 +58177,16 @@ var objectiveData =
                     "name": "Deep-rooted Frustrations",
                     "description": "Beat the Underground Forest without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/264d1deeb0f24de0ca1d3b834242068d6b41a217.jpg"
+                },
+                {
+                    "name": "Like an Absolute Madman",
+                    "description": "Beat the Ancient Ruins without taking damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/0e18526adfcc763028484dd4acb36f3023f52dce.jpg"
+                },
+                {
+                    "name": "Shhh, Don't Wake The Skeletons",
+                    "description": "Beat the Crypt without taking damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/616000/fdbd67424f2f50fbd645036404d76f00a9c718cf.jpg"
                 }
             ]
         }
@@ -58202,6 +58202,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Curious cat.",
+                    "description": "Open all the chests.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347290/4788315e925e975dec297dec6274a7311f4e042d.jpg"
+                },
+                {
                     "name": "The secret whisperer.",
                     "description": "Find all the secrets.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347290/ef26c0a8a35b6a926c6c3a0162d49aa54303f9f0.jpg"
@@ -58210,11 +58215,6 @@ var objectiveData =
                     "name": "Indestructible.",
                     "description": "Finish the game on ironman mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347290/843bd536d513a11f16aa55a57ac6f24c1309eac9.jpg"
-                },
-                {
-                    "name": "Curious cat.",
-                    "description": "Open all the chests.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347290/4788315e925e975dec297dec6274a7311f4e042d.jpg"
                 }
             ]
         }
@@ -58326,39 +58326,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Brawl In Hell 1",
-                    "description": "Complete \"Pit of Torments\" chapter without performing Hellbreak.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/d836f3a659c40f04108bbdcb4d4fa58a35c2b2d4.jpg"
-                },
-                {
-                    "name": "The Untouchable 3",
-                    "description": "Complete Madhell challenge in \"Citadel of the Faithless\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/45283766e9068e9828dc68e6b517ac3a2a1bd088.jpg"
-                },
-                {
-                    "name": "The Untouchable 2",
-                    "description": "Complete Madhell challenge in \"Beelzebub's Lair\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/e717841a9ed017e342e789c2637a6ca5982faa8b.jpg"
-                },
-                {
-                    "name": "Broken Wings",
-                    "description": "Defeat \"Lilith, The Impure\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/0fb8256cf86d4c35cd6ed323b7a8e434f5241004.jpg"
-                },
-                {
-                    "name": "Death Executor",
-                    "description": "Defeat \"Abaddon, The Dread Knight\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/5b8e230e2906545077c37218915abccbf8a6f176.jpg"
-                },
-                {
-                    "name": "Fallen Sentinels",
-                    "description": "Defeat \"Deimos & Phobos\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/d076b83b78846813b63b79161c271e2ad6e89adc.jpg"
-                },
-                {
-                    "name": "Time Conqueror 2",
-                    "description": "Complete Deathrush challenge in \"Beelzebub's Lair\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/4180a2feaf88ea1d0a771d0ff6901b2dcf3860dd.jpg"
+                    "name": "The Untouchable 1",
+                    "description": "Complete Madhell challenge in \"Pit of Torments\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/3318334fa819e987faeceafc3ecc272878356d33.jpg"
                 },
                 {
                     "name": "Time Conqueror 3",
@@ -58366,79 +58336,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/6b7d7f19f49ac526f1685bb12808fdbce73a984d.jpg"
                 },
                 {
-                    "name": "Hellwraith Exorcist",
-                    "description": "Defeat \"Adrammelech, The Enigma\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/6de4201feaa24791c455ab7aa2e68d1718af9bb6.jpg"
-                },
-                {
-                    "name": "Beyond God 2",
-                    "description": "Defeat \"Beelzebub, Lord of Flies & Moths\" in Godslayer challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/1a0ca118dd462c3cfc03e2eb4b257acc16ae66ad.jpg"
-                },
-                {
-                    "name": "Plague Ender",
-                    "description": "Defeat \"Beleth, The Tainted\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/a815fbbf2bb41e0114758e283fd16f3209702e6a.jpg"
-                },
-                {
-                    "name": "The Gladiator 2",
-                    "description": "Complete Bloodlust challenge in \"Beelzebub's Lair\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/96ec885aaa972b57275533e6cc92aa0d9a76de66.jpg"
-                },
-                {
-                    "name": "Netherbeast Master",
-                    "description": "Defeat \"Magog, The Ferocious\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/75b51f57f472319145720ce29a5593363214c065.jpg"
-                },
-                {
-                    "name": "Brawl In Hell 2",
-                    "description": "Complete \"Beelzebub's Lair\" chapter without performing Hellbreak.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/a1763a20cff399ac516bc2f30d6e77b559b2de78.jpg"
-                },
-                {
-                    "name": "Blind Watcher",
-                    "description": "Defeat \"Samael, The Baneful\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/49f5ec545f4dd1e4579ad9392c3c1a6238680dcb.jpg"
-                },
-                {
-                    "name": "End of The Tyrant",
-                    "description": "Defeat \"Belial, The Deceivous Tyrant\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/5fa7d1ff129d729e3c5de9f074fd199cc9324cce.jpg"
-                },
-                {
-                    "name": "Brawl In Hell 3",
-                    "description": "Complete \"Citadel of the Faithless\" chapter without performing Hellbreak.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/f3ba5e31426f8ecca2fd3f44a1f69973131e3fb0.jpg"
-                },
-                {
-                    "name": "Brood Killer",
-                    "description": "Defeat \"Baal, The Imperious\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/6b94604c4c4d941c89cd94d1586545cecf148978.jpg"
-                },
-                {
-                    "name": "Beyond God 1",
-                    "description": "Defeat \"Dagon, The False Judge\" in Godslayer challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/00c1959597c454f6ab8cf95021b87ac35d78e34b.jpg"
-                },
-                {
-                    "name": "Time Conqueror 1",
-                    "description": "Complete Deathrush challenge in \"Pit of Torments\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/920bed626e0bea80f939f74ee995601e3e75ee0d.jpg"
-                },
-                {
-                    "name": "The Untouchable 1",
-                    "description": "Complete Madhell challenge in \"Pit of Torments\" stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/3318334fa819e987faeceafc3ecc272878356d33.jpg"
-                },
-                {
-                    "name": "Dead Fire",
-                    "description": "Defeat \"Ifrit, The Rancorous\" in conquest mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/b45bd002d4ed9a2dbc2dda1743216239f9d03488.jpg"
-                },
-                {
-                    "name": "Beyond God 3",
-                    "description": "Defeat \"Dasael, The Fallen\" in Godslayer challenge ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/79f242fd6bc2fa518cdef438ea3bbb8ea741da0c.jpg"
+                    "name": "Fallen Sentinels",
+                    "description": "Defeat \"Deimos & Phobos\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/d076b83b78846813b63b79161c271e2ad6e89adc.jpg"
                 },
                 {
                     "name": "The Gladiator 1",
@@ -58446,9 +58346,109 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/bba298d2b46c5ec5dae47241e8b678e6ec648e55.jpg"
                 },
                 {
+                    "name": "Hellwraith Exorcist",
+                    "description": "Defeat \"Adrammelech, The Enigma\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/6de4201feaa24791c455ab7aa2e68d1718af9bb6.jpg"
+                },
+                {
+                    "name": "The Untouchable 3",
+                    "description": "Complete Madhell challenge in \"Citadel of the Faithless\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/45283766e9068e9828dc68e6b517ac3a2a1bd088.jpg"
+                },
+                {
                     "name": "The Gladiator 3",
                     "description": "Complete Bloodlust challenge in \"Citadel of the Faithless\" stage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/13525f517dd3a1181c1a7a41a9c2a5f817f9be85.jpg"
+                },
+                {
+                    "name": "The Untouchable 2",
+                    "description": "Complete Madhell challenge in \"Beelzebub's Lair\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/e717841a9ed017e342e789c2637a6ca5982faa8b.jpg"
+                },
+                {
+                    "name": "Plague Ender",
+                    "description": "Defeat \"Beleth, The Tainted\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/a815fbbf2bb41e0114758e283fd16f3209702e6a.jpg"
+                },
+                {
+                    "name": "Death Executor",
+                    "description": "Defeat \"Abaddon, The Dread Knight\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/5b8e230e2906545077c37218915abccbf8a6f176.jpg"
+                },
+                {
+                    "name": "Time Conqueror 2",
+                    "description": "Complete Deathrush challenge in \"Beelzebub's Lair\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/4180a2feaf88ea1d0a771d0ff6901b2dcf3860dd.jpg"
+                },
+                {
+                    "name": "Netherbeast Master",
+                    "description": "Defeat \"Magog, The Ferocious\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/75b51f57f472319145720ce29a5593363214c065.jpg"
+                },
+                {
+                    "name": "Beyond God 2",
+                    "description": "Defeat \"Beelzebub, Lord of Flies & Moths\" in Godslayer challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/1a0ca118dd462c3cfc03e2eb4b257acc16ae66ad.jpg"
+                },
+                {
+                    "name": "Blind Watcher",
+                    "description": "Defeat \"Samael, The Baneful\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/49f5ec545f4dd1e4579ad9392c3c1a6238680dcb.jpg"
+                },
+                {
+                    "name": "Brawl In Hell 3",
+                    "description": "Complete \"Citadel of the Faithless\" chapter without performing Hellbreak.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/f3ba5e31426f8ecca2fd3f44a1f69973131e3fb0.jpg"
+                },
+                {
+                    "name": "Time Conqueror 1",
+                    "description": "Complete Deathrush challenge in \"Pit of Torments\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/920bed626e0bea80f939f74ee995601e3e75ee0d.jpg"
+                },
+                {
+                    "name": "The Gladiator 2",
+                    "description": "Complete Bloodlust challenge in \"Beelzebub's Lair\" stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/96ec885aaa972b57275533e6cc92aa0d9a76de66.jpg"
+                },
+                {
+                    "name": "Brawl In Hell 2",
+                    "description": "Complete \"Beelzebub's Lair\" chapter without performing Hellbreak.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/a1763a20cff399ac516bc2f30d6e77b559b2de78.jpg"
+                },
+                {
+                    "name": "Beyond God 3",
+                    "description": "Defeat \"Dasael, The Fallen\" in Godslayer challenge ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/79f242fd6bc2fa518cdef438ea3bbb8ea741da0c.jpg"
+                },
+                {
+                    "name": "End of The Tyrant",
+                    "description": "Defeat \"Belial, The Deceivous Tyrant\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/5fa7d1ff129d729e3c5de9f074fd199cc9324cce.jpg"
+                },
+                {
+                    "name": "Dead Fire",
+                    "description": "Defeat \"Ifrit, The Rancorous\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/b45bd002d4ed9a2dbc2dda1743216239f9d03488.jpg"
+                },
+                {
+                    "name": "Brawl In Hell 1",
+                    "description": "Complete \"Pit of Torments\" chapter without performing Hellbreak.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/d836f3a659c40f04108bbdcb4d4fa58a35c2b2d4.jpg"
+                },
+                {
+                    "name": "Brood Killer",
+                    "description": "Defeat \"Baal, The Imperious\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/6b94604c4c4d941c89cd94d1586545cecf148978.jpg"
+                },
+                {
+                    "name": "Broken Wings",
+                    "description": "Defeat \"Lilith, The Impure\" in conquest mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/0fb8256cf86d4c35cd6ed323b7a8e434f5241004.jpg"
+                },
+                {
+                    "name": "Beyond God 1",
+                    "description": "Defeat \"Dagon, The False Judge\" in Godslayer challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/657000/00c1959597c454f6ab8cf95021b87ac35d78e34b.jpg"
                 }
             ]
         }
@@ -58476,14 +58476,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Macho",
-                    "description": "Deal 5000 damage in one shot.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248820/b1ce2896a8a7b39839c2b2f95aa8c30f55c951bf.jpg"
-                },
-                {
                     "name": "Endless Voyager",
                     "description": "Collect 4 Keycards. ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248820/44d5ce8df1e1e5ebb3872e9c803f83c669a619d4.jpg"
+                },
+                {
+                    "name": "Macho",
+                    "description": "Deal 5000 damage in one shot.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248820/b1ce2896a8a7b39839c2b2f95aa8c30f55c951bf.jpg"
                 }
             ]
         }
@@ -58535,21 +58535,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Railgunner: Mastery",
-                    "description": "As Railgunner, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/d9836a468de7ee2229c612764360784efb943b89.jpg"
-                },
-                {
-                    "name": "Drifter: Mastery",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0e01ef5e05db3a898d6f7d6e390d73c68128c941.jpg"
-                },
-                {
-                    "name": "\u300cV??oid Fiend\u300f: Mastery",
-                    "description": "As \u300cV??oid Fiend\u300f, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/8d4b2422cbe444ebeb1f556e9b31a82ff9b50c0d.jpg"
-                },
-                {
                     "name": "Operator: Mastery",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/73cf50c702fd89c52ab76bbd833f3d6c9cfca92f.jpg"
@@ -58568,6 +58553,21 @@ var objectiveData =
                     "name": "False Son: Mastery",
                     "description": "As False Son, beat the game or obliterate on Monsoon.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/3af631d2ecc56778b317d4b125917d28f96ed9e5.jpg"
+                },
+                {
+                    "name": "Railgunner: Mastery",
+                    "description": "As Railgunner, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/d9836a468de7ee2229c612764360784efb943b89.jpg"
+                },
+                {
+                    "name": "Drifter: Mastery",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0e01ef5e05db3a898d6f7d6e390d73c68128c941.jpg"
+                },
+                {
+                    "name": "\u300cV??oid Fiend\u300f: Mastery",
+                    "description": "As \u300cV??oid Fiend\u300f, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/8d4b2422cbe444ebeb1f556e9b31a82ff9b50c0d.jpg"
                 }
             ]
         }
@@ -58631,19 +58631,39 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Acrid: Mastery",
-                    "description": "As Acrid, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/92f067f53e4110b3d3e3e9f0f9635cf94ec21445.jpg"
+                    "name": "Engineer: Mastery",
+                    "description": "As Engineer, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0d7ed2d185c45f5f6fcc3c42dbb875faadac0ed4.jpg"
+                },
+                {
+                    "name": "Huntress: Mastery",
+                    "description": "As Huntress, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/4ff28388bd2132b54967b4c02930699c6438f7a3.jpg"
+                },
+                {
+                    "name": "MUL-T: Mastery",
+                    "description": "As MUL-T, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/d87cff37e66fe880e70713d511890c7d94cc2b90.jpg"
+                },
+                {
+                    "name": "Mercenary: Mastery",
+                    "description": "As Mercenary, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/88f5e2c045178c2b2ce37e4d53207627dacb5deb.jpg"
+                },
+                {
+                    "name": "Artificer: Mastery",
+                    "description": "As Artificer, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/3db30f9c05d6a9e509358d4677ab81dbfa1fa274.jpg"
+                },
+                {
+                    "name": "Loader: Mastery",
+                    "description": "As Loader, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/22360d4dd318f4915e631291b99fe240a0deb489.jpg"
                 },
                 {
                     "name": "Bandit: Mastery",
                     "description": "As Bandit, beat the game or obliterate on Monsoon.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/5cd9c5940fa89d37f15cb1b8db41936f5fb9aaee.jpg"
-                },
-                {
-                    "name": "Captain: Mastery",
-                    "description": "As Captain, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/73f8da70c536dab29a72e57df5dc1e678ff0cc8b.jpg"
                 },
                 {
                     "name": "Commando: Mastery",
@@ -58656,34 +58676,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/ab4167264591e737d4aea892eac384ec78c4f6b3.jpg"
                 },
                 {
-                    "name": "Huntress: Mastery",
-                    "description": "As Huntress, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/4ff28388bd2132b54967b4c02930699c6438f7a3.jpg"
+                    "name": "Acrid: Mastery",
+                    "description": "As Acrid, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/92f067f53e4110b3d3e3e9f0f9635cf94ec21445.jpg"
                 },
                 {
-                    "name": "Mercenary: Mastery",
-                    "description": "As Mercenary, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/88f5e2c045178c2b2ce37e4d53207627dacb5deb.jpg"
-                },
-                {
-                    "name": "Loader: Mastery",
-                    "description": "As Loader, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/22360d4dd318f4915e631291b99fe240a0deb489.jpg"
-                },
-                {
-                    "name": "Engineer: Mastery",
-                    "description": "As Engineer, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0d7ed2d185c45f5f6fcc3c42dbb875faadac0ed4.jpg"
-                },
-                {
-                    "name": "MUL-T: Mastery",
-                    "description": "As MUL-T, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/d87cff37e66fe880e70713d511890c7d94cc2b90.jpg"
-                },
-                {
-                    "name": "Artificer: Mastery",
-                    "description": "As Artificer, beat the game or obliterate on Monsoon.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/3db30f9c05d6a9e509358d4677ab81dbfa1fa274.jpg"
+                    "name": "Captain: Mastery",
+                    "description": "As Captain, beat the game or obliterate on Monsoon.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/73f8da70c536dab29a72e57df5dc1e678ff0cc8b.jpg"
                 }
             ]
         }
@@ -58731,44 +58731,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Engineer's Intellect",
+                    "name": "Pilot's Focus",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6828e5f4de5ee0394a26f6cdd69d9894cb8581a1.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/84cf1ffc9f00654dab2ffa672c24e7321132ebb5.jpg"
                 },
                 {
-                    "name": "Chef's Recipe",
+                    "name": "Commando's Bravery",
                     "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/dfb5fd659d82ebf56a2e15d0dc6a165e4f780372.jpg"
-                },
-                {
-                    "name": "Drifter's Spirit",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/34bdae45b3e4b11657d3d837f1018cd2aa7194ee.jpg"
-                },
-                {
-                    "name": "Loader's Strength",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/0188f8df23d534bff0e5788a0fb7c29e9828e947.jpg"
-                },
-                {
-                    "name": "Enforcer's Will",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6357ebc06e7ed9da1490052a7555d4d3aa02bacc.jpg"
-                },
-                {
-                    "name": "Artificer's Hope",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6d61287030f3144c40e81b115a8b6ad65b0cce5d.jpg"
-                },
-                {
-                    "name": "Mercenary's Technique",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/222ece0554ea812a91906b632f19e219b054db54.jpg"
-                },
-                {
-                    "name": "Miner's Determination",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/cbccc190c969ee1a10b48b3c755f3a1927b030ea.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/48bfa19918b4139dcaacd1ee20d1bc23b853a96f.jpg"
                 },
                 {
                     "name": "HAN-D's Directive",
@@ -58779,16 +58749,6 @@ var objectiveData =
                     "name": "Bandit's Cunning",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/af5da06ba3175f3b563971074e68d41d4db82b26.jpg"
-                },
-                {
-                    "name": "Pilot's Focus",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/84cf1ffc9f00654dab2ffa672c24e7321132ebb5.jpg"
-                },
-                {
-                    "name": "Commando's Bravery",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/48bfa19918b4139dcaacd1ee20d1bc23b853a96f.jpg"
                 },
                 {
                     "name": "Huntress's Agility",
@@ -58804,6 +58764,46 @@ var objectiveData =
                     "name": "Acrid's Hunger",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/c848ec7021c62544112693523b287bce096a9ebc.jpg"
+                },
+                {
+                    "name": "Engineer's Intellect",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6828e5f4de5ee0394a26f6cdd69d9894cb8581a1.jpg"
+                },
+                {
+                    "name": "Drifter's Spirit",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/34bdae45b3e4b11657d3d837f1018cd2aa7194ee.jpg"
+                },
+                {
+                    "name": "Artificer's Hope",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6d61287030f3144c40e81b115a8b6ad65b0cce5d.jpg"
+                },
+                {
+                    "name": "Chef's Recipe",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/dfb5fd659d82ebf56a2e15d0dc6a165e4f780372.jpg"
+                },
+                {
+                    "name": "Loader's Strength",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/0188f8df23d534bff0e5788a0fb7c29e9828e947.jpg"
+                },
+                {
+                    "name": "Enforcer's Will",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6357ebc06e7ed9da1490052a7555d4d3aa02bacc.jpg"
+                },
+                {
+                    "name": "Mercenary's Technique",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/222ece0554ea812a91906b632f19e219b054db54.jpg"
+                },
+                {
+                    "name": "Miner's Determination",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/cbccc190c969ee1a10b48b3c755f3a1927b030ea.jpg"
                 }
             ]
         }
@@ -58819,21 +58819,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hot Streak",
-                    "description": "Miner: Reach level 10 without getting hurt more than once.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/ee421841653686a65f9d9addd6621b638f7b3c9a.jpg"
-                },
-                {
-                    "name": "Mastery",
-                    "description": "Mercenary: Beat the game on Monsoon difficulty.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6ad7a43dc901480993afa891501b4bd89715aef2.jpg"
-                },
-                {
-                    "name": "Kaleidoscope",
-                    "description": "Find the Artifact of Origin.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/52bfe94a74c0319c70882556106722566aa8474b.jpg"
-                },
-                {
                     "name": "Untouchable",
                     "description": "Commando: Activate the 3rd teleporter without being hurt once.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/51070fb91d4121579eb69c21ee9dc7118471c3f3.jpg"
@@ -58847,6 +58832,21 @@ var objectiveData =
                     "name": "Empty Pockets",
                     "description": "Sniper: Beat the third stage without any players collecting items or equipment.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/0adf4fe9fc0ea234caaf9a3d21fc464e2b798fe3.jpg"
+                },
+                {
+                    "name": "Hot Streak",
+                    "description": "Miner: Reach level 10 without getting hurt more than once.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/ee421841653686a65f9d9addd6621b638f7b3c9a.jpg"
+                },
+                {
+                    "name": "Mastery",
+                    "description": "Mercenary: Beat the game on Monsoon difficulty.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/6ad7a43dc901480993afa891501b4bd89715aef2.jpg"
+                },
+                {
+                    "name": "Kaleidoscope",
+                    "description": "Find the Artifact of Origin.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1337520/52bfe94a74c0319c70882556106722566aa8474b.jpg"
                 }
             ]
         }
@@ -58886,14 +58886,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ending A All S Rank",
-                    "description": "Ending A All S Rank",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/833950/31c342e115e9a442cfb558a03138d98b01743108.jpg"
-                },
-                {
                     "name": "Trophaeum: S Rank",
                     "description": "Achieve S Rank on the Trophaeum",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/833950/a0f0ff95ec6fcf1b311625baeffb7d7d0591bee4.jpg"
+                },
+                {
+                    "name": "Ending A All S Rank",
+                    "description": "Ending A All S Rank",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/833950/31c342e115e9a442cfb558a03138d98b01743108.jpg"
                 }
             ]
         }
@@ -58909,14 +58909,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Guess I shoulda made it harder",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1322650/cd7f6942b9da4caaad9808df443fff4be44ac6de.jpg"
-                },
-                {
                     "name": "Rite of the Gods",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1322650/cc5b1bde2b377c0c91af1accac15a577259753e4.jpg"
+                },
+                {
+                    "name": "Guess I shoulda made it harder",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1322650/cd7f6942b9da4caaad9808df443fff4be44ac6de.jpg"
                 }
             ]
         }
@@ -58968,16 +58968,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "You Can Do It, In Theory",
-                    "description": "Complete all missions in Single-Credit Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/3302db45e501d421324d655252acc46b048789dd.jpg"
-                },
-                {
-                    "name": "Golden God",
-                    "description": "Complete all Challenges with a gold medal.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/8172ff3ed97e356c92104c363312aca7868fff6c.jpg"
-                },
-                {
                     "name": "Friendly Waters",
                     "description": "Return to the warp room after completing Mission 10, without destroying any enemies.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/35330fcd71d1dea5494871892f919166de71358c.jpg"
@@ -58986,6 +58976,16 @@ var objectiveData =
                     "name": "Fried Squid",
                     "description": "Get 3 squid enemies to electrocute themselves on the train track during the Mission 4 gravity bubble fight.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/e538e776abb39a2e804e2fcf067c284042f642fc.jpg"
+                },
+                {
+                    "name": "Golden God",
+                    "description": "Complete all Challenges with a gold medal.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/8172ff3ed97e356c92104c363312aca7868fff6c.jpg"
+                },
+                {
+                    "name": "You Can Do It, In Theory",
+                    "description": "Complete all missions in Single-Credit Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278100/3302db45e501d421324d655252acc46b048789dd.jpg"
                 }
             ]
         }
@@ -59025,14 +59025,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "My Little Universe",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3440840/c9bdc2e14e932450bdb62ca26aa6854670c41229.jpg"
-                },
-                {
                     "name": "Guiding Light",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3440840/e52412a7bc62bddad768e4bccdb912ba458712ab.jpg"
+                },
+                {
+                    "name": "My Little Universe",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3440840/c9bdc2e14e932450bdb62ca26aa6854670c41229.jpg"
                 }
             ]
         }
@@ -59048,6 +59048,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Spiritual",
+                    "description": "Play an entire career without stepping on any spirits",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/293740/d4132d212412dc6d4f3784a85645254468902232.jpg"
+                },
+                {
                     "name": "Vegetarian",
                     "description": "Play an entire career without eating meat of any kind",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/293740/acd64aaab8ef3c907d93886dfea8cd9aed67f08f.jpg"
@@ -59056,11 +59061,6 @@ var objectiveData =
                     "name": "Grounded",
                     "description": "Never used teleport in an entire career",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/293740/53fb1346b00b2ae2be0bc3fabb6906703bd5922b.jpg"
-                },
-                {
-                    "name": "Spiritual",
-                    "description": "Play an entire career without stepping on any spirits",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/293740/d4132d212412dc6d4f3784a85645254468902232.jpg"
                 }
             ]
         }
@@ -59075,6 +59075,36 @@ var objectiveData =
         "points": 40,
         "requirements": {
             "achievements": [
+                {
+                    "name": "The Fate of The Universe: Flawless!",
+                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/8ce82bbe48526e936ccb0441f2e31faf84349546.jpg"
+                },
+                {
+                    "name": "Grounded: Flawless!",
+                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/1dc6619a752f4f1abf7a5d5958890207b4786868.jpg"
+                },
+                {
+                    "name": "No, YOU Will Die: Flawless!",
+                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/0bc2c5a957935a4db60dee5977490d7d61a1c16f.jpg"
+                },
+                {
+                    "name": "Stand Down: Flawless!",
+                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/7495f9b2727d869f860862c46c73e782784c1b35.jpg"
+                },
+                {
+                    "name": "Cleansed: Flawless!",
+                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/a89988c04d0c26f29ef9b36fbfc946faf2315993.jpg"
+                },
+                {
+                    "name": "Shut Down: Flawless!",
+                    "description": "Defeat a fully ugpraded harvester without taking any damage on apprentice difficulty or higher!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/8998c8423a97d8d921e8afea36edc5cd04a7f635.jpg"
+                },
                 {
                     "name": "Burn To Cinders: Flawless!",
                     "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
@@ -59109,36 +59139,6 @@ var objectiveData =
                     "name": "It's That Time: Flawless!",
                     "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/780b5e24e2aa2632afecbfdf50bbeebdea5f7b84.jpg"
-                },
-                {
-                    "name": "The Fate of The Universe: Flawless!",
-                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/8ce82bbe48526e936ccb0441f2e31faf84349546.jpg"
-                },
-                {
-                    "name": "Grounded: Flawless!",
-                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/1dc6619a752f4f1abf7a5d5958890207b4786868.jpg"
-                },
-                {
-                    "name": "No, YOU Will Die: Flawless!",
-                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/0bc2c5a957935a4db60dee5977490d7d61a1c16f.jpg"
-                },
-                {
-                    "name": "Stand Down: Flawless!",
-                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/7495f9b2727d869f860862c46c73e782784c1b35.jpg"
-                },
-                {
-                    "name": "Cleansed: Flawless!",
-                    "description": "Defeat the boss without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/a89988c04d0c26f29ef9b36fbfc946faf2315993.jpg"
-                },
-                {
-                    "name": "Shut Down: Flawless!",
-                    "description": "Defeat a fully ugpraded harvester without taking any damage on apprentice difficulty or higher!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/8998c8423a97d8d921e8afea36edc5cd04a7f635.jpg"
                 }
             ]
         }
@@ -59154,16 +59154,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "You Can't Handle My Potions!",
-                    "description": "Beat the game on apprentice difficulty or higher without using a single healing consumable. No Vitality Potions or Health Containers.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/5c5089e0f2ff1d6ed1136b1f4db5168ef5d323bc.jpg"
-                },
-                {
-                    "name": "Flawless!",
-                    "description": "Beat the game on apprentice difficulty or higher without your health ever reaching 0.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/6021a87e690862c7960756abbb16b475cdb6ffa5.jpg"
-                },
-                {
                     "name": "Grandmaster!",
                     "description": "Beat the game on grandmaster difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/c3f0a68cf1c71249bbd0abd55589bc86621f9947.jpg"
@@ -59172,6 +59162,16 @@ var objectiveData =
                     "name": "Build Schmuild!",
                     "description": "Beat the game on apprentice difficultyor higher without ever equipping a trinket.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/d6fb88e121ab0b9bab69712e7417153592ae891a.jpg"
+                },
+                {
+                    "name": "You Can't Handle My Potions!",
+                    "description": "Beat the game on apprentice difficulty or higher without using a single healing consumable. No Vitality Potions or Health Containers.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/5c5089e0f2ff1d6ed1136b1f4db5168ef5d323bc.jpg"
+                },
+                {
+                    "name": "Flawless!",
+                    "description": "Beat the game on apprentice difficulty or higher without your health ever reaching 0.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/628320/6021a87e690862c7960756abbb16b475cdb6ffa5.jpg"
                 }
             ]
         }
@@ -59265,14 +59265,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Keymaster",
-                    "description": "Find all the keys scattered throughout the levels.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22230/8debf3bbe7a8cfe607dcc951ab253c17340d6d3e.jpg"
-                },
-                {
                     "name": "Bling Bling",
                     "description": "Get a gold medal on all maps in Time Trial mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22230/29c6afeb8a91cc582213db1b3b47f79ed8d66740.jpg"
+                },
+                {
+                    "name": "Keymaster",
+                    "description": "Find all the keys scattered throughout the levels.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22230/8debf3bbe7a8cfe607dcc951ab253c17340d6d3e.jpg"
                 }
             ]
         }
@@ -59505,16 +59505,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Syngenesophobia",
-                    "description": "Defeat the brothers.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/9edd6487badd54ee07852f42bb1438287fbbe6d3.jpg"
-                },
-                {
-                    "name": "Scotomaphobia",
-                    "description": "Defeat the doppleganger.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/2cdd44c9a2a00c09afbd3781801b7b51c368d35c.jpg"
-                },
-                {
                     "name": "Chemophobia",
                     "description": "Defeat the trademarked chemical.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/6dd74c361ef3c5e9af56810f91c0d48911e85c7b.jpg"
@@ -59528,6 +59518,16 @@ var objectiveData =
                     "name": "Ostiophobia",
                     "description": "Defeat the son.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/76d9f8c028c16272360abb3800b18e35785ec678.jpg"
+                },
+                {
+                    "name": "Syngenesophobia",
+                    "description": "Defeat the brothers.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/9edd6487badd54ee07852f42bb1438287fbbe6d3.jpg"
+                },
+                {
+                    "name": "Scotomaphobia",
+                    "description": "Defeat the doppleganger.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/241600/2cdd44c9a2a00c09afbd3781801b7b51c368d35c.jpg"
                 }
             ]
         }
@@ -59580,14 +59580,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "For Penance",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/8fccd41f60259375567aaf790417c83ae52d19c2.jpg"
-                },
-                {
                     "name": "For Greed",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/5a8199aa37fcc4067a492b29eda7e1ff1425063f.jpg"
+                },
+                {
+                    "name": "For Penance",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/8fccd41f60259375567aaf790417c83ae52d19c2.jpg"
                 }
             ]
         }
@@ -59705,11 +59705,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Boss Rush D Senior",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/cae03df70c1d3d2486c8f61cbf96ac69ff9c55cb.jpg"
-                },
-                {
                     "name": "Senior Intern",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/6dc7b6bdab400fff381e40915a13cbec9074f662.jpg"
@@ -59718,6 +59713,11 @@ var objectiveData =
                     "name": "Boss Rush E Senior",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/a6ebcd94235a29d6ec9b5e18617cc69776432554.jpg"
+                },
+                {
+                    "name": "Boss Rush D Senior",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/cae03df70c1d3d2486c8f61cbf96ac69ff9c55cb.jpg"
                 },
                 {
                     "name": "Boss Rush C Senior",
@@ -59749,14 +59749,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Boss Rush A - Lazy Dasher",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/a292eeb397c0aee421d03235e23d123822716bdd.jpg"
-                },
-                {
                     "name": "Boss Rush B - Quick Slug",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/bfecbfc71be48a44158d2573e2c46a7ed768b1d5.jpg"
+                },
+                {
+                    "name": "Boss Rush A - Lazy Dasher",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/a292eeb397c0aee421d03235e23d123822716bdd.jpg"
                 },
                 {
                     "name": "Boss Rush D - Fully Modified",
@@ -59788,11 +59788,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Boss Rush B",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/7bed305e63d0d996c3cefb1038becd2228c1ec00.jpg"
-                },
-                {
                     "name": "Boss Rush D",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/d6891cbe97160dd7cdbf707ce7156cb86a20a3d7.jpg"
@@ -59806,6 +59801,11 @@ var objectiveData =
                     "name": "Boss Rush C",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/500727caeeb6ab26146b5285804b6926f215a97e.jpg"
+                },
+                {
+                    "name": "Boss Rush B",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/7bed305e63d0d996c3cefb1038becd2228c1ec00.jpg"
                 },
                 {
                     "name": "Boss Rush A",
@@ -59827,36 +59827,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Grand Theft Ufo",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/79edefccc9bc4f75a2e974350313a1c7f5346ed7.jpg"
-                },
-                {
-                    "name": "Iron Slug",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/8f3a4139b5e16bf9840f07136d8615cd23fd7d77.jpg"
-                },
-                {
-                    "name": "Penguin Friend",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/503471caf53455c61fca96c8214b632611ba0053.jpg"
-                },
-                {
-                    "name": "Marksman Slug",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/a5407af98f208c8cedbf602dabdba655430ef423.jpg"
-                },
-                {
-                    "name": "Hitless Slug",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/ca7a9184385bb37313bbbdad21d896d5626d8741.jpg"
-                },
-                {
-                    "name": "Finisher",
-                    "description": " ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/9ca554b79cdfbfe5cc99076c8c5e018fded74c2c.jpg"
-                },
-                {
                     "name": "Total Destruction",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/43ce7b803a7b2e4e913c7b6f5f2350c4d0a82e17.jpg"
@@ -59867,6 +59837,21 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/79d9e3e39ed0904c5acd08f73ad59f275879f2b9.jpg"
                 },
                 {
+                    "name": "Finisher",
+                    "description": " ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/9ca554b79cdfbfe5cc99076c8c5e018fded74c2c.jpg"
+                },
+                {
+                    "name": "Grand Theft Ufo",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/79edefccc9bc4f75a2e974350313a1c7f5346ed7.jpg"
+                },
+                {
+                    "name": "Iron Slug",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/8f3a4139b5e16bf9840f07136d8615cd23fd7d77.jpg"
+                },
+                {
                     "name": "No Time To Think",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/26c6bf8fa83b923f144a1631c09df119f7f4f32d.jpg"
@@ -59875,6 +59860,11 @@ var objectiveData =
                     "name": "Weapon Pickup Juggler",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/d4d68c714c4f54c5b055b064a87c6cc700a66f4c.jpg"
+                },
+                {
+                    "name": "Hitless Slug",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/ca7a9184385bb37313bbbdad21d896d5626d8741.jpg"
                 },
                 {
                     "name": "Hydrophobic",
@@ -59890,6 +59880,16 @@ var objectiveData =
                     "name": "I Could Go On Forever",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/f3aec05d767db12cc84ebb9612c5974bafb94554.jpg"
+                },
+                {
+                    "name": "Penguin Friend",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/503471caf53455c61fca96c8214b632611ba0053.jpg"
+                },
+                {
+                    "name": "Marksman Slug",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1181610/a5407af98f208c8cedbf602dabdba655430ef423.jpg"
                 }
             ]
         }
@@ -60001,11 +60001,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hero Of Time",
-                    "description": "",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1000750/1cb5842f5b87cece7d691e6f2477b5a8d01a1480.jpg"
-                },
-                {
                     "name": "Leaf On The Wind",
                     "description": "",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1000750/961a1ac4c973a19379493ac6fe57b78f0c592949.jpg"
@@ -60014,6 +60009,11 @@ var objectiveData =
                     "name": "When The Stars Align",
                     "description": "",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1000750/cf727d3e37e7fccbc48c9945b926fb34b2c15c4a.jpg"
+                },
+                {
+                    "name": "Hero Of Time",
+                    "description": "",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1000750/1cb5842f5b87cece7d691e6f2477b5a8d01a1480.jpg"
                 }
             ]
         }
@@ -60089,14 +60089,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Solid Gold Through And Through",
-                    "description": "",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1888590/4cbe9a5115c29b281fb76727f51135f40a32f9f0.jpg"
-                },
-                {
                     "name": "Pickin' 'Em Up Good",
                     "description": "",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1888590/769d1e200334cfd7c9b431458624d92d64ed49c5.jpg"
+                },
+                {
+                    "name": "Solid Gold Through And Through",
+                    "description": "",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1888590/4cbe9a5115c29b281fb76727f51135f40a32f9f0.jpg"
                 }
             ]
         }
@@ -60160,36 +60160,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Box-ing Champion",
-                    "description": "Fully complete the square level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/d58fc3ff3ab588b22993bdd92929a1dab0d3b5f3.jpg"
-                },
-                {
-                    "name": "Pi-rate",
-                    "description": "Fully complete the circle level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/06af8095d0f59bf3532291ef4efad9d7fe905232.jpg"
-                },
-                {
-                    "name": "Fibonacci's Finest",
-                    "description": "Fully complete the spiral level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/0171aa6c68ff43158ee7ccbb516f0158bd8c3230.jpg"
-                },
-                {
-                    "name": "Right On",
-                    "description": "Fully complete the right triangle level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/c747bdad52c6e4cfd45639b50121a2e08f263553.jpg"
-                },
-                {
-                    "name": "All Pent Up",
-                    "description": "Fully complete the pentagon level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/958640f15e12e51a8adedd40327221f861d7321b.jpg"
-                },
-                {
-                    "name": "Rhom-Best",
-                    "description": "Fully complete the rhombus level.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/e43db59d3bf96ffe57e0bde3e8e7da10612f43f8.jpg"
-                },
-                {
                     "name": "Tri-umph",
                     "description": "Fully complete the triangle level.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/6604bb592eeba6a69a0f22d9a7f5c123ae756933.jpg"
@@ -60218,6 +60188,36 @@ var objectiveData =
                     "name": "King (of the) Tut",
                     "description": "Fully complete the tutorial level.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/892796d9e5e3c34d0bb58bdde3b202686c3e964c.jpg"
+                },
+                {
+                    "name": "Box-ing Champion",
+                    "description": "Fully complete the square level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/d58fc3ff3ab588b22993bdd92929a1dab0d3b5f3.jpg"
+                },
+                {
+                    "name": "Pi-rate",
+                    "description": "Fully complete the circle level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/06af8095d0f59bf3532291ef4efad9d7fe905232.jpg"
+                },
+                {
+                    "name": "Fibonacci's Finest",
+                    "description": "Fully complete the spiral level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/0171aa6c68ff43158ee7ccbb516f0158bd8c3230.jpg"
+                },
+                {
+                    "name": "Right On",
+                    "description": "Fully complete the right triangle level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/c747bdad52c6e4cfd45639b50121a2e08f263553.jpg"
+                },
+                {
+                    "name": "All Pent Up",
+                    "description": "Fully complete the pentagon level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/958640f15e12e51a8adedd40327221f861d7321b.jpg"
+                },
+                {
+                    "name": "Rhom-Best",
+                    "description": "Fully complete the rhombus level.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1333020/e43db59d3bf96ffe57e0bde3e8e7da10612f43f8.jpg"
                 }
             ],
             "custom": "Video/GIF of all leaderboard entries. "
@@ -60306,14 +60306,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Reach the Lab",
-                    "description": "Reach the Lab",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/325150/84d7c2e28732f4c452a465edc7c55e3a1727ac96.jpg"
-                },
-                {
                     "name": "A master at work",
                     "description": "Run more than 3000 kimos in a single run in endless mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/325150/9ab56001a40e213ed16b6dbb351edad789d13252.jpg"
+                },
+                {
+                    "name": "Reach the Lab",
+                    "description": "Reach the Lab",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/325150/84d7c2e28732f4c452a465edc7c55e3a1727ac96.jpg"
                 }
             ]
         }
@@ -60342,21 +60342,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "A perfect serene world",
-                    "description": "Reach 60 seconds in the Ordered endless world",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
-                },
-                {
-                    "name": "Organized chaos",
-                    "description": "Reach 60 seconds in the Chaotic endless world",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
-                },
-                {
-                    "name": "In the face of uncertainty",
-                    "description": "Reach 60 seconds in the Disordered endless world",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
-                },
-                {
                     "name": "I had to change it!",
                     "description": "Complete the Chaotic World",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
@@ -60379,6 +60364,21 @@ var objectiveData =
                 {
                     "name": "A perfect world",
                     "description": "Complete the Ordered World",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
+                },
+                {
+                    "name": "A perfect serene world",
+                    "description": "Reach 60 seconds in the Ordered endless world",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
+                },
+                {
+                    "name": "Organized chaos",
+                    "description": "Reach 60 seconds in the Chaotic endless world",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
+                },
+                {
+                    "name": "In the face of uncertainty",
+                    "description": "Reach 60 seconds in the Disordered endless world",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413700/078dd00e4212f1557814bc9d12f849ecc5d3e36c.jpg"
                 }
             ],
@@ -60615,6 +60615,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Mossy Platinum",
+                    "description": "Achieve ending D in speedrun mode under target time without giving the Seer any Titania Pieces.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1772830/52735714233d0dd93a0de3461f747aee7606e96c.jpg"
+                },
+                {
                     "name": "First Come, First Seer-ved",
                     "description": "Reach the lowest area in 15 minutes.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1772830/d32aff59f58828fc19743db3b8e09d36bd780afa.jpg"
@@ -60623,11 +60628,6 @@ var objectiveData =
                     "name": "Sister Rivalry",
                     "description": "Get first Titania piece from Maya",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1772830/ae8cbbd42c99133e098ba4b2692d0c5f1075b559.jpg"
-                },
-                {
-                    "name": "Mossy Platinum",
-                    "description": "Achieve ending D in speedrun mode under target time without giving the Seer any Titania Pieces.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1772830/52735714233d0dd93a0de3461f747aee7606e96c.jpg"
                 }
             ]
         }
@@ -60715,6 +60715,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Fjolnir",
+                    "description": "Defeat the fourth boss",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524050/41048ca4127ddd61669b2db811dde67f4d763f03.jpg"
+                },
+                {
                     "name": "Seven Seconds",
                     "description": "Finish a level in 7 seconds or less",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524050/a20b85151791698ff814592ab05a52d12bacc7f2.jpg"
@@ -60723,11 +60728,6 @@ var objectiveData =
                     "name": "Ninja",
                     "description": "Get all gold medals",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524050/9bf4e5e682eda40a644e48344720c2bf7650bd7c.jpg"
-                },
-                {
-                    "name": "Fjolnir",
-                    "description": "Defeat the fourth boss",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524050/41048ca4127ddd61669b2db811dde67f4d763f03.jpg"
                 }
             ]
         }
@@ -60743,14 +60743,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Palace",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283640/b1f25c5073582fbf73dabf833099be886ee0ae2f.jpg"
-                },
-                {
                     "name": "The Unspeakable Deep",
                     "description": "Defeat the Unspeakable Deep.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283640/8fa0b1b6a8682d81363707e576dd1f08a3d3f6d9.jpg"
+                },
+                {
+                    "name": "The Palace",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283640/b1f25c5073582fbf73dabf833099be886ee0ae2f.jpg"
                 }
             ]
         }
@@ -61075,21 +61075,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Leo A",
-                    "description": "Solved the first Leo riddle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/4a487c1893f2b4fbcd04ca32901a2cb53286c863.jpg"
-                },
-                {
-                    "name": "Aries A",
-                    "description": "Solved the first Aries riddle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/1859494aaedd9bf35c7317aec48dbe529421cfe7.jpg"
-                },
-                {
-                    "name": "Libra A",
-                    "description": "Solved the first Libra riddle",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/bac0dc49f96c2ab758d36d8cfcc3027d80aaf2e5.jpg"
-                },
-                {
                     "name": "Cancer A",
                     "description": "Solved the first Cancer riddle",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/2b433f4167fda130cdac0053eff66cbe73b1aeaa.jpg"
@@ -61118,6 +61103,21 @@ var objectiveData =
                     "name": "Aquarius B",
                     "description": "Solved the second Aquarius riddle",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/6183758db6178770b5e19e056dad4f2d1200feb1.jpg"
+                },
+                {
+                    "name": "Leo A",
+                    "description": "Solved the first Leo riddle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/4a487c1893f2b4fbcd04ca32901a2cb53286c863.jpg"
+                },
+                {
+                    "name": "Aries A",
+                    "description": "Solved the first Aries riddle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/1859494aaedd9bf35c7317aec48dbe529421cfe7.jpg"
+                },
+                {
+                    "name": "Libra A",
+                    "description": "Solved the first Libra riddle",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1122720/bac0dc49f96c2ab758d36d8cfcc3027d80aaf2e5.jpg"
                 }
             ]
         }
@@ -61430,14 +61430,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "True Detective",
-                    "description": "Beat the game with no rejected reports.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384770/70f7c354d65f5e053da3292985bfa3d82405fb8c.jpg"
-                },
-                {
                     "name": "Gamer",
                     "description": "Beat the game on normal mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384770/46d666830855e1b4c07f69c4ad0576255b914a92.jpg"
+                },
+                {
+                    "name": "True Detective",
+                    "description": "Beat the game with no rejected reports.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384770/70f7c354d65f5e053da3292985bfa3d82405fb8c.jpg"
                 }
             ]
         }
@@ -61649,6 +61649,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Invulnerable",
+                    "description": "Complete the sequence (Surge)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2105620/d0166a151ee09d307d2961c83e73f2d0416aced5.jpg"
+                },
+                {
                     "name": "Amazing",
                     "description": "Get A or better rank in all challenge modes",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2105620/e27003fd92603bb69943bce01f530c9d8bc06ab3.jpg"
@@ -61657,11 +61662,6 @@ var objectiveData =
                     "name": "Classical Hero",
                     "description": "Complete the sequence (Classic)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2105620/e0ef88641d5fffb7c4892592dc0a16294b858a89.jpg"
-                },
-                {
-                    "name": "Invulnerable",
-                    "description": "Complete the sequence (Surge)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2105620/d0166a151ee09d307d2961c83e73f2d0416aced5.jpg"
                 }
             ]
         }
@@ -62185,14 +62185,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "God Tree",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/5b94e15d0799399adbbfc092a69dbce74b25e34e.jpg"
-                },
-                {
                     "name": "Deluge Mastery",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/0ea9848b6a02dd641765f000fa68aa8dccdd35d2.jpg"
+                },
+                {
+                    "name": "God Tree",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/5b94e15d0799399adbbfc092a69dbce74b25e34e.jpg"
                 }
             ]
         }
@@ -62207,6 +62207,11 @@ var objectiveData =
         "points": 20,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Fastest in the Complex",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/5b94e15d0799399adbbfc092a69dbce74b25e34e.jpg"
+                },
                 {
                     "name": "Fastest in the Shrine",
                     "description": "(Secret Achievement)",
@@ -62239,11 +62244,6 @@ var objectiveData =
                 },
                 {
                     "name": "Fastest in the Mausoleum",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/5b94e15d0799399adbbfc092a69dbce74b25e34e.jpg"
-                },
-                {
-                    "name": "Fastest in the Complex",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2310700/5b94e15d0799399adbbfc092a69dbce74b25e34e.jpg"
                 }
@@ -62327,19 +62327,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "From my hair to his derriere!",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/7cc07ecde3ba239aee01ac2b18e2823aafb0dc2d.jpg"
-                },
-                {
                     "name": "Scrap Metal",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/692202d857d8c829c7c21845809bfde156a05a45.jpg"
-                },
-                {
-                    "name": "Prefectionist",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/a377113de4e647518ea236eea6fb88a938faf4e0.jpg"
                 },
                 {
                     "name": "Calamari Connoisseur",
@@ -62350,6 +62340,16 @@ var objectiveData =
                     "name": "Master Gardener",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/4bd87e2510fd0dd305532b1979cab6fae85deff0.jpg"
+                },
+                {
+                    "name": "From my hair to his derriere!",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/7cc07ecde3ba239aee01ac2b18e2823aafb0dc2d.jpg"
+                },
+                {
+                    "name": "Prefectionist",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/345820/a377113de4e647518ea236eea6fb88a938faf4e0.jpg"
                 },
                 {
                     "name": "Half-Genie Hero",
@@ -62605,6 +62605,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Fog",
+                    "description": "Total Time On Chapter 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/315ddc48019765531edd8baa494ea26f636f8d86.jpg"
+                },
+                {
+                    "name": "Picnic Time",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/16251f94cc37994f158fbce1fda7ae5888ea5a86.jpg"
+                },
+                {
+                    "name": "Do Not Argue",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/6a4ff4e3cfa4a8f483a48df96f7a79edaaf7b5c5.jpg"
+                },
+                {
                     "name": "linger On",
                     "description": "Total Time",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/9d3e57f406525c5d35280ade188936a2d51548dd.jpg"
@@ -62678,21 +62693,6 @@ var objectiveData =
                     "name": "Big Family",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/75a572b488264a7115f59cff9e28160106df6040.jpg"
-                },
-                {
-                    "name": "Fog",
-                    "description": "Total Time On Chapter 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/315ddc48019765531edd8baa494ea26f636f8d86.jpg"
-                },
-                {
-                    "name": "Picnic Time",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/16251f94cc37994f158fbce1fda7ae5888ea5a86.jpg"
-                },
-                {
-                    "name": "Do Not Argue",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/525360/6a4ff4e3cfa4a8f483a48df96f7a79edaaf7b5c5.jpg"
                 }
             ]
         }
@@ -62785,6 +62785,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Researcher\u2019s Experimental Site Completion",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2178480/86da0f9e4f211f3318b540ff6e194ce08f5d9497.jpg"
+                },
+                {
                     "name": "Timeworn Cave Completion",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2178480/ab187a4773cf325fb94c3bd598e88b22e160fba3.jpg"
@@ -62793,11 +62798,6 @@ var objectiveData =
                     "name": "Winding Valley Completion",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2178480/030203ab828a4947d8a9b00b42720df9fe4d2256.jpg"
-                },
-                {
-                    "name": "Researcher\u2019s Experimental Site Completion",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2178480/86da0f9e4f211f3318b540ff6e194ce08f5d9497.jpg"
                 }
             ]
         }
@@ -62920,6 +62920,21 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "You're Young",
+                    "description": "Thank you very young!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/fb7c96c461abbd802bdfb691d32f83e96e442a1c.jpg"
+                },
+                {
+                    "name": "Tank B Master",
+                    "description": "A miraculous tank series.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/3def413d487e15154e40f3a0bccbefab8eccafa4.jpg"
+                },
+                {
+                    "name": "8bit Master",
+                    "description": "This is a nice track, isn't it?",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/037230f1a1f0ca706d29e6539b0b15491e1b8328.jpg"
+                },
+                {
                     "name": "Tank A Master",
                     "description": "Vroom vroom rumble rumble",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/35168d6dbe4dbf2ac13877ec2b98a6c47f5fc66b.jpg"
@@ -62940,11 +62955,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/563766ecad2bfc355bf0b95117b185b7f0c1477e.jpg"
                 },
                 {
-                    "name": "You're Young",
-                    "description": "Thank you very young!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/fb7c96c461abbd802bdfb691d32f83e96e442a1c.jpg"
-                },
-                {
                     "name": "Bullet Bullet Bullet B Master",
                     "description": "Perfect foresight",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/dc383f6bfd4974aaf34d38a76dc26b6db456ac37.jpg"
@@ -62958,16 +62968,6 @@ var objectiveData =
                     "name": "Building Dodge Master",
                     "description": "In addition to flying cars, there are birds and balloons that fly, too.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/31a277426569223467d19b49b8dfaec21ca9a48e.jpg"
-                },
-                {
-                    "name": "Tank B Master",
-                    "description": "A miraculous tank series.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/3def413d487e15154e40f3a0bccbefab8eccafa4.jpg"
-                },
-                {
-                    "name": "8bit Master",
-                    "description": "This is a nice track, isn't it?",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/430290/037230f1a1f0ca706d29e6539b0b15491e1b8328.jpg"
                 }
             ]
         }
@@ -63118,14 +63118,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Done In One",
-                    "description": "Finish Story Mode without using a continue. (Showdown)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/defe7c99e29103df6576bb561c5b9433a2c6cc4e.jpg"
-                },
-                {
                     "name": "Percy's Pal",
                     "description": "Attain a score of 100,000 in Targets. (Showdown)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/28038673ba2decf52fc79476cc5aa6147a0b7539.jpg"
+                },
+                {
+                    "name": "Done In One",
+                    "description": "Finish Story Mode without using a continue. (Showdown)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/defe7c99e29103df6576bb561c5b9433a2c6cc4e.jpg"
                 },
                 {
                     "name": "Shatterer",
@@ -63164,14 +63164,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/e544d9c85654ea0a885ef65bca7a9657d893c882.jpg"
                 },
                 {
-                    "name": "Hurry Up!",
-                    "description": "Beat the game within 1 hour and 30 minutes. (King Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/356e6e60ecab2926a2e55096a065e254dfb35ed8.jpg"
-                },
-                {
                     "name": "Naked King",
                     "description": "Finish the game without acquiring any heirlooms, health upgrades, or vigor upgrades. Armors are ok! (King Knight)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/1f5473d95ab384c953d5c3ae148b8c334eeb5a08.jpg"
+                },
+                {
+                    "name": "Hurry Up!",
+                    "description": "Beat the game within 1 hour and 30 minutes. (King Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/356e6e60ecab2926a2e55096a065e254dfb35ed8.jpg"
                 }
             ],
             "custom": "Screenshot of main menu with Steam overlay shown. The medal should be square with a ribbon on top."
@@ -63189,14 +63189,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hurry Up!",
-                    "description": "Beat the game within 1 hour and 30 minutes. (Specter Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/b4bf2d9fbddd98dedbf489603616c9801723e8c9.jpg"
-                },
-                {
                     "name": "Naked Specter",
                     "description": "Finish the game without acquiring any Will or Darkness upgrades. (Specter Knight)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/109cecb0636d0551be6896d92fa60aa78a2027b4.jpg"
+                },
+                {
+                    "name": "Hurry Up!",
+                    "description": "Beat the game within 1 hour and 30 minutes. (Specter Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/b4bf2d9fbddd98dedbf489603616c9801723e8c9.jpg"
                 },
                 {
                     "name": "Again!",
@@ -63219,9 +63219,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Naked Plague",
-                    "description": "Finish the game without collecting any arcana, bomb parts, or armors.  (Plague Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/e9fcacbe69ec72b1fa0a38ab1ce7499e9e566d8d.jpg"
+                    "name": "Hurry Up!",
+                    "description": "Beat the game within 1 hour and 30 minutes.  (Plague Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/1bfc010bd8f4ea5b6647d5ac81407ef54126efb1.jpg"
+                },
+                {
+                    "name": "Teetotaler",
+                    "description": "Finish the game without drinking any tonics. (Plague Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/fe2e60275861ff6d250edfca85385c8c85808cdf.jpg"
                 },
                 {
                     "name": "Again!",
@@ -63229,19 +63234,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/686e596cb128f8453fbd340d6dd1c245e742b152.jpg"
                 },
                 {
-                    "name": "Hurry Up!",
-                    "description": "Beat the game within 1 hour and 30 minutes.  (Plague Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/1bfc010bd8f4ea5b6647d5ac81407ef54126efb1.jpg"
+                    "name": "Naked Plague",
+                    "description": "Finish the game without collecting any arcana, bomb parts, or armors.  (Plague Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/e9fcacbe69ec72b1fa0a38ab1ce7499e9e566d8d.jpg"
                 },
                 {
                     "name": "Penny Pincher",
                     "description": "Finish the game without spending any money... including Cipher Coins!  (Plague Knight)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/553251ace54712833433b72fbf9a41affcb2d060.jpg"
-                },
-                {
-                    "name": "Teetotaler",
-                    "description": "Finish the game without drinking any tonics. (Plague Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/fe2e60275861ff6d250edfca85385c8c85808cdf.jpg"
                 }
             ],
             "custom": "Screenshot of main menu with Steam overlay shown. The medal should be square with a ribbon on top."
@@ -63264,14 +63264,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/7fe8657eabea71099cbcf551fc5f9f8c221ba46c.jpg"
                 },
                 {
-                    "name": "HurryUp!",
-                    "description": "Beat the game within 1 hour and 30 minutes. (Shovel Knight)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/43dc8a66d5525b31ba491676651f7c2ded70a1bb.jpg"
-                },
-                {
                     "name": "Penny Pincher",
                     "description": "Finish the game without spending any money. (Shovel Knight)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/308f388cf27e3b8043b4d1a71af474cf1ad7b29e.jpg"
+                },
+                {
+                    "name": "HurryUp!",
+                    "description": "Beat the game within 1 hour and 30 minutes. (Shovel Knight)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250760/43dc8a66d5525b31ba491676651f7c2ded70a1bb.jpg"
                 },
                 {
                     "name": "Again!",
@@ -63298,14 +63298,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "There can only be one",
-                    "description": "Beat the Goo Shu time on all levels",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528720/5c81b0b421181723e7ad54b528c51876899942c8.jpg"
-                },
-                {
                     "name": "Great Sage",
                     "description": "Obtain \"No Deaths\" badge for all levels",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528720/664230ccc229200af0a2fdd6f0ecacb405716241.jpg"
+                },
+                {
+                    "name": "There can only be one",
+                    "description": "Beat the Goo Shu time on all levels",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/528720/5c81b0b421181723e7ad54b528c51876899942c8.jpg"
                 }
             ]
         }
@@ -63357,19 +63357,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The best strikes are the ones we avoid",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/e9c2e10da9807cdaff9e9420cb50eac485d20ced.jpg"
-                },
-                {
                     "name": "Crouching Tiger",
                     "description": "Clear all tiger arena challenges.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/aab79bc7f9cc3a0f8d00b4b27f941183f29e1c51.jpg"
-                },
-                {
-                    "name": "A Touch of Acumen",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/6f734ffc30607a3cccad4a1e9a0186c3b129dcdf.jpg"
                 },
                 {
                     "name": "Hidden Dragon",
@@ -63385,6 +63375,16 @@ var objectiveData =
                     "name": "Deadly Venom",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/1ccfee41b50e1fac80d1c516f36d9f5869bb5801.jpg"
+                },
+                {
+                    "name": "The best strikes are the ones we avoid",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/e9c2e10da9807cdaff9e9420cb50eac485d20ced.jpg"
+                },
+                {
+                    "name": "A Touch of Acumen",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2138710/6f734ffc30607a3cccad4a1e9a0186c3b129dcdf.jpg"
                 }
             ]
         }
@@ -63478,14 +63478,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Paid in Full",
-                    "description": "Get a final score of 50,000.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144150/0aa486df2f296cd4730d02ff832fcbb39e29527f.jpg"
-                },
-                {
                     "name": "Muscle Memory",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144150/d7d0643646f38bb76f9957d51141281234f5e7ba.jpg"
+                },
+                {
+                    "name": "Paid in Full",
+                    "description": "Get a final score of 50,000.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144150/0aa486df2f296cd4730d02ff832fcbb39e29527f.jpg"
                 }
             ]
         }
@@ -63531,11 +63531,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hex Excess",
-                    "description": "Complete a run with 5 or more hexes and without using shortcuts",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658150/f1e39b083e1d129d279db07369063e218481a1f0.jpg"
-                },
-                {
                     "name": "Pressing Down on You",
                     "description": "Complete a run with maximum Blood Pressure and without using shortcuts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658150/2c33ab141edbeccce137f41dae60a7858813459b.jpg"
@@ -63544,6 +63539,11 @@ var objectiveData =
                     "name": "Count No Blessings",
                     "description": "Complete a run with no blessings and without using shortcuts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658150/7d53e99872113d3786c00d1ee89c25a0d646cad5.jpg"
+                },
+                {
+                    "name": "Hex Excess",
+                    "description": "Complete a run with 5 or more hexes and without using shortcuts",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/658150/f1e39b083e1d129d279db07369063e218481a1f0.jpg"
                 },
                 {
                     "name": "Tempus Fugit",
@@ -63671,14 +63671,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "A Small Victory",
-                    "description": "Return to the Surface on the \"Tiny Arms\" Gamemode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/46487c18da91538ce5246664820ba7740e69100e.jpg"
-                },
-                {
                     "name": "Disarmed",
                     "description": "Return to The Surface on the \"One Arm\" Gamemode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/da404c34b593464e9f8574621e4e648542dbd7a7.jpg"
+                },
+                {
+                    "name": "A Small Victory",
+                    "description": "Return to the Surface on the \"Tiny Arms\" Gamemode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/46487c18da91538ce5246664820ba7740e69100e.jpg"
                 }
             ]
         }
@@ -63694,6 +63694,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Bullseye",
+                    "description": "Break 30 targets in under a minute in the caves break the targets minigame",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/8d690095638966f2111db2137d8526b709832fcc.jpg"
+                },
+                {
                     "name": "Speedrun Silver",
                     "description": "Beat the game in under 30 minutes",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/c49abee04a4bca1d47735887a8dbb499ba4546b0.jpg"
@@ -63702,11 +63707,6 @@ var objectiveData =
                     "name": "Getting Some Exorcise In",
                     "description": "Beat the tower minigame ghost in a race",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/0c3da4b2d80c992ed76ed85dee5eb61c319690dc.jpg"
-                },
-                {
-                    "name": "Bullseye",
-                    "description": "Break 30 targets in under a minute in the caves break the targets minigame",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/8d690095638966f2111db2137d8526b709832fcc.jpg"
                 }
             ]
         }
@@ -63721,16 +63721,6 @@ var objectiveData =
         "points": 15,
         "requirements": {
             "achievements": [
-                {
-                    "name": "Hooper",
-                    "description": "Beat the basketball minigame",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/b96e9b4f58924007c6608aa095e2b786b946b0f2.jpg"
-                },
-                {
-                    "name": "Balance",
-                    "description": "Beat the Wheel Balance Minigame",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/d26405e48645d53650a7a737147b14781aeec501.jpg"
-                },
                 {
                     "name": "Targeted",
                     "description": "Beat the Break the Targets Minigame",
@@ -63755,6 +63745,16 @@ var objectiveData =
                     "name": "Wall-Jump Pro",
                     "description": "Beat the tower minigame",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/a84d89499c6828a28eeaf763b210e0123ad33ae9.jpg"
+                },
+                {
+                    "name": "Hooper",
+                    "description": "Beat the basketball minigame",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/b96e9b4f58924007c6608aa095e2b786b946b0f2.jpg"
+                },
+                {
+                    "name": "Balance",
+                    "description": "Beat the Wheel Balance Minigame",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1380970/d26405e48645d53650a7a737147b14781aeec501.jpg"
                 }
             ]
         }
@@ -63770,14 +63770,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Nothing is impossible",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147560/383050f2e777dab67e0883d2853df9702deaa787.jpg"
-                },
-                {
                     "name": "The God of Battle",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147560/78db530bb78efe2e7ad6af9d33f3d8b342bf2a6b.jpg"
+                },
+                {
+                    "name": "Nothing is impossible",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147560/383050f2e777dab67e0883d2853df9702deaa787.jpg"
                 }
             ]
         }
@@ -63872,6 +63872,31 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Fly like an Eagle",
+                    "description": "Clear Set 1-2 without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/3173028491caa549d2f9537284764d7a415a0674.jpg"
+                },
+                {
+                    "name": "Swoop like a Bee-Eater",
+                    "description": "Defeat MegaFoxorah without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/a637330c927089700400fe9fff343a10e5d9b836.jpg"
+                },
+                {
+                    "name": "Dance like a bird-of-paradise",
+                    "description": "Clear Set 4-2 without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/ba4d2c793668382652dc5fe083a5aca21a6fc47b.jpg"
+                },
+                {
+                    "name": "Soar like a Pidgeon",
+                    "description": "Clear Set 2-2 without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/c508366535fdcd3144d05c082560270b175e6abf.jpg"
+                },
+                {
+                    "name": "Flutter like a Hummingbird",
+                    "description": "Clear Set 2-1 without getting hit",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/63a2047b37c35f7139cda836785ab37619644310.jpg"
+                },
+                {
                     "name": "Glide like a Seagull",
                     "description": "Defeat Platanorr without getting hit",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/83883a03ecae62e14caafcebc7126a04918a45a0.jpg"
@@ -63910,31 +63935,6 @@ var objectiveData =
                     "name": "Drift like a Macaw",
                     "description": "Clear Set 3-1 without getting hit",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/35fdf88efc46aea7bd8b56233b354d4bc02f594c.jpg"
-                },
-                {
-                    "name": "Fly like an Eagle",
-                    "description": "Clear Set 1-2 without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/3173028491caa549d2f9537284764d7a415a0674.jpg"
-                },
-                {
-                    "name": "Swoop like a Bee-Eater",
-                    "description": "Defeat MegaFoxorah without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/a637330c927089700400fe9fff343a10e5d9b836.jpg"
-                },
-                {
-                    "name": "Dance like a bird-of-paradise",
-                    "description": "Clear Set 4-2 without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/ba4d2c793668382652dc5fe083a5aca21a6fc47b.jpg"
-                },
-                {
-                    "name": "Soar like a Pidgeon",
-                    "description": "Clear Set 2-2 without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/c508366535fdcd3144d05c082560270b175e6abf.jpg"
-                },
-                {
-                    "name": "Flutter like a Hummingbird",
-                    "description": "Clear Set 2-1 without getting hit",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/994500/63a2047b37c35f7139cda836785ab37619644310.jpg"
                 }
             ]
         }
@@ -64102,16 +64102,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Sapphire+",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/fbadf0310b59be3804493b1f29817dec55a58aa7.jpg"
-                },
-                {
-                    "name": "Ruby+",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/72f6f4f9a7a34f6705e64b448c6f9d32329dcb3c.jpg"
-                },
-                {
                     "name": "Amethyst+",
                     "description": "Complete the Ending with the Watcher.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/cec37775c256eb18b882b7f199c4f22467251640.jpg"
@@ -64120,6 +64110,16 @@ var objectiveData =
                     "name": "Emerald+",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/42ed123a504db738ba5ee0a6e425895651e6aca0.jpg"
+                },
+                {
+                    "name": "Sapphire+",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/fbadf0310b59be3804493b1f29817dec55a58aa7.jpg"
+                },
+                {
+                    "name": "Ruby+",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/646570/72f6f4f9a7a34f6705e64b448c6f9d32329dcb3c.jpg"
                 }
             ]
         }
@@ -64135,14 +64135,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fearless",
-                    "description": "Beat the game on \"Hardcore\" difficulty",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252330/307155fbacfb18f1ad68121c713d8eb57187e0c6.jpg"
-                },
-                {
                     "name": "Retro Fan",
                     "description": "Beat the Genesis level on \"Hardcore\" difficulty",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252330/46dbf0f454f90e14d6c8b33cf58bf2b80e6e2ba9.jpg"
+                },
+                {
+                    "name": "Fearless",
+                    "description": "Beat the game on \"Hardcore\" difficulty",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252330/307155fbacfb18f1ad68121c713d8eb57187e0c6.jpg"
                 }
             ]
         }
@@ -64158,6 +64158,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Slime-san Master!",
+                    "description": "Beat all normal and NG+ levels, collect all the Apples and beat all the Trophy times in the game.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/08b5d3915bef7be167187b08dd9734f1f119ab00.jpg"
+                },
+                {
+                    "name": "Sheeple Mix Master",
+                    "description": "Beat all remix level trophy times.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/5bae7f72727b73c70fd46634f74404904199ec2f.jpg"
+                },
+                {
                     "name": "Wrecker of Dojo's!",
                     "description": "Beat 10 scary dojo challenges",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/07c02c6bbff0220776df1c069ead87f17eacdb58.jpg"
@@ -64171,16 +64181,6 @@ var objectiveData =
                     "name": "Squid Ultra Mega God",
                     "description": "Beat level 26 in NG+.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/1dcc283ee2ac994657889098fe9dc9ad078172af.jpg"
-                },
-                {
-                    "name": "Slime-san Master!",
-                    "description": "Beat all normal and NG+ levels, collect all the Apples and beat all the Trophy times in the game.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/08b5d3915bef7be167187b08dd9734f1f119ab00.jpg"
-                },
-                {
-                    "name": "Sheeple Mix Master",
-                    "description": "Beat all remix level trophy times.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/473530/5bae7f72727b73c70fd46634f74404904199ec2f.jpg"
                 }
             ]
         }
@@ -64280,14 +64280,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Perfect Crown Gold",
-                    "description": "Get Perfect Crown 100 Times",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2343990/f7cfd26476119046838e6137e91b55b6aead0f9a.jpg"
-                },
-                {
                     "name": "S_Rank_Gold",
                     "description": "Get S Rank 100 Times",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2343990/1bda4c94525337b0cedc2e3aa8f1a044473d8b49.jpg"
+                },
+                {
+                    "name": "Perfect Crown Gold",
+                    "description": "Get Perfect Crown 100 Times",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2343990/f7cfd26476119046838e6137e91b55b6aead0f9a.jpg"
                 }
             ]
         }
@@ -64321,14 +64321,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "World's Toughest Driver",
-                    "description": "Get all gold wheels",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/592300/0d8d31b374cfe9b3d43b082feb31cf71118261cb.jpg"
-                },
-                {
                     "name": "Ice King",
                     "description": "Get all ice wheels",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/592300/a89e0e44de6fde808655947680854cd771c32193.jpg"
+                },
+                {
+                    "name": "World's Toughest Driver",
+                    "description": "Get all gold wheels",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/592300/0d8d31b374cfe9b3d43b082feb31cf71118261cb.jpg"
                 }
             ]
         }
@@ -64344,14 +64344,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Snow Monkey",
-                    "description": "Unlock White Chimp Dip",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3191540/5c120bef6d9f193ca1215630de8ac21882df7b9c.jpg"
-                },
-                {
                     "name": "Midnight Monkey",
                     "description": "Unlock Black Chimp Dip",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3191540/919089586df12898f7e107591fc956755dac5bf0.jpg"
+                },
+                {
+                    "name": "Snow Monkey",
+                    "description": "Unlock White Chimp Dip",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3191540/5c120bef6d9f193ca1215630de8ac21882df7b9c.jpg"
                 }
             ]
         }
@@ -64413,6 +64413,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Speedrunner!",
+                    "description": "Score 100 points within 100 seconds of starting a new Classic Mode run",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/b6980f16f5dc3523bd903aa0d8a5be3f1bd50421.jpg"
+                },
+                {
+                    "name": "Destroy the Past!",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/ba65ffc648002d1a935632b1b55b109d09f72fd3.jpg"
+                },
+                {
                     "name": "Endless Chaos Mode!",
                     "description": "Unlock Endless Chaos Mode (40 ball combo in Endless Mode)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/010446b9730c27ce8c33c1c77daa200fd51cf407.jpg"
@@ -64426,16 +64436,6 @@ var objectiveData =
                     "name": "SnOut Ball Z!",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/1b832bf855ca153987d2cd9bc395d39c0b236901.jpg"
-                },
-                {
-                    "name": "Speedrunner!",
-                    "description": "Score 100 points within 100 seconds of starting a new Classic Mode run",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/b6980f16f5dc3523bd903aa0d8a5be3f1bd50421.jpg"
-                },
-                {
-                    "name": "Destroy the Past!",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1766810/ba65ffc648002d1a935632b1b55b109d09f72fd3.jpg"
                 }
             ]
         }
@@ -64450,6 +64450,26 @@ var objectiveData =
         "points": 40,
         "requirements": {
             "achievements": [
+                {
+                    "name": "Invincible",
+                    "description": "Beat the DARK WORLD 2 without Dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/82a79730e43caba75fd1808ca3e9d6c578d059d6.jpg"
+                },
+                {
+                    "name": "Invincible",
+                    "description": "Beat the CHAPTER 1 without Dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/51ba440e4826d567a0626a1b97b2946ec65baa3c.jpg"
+                },
+                {
+                    "name": "Invincible",
+                    "description": "Beat the CHAPTER 2 without Dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/3b648e845c9a1f672a49aa76e06208e78b5bbd15.jpg"
+                },
+                {
+                    "name": "Invincible",
+                    "description": "Beat the CHAPTER 5 without Dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/b1d75616144bf5c8b36cd65ab7498a30b4baf604.jpg"
+                },
                 {
                     "name": "Invincible",
                     "description": "Beat the CHAPTER 7 without Dying",
@@ -64479,26 +64499,6 @@ var objectiveData =
                     "name": "Invincible",
                     "description": "Beat the CHAPTER 4 without Dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/a012d7051b68eaee984091bf636b106ac7c2e64f.jpg"
-                },
-                {
-                    "name": "Invincible",
-                    "description": "Beat the DARK WORLD 2 without Dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/82a79730e43caba75fd1808ca3e9d6c578d059d6.jpg"
-                },
-                {
-                    "name": "Invincible",
-                    "description": "Beat the CHAPTER 1 without Dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/51ba440e4826d567a0626a1b97b2946ec65baa3c.jpg"
-                },
-                {
-                    "name": "Invincible",
-                    "description": "Beat the CHAPTER 2 without Dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/3b648e845c9a1f672a49aa76e06208e78b5bbd15.jpg"
-                },
-                {
-                    "name": "Invincible",
-                    "description": "Beat the CHAPTER 5 without Dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222340/b1d75616144bf5c8b36cd65ab7498a30b4baf604.jpg"
                 }
             ],
             "custom": "Video of chapter 7 and Dark World 3 deathless."
@@ -64515,14 +64515,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Perennial Body",
-                    "description": "Complete all 25 Hard Game+ Levels",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/337650/d77393476ea3f688e7b3e73ad3a6547eedb1fda9.jpg"
-                },
-                {
                     "name": "Body Pedagogy",
                     "description": "Complete all 25 Hard Game levels",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/337650/0de796335d77bcfbff17908b08f2ea2c113049fa.jpg"
+                },
+                {
+                    "name": "The Perennial Body",
+                    "description": "Complete all 25 Hard Game+ Levels",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/337650/d77393476ea3f688e7b3e73ad3a6547eedb1fda9.jpg"
                 }
             ]
         }
@@ -64610,118 +64610,8 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Minefield",
-                    "description": "Complete Minefield",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Boss 2",
-                    "description": "Complete Boss 2",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Super Hot",
-                    "description": "Complete SuperHot",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Stage 6",
-                    "description": "Complete Stage 6",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Swipes",
-                    "description": "Complete Swipes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Fog",
-                    "description": "Complete Fog",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Leaking",
-                    "description": "Complete Leaking",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Speedrun 2",
-                    "description": "Complete Speedrun 2",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Rings",
-                    "description": "Complete Rings",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Blackout",
-                    "description": "Complete Blackout",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Boss 3",
-                    "description": "Complete Boss 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Predator",
-                    "description": "Complete Predator",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Speedrun 3",
-                    "description": "Complete Speedrun 3",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Hoops",
-                    "description": "Complete Hoops",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Duet",
-                    "description": "Complete Duet",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Rainbow",
-                    "description": "Complete Rainbow",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Glitch",
-                    "description": "Complete Glitch",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Boss 1",
-                    "description": "Complete Boss 1",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
                     "name": "Endless 300",
                     "description": "Reach a score of 300 in Endless Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Inverse",
-                    "description": "Complete Inverse",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Movement",
-                    "description": "Complete Movement",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Speedrun 1",
-                    "description": "Complete Speedrun 1",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
-                },
-                {
-                    "name": "Finale",
-                    "description": "Complete Finale",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
                 },
                 {
@@ -64730,8 +64620,118 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
                 },
                 {
+                    "name": "Stage 6",
+                    "description": "Complete Stage 6",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Fog",
+                    "description": "Complete Fog",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
                     "name": "Mirror",
                     "description": "Complete Mirror",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Speedrun 1",
+                    "description": "Complete Speedrun 1",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Boss 2",
+                    "description": "Complete Boss 2",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Speedrun 2",
+                    "description": "Complete Speedrun 2",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Super Hot",
+                    "description": "Complete SuperHot",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Leaking",
+                    "description": "Complete Leaking",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Duet",
+                    "description": "Complete Duet",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Swipes",
+                    "description": "Complete Swipes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Blackout",
+                    "description": "Complete Blackout",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Rings",
+                    "description": "Complete Rings",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Boss 3",
+                    "description": "Complete Boss 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Glitch",
+                    "description": "Complete Glitch",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Predator",
+                    "description": "Complete Predator",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Hoops",
+                    "description": "Complete Hoops",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Movement",
+                    "description": "Complete Movement",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Speedrun 3",
+                    "description": "Complete Speedrun 3",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Rainbow",
+                    "description": "Complete Rainbow",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Finale",
+                    "description": "Complete Finale",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Boss 1",
+                    "description": "Complete Boss 1",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Inverse",
+                    "description": "Complete Inverse",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
+                },
+                {
+                    "name": "Minefield",
+                    "description": "Complete Minefield",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/706510/311724f632afcf7a4858da9f06990afad3cc6e42.jpg"
                 }
             ]
@@ -64881,11 +64881,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No Way? No Way!",
-                    "description": "Collect gold medallions in Blue Spheres Bonus stage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584400/e976e449431ec682a31854f0eeff29408bd26122.jpg"
-                },
-                {
                     "name": "See You Next Game",
                     "description": "Achieve any ending",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584400/0f54753e0bdeb349986506c295e549c4419db67b.jpg"
@@ -64899,6 +64894,11 @@ var objectiveData =
                     "name": "Magnificent Seven",
                     "description": "Collect all seven Chaos Emeralds",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584400/7379c471820c25667005bdb5e927343284a403c3.jpg"
+                },
+                {
+                    "name": "No Way? No Way!",
+                    "description": "Collect gold medallions in Blue Spheres Bonus stage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584400/e976e449431ec682a31854f0eeff29408bd26122.jpg"
                 }
             ]
         }
@@ -65352,14 +65352,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ultimate Survivor",
-                    "description": "Score 10,000,000 points in a single game of Survival Mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/780390/d2cc0c8233dac530cee050e12909e03b32780397.jpg"
-                },
-                {
                     "name": "Immortal",
                     "description": "Activate the Jump Gate ten times without dying in Invasion Mode.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/780390/6a78e283c8007fe5490a95520739669a9fe1fdb2.jpg"
+                },
+                {
+                    "name": "Ultimate Survivor",
+                    "description": "Score 10,000,000 points in a single game of Survival Mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/780390/d2cc0c8233dac530cee050e12909e03b32780397.jpg"
                 },
                 {
                     "name": "Official Speed Runner",
@@ -65385,6 +65385,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "The Machine",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/cc17dfd8d56f674dc936f13f208903b03baa95dd.jpg"
+                },
+                {
+                    "name": "Not Even my Final Form",
+                    "description": "Escape Tartarus without using any abilities.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/df30a8f27eeedf1bc7664e2552924cd9bb57848d.jpg"
+                },
+                {
                     "name": "Minimalist",
                     "description": "Escape Tartarus without picking up items. (starting gear and arena rewards allowed)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/b2d4e7586e761fec3c90312f8742434d67d7ca3f.jpg"
@@ -65398,16 +65408,6 @@ var objectiveData =
                     "name": "Acid Rains",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/df63e7653e8c92dae7ce9f673cbd22494add941b.jpg"
-                },
-                {
-                    "name": "The Machine",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/cc17dfd8d56f674dc936f13f208903b03baa95dd.jpg"
-                },
-                {
-                    "name": "Not Even my Final Form",
-                    "description": "Escape Tartarus without using any abilities.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/df30a8f27eeedf1bc7664e2552924cd9bb57848d.jpg"
                 }
             ]
         }
@@ -65422,6 +65422,11 @@ var objectiveData =
         "points": 20,
         "requirements": {
             "achievements": [
+                {
+                    "name": "The New Spartacus",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/038bf137eefe34a437b2c138e98ecd493cc74227.jpg"
+                },
                 {
                     "name": "Evolution",
                     "description": "(Secret Achievement)",
@@ -65461,11 +65466,6 @@ var objectiveData =
                     "name": "Fleeing the Jungle",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/764bcf3530fd3f171f94fcc925bb56bf484783a8.jpg"
-                },
-                {
-                    "name": "The New Spartacus",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1144910/038bf137eefe34a437b2c138e98ecd493cc74227.jpg"
                 }
             ]
         }
@@ -65499,9 +65499,44 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "5-A Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 5-A.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/e3f0f30a44ae8e70d6ad44395e9a5dbe4249aade.jpg"
+                    "name": "Unbreakable Cannon",
+                    "description": "Finish Arcade Mode without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/d0d7b3cfb3945f72cfab727d100f55e9b3a55b02.jpg"
+                },
+                {
+                    "name": "5-C Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 5-C.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
+                },
+                {
+                    "name": "5-D Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 5-D.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/969a9481cac6ea8ade91793707ac4b1faa534385.jpg"
+                },
+                {
+                    "name": "5-B Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 5-B.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
+                },
+                {
+                    "name": "Arcade mode Rank \"S\" Clear",
+                    "description": "Finish Arcade Mode with rank \"S\".",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/d0d7b3cfb3945f72cfab727d100f55e9b3a55b02.jpg"
+                },
+                {
+                    "name": "3-B Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 3-B.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
+                },
+                {
+                    "name": "EXTRA 2 Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on Extra 2.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/969a9481cac6ea8ade91793707ac4b1faa534385.jpg"
+                },
+                {
+                    "name": "EXTRA 5 Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on Extra 5.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 },
                 {
                     "name": "EXTRA 1 Rank \"S\"",
@@ -65509,14 +65544,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 },
                 {
-                    "name": "3-A Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 3-A.",
+                    "name": "5-A Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 5-A.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/e3f0f30a44ae8e70d6ad44395e9a5dbe4249aade.jpg"
                 },
                 {
-                    "name": "EXTRA 3 Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on Extra 3.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
+                    "name": "3-A Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 3-A.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/e3f0f30a44ae8e70d6ad44395e9a5dbe4249aade.jpg"
                 },
                 {
                     "name": "EXTRA 4 Rank \"S\"",
@@ -65524,14 +65559,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 },
                 {
-                    "name": "4-B Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 4-B.",
+                    "name": "EXTRA 3 Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on Extra 3.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 },
                 {
-                    "name": "Unbreakable Cannon",
-                    "description": "Finish Arcade Mode without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/d0d7b3cfb3945f72cfab727d100f55e9b3a55b02.jpg"
+                    "name": "4-B Rank \"S\"",
+                    "description": "Achieve an \"S\" rank on stage 4-B.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 },
                 {
                     "name": "4-C Rank \"S\"",
@@ -65544,18 +65579,8 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/e3f0f30a44ae8e70d6ad44395e9a5dbe4249aade.jpg"
                 },
                 {
-                    "name": "5-D Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 5-D.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/969a9481cac6ea8ade91793707ac4b1faa534385.jpg"
-                },
-                {
                     "name": "Master of Fever",
                     "description": "Finish Arcade Mode having achieved over 30 Fevers.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/d0d7b3cfb3945f72cfab727d100f55e9b3a55b02.jpg"
-                },
-                {
-                    "name": "Arcade mode Rank \"S\" Clear",
-                    "description": "Finish Arcade Mode with rank \"S\".",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/d0d7b3cfb3945f72cfab727d100f55e9b3a55b02.jpg"
                 },
                 {
@@ -65564,34 +65589,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/4f184588b3ff539dc65bc7a457707a1b02d0ba9a.jpg"
                 },
                 {
-                    "name": "EXTRA 2 Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on Extra 2.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/969a9481cac6ea8ade91793707ac4b1faa534385.jpg"
-                },
-                {
                     "name": "4-A Rank \"S\"",
                     "description": "Achieve an \"S\" rank on stage 4-A.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/e3f0f30a44ae8e70d6ad44395e9a5dbe4249aade.jpg"
-                },
-                {
-                    "name": "5-C Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 5-C.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
-                },
-                {
-                    "name": "5-B Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 5-B.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
-                },
-                {
-                    "name": "3-B Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on stage 3-B.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
-                },
-                {
-                    "name": "EXTRA 5 Rank \"S\"",
-                    "description": "Achieve an \"S\" rank on Extra 5.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/744050/681f2d30e8a410cd784ac1736ac1327deb9905fd.jpg"
                 }
             ]
         }
@@ -65686,16 +65686,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Laser Surgeon",
-                    "description": "Survive for 60 seconds in Laser Jump",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/29692b8cd834c86273e97300085fbca8c30b631b.jpg"
-                },
-                {
-                    "name": "Gladiator",
-                    "description": "Survive for 100 seconds in the Arena",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/61b1164580269e0e03dd890875abadeb3ed9db94.jpg"
-                },
-                {
                     "name": "Epic Crater",
                     "description": "Survive for 100 seconds in Crate Chaos",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/8ba19b457827882d91144b448804ac0621336ef6.jpg"
@@ -65704,6 +65694,16 @@ var objectiveData =
                     "name": "The Impossible",
                     "description": "Clear every stage in order with no fallouts",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/6e9bca6250025c12bc872a7dbc379aec020fabe3.jpg"
+                },
+                {
+                    "name": "Laser Surgeon",
+                    "description": "Survive for 60 seconds in Laser Jump",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/29692b8cd834c86273e97300085fbca8c30b631b.jpg"
+                },
+                {
+                    "name": "Gladiator",
+                    "description": "Survive for 100 seconds in the Arena",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18300/61b1164580269e0e03dd890875abadeb3ed9db94.jpg"
                 }
             ]
         }
@@ -65749,16 +65749,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Master of precision",
-                    "description": "Reach a time of 01:00:000 or better on Serpentine.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/0057c30750fa2dbb6affc7425bc69bd0e90c14a5.jpg"
-                },
-                {
-                    "name": "Designer, enough of these games",
-                    "description": "Reach the end of Aquamarine with a maximum of 28 Orb jumps.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/6a033ffae3f563a1ae0549cc3412568810c5af21.jpg"
-                },
-                {
                     "name": "Master of speed",
                     "description": "Reach a time of 01:05:000 or better on Aquamarine.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/29fa0c725aa133479f4a77f1b28fff97c2e760e5.jpg"
@@ -65772,6 +65762,16 @@ var objectiveData =
                     "name": "Master of timing",
                     "description": "Reach a time of 01:12:000 or better on Kyanite.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/4fc0be291ee3e9188127d02364a032c459c2e6c9.jpg"
+                },
+                {
+                    "name": "Master of precision",
+                    "description": "Reach a time of 01:00:000 or better on Serpentine.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/0057c30750fa2dbb6affc7425bc69bd0e90c14a5.jpg"
+                },
+                {
+                    "name": "Designer, enough of these games",
+                    "description": "Reach the end of Aquamarine with a maximum of 28 Orb jumps.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1694880/6a033ffae3f563a1ae0549cc3412568810c5af21.jpg"
                 }
             ]
         }
@@ -65847,16 +65847,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Faster then dev",
-                    "description": "Beat author time on all main campaign levels",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/85c6b57134c4aa446775b6314c2f51dcf50cb9cb.jpg"
-                },
-                {
-                    "name": "Ultra campaign",
-                    "description": "Complete ultra campaign",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/7356522f62064418a68395e902a2dc0dc905f242.jpg"
-                },
-                {
                     "name": "Rope campaign",
                     "description": "Complete rope campaign",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/58ff2884c354f8845626b343d7a90a666fb3ee07.jpg"
@@ -65870,6 +65860,16 @@ var objectiveData =
                     "name": "Hard way",
                     "description": "Collect all blue medals",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/584087a25415d2794a3d3d654a56339ffb52dab4.jpg"
+                },
+                {
+                    "name": "Faster then dev",
+                    "description": "Beat author time on all main campaign levels",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/85c6b57134c4aa446775b6314c2f51dcf50cb9cb.jpg"
+                },
+                {
+                    "name": "Ultra campaign",
+                    "description": "Complete ultra campaign",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378330/7356522f62064418a68395e902a2dc0dc905f242.jpg"
                 }
             ]
         }
@@ -65979,11 +65979,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Platinum IV",
-                    "description": "Earn 40 platinum runes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1919240/57d060735bc1d22c8cc74672bc0723ba37e6b4fd.jpg"
-                },
-                {
                     "name": "CHALLENGE MODE PASSED!",
                     "description": "Challenge Mode Completed",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1919240/355a4b8de8cb9c66f97ea670585c0d85bfcd82aa.jpg"
@@ -65992,6 +65987,11 @@ var objectiveData =
                     "name": "COLLECTATHON PASSED!",
                     "description": "Collecthathon Mode Completed",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1919240/5d74adf6c64e4a897faba4f4f18fdff718f41064.jpg"
+                },
+                {
+                    "name": "Platinum IV",
+                    "description": "Earn 40 platinum runes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1919240/57d060735bc1d22c8cc74672bc0723ba37e6b4fd.jpg"
                 }
             ]
         }
@@ -66007,16 +66007,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Speedlunky",
-                    "description": "Complete the game in under 8 minutes. No shortcuts.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/a6b961f78fba340c6278c803b8d8f8c28ee47294.jpg"
-                },
-                {
-                    "name": "Big Money",
-                    "description": "Obtain 500,000 gold.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/b241366071dd52e4e506e0d80b400448483bf9bd.jpg"
-                },
-                {
                     "name": "To Hell and Back",
                     "description": "Complete the game the hard way.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/9ca54175ddcbf154c731528d67d205ff62b6bd86.jpg"
@@ -66025,6 +66015,16 @@ var objectiveData =
                     "name": "Low Scorer",
                     "description": "Complete the game without collecting any treasure. No shortcuts.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/4e8675ffe198c1c21db34f30c7585d918fac957b.jpg"
+                },
+                {
+                    "name": "Big Money",
+                    "description": "Obtain 500,000 gold.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/b241366071dd52e4e506e0d80b400448483bf9bd.jpg"
+                },
+                {
+                    "name": "Speedlunky",
+                    "description": "Complete the game in under 8 minutes. No shortcuts.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239350/a6b961f78fba340c6278c803b8d8f8c28ee47294.jpg"
                 }
             ]
         }
@@ -66057,14 +66057,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/cee1ca2319ae46ce3976d8bf241d60b09f9b7282.jpg"
                 },
                 {
-                    "name": "Millionaire",
-                    "description": "End a run with $1,000,000 or more in a non-seeded, single-player run.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/93e58001dee8a230b188f365e5e09f1ab8fb0ed2.jpg"
-                },
-                {
-                    "name": "Seen It All",
-                    "description": "Complete the Journal.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/2ef1ba7a89ac5c3a0bbaf92caa635bd6526802d4.jpg"
+                    "name": "Awakened",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/818419c746570344726dc337e6532bafaa257e30.jpg"
                 },
                 {
                     "name": "Low Scorer",
@@ -66072,14 +66067,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/e53f624269529c37afa7ba7385b902b6746c0a8a.jpg"
                 },
                 {
-                    "name": "Awakened",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/818419c746570344726dc337e6532bafaa257e30.jpg"
-                },
-                {
                     "name": "Speedlunky",
                     "description": "Complete the game in 10 minutes or less without shortcuts in a non-seeded, single-player run.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/70b0761076ca0ff88da08d40e453cc7d5730d3ae.jpg"
+                },
+                {
+                    "name": "Seen It All",
+                    "description": "Complete the Journal.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/2ef1ba7a89ac5c3a0bbaf92caa635bd6526802d4.jpg"
+                },
+                {
+                    "name": "Millionaire",
+                    "description": "End a run with $1,000,000 or more in a non-seeded, single-player run.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418530/93e58001dee8a230b188f365e5e09f1ab8fb0ed2.jpg"
                 }
             ]
         }
@@ -66363,26 +66363,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Won Beamer Zone",
-                    "description": "Beat the Beamer Zone",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/982654f7905a01b4ad996c651dd8b0ae1a228279.jpg"
-                },
-                {
-                    "name": "Won Chainer Zone",
-                    "description": "Beat the Chainer Zone",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/de3c7b3cd0d4517203c068553e0dec9c51bc80c2.jpg"
-                },
-                {
-                    "name": "Won Mega Boss",
-                    "description": "Beat the Mega Boss",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/86b754ad8e611892abc8cef0dc99a3db54e48d87.jpg"
-                },
-                {
-                    "name": "Won Flamer Zone",
-                    "description": "Beat the Flamer Zone",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/df0599af6ef49b1540a3840f84d8c3b0d5896449.jpg"
-                },
-                {
                     "name": "Endless 2 Minutes",
                     "description": "Survive 2 Minutes in Endless",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/30c20f3adcaa9b19ab5635dba6be4d7e9c7f2540.jpg"
@@ -66436,6 +66416,26 @@ var objectiveData =
                     "name": "Won Spreader Zone",
                     "description": "Beat the Spreader Zone",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/91c535fb41b0d1c642708ca0f8f4610c27c54208.jpg"
+                },
+                {
+                    "name": "Won Beamer Zone",
+                    "description": "Beat the Beamer Zone",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/982654f7905a01b4ad996c651dd8b0ae1a228279.jpg"
+                },
+                {
+                    "name": "Won Chainer Zone",
+                    "description": "Beat the Chainer Zone",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/de3c7b3cd0d4517203c068553e0dec9c51bc80c2.jpg"
+                },
+                {
+                    "name": "Won Mega Boss",
+                    "description": "Beat the Mega Boss",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/86b754ad8e611892abc8cef0dc99a3db54e48d87.jpg"
+                },
+                {
+                    "name": "Won Flamer Zone",
+                    "description": "Beat the Flamer Zone",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548230/df0599af6ef49b1540a3840f84d8c3b0d5896449.jpg"
                 }
             ]
         }
@@ -66474,11 +66474,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Lexicanium Penniless Bum",
-                    "description": "Complete a Lexicanium Hunt without acquiring any gold (keep that score at zero!)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1078200/370ddcdd98d0ac6d1bb9460caf9f0364faa5ca6b.jpg"
-                },
-                {
                     "name": "Undying Penniless Bum",
                     "description": "Complete an Undying Pilgrimage without acquiring any gold (keep that score at zero!)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1078200/c72895bc2ac7166dbbcaf21f3e3a355a9a5cd072.jpg"
@@ -66487,6 +66482,11 @@ var objectiveData =
                     "name": "Restless Penniless Bum",
                     "description": "Complete a Restless Adventure without acquiring any gold (keep that score at zero!)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1078200/365228cfa172b38800cfef1db17ecf1c890d7a9d.jpg"
+                },
+                {
+                    "name": "Lexicanium Penniless Bum",
+                    "description": "Complete a Lexicanium Hunt without acquiring any gold (keep that score at zero!)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1078200/370ddcdd98d0ac6d1bb9460caf9f0364faa5ca6b.jpg"
                 }
             ]
         }
@@ -66641,14 +66641,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No more is lost",
-                    "description": "Collect all lost souls",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2204170/80111cdd5a0b5d68d13cd67cdb570cf4f22c1a08.jpg"
-                },
-                {
                     "name": "The End",
                     "description": "Complete World 5",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2204170/55c4ba2ed994319c17e0088968402f21ae8169ed.jpg"
+                },
+                {
+                    "name": "No more is lost",
+                    "description": "Collect all lost souls",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2204170/80111cdd5a0b5d68d13cd67cdb570cf4f22c1a08.jpg"
                 }
             ]
         }
@@ -66694,14 +66694,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "What Can't You Do?",
-                    "description": "Get a Gold Medal in All Challenge Levels Across all Modes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/590690/ac6b57c7e98ffe234b57f1e3ec26e5d9fdc85f8b.jpg"
-                },
-                {
                     "name": "Where's My Wish?",
                     "description": "Get a Gold Medal in All Race Maps",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/590690/1aafe8f0f25ab5e3b586033f196ef2ea49b42c35.jpg"
+                },
+                {
+                    "name": "What Can't You Do?",
+                    "description": "Get a Gold Medal in All Challenge Levels Across all Modes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/590690/ac6b57c7e98ffe234b57f1e3ec26e5d9fdc85f8b.jpg"
                 }
             ]
         }
@@ -67129,9 +67129,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Blind",
-                    "description": "Complete the space without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/a5f8c2ff8a30ee79cd467115d3858a23ce07ded9.jpg"
+                    "name": "Deaf",
+                    "description": "Complete the desert without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/1c9ba11e35a1d958d4a03029e470662a1c5fe21e.jpg"
                 },
                 {
                     "name": "Cubes",
@@ -67144,11 +67144,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/f7ed46cf7d5c44ca61c977e78a5997b9f5d8d714.jpg"
                 },
                 {
-                    "name": "Deaf",
-                    "description": "Complete the desert without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/1c9ba11e35a1d958d4a03029e470662a1c5fe21e.jpg"
-                },
-                {
                     "name": "Pyramids",
                     "description": "Complete the desert secret levels without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/8cade80151ea227d6101c29c89d39d34b25d6d67.jpg"
@@ -67157,6 +67152,11 @@ var objectiveData =
                     "name": "Spheres",
                     "description": "Complete the space secret levels without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/620ea149bbd9195dc6afad44fe5d0cdbd063415d.jpg"
+                },
+                {
+                    "name": "Blind",
+                    "description": "Complete the space without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/a5f8c2ff8a30ee79cd467115d3858a23ce07ded9.jpg"
                 }
             ]
         }
@@ -67172,16 +67172,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No Time",
-                    "description": "Finish all levels with full boost",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/35fe4332cec8b21762f4e99d1b647648388805db.jpg"
-                },
-                {
-                    "name": "CLEAR ALL",
-                    "description": "You know what to do",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/82abee00629f3d20c5d302187ad4b4b55e51d302.jpg"
-                },
-                {
                     "name": "Impossible",
                     "description": "Finish level XX full boost without dashing",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/0b2e2e2fdb85d754651bebba1bf21febec28adc2.jpg"
@@ -67190,6 +67180,16 @@ var objectiveData =
                     "name": "Old School",
                     "description": "Finish all levels without dashing",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/d27e2b26747aa168974fc23fb1cace3c8372a775.jpg"
+                },
+                {
+                    "name": "No Time",
+                    "description": "Finish all levels with full boost",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/35fe4332cec8b21762f4e99d1b647648388805db.jpg"
+                },
+                {
+                    "name": "CLEAR ALL",
+                    "description": "You know what to do",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/818140/82abee00629f3d20c5d302187ad4b4b55e51d302.jpg"
                 }
             ]
         }
@@ -67205,14 +67205,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "S We Can!",
-                    "description": "S Rank all teleporter chambers",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/209190/e5920db819fc2227fc13f04116da2019c47dbe73.jpg"
-                },
-                {
                     "name": "Consummate Professional",
                     "description": "S-Rank all levels",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/209190/93c92013f8be31758609356265c93aefb6b79080.jpg"
+                },
+                {
+                    "name": "S We Can!",
+                    "description": "S Rank all teleporter chambers",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/209190/e5920db819fc2227fc13f04116da2019c47dbe73.jpg"
                 }
             ]
         }
@@ -67406,16 +67406,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Ticket to the Great Adventure",
-                    "description": "Destroy the Old Friend.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/04db23237d8ed9f5f22af4f85ea9387082d986ce.jpg"
-                },
-                {
-                    "name": "Space Dumpster",
-                    "description": "Destroy the Garbage Collector.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/8aa634bf403d8fa8659b7c69322aa2c542a925be.jpg"
-                },
-                {
                     "name": "SUPERCHABAL",
                     "description": "Destroy the Super Chabal.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/0edbbbaedf08424f53de637667e3ed786bec5eac.jpg"
@@ -67434,6 +67424,16 @@ var objectiveData =
                     "name": "Ace of Aces",
                     "description": "Beat the Red Baron",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/89dcb7fd8580b2adf7f31f524dbed0bb495e2ea1.jpg"
+                },
+                {
+                    "name": "Ticket to the Great Adventure",
+                    "description": "Destroy the Old Friend.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/04db23237d8ed9f5f22af4f85ea9387082d986ce.jpg"
+                },
+                {
+                    "name": "Space Dumpster",
+                    "description": "Destroy the Garbage Collector.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/347160/8aa634bf403d8fa8659b7c69322aa2c542a925be.jpg"
                 }
             ]
         }
@@ -67679,19 +67679,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Prowess",
-                    "description": "Reach level 12 on daily mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/828ba1dfc41f971b05d21aa8b698008dbfedb9b1.jpg"
+                    "name": "Supremacy",
+                    "description": "Score 10000 pts on a single arena in gauntlet mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/545e4fe054b13cfd7b7c6d8b7dfa077a23f81f05.jpg"
                 },
                 {
                     "name": "Almighty",
                     "description": "Get all ranks in clan mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/144f3e02684751ee10d959b8ec80d587ec04caa1.jpg"
-                },
-                {
-                    "name": "Supremacy",
-                    "description": "Score 10000 pts on a single arena in gauntlet mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/545e4fe054b13cfd7b7c6d8b7dfa077a23f81f05.jpg"
                 },
                 {
                     "name": "Demigod",
@@ -67712,6 +67707,11 @@ var objectiveData =
                     "name": "Emperor",
                     "description": "Get all ranks in arena",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/06d21414c56d5081643506e12805b2547c31266a.jpg"
+                },
+                {
+                    "name": "Prowess",
+                    "description": "Reach level 12 on daily mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/828ba1dfc41f971b05d21aa8b698008dbfedb9b1.jpg"
                 }
             ],
             "custom": "Video(s) of 3 hardest clan ranks and the last two arena ranks."
@@ -67728,6 +67728,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Student",
+                    "description": "Get 30 ranks in clan mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/592f55de6c02f469226ddae30283138d281023f4.jpg"
+                },
+                {
                     "name": "Contender",
                     "description": "Score 10000 pts in gauntlet mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/87bfaedaea6809788e31b932cb2e579894ef5e17.jpg"
@@ -67741,11 +67746,6 @@ var objectiveData =
                     "name": "Noble",
                     "description": "Unlock rank 2 on every arena",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/7d7eb18e911918844ecd501288911d2602c5d50b.jpg"
-                },
-                {
-                    "name": "Student",
-                    "description": "Get 30 ranks in clan mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2832620/592f55de6c02f469226ddae30283138d281023f4.jpg"
                 }
             ]
         }
@@ -67761,14 +67761,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Hyper Sprint",
-                    "description": "Clear the game within 1 hour.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2884650/5ea5cd81fde4f665db0782db395d31b090208647.jpg"
-                },
-                {
                     "name": "Gentle Carriage",
                     "description": "Clear the game with 30 or fewer retries.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2884650/13b29c89f31dd699e8c71f1c172513f258bd5328.jpg"
+                },
+                {
+                    "name": "Hyper Sprint",
+                    "description": "Clear the game within 1 hour.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2884650/5ea5cd81fde4f665db0782db395d31b090208647.jpg"
                 }
             ]
         }
@@ -67784,9 +67784,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Full Booty",
-                    "description": "Get 100% coins in some stage!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/643880/1047a63e85eeb74d412abf4e51eb407ec79059ce.jpg"
+                    "name": "Little Loan Sharks",
+                    "description": "Get 100% green gems!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/643880/e52741b39a37a8750504ab292681f45174aba54b.jpg"
                 },
                 {
                     "name": "All Stars",
@@ -67794,9 +67794,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/643880/bc34eebd3c78de26301e7d786ef2e7d81959b2a6.jpg"
                 },
                 {
-                    "name": "Little Loan Sharks",
-                    "description": "Get 100% green gems!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/643880/e52741b39a37a8750504ab292681f45174aba54b.jpg"
+                    "name": "Full Booty",
+                    "description": "Get 100% coins in some stage!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/643880/1047a63e85eeb74d412abf4e51eb407ec79059ce.jpg"
                 }
             ]
         }
@@ -67831,16 +67831,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Headgear Collector",
-                    "description": "Collect all the hats.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/aa270986a4ac0be9d75629c8392a09c383181337.jpg"
-                },
-                {
-                    "name": "Prophet of the Swarm",
-                    "description": "Get bitten by three rats at the same time.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/4a508b8b7471b7ade115b4221c8287e83e40a9d7.jpg"
-                },
-                {
                     "name": "Ecologist",
                     "description": "Only use one plug to get to Amadeus.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/75d0fcb462d2f0da29a4e5b873f20f0fad4001f7.jpg"
@@ -67854,6 +67844,16 @@ var objectiveData =
                     "name": "Super Seducer",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/1a6a4992627b3331a047f13262fb4b4a3fd2d297.jpg"
+                },
+                {
+                    "name": "Prophet of the Swarm",
+                    "description": "Get bitten by three rats at the same time.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/4a508b8b7471b7ade115b4221c8287e83e40a9d7.jpg"
+                },
+                {
+                    "name": "Headgear Collector",
+                    "description": "Collect all the hats.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035560/aa270986a4ac0be9d75629c8392a09c383181337.jpg"
                 }
             ]
         }
@@ -67869,14 +67869,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Brutality",
-                    "description": "Beat the game on brutal mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/950210/f0aa19208d29549b5be7d0e7363c2216b6e671af.jpg"
-                },
-                {
                     "name": "Brutal Challenge Completed",
                     "description": "Beat Challenge levels on brutal mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/950210/b7c0f5cd41e272da0eeda28f6912e20eb58fc047.jpg"
+                },
+                {
+                    "name": "Brutality",
+                    "description": "Beat the game on brutal mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/950210/f0aa19208d29549b5be7d0e7363c2216b6e671af.jpg"
                 }
             ]
         }
@@ -67910,11 +67910,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Spain 3 stars",
-                    "description": "Complete all Spain trips with 3 stars",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2103480/c637142f75f0858bc9e326b75ff572fc114c797c.jpg"
-                },
-                {
                     "name": "Italy 3 stars",
                     "description": "Complete all Italy trips with 3 stars",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2103480/643e1de6610dfb89099e965820ede37dabb97c94.jpg"
@@ -67923,6 +67918,11 @@ var objectiveData =
                     "name": "Greece 3 stars",
                     "description": "Complete all Greece trips with 3 stars",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2103480/b3a27ef628f0a4b44e763dfc8840f98b3239d146.jpg"
+                },
+                {
+                    "name": "Spain 3 stars",
+                    "description": "Complete all Spain trips with 3 stars",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2103480/c637142f75f0858bc9e326b75ff572fc114c797c.jpg"
                 }
             ]
         }
@@ -68000,31 +68000,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Chapter 6 Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/f767de7f352b911d839ea8ba05f90bb9ed27547f.jpg"
-                },
-                {
-                    "name": "Chapter 5 Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/ecb2f8c5b3b819999a89e1aed8f27cd2e610cba0.jpg"
-                },
-                {
-                    "name": "Chapter 4 Hard Mode Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/82a5cfa12819e7413156feccdb75bec31fcf2aba.jpg"
-                },
-                {
-                    "name": "Chapter 1 Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/31a1c3e203b7da3acd656fdf72be15538b648274.jpg"
-                },
-                {
-                    "name": "Chapter 2 Hard Mode Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/34fb0ce4fee4f46e4c1d83faeffa643d0ea5dae3.jpg"
-                },
-                {
                     "name": "Chapter 2 Flawless",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/1bc6d7447dec8b600518320194236dda5f077cf8.jpg"
@@ -68058,6 +68033,31 @@ var objectiveData =
                     "name": "Chapter 3 Hard Mode Flawless",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/73fabc081d506120b89cf00752f18a09c78e27b6.jpg"
+                },
+                {
+                    "name": "Chapter 5 Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/ecb2f8c5b3b819999a89e1aed8f27cd2e610cba0.jpg"
+                },
+                {
+                    "name": "Chapter 6 Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/f767de7f352b911d839ea8ba05f90bb9ed27547f.jpg"
+                },
+                {
+                    "name": "Chapter 4 Hard Mode Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/82a5cfa12819e7413156feccdb75bec31fcf2aba.jpg"
+                },
+                {
+                    "name": "Chapter 1 Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/31a1c3e203b7da3acd656fdf72be15538b648274.jpg"
+                },
+                {
+                    "name": "Chapter 2 Hard Mode Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1525660/34fb0ce4fee4f46e4c1d83faeffa643d0ea5dae3.jpg"
                 }
             ],
             "custom": "Videos of chapters 3, 4, 5 and 6 flawless."
@@ -68116,31 +68116,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "4-2",
-                    "description": "3xSTAR",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
-                },
-                {
-                    "name": "2-4",
-                    "description": "3xSTAR",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
-                },
-                {
-                    "name": "2-2",
-                    "description": "3xSTAR",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
-                },
-                {
-                    "name": "3-3",
-                    "description": "3xSTAR",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
-                },
-                {
-                    "name": "1-4",
-                    "description": "3xSTAR",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
-                },
-                {
                     "name": "1-3",
                     "description": "3xSTAR",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
@@ -68187,6 +68162,31 @@ var objectiveData =
                 },
                 {
                     "name": "2-3",
+                    "description": "3xSTAR",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
+                },
+                {
+                    "name": "4-2",
+                    "description": "3xSTAR",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
+                },
+                {
+                    "name": "2-4",
+                    "description": "3xSTAR",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
+                },
+                {
+                    "name": "2-2",
+                    "description": "3xSTAR",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
+                },
+                {
+                    "name": "3-3",
+                    "description": "3xSTAR",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
+                },
+                {
+                    "name": "1-4",
                     "description": "3xSTAR",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1489120/790305fb237693b5f02ec5288e2c0178b5feb6b9.jpg"
                 }
@@ -68276,11 +68276,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Flawless",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1944060/6699abb7fc1b2658e49ea49e15e90327d3756a91.jpg"
-                },
-                {
                     "name": "Clean Sweep",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1944060/794391b7d1d20820c7d7b3b9dd9eadcb0afca7fd.jpg"
@@ -68294,6 +68289,11 @@ var objectiveData =
                     "name": "Alloy Rangers, Assemble!",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1944060/e1e8f722b9a5198df1be23bd4d74934ae490097b.jpg"
+                },
+                {
+                    "name": "Flawless",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1944060/6699abb7fc1b2658e49ea49e15e90327d3756a91.jpg"
                 }
             ]
         }
@@ -68309,13 +68309,13 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Reached the perfection, 300 Stars",
-                    "description": "Earn a total of 300 stars.",
+                    "name": "Master of Masters",
+                    "description": "Complete Level 20 on Squad.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1968500/dc40149fb99a10e79ff8883c515d089aab98be90.jpg"
                 },
                 {
-                    "name": "Master of Masters",
-                    "description": "Complete Level 20 on Squad.",
+                    "name": "Reached the perfection, 300 Stars",
+                    "description": "Earn a total of 300 stars.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1968500/dc40149fb99a10e79ff8883c515d089aab98be90.jpg"
                 }
             ]
@@ -68332,16 +68332,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Perfect Survivalist",
-                    "description": "Earn S rank in Perfect Survival.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
-                },
-                {
-                    "name": "Basic Survivalist",
-                    "description": "Earn S rank in Basic Survival.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
-                },
-                {
                     "name": "Swarm Survivalist",
                     "description": "Earn S rank in Swarm Survival.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
@@ -68354,6 +68344,16 @@ var objectiveData =
                 {
                     "name": "Super Survivalist",
                     "description": "Earn S rank in Super Survival.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
+                },
+                {
+                    "name": "Perfect Survivalist",
+                    "description": "Earn S rank in Perfect Survival.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
+                },
+                {
+                    "name": "Basic Survivalist",
+                    "description": "Earn S rank in Basic Survival.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1710120/b01af062161097c63600b29a39bfb32fec9705e2.jpg"
                 }
             ]
@@ -68370,16 +68370,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Unlock all the coins on World 4",
-                    "description": "Unlock all the coins on World 4",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/0b0e1fd1a38e8116d16177ab2d1798eb5a12f1bc.jpg"
-                },
-                {
-                    "name": "Unlock all the coins on World 1",
-                    "description": "Unlock all the coins on World 1",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/bd92dde894335f699f7effee561af753eef7e875.jpg"
-                },
-                {
                     "name": "Unlock all the coins on World 2",
                     "description": "Unlock all the coins on World 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/588960a864025a142c19cbf00a33b7815d46d646.jpg"
@@ -68393,6 +68383,16 @@ var objectiveData =
                     "name": "Unlock all the coins on World 3",
                     "description": "Unlock all the coins on World 3",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/9da8e6db1301ad13e195b36f38dbb15db2e86ffc.jpg"
+                },
+                {
+                    "name": "Unlock all the coins on World 4",
+                    "description": "Unlock all the coins on World 4",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/0b0e1fd1a38e8116d16177ab2d1798eb5a12f1bc.jpg"
+                },
+                {
+                    "name": "Unlock all the coins on World 1",
+                    "description": "Unlock all the coins on World 1",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/673750/bd92dde894335f699f7effee561af753eef7e875.jpg"
                 }
             ]
         }
@@ -68426,11 +68426,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No Spinny",
-                    "description": "Beat the game without getting the sword spin move",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283080/807c9282d073c1aec0d297d3346cd642dba91271.jpg"
-                },
-                {
                     "name": "Insanity!",
                     "description": "Beat the game without losing a life",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283080/6dcb026dfb8c76a655a37806d8441ceb3a9d3e9c.jpg"
@@ -68439,6 +68434,11 @@ var objectiveData =
                     "name": "You Have No Life",
                     "description": "Beat the game as a sorcerer without getting the \"life\" spell",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283080/545596f4859459f8acaafb286915d987a0183fa0.jpg"
+                },
+                {
+                    "name": "No Spinny",
+                    "description": "Beat the game without getting the sword spin move",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/283080/807c9282d073c1aec0d297d3346cd642dba91271.jpg"
                 }
             ]
         }
@@ -68454,9 +68454,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Farm Survivor",
-                    "description": "Chicken survived 2 minutes in endless mode at the farm level",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/7d8cf31b7c9d43eb9c8b37ed0686916dbbfe3859.jpg"
+                    "name": "Gold Mountain",
+                    "description": "Completed All Challenges",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/a6d817f978965f59ebed6b7cd48cc97ec1c75439.jpg"
                 },
                 {
                     "name": "Space Survivor",
@@ -68474,19 +68474,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/ba6257afdcaf049d2980aab02134bfef81e1c85c.jpg"
                 },
                 {
-                    "name": "Snow Survivor",
-                    "description": "Chicken survived 2 minutes in endless mode at the snow level",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/3ab7eb9662748492688b1516735574511b8649a4.jpg"
-                },
-                {
                     "name": "Cemetery Survivor",
                     "description": "Chicken survived 2 minutes in endless mode at the cemetery level",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/a67b4856cadeac7ca24fb79a69c926b543c7970d.jpg"
                 },
                 {
-                    "name": "Gold Mountain",
-                    "description": "Completed All Challenges",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/a6d817f978965f59ebed6b7cd48cc97ec1c75439.jpg"
+                    "name": "Snow Survivor",
+                    "description": "Chicken survived 2 minutes in endless mode at the snow level",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/3ab7eb9662748492688b1516735574511b8649a4.jpg"
+                },
+                {
+                    "name": "Farm Survivor",
+                    "description": "Chicken survived 2 minutes in endless mode at the farm level",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/584640/7d8cf31b7c9d43eb9c8b37ed0686916dbbfe3859.jpg"
                 }
             ]
         }
@@ -68544,16 +68544,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Can't Get the Jump on Me, Mecha Three!",
-                    "description": "Defeat Mecha Three without jumping",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/a8ab7e8d075ff49aad57b8fded755099a9181c4b.jpg"
-                },
-                {
-                    "name": "Welp, I Guess I'm The Best",
-                    "description": "S Rank every level in an area",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/02f5702fc1f8122047ea6bc31ce2ff4ad06ca0fb.jpg"
-                },
-                {
                     "name": "Man, Are My Arms Sore",
                     "description": "Get a 40-hit combo",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/495165ece25529fffda222eb271b2fac6c5b2249.jpg"
@@ -68582,6 +68572,16 @@ var objectiveData =
                     "name": "What Were You Trying To Do, Mecha Two?",
                     "description": "Defeat Mecha Two without taking damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/1a87a86b9ea3d9b7c50a5dd2554970b6feed60f6.jpg"
+                },
+                {
+                    "name": "Can't Get the Jump on Me, Mecha Three!",
+                    "description": "Defeat Mecha Three without jumping",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/a8ab7e8d075ff49aad57b8fded755099a9181c4b.jpg"
+                },
+                {
+                    "name": "Welp, I Guess I'm The Best",
+                    "description": "S Rank every level in an area",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907670/02f5702fc1f8122047ea6bc31ce2ff4ad06ca0fb.jpg"
                 }
             ]
         }
@@ -68621,16 +68621,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Homely Hills Hero",
-                    "description": "Get an S-rank on every level in World 1.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/7183a1bf1020efea8bcec820f24df8c1a07aa23d.jpg"
-                },
-                {
-                    "name": "Performance of a Lifetime",
-                    "description": "Beat all boss trials at The Brassica.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/5fed4912ab9bb86edbcec1b2af1606dd77082b5d.jpg"
-                },
-                {
                     "name": "The Planet's Core Prodigy",
                     "description": "Get an S-rank on every level in World 4.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/5452ce66624827a6fe6d46a606eaa30fb0322e6e.jpg"
@@ -68654,6 +68644,16 @@ var objectiveData =
                     "name": "High Roller",
                     "description": "Beat 25 levels in a row in the Endless Trial.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/0a41834e59c3fc6e64e7a188d6db5063afdee711.jpg"
+                },
+                {
+                    "name": "Homely Hills Hero",
+                    "description": "Get an S-rank on every level in World 1.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/7183a1bf1020efea8bcec820f24df8c1a07aa23d.jpg"
+                },
+                {
+                    "name": "Performance of a Lifetime",
+                    "description": "Beat all boss trials at The Brassica.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/811970/5fed4912ab9bb86edbcec1b2af1606dd77082b5d.jpg"
                 }
             ]
         }
@@ -68670,14 +68670,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The Hundo",
-                    "description": "Mission Mode: Clear all 100 Missions!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/dad40133078337518fc58b5f311f79b5bdba6395.jpg"
-                },
-                {
                     "name": "GOing...GOing...Gone!",
                     "description": "Mission Mode: Clear all Missions in the \"Super Multitasking GO!\" course",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/a1703792ecf144c380188fa0da5c55dc36bc2d34.jpg"
+                },
+                {
+                    "name": "The Hundo",
+                    "description": "Mission Mode: Clear all 100 Missions!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/dad40133078337518fc58b5f311f79b5bdba6395.jpg"
                 }
             ],
             "custom": "Screenshot of 'The Hundred' mission list showing all 100 @ 100% difficulty."
@@ -68694,16 +68694,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Super Lucky?",
-                    "description": "Mission Speedrun Mode: Clear the \"Super Multitasking\" course using 777 total attempts or fewer",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/14afa2255b6e610dddde580b3cef07b6684a0b91.jpg"
-                },
-                {
-                    "name": "Just Enough",
-                    "description": "Mission Mode: Clear \"Hurry Up!\" firing *just* enough shots to beat the boss",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/b5165cb8d50d620775fb57bc713d6c760043a124.jpg"
-                },
-                {
                     "name": "Winning Streak",
                     "description": "Mission Mode: Complete the first 15 missions of the \"Super Multitasking\" course, in order, in one session, without failing",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/126cc910066a274425464a9afcbe69593ceb4621.jpg"
@@ -68712,6 +68702,11 @@ var objectiveData =
                     "name": "YO-HO-HO",
                     "description": "Mission Mode: Clear \"Just Follow Directions,\" ending both minigames with 0.1 seconds or less remaining",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/5a1b34b9348f5db5c1aeeb633661985cfd8569b9.jpg"
+                },
+                {
+                    "name": "Super Lucky?",
+                    "description": "Mission Speedrun Mode: Clear the \"Super Multitasking\" course using 777 total attempts or fewer",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/14afa2255b6e610dddde580b3cef07b6684a0b91.jpg"
                 },
                 {
                     "name": "WASD OMFG",
@@ -68727,6 +68722,11 @@ var objectiveData =
                     "name": "Well-Balanced",
                     "description": "Mission Mode: Clear \"Now You See, Now You Saw\" with all seesaws ending almost completely straight",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/848421df0ef755dc3280b0ef36eea071436b7bcd.jpg"
+                },
+                {
+                    "name": "Just Enough",
+                    "description": "Mission Mode: Clear \"Hurry Up!\" firing *just* enough shots to beat the boss",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/b5165cb8d50d620775fb57bc713d6c760043a124.jpg"
                 }
             ]
         }
@@ -68742,14 +68742,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Tagged",
-                    "description": "Quickplay Mode: For any single Minigame Collection and number of slots, beat the default #1 times on Easy, Normal, Hard, and Maximum local leaderboards",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/1696fdadcb392fafdc8a74fd5c4c243d701a67a3.jpg"
-                },
-                {
                     "name": "Quint-essential",
                     "description": "Quickplay Mode: Play 5 simultaneous minigames (Maximum difficulty excluded)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/299dc0b6b133b984bad3e8963caff47153590d70.jpg"
+                },
+                {
+                    "name": "Tagged",
+                    "description": "Quickplay Mode: For any single Minigame Collection and number of slots, beat the default #1 times on Easy, Normal, Hard, and Maximum local leaderboards",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/640290/1696fdadcb392fafdc8a74fd5c4c243d701a67a3.jpg"
                 }
             ]
         }
@@ -68765,11 +68765,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Skull Grinder",
-                    "description": "Reach 500 kill combo",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/891130/1763ba2a1c2e6443eeac4285a39739185a36c5c4.jpg"
-                },
-                {
                     "name": "History Repeats Itself",
                     "description": "Defeat the boss in Round 2",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/891130/96f4ba198047dc96070791230c217645d2e5a56d.jpg"
@@ -68778,6 +68773,11 @@ var objectiveData =
                     "name": "An Eye Closed",
                     "description": "Defeat the boss in Insane Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/891130/3966c884d7546959999c596c4ca5d865793a42d4.jpg"
+                },
+                {
+                    "name": "Skull Grinder",
+                    "description": "Reach 500 kill combo",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/891130/1763ba2a1c2e6443eeac4285a39739185a36c5c4.jpg"
                 }
             ]
         }
@@ -68950,14 +68950,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "SUPER HIGH BALL!",
-                    "description": "Get all the sapphire cubes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/719930/ce41899a7ad6ebbc21bbb590ddf3565df0956ec5.jpg"
-                },
-                {
                     "name": "Woop Woop Woop",
                     "description": "Get all the sapphire balls",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/719930/af9e7ee20b65192cb8e7313efb464b08db769f5f.jpg"
+                },
+                {
+                    "name": "SUPER HIGH BALL!",
+                    "description": "Get all the sapphire cubes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/719930/ce41899a7ad6ebbc21bbb590ddf3565df0956ec5.jpg"
                 }
             ]
         }
@@ -68985,11 +68985,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fastest of All",
-                    "description": "Beat the AI on Master difficulty in all 54 stages in Race mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/915850/75bf560f6ed8b1b48b2ded359d15298e5b832f09.jpg"
-                },
-                {
                     "name": "Professional Speedrunner",
                     "description": "Beat or Equal all of Nesrocks' times in Time Attack mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/915850/83bc9fc69c847ec6b70e058ec45f4d563e5007ea.jpg"
@@ -68998,6 +68993,11 @@ var objectiveData =
                     "name": "Master of Combat",
                     "description": "Beat the AI on Master difficulty on all stages in Vs mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/915850/5e7b28324dd9828ed49483c65952ba6bcbfa0852.jpg"
+                },
+                {
+                    "name": "Fastest of All",
+                    "description": "Beat the AI on Master difficulty in all 54 stages in Race mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/915850/75bf560f6ed8b1b48b2ded359d15298e5b832f09.jpg"
                 }
             ]
         }
@@ -69013,6 +69013,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "High Scoring Ninja",
+                    "description": "Score 1 million points in Ninja mode.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/cdf35ce7984be310ec6f3119451cbff65aecd261.jpg"
+                },
+                {
                     "name": "Impossible Mission",
                     "description": "Reach the bottom of Abarghus' Domain on \"Ninja\" difficulty.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/79d24f5e7cc3c883b58c2243d792a242173d6dae.jpg"
@@ -69021,11 +69026,6 @@ var objectiveData =
                     "name": "6 Minutes Of Madness",
                     "description": "Achieve a 6 minute speed run or less on \"Ninja\".",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/1ef9d654e493eeec50270eecef00c1bab03ad411.jpg"
-                },
-                {
-                    "name": "High Scoring Ninja",
-                    "description": "Score 1 million points in Ninja mode.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/cdf35ce7984be310ec6f3119451cbff65aecd261.jpg"
                 }
             ]
         }
@@ -69041,9 +69041,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Go Ninja!",
-                    "description": "Complete the game on \"Ninja\" difficulty, starting from the roof.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/7630ec1c6697134f15e92c9a8f0c71843e9c02be.jpg"
+                    "name": "Boss Rush Ninja",
+                    "description": "Complete Boss Rush on \"Ninja\".",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/1a5218b92c5e17ce627662afc22ef357eb8c0200.jpg"
                 },
                 {
                     "name": "Stuff Of Nightmares",
@@ -69051,9 +69051,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/7f0b1dd3fa396db06a1f73769b6bc436d30f27dd.jpg"
                 },
                 {
-                    "name": "Boss Rush Ninja",
-                    "description": "Complete Boss Rush on \"Ninja\".",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/1a5218b92c5e17ce627662afc22ef357eb8c0200.jpg"
+                    "name": "Go Ninja!",
+                    "description": "Complete the game on \"Ninja\" difficulty, starting from the roof.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/224820/7630ec1c6697134f15e92c9a8f0c71843e9c02be.jpg"
                 }
             ]
         }
@@ -69234,24 +69234,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "No jump, no fun?",
-                    "description": "Complete all the Broken MagZero levels without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/62eff13cc6aa5c34d780cfc5ae766520ab32250f.jpg"
-                },
-                {
-                    "name": "Equilibrium",
-                    "description": "Complete all the MagTerra levels without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/3c8a70228760d55cd7965048d84b09cfa31beade.jpg"
+                    "name": "The Reaper",
+                    "description": "Complete all the Broken MagTerra levels without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/99d150e1d4582ee325202eaeff5be5994432e8ae.jpg"
                 },
                 {
                     "name": "Melting Crown",
                     "description": "Complete all the MagMah levels without dying.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/18a3a096d60282abba3506673d9c5e54a24d8457.jpg"
-                },
-                {
-                    "name": "The Reaper",
-                    "description": "Complete all the Broken MagTerra levels without dying.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/99d150e1d4582ee325202eaeff5be5994432e8ae.jpg"
                 },
                 {
                     "name": "Astral Supremacy",
@@ -69277,6 +69267,16 @@ var objectiveData =
                     "name": "Bubble Surfer",
                     "description": "Complete all the MagZero levels without dying.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/88fce92e012bb8910c85f2470feb534ce9cfbd9b.jpg"
+                },
+                {
+                    "name": "Equilibrium",
+                    "description": "Complete all the MagTerra levels without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/3c8a70228760d55cd7965048d84b09cfa31beade.jpg"
+                },
+                {
+                    "name": "No jump, no fun?",
+                    "description": "Complete all the Broken MagZero levels without dying.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/62eff13cc6aa5c34d780cfc5ae766520ab32250f.jpg"
                 }
             ],
             "custom": "Video(s) of MagTek and Magnetia Star. Use of Assist Mode is disallowed."
@@ -69293,14 +69293,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Shooting Star",
-                    "description": "Complete all the Magnetia Star levels as fast as you can.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/a7548d927c674c90e779dc639ac39e69bb39f104.jpg"
-                },
-                {
                     "name": "SUPER MAGBOT!",
                     "description": "Complete all the Magnetia Star levels.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/837400a355ddfd7e61ec20b909dc27ceb0ad6c51.jpg"
+                },
+                {
+                    "name": "Shooting Star",
+                    "description": "Complete all the Magnetia Star levels as fast as you can.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1205170/a7548d927c674c90e779dc639ac39e69bb39f104.jpg"
                 }
             ]
         }
@@ -69353,16 +69353,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Needle Boy ",
-                    "description": "Complete the Hospital without dying ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/037a6539b63be2e9776708d0a9067dddfb9d3678.jpg"
-                },
-                {
-                    "name": "Blood Clot Boy",
-                    "description": "Complete the Hospital Dark World without dying ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/84c35636f4764b6aebaec56533cd4dd9ede87051.jpg"
-                },
-                {
                     "name": "Squirrel Boy",
                     "description": "Complete the Forest Dark World without dying ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/35450e0414555ec9b1a71f2fc3b64b160aa4afbb.jpg"
@@ -69373,9 +69363,19 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/0480925b417ff025f87d80afd2ed4cd107af6443.jpg"
                 },
                 {
+                    "name": "Zombie Boy",
+                    "description": "Complete the Rapture Dark World without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/729d451bb0c425e905df0e9df864012a0a409170.jpg"
+                },
+                {
                     "name": "Brimstone Boy ",
                     "description": "Complete Hell without dying ",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/25341e69dffb470d43e2253f78e6a4b276fa33b8.jpg"
+                },
+                {
+                    "name": "Salt Boy ",
+                    "description": "Complete the Salt Factory without dying ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/1f5fae3c59f7cb685bb22f57c9d737cab8e4b9e4.jpg"
                 },
                 {
                     "name": "Dr.Fetus Boy",
@@ -69388,9 +69388,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/7ca6507296c9bdc322b72e61a4cf9feae37e2865.jpg"
                 },
                 {
-                    "name": "Zombie Boy",
-                    "description": "Complete the Rapture Dark World without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/729d451bb0c425e905df0e9df864012a0a409170.jpg"
+                    "name": "Dead Boy ",
+                    "description": "Complete The End without dying ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/b129124f9777c83f91e23abeb49026c0c0bbaddb.jpg"
                 },
                 {
                     "name": "Missile Boy",
@@ -69398,9 +69398,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/eddea52e33a35d41fa8b1bbfc9596cd166ab51f4.jpg"
                 },
                 {
-                    "name": "Salt Boy ",
-                    "description": "Complete the Salt Factory without dying ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/1f5fae3c59f7cb685bb22f57c9d737cab8e4b9e4.jpg"
+                    "name": "Needle Boy ",
+                    "description": "Complete the Hospital without dying ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/037a6539b63be2e9776708d0a9067dddfb9d3678.jpg"
                 },
                 {
                     "name": "Demon Boy",
@@ -69408,9 +69408,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/f2bf34e9cce0c98ecf6b5ff79f20af51b9d218a9.jpg"
                 },
                 {
-                    "name": "Dead Boy ",
-                    "description": "Complete The End without dying ",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/b129124f9777c83f91e23abeb49026c0c0bbaddb.jpg"
+                    "name": "Blood Clot Boy",
+                    "description": "Complete the Hospital Dark World without dying ",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/84c35636f4764b6aebaec56533cd4dd9ede87051.jpg"
                 }
             ]
         }
@@ -69468,6 +69468,26 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Core Boy",
+                    "description": "Complete The Core without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/c33e3bd1e5745919352907416d7a8a2a9ee2f6e0.jpg"
+                },
+                {
+                    "name": "Acid Boy",
+                    "description": "Complete The Wastes Dark World without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/5a9b2ad8c8e541355b19d4b24d065a9224299907.jpg"
+                },
+                {
+                    "name": "Metal Boy",
+                    "description": "Complete The Forge without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/9a8fc05b9188c2329bca0860c69f6cf7d6b19ad2.jpg"
+                },
+                {
+                    "name": "Lava Boy",
+                    "description": "Complete The Core Dark World without dying",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/c8f5ff651b8b79fde6f4490ec5cdebea6f4d198f.jpg"
+                },
+                {
                     "name": "Overtime Boy",
                     "description": "Complete Visceraville Dark World without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/d39b15919ebc2d004c3c08687a37edb298db5590.jpg"
@@ -69496,26 +69516,6 @@ var objectiveData =
                     "name": "Laser Boy",
                     "description": "Complete The Forge Dark World without dying",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/1f65ce8c9f5a661b59afa56d8f507531189f0be3.jpg"
-                },
-                {
-                    "name": "Core Boy",
-                    "description": "Complete The Core without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/c33e3bd1e5745919352907416d7a8a2a9ee2f6e0.jpg"
-                },
-                {
-                    "name": "Acid Boy",
-                    "description": "Complete The Wastes Dark World without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/5a9b2ad8c8e541355b19d4b24d065a9224299907.jpg"
-                },
-                {
-                    "name": "Metal Boy",
-                    "description": "Complete The Forge without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/9a8fc05b9188c2329bca0860c69f6cf7d6b19ad2.jpg"
-                },
-                {
-                    "name": "Lava Boy",
-                    "description": "Complete The Core Dark World without dying",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3288210/c8f5ff651b8b79fde6f4490ec5cdebea6f4d198f.jpg"
                 }
             ]
         }
@@ -69560,14 +69560,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Page Fault",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/581660/869303259a6a3fb7479a532e1a43f0455069f3a0.jpg"
-                },
-                {
                     "name": "Psychopharmacology Boy",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/581660/e0459d56fa16bb209716c77601c98d47c1669882.jpg"
+                },
+                {
+                    "name": "Page Fault",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/581660/869303259a6a3fb7479a532e1a43f0455069f3a0.jpg"
                 },
                 {
                     "name": "Lock Jaw Girl",
@@ -69784,6 +69784,16 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Senior Driller",
+                    "description": "Completed the drill challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/848bd6d6753ba2ab193daf48d6e939bcfd17bf6e.jpg"
+                },
+                {
+                    "name": "Factory Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/e5aed96d3732b3cbe8f6eb32eb4992660adfacd3.jpg"
+                },
+                {
                     "name": "Gettin' Down",
                     "description": "Completed the Tower Down challenge",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/65a5f068b26768dbb4a35967a0777a7e67d7820c.jpg"
@@ -69794,29 +69804,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/2d990af81eba19d2bead3f0a74d38704998cccf5.jpg"
                 },
                 {
-                    "name": "Castle Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/d659f746a295b474e0955f30f77500eca4aaec79.jpg"
-                },
-                {
-                    "name": "Hit and Missile",
-                    "description": "Completed the homing missle challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/9c2eec23f043f1003c004890c9002a9ba1b22f34.jpg"
-                },
-                {
                     "name": "Dark Lord of All",
                     "description": "(Secret Achievement)",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/430aeb3251b55dfa9106faf59dd64e695da93ef3.jpg"
                 },
                 {
-                    "name": "Epic Flail",
-                    "description": "Completed the flail II challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/b6fa1891edeac720f5db553d7b8d829c5699027c.jpg"
-                },
-                {
-                    "name": "Ice to See You",
-                    "description": "Completed the icicles challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/816e37f1ea700043bc05e6ee206a25f4b4673cb9.jpg"
+                    "name": "Ballin'",
+                    "description": "Completed the fireball challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/a092dff321e6313a97707b8e56bd802108f03aaa.jpg"
                 },
                 {
                     "name": "Moon Hero",
@@ -69824,64 +69819,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/3e6ab6baf1125d30665c0a3ef6df00209a1e1704.jpg"
                 },
                 {
-                    "name": "Ruins Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/5d222ec2cfe21659c949e44ec44c4daca8e9ff59.jpg"
-                },
-                {
-                    "name": "Instant Glassic",
-                    "description": "Completed the Glass Splitters challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/746f46790dadeceb103483c5dc52e0e2107dfe8d.jpg"
-                },
-                {
-                    "name": "Say That to My Mace",
-                    "description": "Completed the flail challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/45d3880ee022762ae8e8a3ce627da3bc7281137a.jpg"
-                },
-                {
-                    "name": "Ice Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/bd12f3b84b1c0b7955947fa4707e4df1b1be7bee.jpg"
-                },
-                {
-                    "name": "Going Up",
-                    "description": "Completed the Tower Up challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/d596319e1d057f3c07745283588c48560c3ebb26.jpg"
-                },
-                {
-                    "name": "Rock Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/8ecbd7086694da3d2d6fb7ae12e64ed61ab20871.jpg"
-                },
-                {
-                    "name": "Cannon Fodder",
-                    "description": "Completed the cannon challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/04a8ae6f9434eeb75c02845c990ad59f54cfd67c.jpg"
-                },
-                {
-                    "name": "Spincredible",
-                    "description": "Completed the firespinner challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/3de5ca979b725108f58c7d3a716eadf43195a6ec.jpg"
-                },
-                {
-                    "name": "Forest Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/c7980991b769a2461dfb2e3f1ab15d30be618b01.jpg"
-                },
-                {
-                    "name": "Big Ballin'",
-                    "description": "Completed the fireball II challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/eaeb3558c6b2f00d876910afc3e87505ae126d8a.jpg"
-                },
-                {
-                    "name": "Factory Hero",
-                    "description": "(Secret Achievement)",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/e5aed96d3732b3cbe8f6eb32eb4992660adfacd3.jpg"
-                },
-                {
-                    "name": "Ballin'",
-                    "description": "Completed the fireball challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/a092dff321e6313a97707b8e56bd802108f03aaa.jpg"
+                    "name": "Ice to See You",
+                    "description": "Completed the icicles challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/816e37f1ea700043bc05e6ee206a25f4b4673cb9.jpg"
                 },
                 {
                     "name": "Loose Cannon",
@@ -69899,14 +69839,74 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/18440d0f6988ceb15ec8ceb87240f25ee7d578d8.jpg"
                 },
                 {
+                    "name": "Ice Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/bd12f3b84b1c0b7955947fa4707e4df1b1be7bee.jpg"
+                },
+                {
                     "name": "Lookin' Sharp",
                     "description": "Completed the spikes challenge",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/74440059f8633d2d4a91835829f4f32d02b07864.jpg"
                 },
                 {
-                    "name": "Senior Driller",
-                    "description": "Completed the drill challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/848bd6d6753ba2ab193daf48d6e939bcfd17bf6e.jpg"
+                    "name": "Cannon Fodder",
+                    "description": "Completed the cannon challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/04a8ae6f9434eeb75c02845c990ad59f54cfd67c.jpg"
+                },
+                {
+                    "name": "Castle Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/d659f746a295b474e0955f30f77500eca4aaec79.jpg"
+                },
+                {
+                    "name": "Hit and Missile",
+                    "description": "Completed the homing missle challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/9c2eec23f043f1003c004890c9002a9ba1b22f34.jpg"
+                },
+                {
+                    "name": "Epic Flail",
+                    "description": "Completed the flail II challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/b6fa1891edeac720f5db553d7b8d829c5699027c.jpg"
+                },
+                {
+                    "name": "Ruins Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/5d222ec2cfe21659c949e44ec44c4daca8e9ff59.jpg"
+                },
+                {
+                    "name": "Instant Glassic",
+                    "description": "Completed the Glass Splitters challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/746f46790dadeceb103483c5dc52e0e2107dfe8d.jpg"
+                },
+                {
+                    "name": "Say That to My Mace",
+                    "description": "Completed the flail challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/45d3880ee022762ae8e8a3ce627da3bc7281137a.jpg"
+                },
+                {
+                    "name": "Going Up",
+                    "description": "Completed the Tower Up challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/d596319e1d057f3c07745283588c48560c3ebb26.jpg"
+                },
+                {
+                    "name": "Rock Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/8ecbd7086694da3d2d6fb7ae12e64ed61ab20871.jpg"
+                },
+                {
+                    "name": "Spincredible",
+                    "description": "Completed the firespinner challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/3de5ca979b725108f58c7d3a716eadf43195a6ec.jpg"
+                },
+                {
+                    "name": "Forest Hero",
+                    "description": "(Secret Achievement)",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/c7980991b769a2461dfb2e3f1ab15d30be618b01.jpg"
+                },
+                {
+                    "name": "Big Ballin'",
+                    "description": "Completed the fireball II challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238530/eaeb3558c6b2f00d876910afc3e87505ae126d8a.jpg"
                 }
             ]
         }
@@ -70098,9 +70098,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Rift Expert V",
-                    "description": "ARKADE: Survive the rift 5 With no damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/6e5bf3e444548d2b6995eada33e1d199325d9b74.jpg"
+                    "name": "Rift Expert I",
+                    "description": "ARKADE: Survive the rift 1 With no damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/237b13032032300dc738263681c47524a8d06344.jpg"
                 },
                 {
                     "name": "Rift Expert III",
@@ -70113,11 +70113,6 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/d4b19925125fc7943ae616660e03feec05bef729.jpg"
                 },
                 {
-                    "name": "Rift Expert I",
-                    "description": "ARKADE: Survive the rift 1 With no damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/237b13032032300dc738263681c47524a8d06344.jpg"
-                },
-                {
                     "name": "Rift Expert II",
                     "description": "ARKADE: Survive the rift 2 With no damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/ebec611d24e667554df34e32f8b150e401b2d005.jpg"
@@ -70126,6 +70121,11 @@ var objectiveData =
                     "name": "Rift Expert IV",
                     "description": "ARKADE: Survive the rift 4 With no damage",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/59c9bb9cf47478a04ce85e45e7cf963020a05f04.jpg"
+                },
+                {
+                    "name": "Rift Expert V",
+                    "description": "ARKADE: Survive the rift 5 With no damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/6e5bf3e444548d2b6995eada33e1d199325d9b74.jpg"
                 }
             ]
         }
@@ -70212,14 +70212,14 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/d00ba6edee70f75638f021d62b2e733b95d8f109.jpg"
                 },
                 {
-                    "name": "Rift student I",
-                    "description": "DISKOVERY: Survive the rift 1 With no damage",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/834824be4436ffb18f910ca5679629c32c2b844e.jpg"
-                },
-                {
                     "name": "Kig-ha-farz",
                     "description": "DISKOVERY: Secure all reaKtors in the same run With no continues",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/b2a36b0a9e3efc9dc2eec866ecad4b6a8b51bfc5.jpg"
+                },
+                {
+                    "name": "Rift student I",
+                    "description": "DISKOVERY: Survive the rift 1 With no damage",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3077190/834824be4436ffb18f910ca5679629c32c2b844e.jpg"
                 },
                 {
                     "name": "Rift student III",
@@ -70425,6 +70425,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "SCUBA TIME!",
+                    "description": "RIVER DODGE, DO TEN DEEP DIVES IN ONE GAME.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/749860/9289de2f2e5ddc91efc2acb9dcc15063e0ee5f20.jpg"
+                },
+                {
                     "name": "SUPER STRAIGHT CAPY!",
                     "description": "CAPY THROW, THROW THE CAPY SUPER STRAIGHT FORWARD.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/749860/6c8b1f38b77138a956fd15637495a06bf6d0cfb5.jpg"
@@ -70448,11 +70453,6 @@ var objectiveData =
                     "name": "WINNING IS MY BUSINESS AND BUSINESS IS GOOD!",
                     "description": "BE #1 ON THE LOCAL WR BOARD IN ALL SPORTS.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/749860/cf89f1f3d2ab0c737db1e3ae87e96e1f2a057e99.jpg"
-                },
-                {
-                    "name": "SCUBA TIME!",
-                    "description": "RIVER DODGE, DO TEN DEEP DIVES IN ONE GAME.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/749860/9289de2f2e5ddc91efc2acb9dcc15063e0ee5f20.jpg"
                 }
             ]
         }
@@ -70468,14 +70468,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Fast Food",
-                    "description": "Complete Buffet in Main Course in under 10 minutes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/744f95f5358a60d16cbc0d1ca1b4f70784156c51.jpg"
-                },
-                {
                     "name": "Ultimate Roll",
                     "description": "Complete Buffet Challenge without losing any lives",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/215f085b7f2327c91e9b0df7b204f44b6e980d03.jpg"
+                },
+                {
+                    "name": "Fast Food",
+                    "description": "Complete Buffet in Main Course in under 10 minutes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/744f95f5358a60d16cbc0d1ca1b4f70784156c51.jpg"
                 }
             ]
         }
@@ -70491,9 +70491,19 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Scroll Hunter",
+                    "description": "Collect every scroll",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/5651fa381fed7aeef8db841e221f4ada30ff57b6.jpg"
+                },
+                {
                     "name": "Bamboo Roll",
                     "description": "Collect every dessert in Bamboo Forest",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/6fb8a77d420e2f5d20bd104bd99fedf1f39d6929.jpg"
+                },
+                {
+                    "name": "Wood Roll",
+                    "description": "Collect every dessert in Wood Kitchen",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/8672ac2720f31cb312fb809087fb495347cfb493.jpg"
                 },
                 {
                     "name": "Mountain Roll",
@@ -70509,16 +70519,6 @@ var objectiveData =
                     "name": "Ink Roll",
                     "description": "Collect every dessert in Ink Painting",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/468ca73af8588157957873cf4c52a5c5991806ed.jpg"
-                },
-                {
-                    "name": "Wood Roll",
-                    "description": "Collect every dessert in Wood Kitchen",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/8672ac2720f31cb312fb809087fb495347cfb493.jpg"
-                },
-                {
-                    "name": "Scroll Hunter",
-                    "description": "Collect every scroll",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1987690/5651fa381fed7aeef8db841e221f4ada30ff57b6.jpg"
                 }
             ]
         }
@@ -70570,14 +70570,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Stand REDy",
-                    "description": "Get RED ending in every level of SPEEDRUN challenge.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8958b18f9be073190da70491c9286a1b20ed2816.jpg"
-                },
-                {
                     "name": "Get REDy",
                     "description": "Get RED ending in every level of SPEEDRUNrt challenge.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/f44a35d2273a7904678c3f6d94f430ccebccf21f.jpg"
+                },
+                {
+                    "name": "Stand REDy",
+                    "description": "Get RED ending in every level of SPEEDRUN challenge.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8958b18f9be073190da70491c9286a1b20ed2816.jpg"
                 }
             ]
         }
@@ -70732,19 +70732,119 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Eye Of The Space Storm",
+                    "description": "Perform an eye transplant in space in under 2 minutes 20 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a10472f87fbccb59a2b286c68e0450a25dd72296.jpg"
+                },
+                {
+                    "name": "No More Worse Than Shampoo",
+                    "description": "Perform an eye transplant losing less than 600ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/5005d3429e1f883df5af7993e4cc664d7936556b.jpg"
+                },
+                {
+                    "name": "Not The Time Or Place For Precision",
+                    "description": "Perform a teeth transplant in an ambulance in under 2 minutes and 15 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/2711f6fa2835b475eb5aa10fd314b7d7ea84e99d.jpg"
+                },
+                {
+                    "name": "Blinding Speed Surgery",
+                    "description": "Perform a corridor eye transplant in under 2 minutes and 30 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/6a5b9b06541953ca0c5c764253ed520958dd07b4.jpg"
+                },
+                {
+                    "name": "Just Enough To Clog The Gravity Engine",
+                    "description": "Perform a heart transplant in space losing less than 400ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/43e733cdda16b2b103871c78a6357504528312b5.jpg"
+                },
+                {
+                    "name": "Don't Even Need A Bucket",
+                    "description": "Perform a corridor heart transplant losing less than 1000ml of blood",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/803430fd048fca7ad693487c005e3bca5d430bcb.jpg"
+                },
+                {
+                    "name": "Keep Fidgeting To A Minimum",
+                    "description": "Perform a corridor teeth transplant in under 2 minutes and 20 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/d40f728da43b0b6aefc1af79d53814b2f3aed645.jpg"
+                },
+                {
+                    "name": "Right Tools At The Right Time",
+                    "description": "Perform a corridor double kidney transplant in under 2 minutes and 40 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b452d12bde8a87059ee46bb5be219695f3f02641.jpg"
+                },
+                {
+                    "name": "That's How I Lost My Medical License",
+                    "description": "Perform an uber heart transplant in under 2 minutes 30 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a54c9da598d710a80647cd83e470bdbf426709c6.jpg"
+                },
+                {
+                    "name": "Open Really Wide",
+                    "description": "Perform a corridor teeth transplant losing less than 600ml of blood",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/3915644f949d0db46127b4140c748f24e16350f0.jpg"
+                },
+                {
+                    "name": "There Is Nothing More To Teach...",
+                    "description": "Completed every achievement. Now go save lives!",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/1b64988e802250ef3c3c6aeb3cc28de807d7757e.jpg"
+                },
+                {
+                    "name": "Blink And You'll Miss It",
+                    "description": "Perform an eye transplant in under 2 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a2da6daa93655b3b1a8b1e09168d72d1a8435104.jpg"
+                },
+                {
+                    "name": "No Need To Curb Stomp Him",
+                    "description": "Perform a teeth transplant in an ambulance losing less than 600ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/613351ea9039256705ad321f7c43491d12a81fab.jpg"
+                },
+                {
+                    "name": "Tunnel Vision",
+                    "description": "Perform a corridor double kidney transplant losing less than 600ml of blood",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b0a31955749b422c4b9339eaede10571853cb91d.jpg"
+                },
+                {
+                    "name": "The Tooth Is Out There",
+                    "description": "Perform a teeth transplant in space in under 2 minutes.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/62ee64518e1eabfd7de34ae67be50fbbc46b3532.jpg"
+                },
+                {
+                    "name": "Precision Instrument Time",
+                    "description": "Perform a brain transplant in space losing less than 600ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/79b527b88f7ad3bdc91d8e688763e85a0e57e076.jpg"
+                },
+                {
+                    "name": "I Can't Work Under These Conditions!",
+                    "description": "Perform a corridor heart transplant in under 2 minutes and 30 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/d6d123ebcf2f4754ff7bca14c74c382e45f590d3.jpg"
+                },
+                {
+                    "name": "Should I Be Awake For This?",
+                    "description": "Perform an uber heart transplant losing less than 1000ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/c904b4c374ad9e49bbb77cb36d2f97efaf969062.jpg"
+                },
+                {
+                    "name": "A++ is Trumperific",
+                    "description": "Get A++ rating with either Gold or Stone Heart.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/5d36d628a1e63f2d00b0c7934f1dbc23b037fe0e.jpg"
+                },
+                {
+                    "name": "The Brains Of The Operation",
+                    "description": "Perform a corridor brain transplant losing less than 750ml of blood.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/467c7ebb4200cca8032a54e0484d98b670fe9628.jpg"
+                },
+                {
                     "name": "I Can See For Miles... Per Hour",
                     "description": "Perform an eye transplant in an ambulance in under 1 minute and 40 seconds.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/1a62a9854d461267e1518638107968a5d05177ec.jpg"
                 },
                 {
-                    "name": "No Time To Admire The View",
-                    "description": "Perform a heart transplant in space in under 1 minute 40 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b4bd149a7a930516d1479b38bc2abc810a60c155.jpg"
-                },
-                {
                     "name": "Won't Even Need Glasses!",
                     "description": "Perform a corridor eye transplant losing less than 1000ml of blood",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/187e01c368b6fb6fa13faee18d2f091b60ad36c3.jpg"
+                },
+                {
+                    "name": "No Time To Admire The View",
+                    "description": "Perform a heart transplant in space in under 1 minute 40 seconds.",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b4bd149a7a930516d1479b38bc2abc810a60c155.jpg"
                 },
                 {
                     "name": "At Worst, You're Now Colourblind",
@@ -70785,106 +70885,6 @@ var objectiveData =
                     "name": "Speedrun Time",
                     "description": "Perform a brain transplant in space in under 1 minute.",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/ff5af5622dd67b8d4b5ef0b07af35b61764cc466.jpg"
-                },
-                {
-                    "name": "Blinding Speed Surgery",
-                    "description": "Perform a corridor eye transplant in under 2 minutes and 30 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/6a5b9b06541953ca0c5c764253ed520958dd07b4.jpg"
-                },
-                {
-                    "name": "Eye Of The Space Storm",
-                    "description": "Perform an eye transplant in space in under 2 minutes 20 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a10472f87fbccb59a2b286c68e0450a25dd72296.jpg"
-                },
-                {
-                    "name": "Not The Time Or Place For Precision",
-                    "description": "Perform a teeth transplant in an ambulance in under 2 minutes and 15 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/2711f6fa2835b475eb5aa10fd314b7d7ea84e99d.jpg"
-                },
-                {
-                    "name": "No More Worse Than Shampoo",
-                    "description": "Perform an eye transplant losing less than 600ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/5005d3429e1f883df5af7993e4cc664d7936556b.jpg"
-                },
-                {
-                    "name": "Don't Even Need A Bucket",
-                    "description": "Perform a corridor heart transplant losing less than 1000ml of blood",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/803430fd048fca7ad693487c005e3bca5d430bcb.jpg"
-                },
-                {
-                    "name": "Just Enough To Clog The Gravity Engine",
-                    "description": "Perform a heart transplant in space losing less than 400ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/43e733cdda16b2b103871c78a6357504528312b5.jpg"
-                },
-                {
-                    "name": "Right Tools At The Right Time",
-                    "description": "Perform a corridor double kidney transplant in under 2 minutes and 40 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b452d12bde8a87059ee46bb5be219695f3f02641.jpg"
-                },
-                {
-                    "name": "Open Really Wide",
-                    "description": "Perform a corridor teeth transplant losing less than 600ml of blood",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/3915644f949d0db46127b4140c748f24e16350f0.jpg"
-                },
-                {
-                    "name": "That's How I Lost My Medical License",
-                    "description": "Perform an uber heart transplant in under 2 minutes 30 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a54c9da598d710a80647cd83e470bdbf426709c6.jpg"
-                },
-                {
-                    "name": "Keep Fidgeting To A Minimum",
-                    "description": "Perform a corridor teeth transplant in under 2 minutes and 20 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/d40f728da43b0b6aefc1af79d53814b2f3aed645.jpg"
-                },
-                {
-                    "name": "Blink And You'll Miss It",
-                    "description": "Perform an eye transplant in under 2 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/a2da6daa93655b3b1a8b1e09168d72d1a8435104.jpg"
-                },
-                {
-                    "name": "There Is Nothing More To Teach...",
-                    "description": "Completed every achievement. Now go save lives!",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/1b64988e802250ef3c3c6aeb3cc28de807d7757e.jpg"
-                },
-                {
-                    "name": "Precision Instrument Time",
-                    "description": "Perform a brain transplant in space losing less than 600ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/79b527b88f7ad3bdc91d8e688763e85a0e57e076.jpg"
-                },
-                {
-                    "name": "No Need To Curb Stomp Him",
-                    "description": "Perform a teeth transplant in an ambulance losing less than 600ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/613351ea9039256705ad321f7c43491d12a81fab.jpg"
-                },
-                {
-                    "name": "The Tooth Is Out There",
-                    "description": "Perform a teeth transplant in space in under 2 minutes.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/62ee64518e1eabfd7de34ae67be50fbbc46b3532.jpg"
-                },
-                {
-                    "name": "Tunnel Vision",
-                    "description": "Perform a corridor double kidney transplant losing less than 600ml of blood",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/b0a31955749b422c4b9339eaede10571853cb91d.jpg"
-                },
-                {
-                    "name": "Should I Be Awake For This?",
-                    "description": "Perform an uber heart transplant losing less than 1000ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/c904b4c374ad9e49bbb77cb36d2f97efaf969062.jpg"
-                },
-                {
-                    "name": "I Can't Work Under These Conditions!",
-                    "description": "Perform a corridor heart transplant in under 2 minutes and 30 seconds.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/d6d123ebcf2f4754ff7bca14c74c382e45f590d3.jpg"
-                },
-                {
-                    "name": "The Brains Of The Operation",
-                    "description": "Perform a corridor brain transplant losing less than 750ml of blood.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/467c7ebb4200cca8032a54e0484d98b670fe9628.jpg"
-                },
-                {
-                    "name": "A++ is Trumperific",
-                    "description": "Get A++ rating with either Gold or Stone Heart.",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/233720/5d36d628a1e63f2d00b0c7934f1dbc23b037fe0e.jpg"
                 }
             ]
         }
@@ -70985,26 +70985,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Rogue Soul 2 - Epic Hunt",
-                    "description": "Rogue Soul 2 - Get 15,000 points or more in the Infinite Hunter challenge",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/f52ebf9c2e4a64d9dc5c8d088b282f1b7c22b2dc.jpg"
-                },
-                {
-                    "name": "The Soul Driver - Easy Rider",
-                    "description": "The Soul Driver - Main Game completed easy or challenging",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/9925f9099985f771ffb1a2975d1ae83c4fe27490.jpg"
-                },
-                {
-                    "name": "Swords and Souls - Gifted Psychopath",
-                    "description": "Swords and Souls - Get Super Gold Medals for Combo in at least 4 of 5 trainings",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/898f08b58c6bc18becd8d17da0b2abb0fa1a02c4.jpg"
-                },
-                {
-                    "name": "Rogue Soul 1 - Black Captain Helmet",
-                    "description": "Rogue Soul 1 - Beat 2 Black Captains in a single game",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/9b86f34e58517afc7c8559e141390a778e088789.jpg"
-                },
-                {
                     "name": "The Gentleman - Haughty at Forty",
                     "description": "The Gentleman - Get Gold on 40 Levels",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/fb2fef4243b1eafbf0ee09629c1c3e01818b9581.jpg"
@@ -71018,6 +70998,26 @@ var objectiveData =
                     "name": "Rogue Soul 2 - Sword Master",
                     "description": "Rogue Soul 2 - Perform a combo x50",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/6f3a9de8d632d04217052c9b26b574d707f8e0ab.jpg"
+                },
+                {
+                    "name": "The Soul Driver - Easy Rider",
+                    "description": "The Soul Driver - Main Game completed easy or challenging",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/9925f9099985f771ffb1a2975d1ae83c4fe27490.jpg"
+                },
+                {
+                    "name": "Rogue Soul 1 - Black Captain Helmet",
+                    "description": "Rogue Soul 1 - Beat 2 Black Captains in a single game",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/9b86f34e58517afc7c8559e141390a778e088789.jpg"
+                },
+                {
+                    "name": "Rogue Soul 2 - Epic Hunt",
+                    "description": "Rogue Soul 2 - Get 15,000 points or more in the Infinite Hunter challenge",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/f52ebf9c2e4a64d9dc5c8d088b282f1b7c22b2dc.jpg"
+                },
+                {
+                    "name": "Swords and Souls - Gifted Psychopath",
+                    "description": "Swords and Souls - Get Super Gold Medals for Combo in at least 4 of 5 trainings",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189440/898f08b58c6bc18becd8d17da0b2abb0fa1a02c4.jpg"
                 }
             ]
         }
@@ -71087,9 +71087,9 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Robin hood",
-                    "description": "Kill the boss after having donated all the containers you stole",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1804270/01919f70b84ba52a30a814b4fbb190725e9325ad.jpg"
+                    "name": "Missed something?",
+                    "description": "Do you really have to steal these containers?",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1804270/47783c01d680e97c6268048c224ceb47dfac73f6.jpg"
                 },
                 {
                     "name": "Impossible",
@@ -71097,9 +71097,9 @@ var objectiveData =
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1804270/c0184c609f2bc4963bca693206ee5a8bcc8ec209.jpg"
                 },
                 {
-                    "name": "Missed something?",
-                    "description": "Do you really have to steal these containers?",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1804270/47783c01d680e97c6268048c224ceb47dfac73f6.jpg"
+                    "name": "Robin hood",
+                    "description": "Kill the boss after having donated all the containers you stole",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1804270/01919f70b84ba52a30a814b4fbb190725e9325ad.jpg"
                 }
             ]
         }
@@ -71962,6 +71962,11 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
+                    "name": "Rush Scorer",
+                    "description": "Achieve 300k points in Turbo Mode",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1520330/854b59058210642da0a427e6ac5a5f687339f5cf.jpg"
+                },
+                {
                     "name": "I Know by Heart",
                     "description": "Reach an S+ grade in Caravan Mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1520330/84aa3d38b75bf0f508c8776ee4f741fa1e53cda2.jpg"
@@ -71990,11 +71995,6 @@ var objectiveData =
                     "name": "Turbo Heart",
                     "description": "Defeat the Heart in turbo mode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1520330/33e4fd81d795a719bff8d0bbf87c6781d6ad2f39.jpg"
-                },
-                {
-                    "name": "Rush Scorer",
-                    "description": "Achieve 300k points in Turbo Mode",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1520330/854b59058210642da0a427e6ac5a5f687339f5cf.jpg"
                 }
             ]
         }
@@ -72079,11 +72079,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Gotta go fast",
-                    "description": "Win in less than 4 minutes",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1938850/405da791f0c51b19a381b7fa58075510b1e495c6.jpg"
-                },
-                {
                     "name": "I felt something... nevermind",
                     "description": "Win with 7 challenges",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1938850/5d6f7eee354aaea283670e352dbf093bc18e8759.jpg"
@@ -72092,6 +72087,11 @@ var objectiveData =
                     "name": "HIGH SCORE",
                     "description": "Reach 250.000 score",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1938850/57fce443765244e596289f36b8a641bd191a2444.jpg"
+                },
+                {
+                    "name": "Gotta go fast",
+                    "description": "Win in less than 4 minutes",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1938850/405da791f0c51b19a381b7fa58075510b1e495c6.jpg"
                 }
             ]
         }
@@ -82367,14 +82367,14 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "The lone wolf",
-                    "description": "Complete the True Run challenge solo on grandpa",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1797680/80eb6fdf810da0f66824db5117076bcb73c7fde7.jpg"
-                },
-                {
                     "name": "Dodger King",
                     "description": "Finish the full campaign on any difficulty without getting killed once",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1797680/04d1faa5f17d7fb563cfbc5ba2ae9c310956fae9.jpg"
+                },
+                {
+                    "name": "The lone wolf",
+                    "description": "Complete the True Run challenge solo on grandpa",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1797680/80eb6fdf810da0f66824db5117076bcb73c7fde7.jpg"
                 }
             ],
             "custom": "Videos of both runs."
@@ -82587,16 +82587,6 @@ var objectiveData =
         "requirements": {
             "achievements": [
                 {
-                    "name": "Cheapskate",
-                    "description": "Beat the game without spending any money in shops",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/760d77731023d1bb742c7cdfc7cfd889b0a9acc6.jpg"
-                },
-                {
-                    "name": "Juggle Juggle",
-                    "description": "Defeat the boss without dropping your ball during the boss fight",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/8cb962cd2fc5b5cd48ecb1f0b2865c7a52ec629f.jpg"
-                },
-                {
                     "name": "No Upgrades?",
                     "description": "Beat the game without taking any upgrades or the Whimsical trait",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/c2a7e33f2e0af9f7fbb6720a6d50b53f1f5f6bd7.jpg"
@@ -82605,6 +82595,16 @@ var objectiveData =
                     "name": "Grand Finale",
                     "description": "Defeat the boss in hardmode",
                     "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/ad6d4fce64a37e0ef3390ffc310c9906caf24f62.jpg"
+                },
+                {
+                    "name": "Cheapskate",
+                    "description": "Beat the game without spending any money in shops",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/760d77731023d1bb742c7cdfc7cfd889b0a9acc6.jpg"
+                },
+                {
+                    "name": "Juggle Juggle",
+                    "description": "Defeat the boss without dropping your ball during the boss fight",
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2192170/8cb962cd2fc5b5cd48ecb1f0b2865c7a52ec629f.jpg"
                 }
             ],
             "custom": "Video of the fragile run (can be a trimmed video of the final boss fight or a screenshot of the boss being dead)."
@@ -91443,7 +91443,7 @@ var objectiveData =
                 {
                     "name": "Angel of Hell",
                     "description": "Complete the game with ??? at Hell difficulty",
-                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368950/637d851c9f215bec2ce76a66dd093230aaefec32.jpg"
+                    "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368950/8000f55eec821abb8c148f69c1ee1c1a7397415d.jpg"
                 }
             ],
             "custom": "Video of the run."
@@ -96481,7 +96481,7 @@ var objectiveData =
     },
     {
         "gameId": "b2199557-30c1-40a7-9b7d-ba7763085335",
-        "gameName": "Bram Stoker's Dracula",
+        "gameName": "Bram Stoker's Dracula (NES)",
         "community": false,
         "name": "The Eternal Rest",
         "description": "Beat the game on Hard difficulty.",
@@ -96499,7 +96499,7 @@ var objectiveData =
     },
     {
         "gameId": "b2199557-30c1-40a7-9b7d-ba7763085335",
-        "gameName": "Bram Stoker's Dracula",
+        "gameName": "Bram Stoker's Dracula (NES)",
         "community": false,
         "name": "Beyond Dead",
         "description": "Beat the game on Hard difficulty without using a continue.",
@@ -96507,6 +96507,24 @@ var objectiveData =
         "points": 0,
         "requirements": {
             "custom": "Video of the run."
+        }
+    },
+    {
+        "gameId": "304d5193-83ab-4c62-8497-953a55250328",
+        "gameName": "Bram Stoker's Dracula (SMD)",
+        "community": false,
+        "name": "Vampire Killer",
+        "description": "Beat the game on Hard difficulty.",
+        "icon": "https://media.retroachievements.org/Badge/193327.png",
+        "points": 5,
+        "requirements": {
+            "achievements": [
+                {
+                    "name": "The Last Dracul",
+                    "description": "Defeat the last Dracula and finish game on Hard.",
+                    "icon": "https://media.retroachievements.org/Badge/193300.png"
+                }
+            ]
         }
     },
     {
@@ -109014,6 +109032,24 @@ var objectiveData =
         }
     },
     {
+        "gameId": "e77043e6-ac4c-41c7-9b3a-8c7983e3a9bd",
+        "gameName": "Sunset Riders (SMD)",
+        "community": false,
+        "name": "The good, The Bad and The ugly",
+        "description": "Beat the game on Hard difficulty",
+        "icon": "https://media.retroachievements.org/Badge/00602.png",
+        "points": 5,
+        "requirements": {
+            "achievements": [
+                {
+                    "name": "The Ugly",
+                    "description": "Complete the game on Hard Difficulty",
+                    "icon": "https://media.retroachievements.org/Badge/00602.png"
+                }
+            ]
+        }
+    },
+    {
         "gameId": "bc6f31b3-a090-4721-97a0-5f1ec377fc10",
         "gameName": "Super Contra",
         "community": false,
@@ -112215,6 +112251,18 @@ var objectiveData =
         }
     },
     {
+        "gameId": "66fed9ed-bad0-433c-8cf1-f4f7e11ac210",
+        "gameName": "Not Not - A Brain-Buster",
+        "community": false,
+        "name": "Not Knot",
+        "description": "Obtain a gold cube on all levels in Classic Mode and Endless Mode. / Score 200 points or more on any level in Endless Mode.",
+        "icon": "https://upload.cedb.me/NotNot_PO.png",
+        "points": 5,
+        "requirements": {
+            "custom": "Video of level select."
+        }
+    },
+    {
         "gameId": "272c3138-f421-4ae8-9ab3-0604eb91cccd",
         "gameName": "Peggle: World of WarCraft Edition",
         "community": false,
@@ -113117,11 +113165,11 @@ var objectiveData =
 ]
 var objectiveDate =
 {
-    "day": 14,
+    "day": 15,
     "month": 8,
     "year": 2026,
-    "hour": 11,
-    "minute": 1,
-    "second": 6,
-    "searchTime": 1128.127590417862
+    "hour": 9,
+    "minute": 40,
+    "second": 30,
+    "searchTime": 1076.858225107193
 }
