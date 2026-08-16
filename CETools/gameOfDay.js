@@ -2,104 +2,106 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1627570,
-        "CEId": "320cf073-420b-4ae1-9756-cffc45a53e06",
-        "name": "The Plucky Squire",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627570/c349049add507bd6d62bed84c4ba6fba9b53c839/header_alt_assets_1.jpg?t=1751526090",
+        "platformId": 2680010,
+        "CEId": "1ec3cc07-7b89-42d2-8ca5-c2dbcb1abc13",
+        "name": "The First Berserker: Khazan",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1750981655",
         "genre": [
             "Action"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 4,
+        "points": 95,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-08-15T00:47:37.000Z",
-        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "medianPlaytime": 5127,
+        "createdAt": "2025-08-16T17:22:08.000Z",
+        "updatedAt": "2026-08-15T00:30:26.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 0,
-        "playersStarted": 5,
-        "playersTotal": 130,
+        "playersCompleted": 2,
+        "playersStarted": 12,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 5999,
+                "final": 5999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 5999,
+                "final": 5999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 4999,
+                "final": 4999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
+                "initial": 759000,
+                "final": 759000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4399,
-                "final": 4399,
+                "initial": 8495,
+                "final": 8495,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 7999,
+                "final": 7999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Journey of a Thousand Miles (UNCLEARED) [0\u2605]\nComplete the game on Iron Squire Mode.\n\nStorybook Savior [5\u2605]\nProve yourself.",
+            "primary": 4,
+            "primaryText": "I'm Here To Kill Chaos! [40\u2605]\nComplete all challenges in the Great General's Crucible.\n\nThe First Berserker [20\u2605]\nComplete the Berserker's Bloodshed challenge.\n\nA Hardcore Journey [20\u2605]\nComplete the game on Hardcore difficulty.\n\nThe Expert's Journey [15\u2605]\nComplete the game on Normal difficulty./ Complete the game without summoning a Spirit of Advocacy",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 57
         },
         "CETags": {
             "genre": [
-                "Action-Adventure"
+                "Action-Adventure",
+                "Souls-like"
             ],
-            "info": [
-                "Uncleared"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Adventure",
-            "3D Platformer",
+            "Souls-like",
+            "Difficult",
+            "Hack and Slash",
+            "Anime",
+            "Action RPG",
             "Action-Adventure",
-            "2D Platformer",
-            "Puzzle Platformer",
-            "2D",
-            "Cute",
+            "Third Person",
+            "RPG",
+            "Action",
             "3D",
+            "Dark Fantasy",
             "Cartoony",
-            "Family Friendly",
-            "Singleplayer",
-            "Fantasy",
-            "Controller",
+            "Atmospheric",
+            "Adventure",
+            "Dark",
             "Combat",
-            "Indie",
-            "2.5D",
-            "Platformer"
+            "Gore",
+            "Linear",
+            "Cartoon",
+            "Singleplayer"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
             "japanese": "IAS",
-            "spanish": "IAS",
-            "brazilian": "IAS",
+            "brazilian": "IS",
             "koreana": "IAS",
-            "latam": "IAS",
-            "russian": "IAS",
+            "latam": "IS",
+            "russian": "IS",
             "schinese": "IAS",
-            "tchinese": "IAS"
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-15'
+var gameOfDayDate = '2026-08-16'
