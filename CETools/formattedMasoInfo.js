@@ -140,9 +140,9 @@ var masoData =
         "description": "You should\"ve played it by now",
         "tier": "1",
         "owners": 163,
-        "completions": 86,
-        "playtime": 8.140697674418602,
-        "newestCompletion": "2026-06-03T15:30:20.000Z",
+        "completions": 87,
+        "playtime": 8.08141762452107,
+        "newestCompletion": "2026-07-04T00:06:20.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -520,9 +520,9 @@ var masoData =
         "description": "1001 ways to die",
         "tier": "1",
         "owners": 73,
-        "completions": 26,
-        "playtime": 22.674999999999997,
-        "newestCompletion": "2024-07-10T11:27:47.000Z"
+        "completions": 27,
+        "playtime": 22.4679012345679,
+        "newestCompletion": "2026-07-05T18:56:25.000Z"
     },
     "527150": {
         "description": "\ud83c\udf1f Rekt",
@@ -1163,10 +1163,10 @@ var masoData =
     "392020": {
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
-        "owners": 121,
-        "completions": 45,
-        "playtime": 14.891851851851852,
-        "newestCompletion": "2026-07-14T03:56:28.000Z"
+        "owners": 122,
+        "completions": 46,
+        "playtime": 14.626086956521737,
+        "newestCompletion": "2026-08-01T06:20:28.000Z"
     },
     "440550": {
         "description": "\u2733 A forgettable story",
@@ -1475,7 +1475,7 @@ var masoData =
     "1061090": {
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
-        "owners": 151,
+        "owners": 152,
         "completions": 41,
         "playtime": 266.95528455284546,
         "newestCompletion": "2026-08-12T04:19:17.000Z",
@@ -2283,10 +2283,10 @@ var masoData =
     "1061180": {
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
-        "owners": 74,
-        "completions": 15,
-        "playtime": 7.36222222222222,
-        "newestCompletion": "2025-08-30T16:38:28.000Z"
+        "owners": 75,
+        "completions": 16,
+        "playtime": 7.352083333333332,
+        "newestCompletion": "2026-04-27T03:23:46.000Z"
     },
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 113,
+        "owners": 114,
         "completions": 22,
         "playtime": 589.4909090909091,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -3985,7 +3985,7 @@ var masoData =
         "tier": "3",
         "owners": 122,
         "completions": 11,
-        "playtime": 443.6469696969698,
+        "playtime": 443.9454545454546,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 103,
+        "owners": 104,
         "completions": 3,
         "playtime": 218.23333333333332,
         "newestCompletion": "2026-08-05T23:09:22.000Z"
@@ -4535,7 +4535,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 34,
+        "owners": 35,
         "completions": 10,
         "playtime": 12.3,
         "newestCompletion": "2026-08-16T03:08:55.000Z"
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 77,
+        "owners": 78,
         "completions": 24,
         "playtime": 81.5798611111111,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4703,7 +4703,7 @@ var masoData =
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 8,
+        "owners": 9,
         "completions": 3,
         "playtime": 6.672222222222222,
         "newestCompletion": "2026-07-18T23:16:03.000Z"
@@ -4767,9 +4767,9 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 4,
-        "completions": 2,
-        "playtime": 89.15833333333333,
+        "owners": 5,
+        "completions": 3,
+        "playtime": 75.47777777777777,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
     },
     "782330": {
