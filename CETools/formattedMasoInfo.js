@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 271,
         "completions": 200,
-        "playtime": 249.83875000000003,
+        "playtime": 249.84741666666673,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 115,
         "completions": 36,
-        "playtime": 87.34907407407407,
+        "playtime": 87.36296296296297,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2265,7 +2265,7 @@ var masoData =
         "tier": "2",
         "owners": 134,
         "completions": 93,
-        "playtime": 19.784408602150542,
+        "playtime": 19.79534050179212,
         "newestCompletion": "2026-08-07T15:06:50.000Z",
         "badges": {
             "count": 1,
@@ -3541,7 +3541,7 @@ var masoData =
         "tier": "2",
         "owners": 106,
         "completions": 39,
-        "playtime": 57.66452991452992,
+        "playtime": 57.68205128205129,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4213,7 +4213,7 @@ var masoData =
         "tier": "4",
         "owners": 59,
         "completions": 9,
-        "playtime": 279.25000000000006,
+        "playtime": 285.81481481481484,
         "newestCompletion": "2026-03-02T21:42:12.000Z",
         "badges": {
             "count": 1,
@@ -4428,8 +4428,8 @@ var masoData =
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
         "owners": 85,
-        "completions": 24,
-        "playtime": 48.99722222222223,
+        "completions": 25,
+        "playtime": 48.69666666666667,
         "newestCompletion": "2026-07-21T04:31:50.000Z"
     },
     "3445580": {
