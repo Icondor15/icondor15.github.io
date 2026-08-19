@@ -2,95 +2,105 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 422110,
-        "CEId": "014c18c0-34e1-4bea-8693-69367eada6df",
-        "name": "Wand Wars",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/422110/header.jpg?t=1667248117",
+        "platformId": 2230650,
+        "CEId": "61591deb-f0bb-4635-b8a6-d5552384ebbb",
+        "name": "TEVI",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230650/header.jpg?t=1782375346",
         "genre": [
             "Action"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 3,
+        "points": 50,
         "secondaryPoints": 0,
-        "medianPlaytime": 213,
-        "createdAt": "2024-08-18T22:05:51.000Z",
-        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "medianPlaytime": 10537,
+        "createdAt": "2025-08-19T05:58:29.000Z",
+        "updatedAt": "2026-08-15T18:17:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 33,
+        "playersCompleted": 4,
+        "playersStarted": 25,
+        "playersTotal": 144,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 2899,
+                "final": 2899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 899,
-                "final": 899,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 118000,
-                "final": 118000,
+                "initial": 398000,
+                "final": 398000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1695,
-                "final": 1695,
+                "initial": 4395,
+                "final": 4395,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 3899,
+                "final": 3899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "New Magic Wand [5\u2605]\nFinish all campaigns on Legendary difficulty. ",
+            "primary": 4,
+            "primaryText": "Cabbit of Legend Deluxe [15\u2605]\nClear the Extra Boss Rush on Infernal BBQ difficulty.\n\nNice! [5\u2605]\nGet all Super Nice medals in Circus mode.\n\nBunny of Legend[10\u2605 (Partial: 5\u2605)]\nClear all Boss Rushes on Infernal BBQ difficulty.\n\nLe Grillmaster [20\u2605]\nBeat the game on Infernal BBQ difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 28
+            "achievements": 131
         },
         "CETags": {
             "genre": [
-                "Arena Shooter"
+                "Metroidvania"
             ],
-            "info": []
+            "info": [
+                "Female Protagonist"
+            ]
         },
         "gameTags": [
-            "Sports",
-            "PvP",
-            "Bullet Hell",
-            "Co-op",
-            "Competitive",
-            "4 Player Local",
-            "Arcade",
-            "Difficult",
-            "Fighting",
-            "Real-Time",
-            "2D",
-            "Cute",
-            "Funny",
-            "Action",
+            "Metroidvania",
+            "Anime",
             "Pixel Graphics",
-            "Cats",
-            "Magic",
+            "Bullet Hell",
+            "Action-Adventure",
+            "Female Protagonist",
+            "2D",
+            "Story Rich",
+            "Side Scroller",
             "Colorful",
-            "Atmospheric",
-            "Supernatural"
+            "Singleplayer",
+            "Platformer",
+            "Action",
+            "Fantasy",
+            "Steampunk",
+            "Magic",
+            "Combat",
+            "Exploration",
+            "Adventure",
+            "Cute"
         ],
         "languages": {
-            "english": "IAS"
-        }
+            "english": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        },
+        "information": "[Super Nice times](https://upload.cedb.me/k0Q24M.png)"
     }
 }
-var gameOfDayDate = '2026-08-18'
+var gameOfDayDate = '2026-08-19'
