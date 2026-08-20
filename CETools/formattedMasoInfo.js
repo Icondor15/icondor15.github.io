@@ -456,9 +456,9 @@ var masoData =
         "description": "First Person Gimmicks",
         "tier": "1",
         "owners": 82,
-        "completions": 50,
-        "playtime": 7.189999999999999,
-        "newestCompletion": "2026-01-03T04:12:41.000Z"
+        "completions": 51,
+        "playtime": 7.309803921568626,
+        "newestCompletion": "2026-08-19T09:50:32.000Z"
     },
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
@@ -2316,9 +2316,9 @@ var masoData =
         "description": "PTSV",
         "tier": "1",
         "owners": 103,
-        "completions": 69,
-        "playtime": 2.109661835748792,
-        "newestCompletion": "2026-07-23T15:54:45.000Z"
+        "completions": 70,
+        "playtime": 2.1576190476190473,
+        "newestCompletion": "2026-08-16T09:09:45.000Z"
     },
     "384690": {
         "description": "\u2733 really fishing for children",
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 135,
         "completions": 70,
-        "playtime": 78.05285714285715,
+        "playtime": 78.0761904761905,
         "newestCompletion": "2026-07-21T22:06:31.000Z",
         "badges": {
             "count": 1,
@@ -4252,9 +4252,9 @@ var masoData =
         "description": "Anything but a grind",
         "tier": "1",
         "owners": 22,
-        "completions": 8,
-        "playtime": 7.845833333333333,
-        "newestCompletion": "2025-12-26T12:02:11.000Z"
+        "completions": 9,
+        "playtime": 7.805555555555555,
+        "newestCompletion": "2026-08-19T16:17:10.000Z"
     },
     "1585220": {
         "description": "Life could be a dream",
