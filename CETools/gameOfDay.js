@@ -2,105 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2230650,
-        "CEId": "61591deb-f0bb-4635-b8a6-d5552384ebbb",
-        "name": "TEVI",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230650/header.jpg?t=1782375346",
+        "platformId": 1422950,
+        "CEId": "5ce8d5c1-f229-4450-b322-ada3f42e38d5",
+        "name": "Worm Adventure 4: Into the Wormhole",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1422950/header.jpg?t=1643969765",
         "genre": [
-            "Action"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 50,
+        "tier": 4,
+        "points": 110,
         "secondaryPoints": 0,
-        "medianPlaytime": 10537,
-        "createdAt": "2025-08-19T05:58:29.000Z",
-        "updatedAt": "2026-08-15T18:17:52.000Z",
+        "medianPlaytime": 3077,
+        "createdAt": "2022-08-20T20:06:10.000Z",
+        "updatedAt": "2026-08-12T01:31:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 4,
-        "playersStarted": 25,
-        "playersTotal": 144,
+        "playersCompleted": 6,
+        "playersStarted": 6,
+        "playersTotal": 61,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2899,
-                "final": 2899,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 398000,
-                "final": 398000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Cabbit of Legend Deluxe [15\u2605]\nClear the Extra Boss Rush on Infernal BBQ difficulty.\n\nNice! [5\u2605]\nGet all Super Nice medals in Circus mode.\n\nBunny of Legend[10\u2605 (Partial: 5\u2605)]\nClear all Boss Rushes on Infernal BBQ difficulty.\n\nLe Grillmaster [20\u2605]\nBeat the game on Infernal BBQ difficulty.",
+            "primary": 3,
+            "primaryText": "Early Bird [70\u2605]\nReach the true ending of the game.\n\nWould you still love me if I was a worm? [30\u2605]\nBeat Arcade Mode on Master difficulty.\n\nInching Along [10\u2605]\nBeat Arcade Mode on Veteran difficulty. / Beat Arcade Mode on Experienced difficulty without dying. / Beat Standard Mode in under 8 minutes.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 131
+            "achievements": 17
         },
         "CETags": {
             "genre": [
-                "Metroidvania"
+                "Grappler",
+                "Awkward Movement",
+                "3D Platformer",
+                "Foddian"
             ],
             "info": [
-                "Female Protagonist"
+                "Animal Protagonist"
             ]
         },
         "gameTags": [
-            "Metroidvania",
-            "Anime",
-            "Pixel Graphics",
-            "Bullet Hell",
-            "Action-Adventure",
-            "Female Protagonist",
-            "2D",
-            "Story Rich",
-            "Side Scroller",
-            "Colorful",
-            "Singleplayer",
-            "Platformer",
+            "Precision Platformer",
+            "3D Platformer",
             "Action",
-            "Fantasy",
-            "Steampunk",
-            "Magic",
-            "Combat",
-            "Exploration",
+            "PvE",
             "Adventure",
-            "Cute"
+            "Physics",
+            "Platformer",
+            "Arcade",
+            "Action-Adventure",
+            "3D",
+            "Third Person",
+            "Indie",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IAS",
-            "spanish": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS",
-            "ukrainian": "IS"
-        },
-        "information": "[Super Nice times](https://upload.cedb.me/k0Q24M.png)"
+            "english": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-08-19'
+var gameOfDayDate = '2026-08-20'
