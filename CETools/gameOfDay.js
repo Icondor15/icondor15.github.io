@@ -2,93 +2,107 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1422950,
-        "CEId": "5ce8d5c1-f229-4450-b322-ada3f42e38d5",
-        "name": "Worm Adventure 4: Into the Wormhole",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1422950/header.jpg?t=1643969765",
+        "platformId": 657000,
+        "CEId": "6a514ba5-8c76-4eb2-8034-8d9915a56e7c",
+        "name": "Rising Hell",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/657000/header.jpg?t=1723621704",
         "genre": [
-            "Platformer"
+            "Action"
         ],
         "tier": 4,
-        "points": 110,
+        "points": 85,
         "secondaryPoints": 0,
-        "medianPlaytime": 3077,
-        "createdAt": "2022-08-20T20:06:10.000Z",
+        "medianPlaytime": 3060,
+        "createdAt": "2024-08-21T21:37:46.000Z",
         "updatedAt": "2026-08-12T01:31:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 6,
+        "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 61,
+        "playersTotal": 81,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 975,
+                "final": 975,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 399,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 52000,
-                "final": 52000,
+                "initial": 120000,
+                "final": 120000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 569,
-                "final": 569,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Early Bird [70\u2605]\nReach the true ending of the game.\n\nWould you still love me if I was a worm? [30\u2605]\nBeat Arcade Mode on Master difficulty.\n\nInching Along [10\u2605]\nBeat Arcade Mode on Veteran difficulty. / Beat Arcade Mode on Experienced difficulty without dying. / Beat Standard Mode in under 8 minutes.",
+            "primary": 4,
+            "primaryText": "Raise Hell [55\u2605]\nObtain an S rank on all challenges on the maximum difficulty.\n\nBurn the Gates [20\u2605]\nBeat all challenges on the maximum difficulty.\n\nUnderworld Usurper [5\u2605]\nBeat Agony 24.\n\nMephisto's Puppet [5\u2605]\nDefeat all bosses and complete all challenges.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 17
+            "community": 1,
+            "communityText": "Paragon of Agony\nBeat Agony 24 with the default relic (Hellsbane) and the Redemption mode turned off.",
+            "achievements": 34
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "Awkward Movement",
-                "3D Platformer",
-                "Foddian"
+                "Rogue-like",
+                "Action-Platformer"
             ],
             "info": [
-                "Animal Protagonist"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
-            "Precision Platformer",
-            "3D Platformer",
+            "Action Roguelike",
             "Action",
-            "PvE",
-            "Adventure",
-            "Physics",
+            "Roguelite",
+            "Gore",
+            "Pixel Graphics",
             "Platformer",
+            "Bullet Hell",
+            "Singleplayer",
+            "2D",
+            "Difficult",
+            "Fantasy",
+            "Procedural Generation",
+            "Early Access",
+            "Replay Value",
+            "Roguelike",
+            "Beat 'em up",
+            "Demons",
             "Arcade",
-            "Action-Adventure",
-            "3D",
-            "Third Person",
-            "Indie",
-            "Singleplayer"
+            "2D Platformer",
+            "Indie"
         ],
         "languages": {
-            "english": "I"
-        }
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
+        "information": "There is no PO/SO relating to clearing Agony 24 with all characters due to the 'one hit relic', which makes characters broadly similar, and is the easiest way to clear high agonies."
     }
 }
-var gameOfDayDate = '2026-08-20'
+var gameOfDayDate = '2026-08-21'
