@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 125,
         "completions": 50,
-        "playtime": 246.51600000000002,
+        "playtime": 247.7936666666667,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
@@ -2363,10 +2363,10 @@ var masoData =
     "1186270": {
         "description": "\u272a Bone-a-fide batass",
         "tier": "4",
-        "owners": 15,
-        "completions": 3,
-        "playtime": 23.66111111111111,
-        "newestCompletion": "2024-09-29T04:11:47.000Z"
+        "owners": 16,
+        "completions": 4,
+        "playtime": 22.479166666666668,
+        "newestCompletion": "2026-08-20T20:16:11.000Z"
     },
     "1127850": {
         "description": "Just Killing Black Blobs",
