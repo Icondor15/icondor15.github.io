@@ -2,107 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 657000,
-        "CEId": "6a514ba5-8c76-4eb2-8034-8d9915a56e7c",
-        "name": "Rising Hell",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/657000/header.jpg?t=1723621704",
+        "platformId": 495050,
+        "CEId": "f8517c43-8de2-4e71-89d2-f0065dee36fa",
+        "name": "Mega Man Legacy Collection 2",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/495050/header.jpg?t=1644283244",
         "genre": [
             "Action"
         ],
         "tier": 4,
-        "points": 85,
+        "points": 80,
         "secondaryPoints": 0,
-        "medianPlaytime": 3060,
-        "createdAt": "2024-08-21T21:37:46.000Z",
-        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "medianPlaytime": 5114,
+        "createdAt": "2023-10-19T06:22:43.000Z",
+        "updatedAt": "2026-08-20T16:04:12.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
-        "playersStarted": 6,
-        "playersTotal": 81,
+        "playersCompleted": 4,
+        "playersStarted": 3,
+        "playersTotal": 270,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 1598,
+                "final": 1598,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 199000,
+                "final": 199000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2796,
+                "final": 2796,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Raise Hell [55\u2605]\nObtain an S rank on all challenges on the maximum difficulty.\n\nBurn the Gates [20\u2605]\nBeat all challenges on the maximum difficulty.\n\nUnderworld Usurper [5\u2605]\nBeat Agony 24.\n\nMephisto's Puppet [5\u2605]\nDefeat all bosses and complete all challenges.",
+            "primary": 3,
+            "primaryText": "Metal Hero [55\u2605]\nClear Mega Man 9 without getting damaged. Checkpoint Save usage is disallowed.\n\nMega Busted [15\u2605]\nClear all the hard mode Boss and Miniboss stages in the Mega Man 10 Original Challenges.\n\nGilded Bomber[10\u2605 (Partial: 5\u2605)]\nComplete all four Mega Man games. / Earn gold medals on 50 challenges, including all four \"BOSS RUSH \u2605BUSTER ONLY!\" challenges.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Paragon of Agony\nBeat Agony 24 with the default relic (Hellsbane) and the Redemption mode turned off.",
-            "achievements": 34
+            "community": 2,
+            "communityText": "Outer Space Hazard\nClear Mega Man 10 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.\n\nAmbition Resurges\nClear Mega Man 9 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.",
+            "achievements": 21
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
+                "Run & Gun",
                 "Action-Platformer"
             ],
-            "info": [
-                "Has Community Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action Roguelike",
             "Action",
-            "Roguelite",
-            "Gore",
-            "Pixel Graphics",
             "Platformer",
-            "Bullet Hell",
-            "Singleplayer",
+            "Classic",
+            "Retro",
+            "Great Soundtrack",
             "2D",
+            "Singleplayer",
+            "Pixel Graphics",
             "Difficult",
-            "Fantasy",
-            "Procedural Generation",
-            "Early Access",
-            "Replay Value",
-            "Roguelike",
-            "Beat 'em up",
-            "Demons",
-            "Arcade",
+            "Side Scroller",
+            "Anime",
+            "1990's",
+            "Shooter",
+            "Robots",
+            "Sci-fi",
+            "Remake",
             "2D Platformer",
-            "Indie"
+            "Colorful"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "latam": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
-        },
-        "information": "There is no PO/SO relating to clearing Agony 24 with all characters due to the 'one hit relic', which makes characters broadly similar, and is the easiest way to clear high agonies."
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "IAS",
+            "spanish": "I",
+            "tchinese": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-08-21'
+var gameOfDayDate = '2026-08-22'
