@@ -63,7 +63,7 @@ var masoData =
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
         "tier": "2",
-        "owners": 47,
+        "owners": 48,
         "completions": 19,
         "playtime": 9.086842105263159,
         "newestCompletion": "2026-07-13T19:07:57.000Z"
@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 79,
+        "owners": 80,
         "completions": 3,
         "playtime": 76.99444444444444,
         "newestCompletion": "2026-02-01T21:42:44.000Z"
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 77,
+        "owners": 78,
         "completions": 42,
         "playtime": 24.348412698412698,
         "newestCompletion": "2026-07-04T17:59:41.000Z"
@@ -4711,7 +4711,7 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
@@ -4759,7 +4759,7 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 1,
+        "owners": 2,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4767,7 +4767,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 5,
+        "owners": 6,
         "completions": 3,
         "playtime": 75.47777777777777,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
