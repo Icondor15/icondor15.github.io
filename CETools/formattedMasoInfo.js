@@ -183,7 +183,7 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 200,
+        "owners": 201,
         "completions": 100,
         "playtime": 44.26033333333336,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
@@ -196,9 +196,9 @@ var masoData =
         "description": "\u272a I Wanna be the Bleeding Marshmallow Head",
         "tier": "4",
         "owners": 68,
-        "completions": 11,
-        "playtime": 22.565151515151516,
-        "newestCompletion": "2025-08-31T14:20:03.000Z"
+        "completions": 12,
+        "playtime": 22.256944444444443,
+        "newestCompletion": "2026-08-23T23:45:06.000Z"
     },
     "319480": {
         "description": "Give me a sec",
@@ -1651,7 +1651,7 @@ var masoData =
     "355820": {
         "description": "You spin me right round",
         "tier": "1",
-        "owners": 35,
+        "owners": 36,
         "completions": 18,
         "playtime": 7.03611111111111,
         "newestCompletion": "2024-02-02T05:48:32.000Z"
@@ -3145,7 +3145,7 @@ var masoData =
         "tier": "4",
         "owners": 85,
         "completions": 7,
-        "playtime": 237.82619047619048,
+        "playtime": 238.18333333333334,
         "newestCompletion": "2024-12-06T21:13:47.000Z",
         "badges": {
             "count": 2,
@@ -3539,7 +3539,7 @@ var masoData =
     "2231450": {
         "description": "\u2733 Pizza, Pasta, Put it in a box",
         "tier": "2",
-        "owners": 106,
+        "owners": 107,
         "completions": 39,
         "playtime": 57.68205128205129,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
@@ -4344,9 +4344,9 @@ var masoData =
         "description": "\u2733 All cats go to bullet heaven",
         "tier": "2",
         "owners": 38,
-        "completions": 13,
-        "playtime": 55.926923076923075,
-        "newestCompletion": "2026-06-21T11:16:06.000Z"
+        "completions": 14,
+        "playtime": 52.92857142857143,
+        "newestCompletion": "2026-08-20T22:26:09.000Z"
     },
     "3044100": {
         "description": "\u272a Tier 4",
@@ -4475,7 +4475,7 @@ var masoData =
     "2671590": {
         "description": "&quot;Would you love me if I was a space worm?&quot;",
         "tier": "1",
-        "owners": 4,
+        "owners": 5,
         "completions": 3,
         "playtime": 8.527777777777779,
         "newestCompletion": "2025-07-19T04:15:06.000Z"
@@ -4675,7 +4675,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 14,
+        "owners": 15,
         "completions": 5,
         "playtime": 53.45,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
@@ -4751,7 +4751,7 @@ var masoData =
     "3912370": {
         "description": "I miss my wife",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 6.383333333333334,
         "newestCompletion": "2026-08-03T02:47:43.000Z"
@@ -4759,7 +4759,7 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4775,7 +4775,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 5,
+        "owners": 7,
         "completions": 4,
         "playtime": 122.88333333333334,
         "newestCompletion": "2024-08-26T14:11:25.000Z",
