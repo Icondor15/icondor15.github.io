@@ -2,48 +2,50 @@ var gameOfDay =
 {
     "game": {
         "gameType": 3,
-        "platformId": 751,
-        "CEId": "865e316c-90ef-4960-8f12-28b64fee68b1",
-        "name": "Donkey Kong Country 2",
-        "header": "https://upload.cedb.me/865e316c-90ef-4960-8f12-28b64fee68b1.jpg",
+        "platformId": 5268,
+        "CEId": "011101b7-4e31-44c8-b7c2-02fbf7577fa1",
+        "name": "Splatterhouse",
+        "header": "https://upload.cedb.me/011101b7-4e31-44c8-b7c2-02fbf7577fa1.jpg",
         "genre": [
-            "Platformer"
+            "Action"
         ],
-        "tier": 1,
-        "points": 10,
-        "secondaryPoints": 0,
+        "tier": 0,
+        "points": 0,
+        "secondaryPoints": 5,
         "medianPlaytime": 0,
-        "createdAt": "2025-08-23T16:55:18.000Z",
-        "updatedAt": "2026-08-17T23:15:01.000Z",
-        "playersOvercompleted": 0,
-        "playersCompleted": 3,
+        "createdAt": "2025-08-24T17:18:39.000Z",
+        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "playersOvercompleted": 2,
+        "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 3,
         "gameTags": [
-            "2D Platforming"
+            "Beat 'em Up"
         ],
         "consoleData": {
-            "name": "Game Boy Advance",
-            "family": "Nintendo",
-            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "NEC",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Cranking It [10\u2605]\nBeat all of Cranky's Times in Diddy's Dash.",
-            "secondary": 0,
-            "secondaryText": "",
+            "primary": 0,
+            "primaryText": "",
+            "secondary": 1,
+            "secondaryText": "Ch ch ch ah ah ah [5\u2605]\nComplete the game on Hard Mode without using a continue.",
             "community": 0,
             "communityText": "",
-            "achievements": 80
+            "achievements": 45
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Horror",
+                "Beat'em'Up"
             ],
             "info": [
-                "Animal Protagonist"
+                "Has Secondary Objectives"
             ]
-        }
+        },
+        "information": "To access Hard Mode, hold the SELECT button on the title screen for 5 seconds until \"HARD\" appears under the title"
     }
 }
-var gameOfDayDate = '2026-08-23'
+var gameOfDayDate = '2026-08-24'
