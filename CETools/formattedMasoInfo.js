@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 261,
         "completions": 143,
-        "playtime": 203.96375291375287,
+        "playtime": 204.01503496503489,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -1577,7 +1577,7 @@ var masoData =
         "tier": "3",
         "owners": 129,
         "completions": 33,
-        "playtime": 111.65050505050505,
+        "playtime": 111.92121212121212,
         "newestCompletion": "2025-07-07T03:00:44.000Z",
         "badges": {
             "count": 1,
@@ -1987,7 +1987,7 @@ var masoData =
     "977950": {
         "description": "\u2606 Visually challenging rhythm gameplay",
         "tier": "3",
-        "owners": 115,
+        "owners": 116,
         "completions": 36,
         "playtime": 87.36296296296297,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 137,
         "completions": 41,
-        "playtime": 32.03048780487805,
+        "playtime": 32.03089430894309,
         "newestCompletion": "2026-08-13T06:36:52.000Z",
         "badges": {
             "count": 1,
@@ -4123,10 +4123,10 @@ var masoData =
     "1059990": {
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
-        "owners": 53,
-        "completions": 19,
-        "playtime": 10.24561403508772,
-        "newestCompletion": "2026-03-21T09:20:02.000Z",
+        "owners": 54,
+        "completions": 20,
+        "playtime": 9.949166666666667,
+        "newestCompletion": "2026-08-26T01:50:18.000Z",
         "badges": {
             "count": 1,
             "points": 2
