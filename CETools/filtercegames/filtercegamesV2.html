@@ -497,6 +497,20 @@
                 linear-gradient(#00000000, #000000bf),
                 linear-gradient(90deg, #ff0915,#1500ff);
         }
+        .mobileText:before {
+            content: "MOBILE";
+        }
+        .mobileText {
+            text-decoration: underline dotted;
+            cursor: help;
+            background-image: linear-gradient(#7f7f7f,#000000);
+            padding-right: 5px;
+            border-left: 3px solid;
+            border-top: 1px solid;
+            border-bottom: 1px solid;
+            border-right: 5px solid;
+            border-color: #cfcfcf;
+        }
 
         .reviewTags > .tag, .reviewTags .tag * {
             font-size: 9px;
@@ -1385,9 +1399,15 @@
                         </span>
                     </fieldset>
                     <fieldset id="extrasDlcsField" style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: start; justify-content: space-evenly; border: 1px dashed;">
-                        <legend>DLCs <sup title="These apply to all the Steam games shown in the current Platform Filter.&#10;If it's set to 'All', changing these will leave the RetroAchievements games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
+                        <legend>DLCs <sup title="These apply to all the Steam games shown in the current Platform Filter.&#10;If it's set to 'All', changing these will leave non-Steam games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
                         <span>
                             <input autocomplete="off" type="checkbox" id="dlcRequiredFilter" onchange="order('last')"><label for="dlcRequiredFilter">DLCs Required</label>
+                        </span>
+                    </fieldset>
+                    <fieldset id="otherFiltersField" style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: start; justify-content: space-evenly; border: 1px dashed;">
+                        <legend>Other <sup title="These are filters that don't really fit in any other category." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="mobileFilter" onchange="order('last')"><label for="mobileFilter">Mobile Games Only</label>
                         </span>
                     </fieldset>
                 </fieldset>
@@ -1574,7 +1594,12 @@
                         <br>
                         <span class="tag">
                             <label class="tagTitle virtualRealityText"  style="text-decoration: none; cursor: pointer;" for="tagSettings15"></label>
-                            <input class="tagSettings" id="tagSettings15" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(15, this.checked);" checked>
+                            <input class="tagSettings" id="tagSettings15" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(15, this.checked);" checked>
+                        </span>
+                        &hairsp;
+                        <span class="tag">
+                            <label class="tagTitle mobileText"  style="text-decoration: none; cursor: pointer;" for="tagSettings41"></label>
+                            <input class="tagSettings" id="tagSettings41" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(41, this.checked);" checked>
                         </span>
                     </div>
 
@@ -2166,6 +2191,17 @@
             "zulu" : "Zulu (isiZulu)"
         }
 
+        //Manual Mobile games list
+        const mobileGamesList = [
+            "1f67cb6d-926b-4af5-877e-73d3050d4684", //Geometry Dash
+            "87b1ea5b-1e3e-4d72-a900-60b57f84e8f3", //Threes!
+            "22177e06-2002-488a-8c90-fe3ff3849647", //Adofai
+            "4ae515b7-97b6-40a6-98d5-9822fa31de98", //Downwell
+            "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5", //Dead Cells
+            "1f0ce3d0-f919-4e76-9a86-f1b5dd0e74e7", //Race the Sun
+            "f5002235-3248-453d-93b8-b96736bb4712", //Slay the Spire
+        ]
+
     </script>
 
     <!--Code-->
@@ -2291,6 +2327,7 @@
             true,   //38: Earned Points
             true,   //39: Effective Tier
             true,   //40: Points Per Hour
+            true,   //41: Mobile Tags
         ]
 
         const exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
@@ -4333,9 +4370,9 @@
 
             //Dlcs
             document.getElementById("extrasDlcsField").classList.remove("activeFilter");
-                document.getElementById("extrasDlcsField").removeAttribute("disabled", true);
+            document.getElementById("extrasDlcsField").removeAttribute("disabled", true);
             
-            if(document.getElementById("platformFilter").value == "RetroAchievements")
+            if(document.getElementById("platformFilter").value == "RetroAchievements" || document.getElementById("platformFilter").value == "Other")
             {
                 document.getElementById("extrasDlcsField").setAttribute("disabled", true);
                 document.getElementById("extrasDlcsField").classList.remove("activeFilter");
@@ -4362,6 +4399,25 @@
                 return 0;
             }
 
+            //Other filters
+            document.getElementById("otherFiltersField").classList.remove("activeFilter");
+            document.getElementById("otherFiltersField").removeAttribute("disabled", true);
+            //Mobile Filter
+            if(document.getElementById("mobileFilter").checked)
+            {
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("extrasField").classList.add("activeFilter");
+                document.getElementById("otherFiltersField").classList.add("activeFilter");
+                
+                filteredData = filteredData.filter(mobileFilterFunc);
+            }
+            function mobileFilterFunc(obj)
+            {
+                if(("information" in obj && (obj["information"].toUpperCase().includes("APPS.APPLE.COM") || obj["information"].toUpperCase().includes("PLAY.GOOGLE.COM"))) || mobileGamesList.includes(obj["CEId"]))
+                {return 1;}
+                return 0;
+            }
 
 
             //Alter Side Text if filters are active;
@@ -5362,6 +5418,29 @@
                             }
                         }
                     }
+                    //Mobile tag
+                    if(tagSettings[41])
+                    {
+                        //Automatic
+                        if("information" in game && (game["information"].toUpperCase().includes("APPS.APPLE.COM") || game["information"].toUpperCase().includes("PLAY.GOOGLE.COM")))
+                        {
+                            let mobile = document.createElement("span");
+                            mobile.classList.add("tag");
+                            mobile.innerHTML = "<div title='This game has been automatically detected to be playable on one or more Mobile devices, and you will find the relevant information in the Information Box.' onclick='alert(this.title)' class='tagTitle mobileText'> [Auto]</div>";
+                            gameTags.innerHTML += " ";
+                            gameTags.appendChild(mobile);
+                        }
+                        //Manual
+                        else if(mobileGamesList.includes(game["CEId"]))
+                        {
+                            let mobile = document.createElement("span");
+                            mobile.classList.add("tag");
+                            mobile.innerHTML = "<div title='This game has been manually listed to be playable on one or more Mobile devices.\nYou should be able to find more information online.' onclick='alert(this.title)' class='tagTitle mobileText'> [Manual]</div>";
+                            gameTags.innerHTML += " ";
+                            gameTags.appendChild(mobile);
+                        }
+                    }
+
                 gameElement.appendChild(gameTags);
 
 
