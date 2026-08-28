@@ -1,102 +1,52 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 200260,
-        "CEId": "01078398-a4ae-45b8-81df-75c2c950a05e",
-        "name": "Batman: Arkham City - Game of the Year Edition",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057",
+        "gameType": 4,
+        "platformId": 41010,
+        "CEId": "3eaf956f-7874-432b-8b4d-0c51f809a633",
+        "name": "Serious Sam HD: The Second Encounter",
+        "header": "https://cdn.cloudflare.steamstatic.com/steam/apps/41014/header.jpg?t=1573728535",
         "genre": [
-            "Action"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 3,
+        "points": 75,
         "secondaryPoints": 0,
-        "medianPlaytime": 5523,
-        "createdAt": "2025-08-27T21:37:04.000Z",
-        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "medianPlaytime": 4052,
+        "createdAt": "2020-08-28T17:22:24.000Z",
+        "updatedAt": "2026-08-12T01:53:48.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
-        "playersStarted": 0,
-        "playersTotal": 513,
-        "priceData": {
-            "USD": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 16,
+        "playersStarted": 6,
+        "playersTotal": 396,
         "milestones": {
-            "primary": 1,
-            "primaryText": "Perfect Knight[15\u2605 (Partial: 10\u2605)]\nComplete all relevant campaigns on all characters.",
+            "primary": 2,
+            "primaryText": "Serious Co-optitude[45\u2605 (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605 (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 64
+            "community": 2,
+            "communityText": "Bent on Sand\nObtain the gold medal with a time of 3:30 on \"Bend on Sand\" in single player Survival.\n\nSerious Seconds\nComplete the game in single player on Serious difficulty without dying or loading.",
+            "achievements": 70
         },
         "CETags": {
             "genre": [
-                "Action-Adventure"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": []
         },
         "gameTags": [
             "Action",
-            "Open World",
-            "Stealth",
-            "Superhero",
-            "Adventure",
-            "Third Person",
-            "Singleplayer",
-            "Beat 'em up",
-            "Comic Book",
-            "Detective",
-            "Story Rich",
-            "Atmospheric",
-            "Fighting",
-            "Action-Adventure",
-            "Cinematic",
-            "Controller",
-            "Sandbox",
-            "Metroidvania",
-            "Great Soundtrack",
-            "RPG"
+            "Indie"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "spanish": "IAS",
-            "brazilian": "IS",
-            "russian": "IS"
-        }
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        },
+        "information": "The actual store page is located here: [https://store.steampowered.com/app/41014](https://store.steampowered.com/app/41014)"
     }
 }
-var gameOfDayDate = '2026-08-27'
+var gameOfDayDate = '2026-08-28'
