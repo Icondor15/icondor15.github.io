@@ -87846,7 +87846,7 @@ var userData =
         "points": 1860,
         "skill": {
             "rank": 155,
-            "rating": 1505.26
+            "rating": 1502.02
         },
         "completions": {
             "rank": 220,
@@ -87864,23 +87864,20 @@ var userData =
             "d28e20d0-b092-45c6-8c5b-25e448b09215": {
                 "points": 100
             },
-            "e856964a-bf6c-4552-9da8-49ae596ce9ef": {
+            "f5002235-3248-453d-93b8-b96736bb4712": {
                 "points": 70
             },
             "e4ed5073-d93d-4134-ab0b-b5a3ab316be4": {
                 "points": 70
             },
-            "f5002235-3248-453d-93b8-b96736bb4712": {
+            "e856964a-bf6c-4552-9da8-49ae596ce9ef": {
                 "points": 70
-            },
-            "8a9c8f92-d732-4b5d-bbc2-e31e758b530e": {
-                "points": 65
             },
             "d415208e-0b56-43e5-a4fc-f8d350953cb9": {
                 "points": 65
             },
-            "f5d6c619-aa00-41f9-a2cc-665bb11270ba": {
-                "points": 55
+            "8a9c8f92-d732-4b5d-bbc2-e31e758b530e": {
+                "points": 65
             },
             "426fd7d7-9c1d-412d-b12b-9884d3f5a4c6": {
                 "points": 55
@@ -87888,10 +87885,13 @@ var userData =
             "21144d8d-c943-4130-8349-6e768220cfc9": {
                 "points": 55
             },
-            "adafe461-da2e-49b4-93fd-536274ed8854": {
-                "points": 50
+            "f5d6c619-aa00-41f9-a2cc-665bb11270ba": {
+                "points": 55
             },
             "06772ab0-b680-4ca0-afd2-d7f21ce3fcdf": {
+                "points": 50
+            },
+            "adafe461-da2e-49b4-93fd-536274ed8854": {
                 "points": 50
             },
             "d019971d-d4e4-4578-96bd-4dc991a9326b": {
@@ -87915,16 +87915,22 @@ var userData =
             "bd3b5df5-89e7-496d-b1b5-ca2503cf9921": {
                 "points": 25
             },
-            "79b6bc3a-91b8-4489-a71b-70ec154d17a3": {
+            "f1efad3d-6da5-4c8c-b64a-288e04734425": {
                 "points": 20
             },
             "04cc44cb-0041-4294-aa4c-bd9d9224b990": {
                 "points": 20
             },
-            "f1efad3d-6da5-4c8c-b64a-288e04734425": {
+            "79b6bc3a-91b8-4489-a71b-70ec154d17a3": {
                 "points": 20
             },
             "4ae515b7-97b6-40a6-98d5-9822fa31de98": {
+                "points": 15
+            },
+            "67572fba-5a2b-45fe-ad40-2a8ff2dd7f26": {
+                "points": 15
+            },
+            "ff73f8f0-e5c6-4c90-9702-add88b698e03": {
                 "points": 15
             },
             "348f99c2-7397-42c5-8788-45a82feea1b5": {
@@ -87933,28 +87939,19 @@ var userData =
             "285b50c4-4439-4c65-a646-cc66bd7fddec": {
                 "points": 15
             },
-            "ff73f8f0-e5c6-4c90-9702-add88b698e03": {
-                "points": 15
-            },
-            "67572fba-5a2b-45fe-ad40-2a8ff2dd7f26": {
-                "points": 15
-            },
-            "6bc41790-c17f-416a-b1d8-2422f76c303c": {
-                "points": 10
-            },
             "5505af90-03cd-4375-b135-0e45abc3ad6a": {
                 "points": 10
             },
-            "f7b44384-96d2-43d0-b0d2-83169b621c73": {
+            "22177e06-2002-488a-8c90-fe3ff3849647": {
                 "points": 10
             },
             "6364af71-93b3-437d-8989-41cc74e597ec": {
                 "points": 10
             },
-            "d5fa9983-ebaa-4faf-8c5a-f537c15c0f77": {
+            "f7b44384-96d2-43d0-b0d2-83169b621c73": {
                 "points": 10
             },
-            "81e61570-a500-4dec-8e9f-3fa2c9b2796a": {
+            "d5fa9983-ebaa-4faf-8c5a-f537c15c0f77": {
                 "points": 10
             },
             "d7e7a54e-78cb-4504-99c8-afa06a028920": {
@@ -87966,16 +87963,16 @@ var userData =
             "00e18e29-db63-44a2-964a-2d51771a5ae3": {
                 "points": 10
             },
-            "22177e06-2002-488a-8c90-fe3ff3849647": {
-                "points": 10
-            },
             "9dda4581-5c83-4151-9bc2-cbb9f773a8c7": {
                 "points": 10
             },
-            "da7c5dc4-861a-4b46-b6fb-6f1a91185667": {
-                "points": 5
+            "6bc41790-c17f-416a-b1d8-2422f76c303c": {
+                "points": 10
             },
-            "2468acfe-71ad-46d5-a473-e0cd446d3da9": {
+            "81e61570-a500-4dec-8e9f-3fa2c9b2796a": {
+                "points": 10
+            },
+            "544e8a12-3cc5-4ce6-8018-dfa962f1fd45": {
                 "points": 5
             },
             "c98bced4-e6d7-4034-8e85-5208d1487f8d": {
@@ -87984,13 +87981,16 @@ var userData =
             "667d458d-3bef-470d-a85d-839119c17cd8": {
                 "points": 5
             },
-            "918dc588-b5e3-4c7b-86cc-423e8bb16417": {
-                "points": 5
-            },
             "a5df6091-89d8-404a-bba1-10e93550c292": {
                 "points": 5
             },
-            "544e8a12-3cc5-4ce6-8018-dfa962f1fd45": {
+            "da7c5dc4-861a-4b46-b6fb-6f1a91185667": {
+                "points": 5
+            },
+            "918dc588-b5e3-4c7b-86cc-423e8bb16417": {
+                "points": 5
+            },
+            "2468acfe-71ad-46d5-a473-e0cd446d3da9": {
                 "points": 5
             },
             "47fddf78-71fd-4d00-a70d-d0a745fdf7c7": {
@@ -87998,38 +87998,39 @@ var userData =
             }
         },
         "gamesNoPoints": [
-            "cb4b4e8b-757e-4228-8550-b8346de8d0f5",
-            "b5c37089-55a1-4cd5-81d4-1202bf2d649b",
-            "a59989ce-0420-46f9-8546-aad3750f34b7",
-            "bbf7c801-2a72-4939-8654-342f0c8b2a3f",
             "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5",
-            "af48acfb-3599-47a1-998c-0fe702dd22e8",
-            "f243c055-9657-4e64-8e64-492d27f03e1f",
-            "af9d0fc3-4e13-4a65-847d-1ab3e6043e52",
+            "bbf7c801-2a72-4939-8654-342f0c8b2a3f",
             "b2061008-ed4c-45e5-9e53-3528b28095c1",
             "a57d1929-f26f-4b90-8917-3184977698f4",
-            "fe6b2222-24d0-4c29-94a5-000eeb62dee2",
-            "c23a06b2-9fc7-49ed-9b34-05e012cdd19a",
-            "ec1f8e58-b184-496c-a9aa-678876d9dc7b",
-            "e7b09b01-e52f-443e-97a3-cd1aac854b3f",
+            "a59989ce-0420-46f9-8546-aad3750f34b7",
             "e5c143b7-7d85-4e59-a0e0-5f7ccaf4922c",
-            "f37937f6-2e18-48ce-b445-1d79a605348a",
+            "b5c37089-55a1-4cd5-81d4-1202bf2d649b",
+            "fe6b2222-24d0-4c29-94a5-000eeb62dee2",
+            "fb1ef8b0-a9b0-4f4b-a0f3-843397e4c906",
+            "af48acfb-3599-47a1-998c-0fe702dd22e8",
+            "af9d0fc3-4e13-4a65-847d-1ab3e6043e52",
+            "f93a5d1b-10ab-492d-bc58-265ac1476d89",
+            "c23a06b2-9fc7-49ed-9b34-05e012cdd19a",
+            "c2bfbc96-5391-4d6d-8b97-4ec24c23058b",
+            "e7b09b01-e52f-443e-97a3-cd1aac854b3f",
+            "1f67cb6d-926b-4af5-877e-73d3050d4684",
+            "eebc13de-78ce-47d3-8ca8-eb4d03cb8bd6",
             "db7c0ad7-2f6c-43c3-9cf6-2cac551cee66",
-            "f1eab776-645c-42d1-b640-244cbf4a590d",
             "d89eac1b-d042-485b-9f92-7e20aa5bf337",
             "d6a93fb3-6321-4e8a-b80c-9ef11775088c",
+            "f1eab776-645c-42d1-b640-244cbf4a590d",
             "d5b52d31-5dee-4f0b-9fa8-3c41c76c0063",
+            "d4f6a3ac-c123-4ee4-a409-e0e1d44a137f",
             "d43a1fda-b45a-464d-b5ef-8b9e5985223b",
             "d39bc0c4-b2c6-4af4-b811-23dd33d84b67",
             "d39341ae-7e98-41e9-98b7-fe1b4784cb09",
-            "fb1ef8b0-a9b0-4f4b-a0f3-843397e4c906",
+            "f37937f6-2e18-48ce-b445-1d79a605348a",
             "d0406ec0-8b86-4516-8a09-deb9c6ab055b",
-            "f93a5d1b-10ab-492d-bc58-265ac1476d89",
+            "cb4b4e8b-757e-4228-8550-b8346de8d0f5",
+            "f243c055-9657-4e64-8e64-492d27f03e1f",
             "c8963b90-9a90-4adb-939f-9491fd1e5fe3",
-            "c2bfbc96-5391-4d6d-8b97-4ec24c23058b",
-            "eebc13de-78ce-47d3-8ca8-eb4d03cb8bd6",
+            "ec1f8e58-b184-496c-a9aa-678876d9dc7b",
             "01590af4-ff79-4d88-95e6-a66bd480134c",
-            "2330b737-ee21-4c36-a282-e3730553d457",
             "28977539-4671-4634-8683-b5a192bf0059",
             "2c955a37-501f-46d7-a375-379f42641796",
             "2ede7bcf-66b2-4531-b396-c351f063e4ba",
@@ -88039,9 +88040,10 @@ var userData =
             "3c10ba08-a710-4762-abbe-693e58444c27",
             "3f2fc86a-dd04-4d7d-bd38-21522ce7865f",
             "3f7762c5-f958-4477-ac25-da113acf08e6",
+            "4217e27f-a6c9-4389-b219-8711a25b0886",
+            "2330b737-ee21-4c36-a282-e3730553d457",
             "222dbb63-3e42-4bd8-9528-216dd1f82ffb",
             "1f710a58-25f6-4f40-aab1-efa9c88874c5",
-            "1f67cb6d-926b-4af5-877e-73d3050d4684",
             "06af14b9-161b-4d47-bf84-f028fe2a39ca",
             "07f1f861-9e2a-4606-966d-bf2b9312348e",
             "09fbf7f1-f244-4d42-be42-69a77d360ec5",
@@ -88052,7 +88054,6 @@ var userData =
             "1bf151af-123a-4c9c-a65d-aa2729fd5f9e",
             "1d009b6d-1d85-41d1-b9ee-aeb5338581b1",
             "1db32c26-001a-40b6-a7f4-b8a4e0a80323",
-            "4217e27f-a6c9-4389-b219-8711a25b0886",
             "473fc1c0-fe8b-4049-93ad-f25af100d664",
             "47ea5508-05cd-487e-99b8-81ddf629b7d4",
             "6cd5fb52-b137-448f-9203-ed74cd524e9e",
@@ -100543,7 +100544,7 @@ var userData =
             "rating": 1384.12
         },
         "completions": {
-            "rank": 901,
+            "rank": 902,
             "count": 7
         },
         "steamId": "76561199101906707",
@@ -102377,7 +102378,7 @@ var userData =
         "points": 1550,
         "skill": {
             "rank": 231,
-            "rating": 1103.17
+            "rating": 1105.81
         },
         "completions": {
             "rank": 237,
@@ -102398,25 +102399,25 @@ var userData =
             "22177e06-2002-488a-8c90-fe3ff3849647": {
                 "points": 65
             },
-            "f05f01b0-bc91-49c4-9c50-b428dfe692a0": {
+            "92c8c25e-67e2-4bb3-a666-77971669932b": {
                 "points": 60
             },
-            "92c8c25e-67e2-4bb3-a666-77971669932b": {
+            "f05f01b0-bc91-49c4-9c50-b428dfe692a0": {
                 "points": 60
             },
             "67c55dc9-3856-4d3d-829a-6dec2715a96a": {
                 "points": 55
             },
-            "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
+            "79247a42-1309-495a-bf19-7028940bbace": {
                 "points": 50
             },
             "251e0184-1172-43b8-bc42-bcbffc5b3b4b": {
                 "points": 50
             },
-            "b94450d9-99a1-4139-abca-8cbb86493535": {
+            "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
                 "points": 50
             },
-            "79247a42-1309-495a-bf19-7028940bbace": {
+            "b94450d9-99a1-4139-abca-8cbb86493535": {
                 "points": 50
             },
             "13983ef6-551b-4b56-858a-878c14663746": {
@@ -102428,10 +102429,10 @@ var userData =
             "1b1be0c6-5088-4f26-8c1a-2b92a989efbe": {
                 "points": 40
             },
-            "fb1ef8b0-a9b0-4f4b-a0f3-843397e4c906": {
+            "5505af90-03cd-4375-b135-0e45abc3ad6a": {
                 "points": 30
             },
-            "5505af90-03cd-4375-b135-0e45abc3ad6a": {
+            "fb1ef8b0-a9b0-4f4b-a0f3-843397e4c906": {
                 "points": 30
             },
             "316118c4-2ea7-416e-a4c0-94bb21cc20f0": {
@@ -102440,29 +102441,26 @@ var userData =
             "d4a63dd5-1e76-4f60-925f-5b64b28f6e37": {
                 "points": 25
             },
-            "419fc861-8c46-456b-8936-f5916a31d462": {
-                "points": 25
-            },
-            "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
-                "points": 25
-            },
             "7632d9d3-8d02-4af6-932c-0d7b59842e48": {
+                "points": 25
+            },
+            "419fc861-8c46-456b-8936-f5916a31d462": {
                 "points": 25
             },
             "9b367456-4a64-488c-b6df-c7c0c26ce914": {
                 "points": 25
             },
-            "ded6ecc6-23ce-4965-91d0-d4504206976e": {
-                "points": 20
+            "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
+                "points": 25
             },
-            "e28f6d20-4d96-4e90-8b18-5bb49d369370": {
+            "ded6ecc6-23ce-4965-91d0-d4504206976e": {
                 "points": 20
             },
             "6b161c1c-20f1-4e47-a951-d6cb48c7398a": {
                 "points": 20
             },
-            "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d": {
-                "points": 15
+            "e28f6d20-4d96-4e90-8b18-5bb49d369370": {
+                "points": 20
             },
             "566c0c0c-3cf3-4c42-8f57-75b42481647c": {
                 "points": 15
@@ -102470,7 +102468,7 @@ var userData =
             "51b213d9-0cfd-4bfe-bdcd-730d504aee24": {
                 "points": 15
             },
-            "b35f483f-43f3-4787-afe8-7615c6f52282": {
+            "f5002235-3248-453d-93b8-b96736bb4712": {
                 "points": 15
             },
             "b784b995-4bc3-453b-bdf7-13856a652883": {
@@ -102479,19 +102477,19 @@ var userData =
             "46217abd-fa12-4ba1-8f3c-ff760a7d3917": {
                 "points": 15
             },
-            "f5002235-3248-453d-93b8-b96736bb4712": {
+            "b35f483f-43f3-4787-afe8-7615c6f52282": {
                 "points": 15
             },
-            "f789e282-1a7e-4dc8-a36f-6d827452f0e2": {
+            "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d": {
+                "points": 15
+            },
+            "971e23ef-f40f-4f50-aa9f-ba5ccf4e6d91": {
                 "points": 10
             },
             "9dda4581-5c83-4151-9bc2-cbb9f773a8c7": {
                 "points": 10
             },
             "b87adbf6-8114-4a6d-b756-dc580ee8468d": {
-                "points": 10
-            },
-            "971e23ef-f40f-4f50-aa9f-ba5ccf4e6d91": {
                 "points": 10
             },
             "f8517c43-8de2-4e71-89d2-f0065dee36fa": {
@@ -102515,6 +102513,9 @@ var userData =
             "e9703281-3909-40f0-8075-9ddc796536c0": {
                 "points": 10
             },
+            "f789e282-1a7e-4dc8-a36f-6d827452f0e2": {
+                "points": 10
+            },
             "d7e7a54e-78cb-4504-99c8-afa06a028920": {
                 "points": 10
             },
@@ -102533,10 +102534,13 @@ var userData =
             "c8906347-17c6-4712-9e4f-b57fb8e591ac": {
                 "points": 5
             },
+            "35d705c9-5dc5-4857-a35e-998da34bd760": {
+                "points": 5
+            },
             "fd5b4a3a-d11f-4a59-9dd7-ddb94fe6e2ef": {
                 "points": 5
             },
-            "35d705c9-5dc5-4857-a35e-998da34bd760": {
+            "7d0aae8e-6d89-490d-9ef4-ae9ad428cc4a": {
                 "points": 5
             },
             "34c593d6-e8bd-4bd3-9fa0-73ea2258922f": {
@@ -102547,51 +102551,49 @@ var userData =
             },
             "23dfa792-591a-4f55-99ae-1c34180b22c8": {
                 "points": 5
-            },
-            "7d0aae8e-6d89-490d-9ef4-ae9ad428cc4a": {
-                "points": 5
             }
         },
         "gamesNoPoints": [
-            "1d41d4eb-b72f-42cf-a02c-e356edb5442e",
-            "493bdf6a-3596-4f16-ac67-de8372682370",
-            "43d68032-5c98-4bec-8142-7b39e1bca64b",
-            "4217e27f-a6c9-4389-b219-8711a25b0886",
-            "dcc5d1ff-675d-44f6-8411-88cb6dc513f1",
-            "222dbb63-3e42-4bd8-9528-216dd1f82ffb",
-            "e1045fb5-0258-49d8-91c3-499f6e319a2f",
             "e1b61d7f-1ad8-46b1-86fc-20bd5f403978",
+            "e1045fb5-0258-49d8-91c3-499f6e319a2f",
+            "222dbb63-3e42-4bd8-9528-216dd1f82ffb",
+            "dcc5d1ff-675d-44f6-8411-88cb6dc513f1",
+            "4217e27f-a6c9-4389-b219-8711a25b0886",
+            "43d68032-5c98-4bec-8142-7b39e1bca64b",
+            "4597fd09-c43c-4b7a-9a1b-14993eb01d70",
+            "d415208e-0b56-43e5-a4fc-f8d350953cb9",
             "e856964a-bf6c-4552-9da8-49ae596ce9ef",
-            "90675a65-03e1-4bdf-ba97-68f47cd8d30a",
+            "8d12964e-61a6-480f-bf62-e095950720a3",
             "353df979-2889-4e20-8a00-05b4569ff469",
-            "071209da-f9f9-4cfa-aae3-0d7f9811ba9f",
-            "173687d2-fdca-4443-bd2a-6823a2e2c273",
             "27578157-10b2-4f29-acee-452c2dc59477",
             "f49a8fac-f5d5-497c-a672-003947e9e548",
             "1f710a58-25f6-4f40-aab1-efa9c88874c5",
-            "d415208e-0b56-43e5-a4fc-f8d350953cb9",
+            "1d41d4eb-b72f-42cf-a02c-e356edb5442e",
+            "173687d2-fdca-4443-bd2a-6823a2e2c273",
+            "071209da-f9f9-4cfa-aae3-0d7f9811ba9f",
+            "493bdf6a-3596-4f16-ac67-de8372682370",
             "4ae515b7-97b6-40a6-98d5-9822fa31de98",
-            "51cca7e6-dcad-40da-88d7-1ea0d592d5b2",
             "b6c466f3-8a57-47f5-b135-ac296a4d8b5f",
-            "656aaa64-33bb-43f2-a9f6-cdadb678249a",
+            "71fdace3-e962-4725-bef3-c7534943ac1a",
             "aa2711fd-7d14-45b1-9db9-838c5d855272",
             "a5785166-0669-4dbf-adc7-72ca73a91449",
             "a27109df-3c27-410e-9947-915d2634a866",
             "a1a9a09d-e490-4312-be20-b360f3f5fb2a",
-            "847d86f5-65c6-4f68-b5a7-ed0c8de895f4",
-            "8d12964e-61a6-480f-bf62-e095950720a3",
             "76574ec1-42df-4488-a511-b9f2d9290e5d",
-            "71fdace3-e962-4725-bef3-c7534943ac1a",
+            "847d86f5-65c6-4f68-b5a7-ed0c8de895f4",
+            "9450e816-e85f-4b34-b8ec-993b9daa1ede",
+            "656aaa64-33bb-43f2-a9f6-cdadb678249a",
             "6391af2f-26d4-44eb-a685-aeb3575f6825",
-            "572378f1-4415-4903-8c4d-a00dd623eebf",
+            "51cca7e6-dcad-40da-88d7-1ea0d592d5b2",
             "c79122bc-5f0a-46a8-acea-c6edcab8768e",
             "c65c5160-1eeb-4ffe-bf59-891e4eb68579",
-            "61591deb-f0bb-4635-b8a6-d5552384ebbb",
+            "572378f1-4415-4903-8c4d-a00dd623eebf",
             "be895e91-9503-4d71-af30-0b558f0a5c72",
             "bacd841e-3086-4d92-a355-67cf515ddeb5",
             "b9b319ef-94f4-4801-ada4-f59db54a1b60",
             "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5",
-            "9450e816-e85f-4b34-b8ec-993b9daa1ede"
+            "61591deb-f0bb-4635-b8a6-d5552384ebbb",
+            "90675a65-03e1-4bdf-ba97-68f47cd8d30a"
         ]
     },
     "74f9d785-b593-44e8-88c5-9a41f771bf5b": {
@@ -116644,7 +116646,7 @@ var userData =
             "rating": 1118.95
         },
         "completions": {
-            "rank": 864,
+            "rank": 865,
             "count": 8
         },
         "steamId": "76561198105613891",
@@ -126619,7 +126621,7 @@ var userData =
             "rating": 1081.19
         },
         "completions": {
-            "rank": 899,
+            "rank": 900,
             "count": 7
         },
         "steamId": "76561199446781168",
@@ -131149,7 +131151,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/3c3865db6fe2a9bed969bf00edcc661596ae7270_full.jpg",
         "points": 1150,
         "skill": {
-            "rank": 276,
+            "rank": 277,
             "rating": 972.642
         },
         "completions": {
@@ -131399,7 +131401,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/40bf29a0a7d3e4a36e64456677985317e46ff3de_full.jpg",
         "points": 1145,
         "skill": {
-            "rank": 277,
+            "rank": 278,
             "rating": 966.344
         },
         "completions": {
@@ -131676,7 +131678,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7c5a05b0538768a1b5db1bf1e9a030015e67257f_full.jpg",
         "points": 1140,
         "skill": {
-            "rank": 274,
+            "rank": 275,
             "rating": 974.18
         },
         "completions": {
@@ -132375,7 +132377,7 @@ var userData =
             "rating": 1075.26
         },
         "completions": {
-            "rank": 905,
+            "rank": 906,
             "count": 7
         },
         "steamId": "76561199029457462",
@@ -134428,11 +134430,11 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg",
         "points": 1090,
         "skill": {
-            "rank": 275,
+            "rank": 276,
             "rating": 973.884
         },
         "completions": {
-            "rank": 890,
+            "rank": 891,
             "count": 7
         },
         "steamId": "76561199191138435",
@@ -135202,6 +135204,102 @@ var userData =
             "5381856b-3256-4ff6-914b-6cfd1b6e3813"
         ]
     },
+    "a0acebc4-7f5b-40a5-9d6d-c561bd71ac36": {
+        "name": "kiwa____twitch",
+        "avatar": "https://avatars.steamstatic.com/029bf041f028e6c3499f82e3dcc0b19b19bdc145_full.jpg",
+        "points": 1080,
+        "skill": {
+            "rank": 274,
+            "rating": 974.392
+        },
+        "completions": {
+            "rank": 861,
+            "count": 8
+        },
+        "steamId": "76561198807351141",
+        "retroId": "N/A",
+        "gamesPoints": {
+            "aa2711fd-7d14-45b1-9db9-838c5d855272": {
+                "points": 375
+            },
+            "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
+                "points": 150
+            },
+            "4217e27f-a6c9-4389-b219-8711a25b0886": {
+                "points": 130
+            },
+            "6a2aa61b-8919-41c0-a0b6-6c0a68148524": {
+                "points": 80
+            },
+            "5505af90-03cd-4375-b135-0e45abc3ad6a": {
+                "points": 80
+            },
+            "22177e06-2002-488a-8c90-fe3ff3849647": {
+                "points": 65
+            },
+            "58f7e1e6-3248-40c2-b7be-5edabf6cdae1": {
+                "points": 50
+            },
+            "613e0c31-a97c-4aa4-a4d6-5f46cf4ae812": {
+                "points": 30
+            },
+            "48be3857-aa89-4744-a91c-84cb1457ad71": {
+                "points": 25
+            },
+            "a19ce969-d5d9-4498-ab56-7f310b472c09": {
+                "points": 25
+            },
+            "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
+                "points": 15
+            },
+            "f5002235-3248-453d-93b8-b96736bb4712": {
+                "points": 15
+            },
+            "68a54e83-a273-4b5f-967e-972175999a3e": {
+                "points": 10
+            },
+            "00e18e29-db63-44a2-964a-2d51771a5ae3": {
+                "points": 10
+            },
+            "b1a4cb5c-7e80-4c50-aafa-2c5b40180835": {
+                "points": 10
+            },
+            "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
+                "points": 10
+            }
+        },
+        "gamesNoPoints": [
+            "99c70f13-e67c-4163-b20a-91f7fdf0e08f",
+            "9afdf642-4ea4-4bca-9207-2d1b08b72c22",
+            "ae35cd6f-476c-421f-ba6d-82d97b96aeb6",
+            "ec821a86-585f-4434-b135-7aaaf5e80d8e",
+            "ea897b12-27bd-43cd-a04e-9ae4a06b9f08",
+            "e856964a-bf6c-4552-9da8-49ae596ce9ef",
+            "d89eac1b-d042-485b-9f92-7e20aa5bf337",
+            "a99983bc-33c1-471d-baff-024d9b8774b3",
+            "d7e7a54e-78cb-4504-99c8-afa06a028920",
+            "cf176ebc-d223-47b4-82c4-50ecaaf9fa5b",
+            "9589524c-9ee6-4b20-86b2-9a715a8878f7",
+            "91419d6e-9a44-4990-8b5e-30abdc71c90b",
+            "7b40692a-c9cd-4540-9e47-6942fb02c321",
+            "0ade411b-db3d-42ad-a5e8-d9748e57f062",
+            "0c503c16-eadc-44a9-97a2-10ce32aab0ff",
+            "1372fbcf-73a1-42a7-a76a-ea2bd2fda3ff",
+            "13a9fa4e-a31e-40f7-a12c-e0311f8f209d",
+            "1b3b090a-625f-40a4-9c61-c5f73fa3f430",
+            "1bc1e6a6-b45c-4354-9543-21b3e7e78d5d",
+            "222dbb63-3e42-4bd8-9528-216dd1f82ffb",
+            "2c48916a-d8e6-45ba-a990-3bc55ea15355",
+            "30fc3451-ad90-4603-b33e-4606c4783ba5",
+            "3522ccc0-7f9a-46d2-a6c1-2481bddf0ee4",
+            "35d705c9-5dc5-4857-a35e-998da34bd760",
+            "572378f1-4415-4903-8c4d-a00dd623eebf",
+            "69c28740-3189-4de7-8c5b-cf805f12ac22",
+            "6b161c1c-20f1-4e47-a951-d6cb48c7398a",
+            "7632d9d3-8d02-4af6-932c-0d7b59842e48",
+            "05d31dda-14ce-4b42-85d0-ce260a8379f0"
+        ]
+    },
     "95fb1496-e731-4318-9d26-62b15be073ab": {
         "name": "tropped",
         "avatar": "https://avatars.steamstatic.com/143b4c124de21a6a285e5df46fe435578700d0a8_full.jpg",
@@ -135592,100 +135690,6 @@ var userData =
             "006d7f9c-4e86-4f2f-9cb5-ddf4bfcdca55"
         ]
     },
-    "a0acebc4-7f5b-40a5-9d6d-c561bd71ac36": {
-        "name": "kiwa____twitch",
-        "avatar": "https://avatars.steamstatic.com/029bf041f028e6c3499f82e3dcc0b19b19bdc145_full.jpg",
-        "points": 1070,
-        "skill": {
-            "rank": 278,
-            "rating": 966.292
-        },
-        "completions": {
-            "rank": 937,
-            "count": 7
-        },
-        "steamId": "76561198807351141",
-        "retroId": "N/A",
-        "gamesPoints": {
-            "aa2711fd-7d14-45b1-9db9-838c5d855272": {
-                "points": 375
-            },
-            "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
-                "points": 150
-            },
-            "4217e27f-a6c9-4389-b219-8711a25b0886": {
-                "points": 130
-            },
-            "5505af90-03cd-4375-b135-0e45abc3ad6a": {
-                "points": 80
-            },
-            "6a2aa61b-8919-41c0-a0b6-6c0a68148524": {
-                "points": 80
-            },
-            "22177e06-2002-488a-8c90-fe3ff3849647": {
-                "points": 65
-            },
-            "58f7e1e6-3248-40c2-b7be-5edabf6cdae1": {
-                "points": 50
-            },
-            "613e0c31-a97c-4aa4-a4d6-5f46cf4ae812": {
-                "points": 30
-            },
-            "a19ce969-d5d9-4498-ab56-7f310b472c09": {
-                "points": 25
-            },
-            "48be3857-aa89-4744-a91c-84cb1457ad71": {
-                "points": 25
-            },
-            "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
-                "points": 15
-            },
-            "f5002235-3248-453d-93b8-b96736bb4712": {
-                "points": 15
-            },
-            "00e18e29-db63-44a2-964a-2d51771a5ae3": {
-                "points": 10
-            },
-            "b1a4cb5c-7e80-4c50-aafa-2c5b40180835": {
-                "points": 10
-            },
-            "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
-                "points": 10
-            }
-        },
-        "gamesNoPoints": [
-            "9589524c-9ee6-4b20-86b2-9a715a8878f7",
-            "99c70f13-e67c-4163-b20a-91f7fdf0e08f",
-            "ae35cd6f-476c-421f-ba6d-82d97b96aeb6",
-            "9afdf642-4ea4-4bca-9207-2d1b08b72c22",
-            "ec821a86-585f-4434-b135-7aaaf5e80d8e",
-            "ea897b12-27bd-43cd-a04e-9ae4a06b9f08",
-            "e856964a-bf6c-4552-9da8-49ae596ce9ef",
-            "a99983bc-33c1-471d-baff-024d9b8774b3",
-            "d89eac1b-d042-485b-9f92-7e20aa5bf337",
-            "d7e7a54e-78cb-4504-99c8-afa06a028920",
-            "cf176ebc-d223-47b4-82c4-50ecaaf9fa5b",
-            "91419d6e-9a44-4990-8b5e-30abdc71c90b",
-            "7b40692a-c9cd-4540-9e47-6942fb02c321",
-            "0ade411b-db3d-42ad-a5e8-d9748e57f062",
-            "0c503c16-eadc-44a9-97a2-10ce32aab0ff",
-            "1372fbcf-73a1-42a7-a76a-ea2bd2fda3ff",
-            "13a9fa4e-a31e-40f7-a12c-e0311f8f209d",
-            "1b3b090a-625f-40a4-9c61-c5f73fa3f430",
-            "1bc1e6a6-b45c-4354-9543-21b3e7e78d5d",
-            "222dbb63-3e42-4bd8-9528-216dd1f82ffb",
-            "2c48916a-d8e6-45ba-a990-3bc55ea15355",
-            "30fc3451-ad90-4603-b33e-4606c4783ba5",
-            "3522ccc0-7f9a-46d2-a6c1-2481bddf0ee4",
-            "35d705c9-5dc5-4857-a35e-998da34bd760",
-            "572378f1-4415-4903-8c4d-a00dd623eebf",
-            "68a54e83-a273-4b5f-967e-972175999a3e",
-            "69c28740-3189-4de7-8c5b-cf805f12ac22",
-            "6b161c1c-20f1-4e47-a951-d6cb48c7398a",
-            "7632d9d3-8d02-4af6-932c-0d7b59842e48",
-            "05d31dda-14ce-4b42-85d0-ce260a8379f0"
-        ]
-    },
     "33707072-fd9b-4e71-9628-e8ef7c428060": {
         "name": "End_KHX",
         "avatar": "https://avatars.steamstatic.com/0ad188d31431bafb9a4e7b1c73211a483be45b99_full.jpg",
@@ -135695,7 +135699,7 @@ var userData =
             "rating": 1041
         },
         "completions": {
-            "rank": 903,
+            "rank": 904,
             "count": 7
         },
         "steamId": "76561198322020297",
@@ -144786,7 +144790,7 @@ var userData =
             "rating": 801.101
         },
         "completions": {
-            "rank": 893,
+            "rank": 894,
             "count": 7
         },
         "steamId": "76561198072961934",
@@ -154042,7 +154046,7 @@ var userData =
             "rating": 785.773
         },
         "completions": {
-            "rank": 904,
+            "rank": 905,
             "count": 7
         },
         "steamId": "76561198068564510",
@@ -155098,7 +155102,7 @@ var userData =
             "rating": 791.455
         },
         "completions": {
-            "rank": 861,
+            "rank": 862,
             "count": 8
         },
         "steamId": "76561198046406094",
@@ -160354,7 +160358,7 @@ var userData =
             "rating": 634.236
         },
         "completions": {
-            "rank": 897,
+            "rank": 898,
             "count": 7
         },
         "steamId": "76561198810894708",
@@ -164102,7 +164106,7 @@ var userData =
             "rating": 589.878
         },
         "completions": {
-            "rank": 877,
+            "rank": 878,
             "count": 8
         },
         "steamId": "76561198147269934",
@@ -169124,7 +169128,7 @@ var userData =
             "rating": 712.016
         },
         "completions": {
-            "rank": 919,
+            "rank": 920,
             "count": 7
         },
         "steamId": "76561198863284976",
@@ -169611,7 +169615,7 @@ var userData =
             "rating": 643.777
         },
         "completions": {
-            "rank": 885,
+            "rank": 886,
             "count": 8
         },
         "steamId": "76561198066919531",
@@ -170799,7 +170803,7 @@ var userData =
             "rating": 671.555
         },
         "completions": {
-            "rank": 918,
+            "rank": 919,
             "count": 7
         },
         "steamId": "76561198257333853",
@@ -176001,7 +176005,7 @@ var userData =
             "rating": 667.09
         },
         "completions": {
-            "rank": 887,
+            "rank": 888,
             "count": 8
         },
         "steamId": "76561199148472537",
@@ -176080,7 +176084,7 @@ var userData =
             "rating": 612.505
         },
         "completions": {
-            "rank": 888,
+            "rank": 889,
             "count": 7
         },
         "steamId": "76561198262954096",
@@ -185511,7 +185515,7 @@ var userData =
             "rating": 483.037
         },
         "completions": {
-            "rank": 900,
+            "rank": 901,
             "count": 7
         },
         "steamId": "76561199137572691",
@@ -190843,7 +190847,7 @@ var userData =
             "rating": 531.238
         },
         "completions": {
-            "rank": 925,
+            "rank": 926,
             "count": 7
         },
         "steamId": "76561198125789198",
@@ -193259,7 +193263,7 @@ var userData =
             "rating": 499.085
         },
         "completions": {
-            "rank": 932,
+            "rank": 933,
             "count": 7
         },
         "steamId": "76561198816076505",
@@ -196733,7 +196737,7 @@ var userData =
             "rating": 459.118
         },
         "completions": {
-            "rank": 908,
+            "rank": 909,
             "count": 7
         },
         "steamId": "76561198348640870",
@@ -196972,7 +196976,7 @@ var userData =
             "rating": 507.956
         },
         "completions": {
-            "rank": 874,
+            "rank": 875,
             "count": 8
         },
         "steamId": "76561199207827196",
@@ -200809,7 +200813,7 @@ var userData =
             "rating": 503.3
         },
         "completions": {
-            "rank": 930,
+            "rank": 931,
             "count": 7
         },
         "steamId": "76561198033585732",
@@ -202845,7 +202849,7 @@ var userData =
             "rating": 476.065
         },
         "completions": {
-            "rank": 868,
+            "rank": 869,
             "count": 8
         },
         "steamId": "76561198049072419",
@@ -205149,7 +205153,7 @@ var userData =
             "rating": 434.138
         },
         "completions": {
-            "rank": 891,
+            "rank": 892,
             "count": 7
         },
         "steamId": "76561199309694628",
@@ -211891,7 +211895,7 @@ var userData =
             "rating": 325.912
         },
         "completions": {
-            "rank": 898,
+            "rank": 899,
             "count": 7
         },
         "steamId": "76561198045511304",
@@ -216144,7 +216148,7 @@ var userData =
             "rating": 402.498
         },
         "completions": {
-            "rank": 894,
+            "rank": 895,
             "count": 7
         },
         "steamId": "76561198392059004",
@@ -218882,7 +218886,7 @@ var userData =
             "rating": 392.677
         },
         "completions": {
-            "rank": 869,
+            "rank": 870,
             "count": 8
         },
         "steamId": "76561198367976820",
@@ -221303,7 +221307,7 @@ var userData =
             "rating": 364.787
         },
         "completions": {
-            "rank": 881,
+            "rank": 882,
             "count": 8
         },
         "steamId": "76561199250919157",
@@ -225094,7 +225098,7 @@ var userData =
             "rating": 348.101
         },
         "completions": {
-            "rank": 896,
+            "rank": 897,
             "count": 7
         },
         "steamId": "76561198066718773",
@@ -232174,7 +232178,7 @@ var userData =
             "rating": 319.13
         },
         "completions": {
-            "rank": 895,
+            "rank": 896,
             "count": 7
         },
         "steamId": "76561198084741352",
@@ -236926,7 +236930,7 @@ var userData =
             "rating": 349.65
         },
         "completions": {
-            "rank": 929,
+            "rank": 930,
             "count": 7
         },
         "steamId": "76561198312807199",
@@ -241519,7 +241523,7 @@ var userData =
             "rating": 300.255
         },
         "completions": {
-            "rank": 916,
+            "rank": 917,
             "count": 7
         },
         "steamId": "76561199178422615",
@@ -248610,7 +248614,7 @@ var userData =
             "rating": 320.15
         },
         "completions": {
-            "rank": 914,
+            "rank": 915,
             "count": 7
         },
         "steamId": "76561198184670547",
@@ -255628,7 +255632,7 @@ var userData =
             "rating": 262.533
         },
         "completions": {
-            "rank": 879,
+            "rank": 880,
             "count": 8
         },
         "steamId": "76561199207897404",
@@ -257733,7 +257737,7 @@ var userData =
             "rating": 259.109
         },
         "completions": {
-            "rank": 884,
+            "rank": 885,
             "count": 8
         },
         "steamId": "76561198056895096",
@@ -260988,7 +260992,7 @@ var userData =
             "rating": 236.41
         },
         "completions": {
-            "rank": 926,
+            "rank": 927,
             "count": 7
         },
         "steamId": "76561197963047901",
@@ -262740,7 +262744,7 @@ var userData =
             "rating": 255.328
         },
         "completions": {
-            "rank": 910,
+            "rank": 911,
             "count": 7
         },
         "steamId": "76561198191338067",
@@ -266048,7 +266052,7 @@ var userData =
             "rating": 179.883
         },
         "completions": {
-            "rank": 934,
+            "rank": 935,
             "count": 7
         },
         "steamId": "76561198134500222",
@@ -266983,7 +266987,7 @@ var userData =
             "rating": 243.963
         },
         "completions": {
-            "rank": 880,
+            "rank": 881,
             "count": 8
         },
         "steamId": "76561198116085105",
@@ -267826,7 +267830,7 @@ var userData =
             "rating": 198.575
         },
         "completions": {
-            "rank": 909,
+            "rank": 910,
             "count": 7
         },
         "steamId": "76561198101738570",
@@ -274116,7 +274120,7 @@ var userData =
             "rating": 207.68
         },
         "completions": {
-            "rank": 931,
+            "rank": 932,
             "count": 7
         },
         "steamId": "76561198120099395",
@@ -274291,7 +274295,7 @@ var userData =
             "rating": 203.386
         },
         "completions": {
-            "rank": 863,
+            "rank": 864,
             "count": 8
         },
         "steamId": "76561198039844910",
@@ -279358,7 +279362,7 @@ var userData =
             "rating": 216.148
         },
         "completions": {
-            "rank": 870,
+            "rank": 871,
             "count": 8
         },
         "steamId": "76561198169845777",
@@ -282600,7 +282604,7 @@ var userData =
             "rating": 212.415
         },
         "completions": {
-            "rank": 927,
+            "rank": 928,
             "count": 7
         },
         "steamId": "76561198324260866",
@@ -284808,7 +284812,7 @@ var userData =
             "rating": 196.674
         },
         "completions": {
-            "rank": 889,
+            "rank": 890,
             "count": 7
         },
         "steamId": "76561199066734218",
@@ -285567,7 +285571,7 @@ var userData =
             "rating": 201.036
         },
         "completions": {
-            "rank": 907,
+            "rank": 908,
             "count": 7
         },
         "steamId": "76561198273920718",
@@ -286431,7 +286435,7 @@ var userData =
             "rating": 200.796
         },
         "completions": {
-            "rank": 933,
+            "rank": 934,
             "count": 7
         },
         "steamId": "76561198352454742",
@@ -286632,7 +286636,7 @@ var userData =
             "rating": 201.575
         },
         "completions": {
-            "rank": 936,
+            "rank": 937,
             "count": 7
         },
         "steamId": "76561198336715610",
@@ -288342,7 +288346,7 @@ var userData =
             "rating": 206.525
         },
         "completions": {
-            "rank": 872,
+            "rank": 873,
             "count": 8
         },
         "steamId": "76561197991386429",
@@ -289772,7 +289776,7 @@ var userData =
             "rating": 194.51
         },
         "completions": {
-            "rank": 912,
+            "rank": 913,
             "count": 7
         },
         "steamId": "76561198042890044",
@@ -290944,7 +290948,7 @@ var userData =
             "rating": 194.611
         },
         "completions": {
-            "rank": 883,
+            "rank": 884,
             "count": 8
         },
         "steamId": "76561199470514137",
@@ -293181,7 +293185,7 @@ var userData =
             "rating": 180.101
         },
         "completions": {
-            "rank": 924,
+            "rank": 925,
             "count": 7
         },
         "steamId": "76561198077290165/",
@@ -295026,7 +295030,7 @@ var userData =
             "rating": 181.685
         },
         "completions": {
-            "rank": 892,
+            "rank": 893,
             "count": 7
         },
         "steamId": "76561198447014957",
@@ -296101,7 +296105,7 @@ var userData =
             "rating": 166.627
         },
         "completions": {
-            "rank": 921,
+            "rank": 922,
             "count": 7
         },
         "steamId": "76561199103446976",
@@ -296941,7 +296945,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fcdd4f249893454a55a7cb4adfbef48f898067b7_full.jpg",
         "points": 195,
         "skill": {
-            "rank": 1481,
+            "rank": 1482,
             "rating": 145.507
         },
         "completions": {
@@ -299227,7 +299231,7 @@ var userData =
             "rating": 176.27
         },
         "completions": {
-            "rank": 917,
+            "rank": 918,
             "count": 7
         },
         "steamId": "76561198281025267",
@@ -299831,7 +299835,7 @@ var userData =
             "rating": 166.822
         },
         "completions": {
-            "rank": 867,
+            "rank": 868,
             "count": 8
         },
         "steamId": "76561198059293293",
@@ -301026,7 +301030,7 @@ var userData =
             "rating": 166.755
         },
         "completions": {
-            "rank": 915,
+            "rank": 916,
             "count": 7
         },
         "steamId": "76561198264107269",
@@ -301480,7 +301484,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0b38274ceee2b77238722effb342c8b3da0a542f_full.jpg",
         "points": 185,
         "skill": {
-            "rank": 1486,
+            "rank": 1487,
             "rating": 143.531
         },
         "completions": {
@@ -302183,7 +302187,7 @@ var userData =
             "rating": 162.796
         },
         "completions": {
-            "rank": 862,
+            "rank": 863,
             "count": 8
         },
         "steamId": "76561198034227373",
@@ -303482,7 +303486,7 @@ var userData =
             "rating": 164.751
         },
         "completions": {
-            "rank": 902,
+            "rank": 903,
             "count": 7
         },
         "steamId": "76561198140531755",
@@ -304463,11 +304467,11 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
         "points": 180,
         "skill": {
-            "rank": 1518,
+            "rank": 1519,
             "rating": 138.836
         },
         "completions": {
-            "rank": 922,
+            "rank": 923,
             "count": 7
         },
         "steamId": "76561198198331023",
@@ -304579,7 +304583,7 @@ var userData =
             "rating": 153.068
         },
         "completions": {
-            "rank": 928,
+            "rank": 929,
             "count": 7
         },
         "steamId": "76561199011516029",
@@ -307696,7 +307700,7 @@ var userData =
             "rating": 160.585
         },
         "completions": {
-            "rank": 906,
+            "rank": 907,
             "count": 7
         },
         "steamId": "76561198978092583",
@@ -308143,7 +308147,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0274a866b12bc5ce8096b5481f2f48db75fc4100_full.jpg",
         "points": 170,
         "skill": {
-            "rank": 1506,
+            "rank": 1507,
             "rating": 140.09
         },
         "completions": {
@@ -308440,7 +308444,7 @@ var userData =
             "rating": 154.368
         },
         "completions": {
-            "rank": 873,
+            "rank": 874,
             "count": 8
         },
         "steamId": "76561199587408383",
@@ -309078,7 +309082,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/a9c1e730d20cc230518f0b336c23ad539614c3c9_full.jpg",
         "points": 165,
         "skill": {
-            "rank": 1487,
+            "rank": 1488,
             "rating": 143.505
         },
         "completions": {
@@ -309179,7 +309183,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fd7cd44f95ee0b587384dea3eeb7143ef10b544c_full.jpg",
         "points": 165,
         "skill": {
-            "rank": 1482,
+            "rank": 1483,
             "rating": 144.154
         },
         "completions": {
@@ -309551,7 +309555,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/dd49b4d8941465629f13ca452c1641f029481882_full.jpg",
         "points": 165,
         "skill": {
-            "rank": 1492,
+            "rank": 1493,
             "rating": 143.112
         },
         "completions": {
@@ -309805,7 +309809,7 @@ var userData =
             "rating": 154.028
         },
         "completions": {
-            "rank": 866,
+            "rank": 867,
             "count": 8
         },
         "steamId": "76561198217979953",
@@ -312200,7 +312204,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/03f0f2276ece5ffb7002af7e8a568e82e8022f1b_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1541,
+            "rank": 1542,
             "rating": 134.746
         },
         "completions": {
@@ -312555,7 +312559,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e0c6c16b7c3c4bab26ed86ebf7048745d529bd41_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1535,
+            "rank": 1536,
             "rating": 135.503
         },
         "completions": {
@@ -312654,7 +312658,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/4cf9dff5f248b78d091d6917a252eefa9cf58eea_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1525,
+            "rank": 1526,
             "rating": 137.291
         },
         "completions": {
@@ -313032,7 +313036,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2800928fea8dd9d488910bec9837e71a3b55b6f4_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1536,
+            "rank": 1537,
             "rating": 135.112
         },
         "completions": {
@@ -313909,7 +313913,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fc18b1dc7a26120b94dafec81d737c0a5b4c4b0f_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1504,
+            "rank": 1505,
             "rating": 140.211
         },
         "completions": {
@@ -314557,7 +314561,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8cd7f9a9091ff23b8961f1c46ab22f986c271062_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1499,
+            "rank": 1500,
             "rating": 141.841
         },
         "completions": {
@@ -314906,7 +314910,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/eecaddd27f82b352e3060a060ccb378d340c8a07_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1561,
+            "rank": 1562,
             "rating": 131.103
         },
         "completions": {
@@ -315088,7 +315092,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/011ffdfa0604aafe24cddf5f5d20e40785f67869_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1502,
+            "rank": 1503,
             "rating": 141.211
         },
         "completions": {
@@ -315202,11 +315206,11 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8b2c9fc1ccdf1f31dc71b21498358eb8219a72dc_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1528,
+            "rank": 1529,
             "rating": 136.589
         },
         "completions": {
-            "rank": 935,
+            "rank": 936,
             "count": 7
         },
         "steamId": "76561199103065513",
@@ -315268,7 +315272,7 @@ var userData =
             "rating": 150.171
         },
         "completions": {
-            "rank": 876,
+            "rank": 877,
             "count": 8
         },
         "steamId": "76561198064105390",
@@ -315522,7 +315526,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5b9b6bfed578e372a40c4a9f6fcc884a97fd19b1_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1498,
+            "rank": 1499,
             "rating": 141.952
         },
         "completions": {
@@ -315913,7 +315917,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fb0845f7491d1f3b301967a4a9633030ae818cc8_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1533,
+            "rank": 1534,
             "rating": 135.648
         },
         "completions": {
@@ -316019,7 +316023,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/76c5ae298fa565f444c5e4bacbdaf04effdc6576_full.jpg",
         "points": 160,
         "skill": {
-            "rank": 1562,
+            "rank": 1563,
             "rating": 130.908
         },
         "completions": {
@@ -316730,7 +316734,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0115cebdf58fef1b88fcb2b101f40aff5cade8f2_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1520,
+            "rank": 1521,
             "rating": 138.746
         },
         "completions": {
@@ -317141,11 +317145,11 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ddc9f9d13b9a72bcff87ae65629d6437f841499c_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1493,
+            "rank": 1494,
             "rating": 143.04
         },
         "completions": {
-            "rank": 913,
+            "rank": 914,
             "count": 7
         },
         "steamId": "76561199477224807",
@@ -317400,7 +317404,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/625244388fb47e8fbb420528cec248dba801452f_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1495,
+            "rank": 1496,
             "rating": 142.685
         },
         "completions": {
@@ -317824,7 +317828,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7e6a90142fec1476c3f326f8fd6915dc9a74fed9_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1485,
+            "rank": 1486,
             "rating": 143.635
         },
         "completions": {
@@ -317895,7 +317899,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2e51a01100ba0bb1a56fee80e3781cbf056bb2cf_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1510,
+            "rank": 1511,
             "rating": 139.696
         },
         "completions": {
@@ -318215,7 +318219,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/021798f93cc68fd99502de0946ab81a762c4e2e1_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1488,
+            "rank": 1489,
             "rating": 143.501
         },
         "completions": {
@@ -318773,7 +318777,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c68184dea501104f6927ce74f76831bce050e800_full.jpg",
         "points": 155,
         "skill": {
-            "rank": 1519,
+            "rank": 1520,
             "rating": 138.813
         },
         "completions": {
@@ -319028,7 +319032,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/dfe85b340385a0a5d4dc6e24f7ea121abb08536e_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1512,
+            "rank": 1513,
             "rating": 139.27
         },
         "completions": {
@@ -319110,7 +319114,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/526028d7abeda38df7312a2fbba13b65e368d501_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1547,
+            "rank": 1548,
             "rating": 133.918
         },
         "completions": {
@@ -319287,7 +319291,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e2a186abbf033c14cd68adf5d100be93244b1417_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1491,
+            "rank": 1492,
             "rating": 143.15
         },
         "completions": {
@@ -319373,7 +319377,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b4345e1469dc1f316bc49000c85ec40a9a8ec700_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1480,
+            "rank": 1481,
             "rating": 145.55
         },
         "completions": {
@@ -319471,7 +319475,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/edbc206f7f3e860300c5053b283b49e770d5caab_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1526,
+            "rank": 1527,
             "rating": 137.028
         },
         "completions": {
@@ -319540,12 +319544,47 @@ var userData =
             "f5911e24-699d-4cc1-a1cf-735d0f362e59"
         ]
     },
+    "36f9da41-b2cc-4143-b9e8-bf15b4364071": {
+        "name": "vamie_coff",
+        "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+        "points": 150,
+        "skill": {
+            "rank": 1480,
+            "rating": 145.65
+        },
+        "completions": {
+            "rank": 2222,
+            "count": 1
+        },
+        "steamId": "76561199418154575",
+        "retroId": "N/A",
+        "gamesPoints": {
+            "3b1bcce0-4491-4d54-80be-e228791bc27e": {
+                "points": 100
+            },
+            "f5002235-3248-453d-93b8-b96736bb4712": {
+                "points": 20
+            },
+            "46217abd-fa12-4ba1-8f3c-ff760a7d3917": {
+                "points": 15
+            },
+            "c8906347-17c6-4712-9e4f-b57fb8e591ac": {
+                "points": 15
+            }
+        },
+        "gamesNoPoints": [
+            "2122531e-7f5a-4c96-a329-28c3f12aa94d",
+            "92c8c25e-67e2-4bb3-a666-77971669932b",
+            "bd3b5df5-89e7-496d-b1b5-ca2503cf9921",
+            "c02ab048-9e97-4dc6-a93e-cad11ae6f613"
+        ]
+    },
     "47b172f4-0719-493f-95aa-c48325780af3": {
         "name": "shiumaikun",
         "avatar": "https://avatars.steamstatic.com/27c98feb05d1f47c7d1426b6f531f73af943c5ea_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1496,
+            "rank": 1497,
             "rating": 142.135
         },
         "completions": {
@@ -319603,7 +319642,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7dfe2514eb6563bffb44c8e5002291b6b3a981bd_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1515,
+            "rank": 1516,
             "rating": 139.051
         },
         "completions": {
@@ -319678,7 +319717,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/df5978df4630664edd7c37c53f686a391d9fd168_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1501,
+            "rank": 1502,
             "rating": 141.25
         },
         "completions": {
@@ -319759,7 +319798,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/021f80f6d2847abf1f77d372d8e3edc34da4097a_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1503,
+            "rank": 1504,
             "rating": 140.99
         },
         "completions": {
@@ -319995,7 +320034,7 @@ var userData =
         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e93528f9920cda04fdd1c858fc7121d162445d22_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1543,
+            "rank": 1544,
             "rating": 134.548
         },
         "completions": {
@@ -320265,7 +320304,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0bf0151c1c94d2cee0eb300e624a7c0cc28f4b89_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1556,
+            "rank": 1557,
             "rating": 131.551
         },
         "completions": {
@@ -320498,7 +320537,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/97f57b58d639bf7e7f0de30ba44f013c32281139_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1494,
+            "rank": 1495,
             "rating": 142.89
         },
         "completions": {
@@ -320578,7 +320617,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/90938cd4cc22343a1da6c76a427cfa7a52357bc7_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1484,
+            "rank": 1485,
             "rating": 143.745
         },
         "completions": {
@@ -320752,7 +320791,7 @@ var userData =
         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/91a09b0fa2b5d5dfa57ccfb86f0fba2226b9f6e9_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1532,
+            "rank": 1533,
             "rating": 135.696
         },
         "completions": {
@@ -320960,7 +320999,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0360a7b8e7f7cc1b92299b1603d18d6c66d721db_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1539,
+            "rank": 1540,
             "rating": 134.928
         },
         "completions": {
@@ -321070,7 +321109,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e2759effdafe698c2d2adfb5f7ca285ae6bb57fb_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1500,
+            "rank": 1501,
             "rating": 141.39
         },
         "completions": {
@@ -321802,7 +321841,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/851a4d8955ac4ba6de2fa315e3c6dce13cdd8e39_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1483,
+            "rank": 1484,
             "rating": 144.1
         },
         "completions": {
@@ -322209,7 +322248,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/90e2d499534346945eea2fc27b1780954a1447d0_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1549,
+            "rank": 1550,
             "rating": 133.611
         },
         "completions": {
@@ -322348,7 +322387,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/1f0550cfb8edad12cc80f844decf74d711ee3ea4_full.jpg",
         "points": 150,
         "skill": {
-            "rank": 1553,
+            "rank": 1554,
             "rating": 132.584
         },
         "completions": {
@@ -322765,7 +322804,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/948c461cc627855fa76092f6b09ced4b74680b16_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1517,
+            "rank": 1518,
             "rating": 138.88
         },
         "completions": {
@@ -322846,7 +322885,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5f687aa4ee7fc99633af0e86965cec3e19ed0eb0_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1522,
+            "rank": 1523,
             "rating": 138.295
         },
         "completions": {
@@ -323052,7 +323091,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e1db7c3fc40e55d1f5ecb7f6e7ff2332db2be814_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1489,
+            "rank": 1490,
             "rating": 143.5
         },
         "completions": {
@@ -323311,7 +323350,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/06175d3938f1203e80bcbf5898d7ca803e7555eb_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1514,
+            "rank": 1515,
             "rating": 139.1
         },
         "completions": {
@@ -323388,7 +323427,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5e9ac8a9feb272eb3610d7a238bf7a5761491c71_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1490,
+            "rank": 1491,
             "rating": 143.5
         },
         "steamId": "76561198996874329",
@@ -323419,7 +323458,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/974b46ce98510f40976c631e29964a205e28671b_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1564,
+            "rank": 1565,
             "rating": 130.818
         },
         "completions": {
@@ -323720,7 +323759,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/f25b7e4b0ee8788e204da395c404b601ba10bf38_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1560,
+            "rank": 1561,
             "rating": 131.403
         },
         "completions": {
@@ -323814,7 +323853,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ecbdfb9dcbb69c5fa575b2745d29464cddb7a23d_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1507,
+            "rank": 1508,
             "rating": 140
         },
         "completions": {
@@ -323880,7 +323919,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/6261535e18feb444d8411bb0299cc8d459763841_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1511,
+            "rank": 1512,
             "rating": 139.65
         },
         "completions": {
@@ -324177,7 +324216,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/52b028f7fa4a4cb147c3af7d82865fb0f7626b6e_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1521,
+            "rank": 1522,
             "rating": 138.39
         },
         "steamId": "76561198328460706",
@@ -324217,7 +324256,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/31d8fb7edfe4c0cde2f92bda170843f75f58454e_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1551,
+            "rank": 1552,
             "rating": 133.171
         },
         "completions": {
@@ -324362,7 +324401,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/6a70f3c06ddae902355361efc18a099dec3a6b1a_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1530,
+            "rank": 1531,
             "rating": 135.75
         },
         "completions": {
@@ -324431,7 +324470,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/65bc67d1ec3108c591d1d5906eb3a31faf6af97e_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1563,
+            "rank": 1564,
             "rating": 130.82
         },
         "completions": {
@@ -324916,7 +324955,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/40bf29a0a7d3e4a36e64456677985317e46ff3de_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1513,
+            "rank": 1514,
             "rating": 139.15
         },
         "completions": {
@@ -325223,7 +325262,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c95a5be047eb380bee8e55335700e875fec49ab4_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1523,
+            "rank": 1524,
             "rating": 137.94
         },
         "steamId": "76561198228123476",
@@ -325279,7 +325318,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/56f514fccdd8902dbe4c0e05513e268247f18327_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1497,
+            "rank": 1498,
             "rating": 142.05
         },
         "completions": {
@@ -325423,7 +325462,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2263fd8c19e9ace2de133f3d0cf7387bc12d6c12_full.jpg",
         "points": 145,
         "skill": {
-            "rank": 1505,
+            "rank": 1506,
             "rating": 140.15
         },
         "completions": {
@@ -325461,7 +325500,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5b08dba9917926abea5f38d1a5e0d8f708800485_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1538,
+            "rank": 1539,
             "rating": 135
         },
         "completions": {
@@ -325641,7 +325680,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/78b97da20cf027295b93f2a7501f4f958abc50b1_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1544,
+            "rank": 1545,
             "rating": 134.025
         },
         "completions": {
@@ -325824,7 +325863,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/975a29f28c71a0860bd080c4550d9908739b96e3_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1554,
+            "rank": 1555,
             "rating": 132.39
         },
         "completions": {
@@ -326166,7 +326205,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fc37889935d1086a9a65cb697707efda44482671_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1542,
+            "rank": 1543,
             "rating": 134.6
         },
         "completions": {
@@ -326465,7 +326504,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2c4b361f1a9990596cd19a35cd7dcf4c736c5916_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1545,
+            "rank": 1546,
             "rating": 134
         },
         "completions": {
@@ -326810,7 +326849,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/aac8107f967ff9fced3e102edae7149ef0efac2d_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1516,
+            "rank": 1517,
             "rating": 139
         },
         "completions": {
@@ -326886,7 +326925,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/9b75026a74c0ef0efc8c2f59fb9c2e242a9fb5b7_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1524,
+            "rank": 1525,
             "rating": 137.55
         },
         "completions": {
@@ -326930,7 +326969,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/df7b510c74722f40743c1b16bfc2d1b870eae9da_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1552,
+            "rank": 1553,
             "rating": 132.94
         },
         "completions": {
@@ -326992,7 +327031,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/71faf28c70af02290073cf872ef6a38c5db3f8cd_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1537,
+            "rank": 1538,
             "rating": 135.1
         },
         "completions": {
@@ -327064,7 +327103,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/a627d3c0e9fe310d6ce9538c3594376522acbb00_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1550,
+            "rank": 1551,
             "rating": 133.475
         },
         "completions": {
@@ -327568,7 +327607,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/be65902c43f582d8c064c0fed73dceaf885b6455_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1527,
+            "rank": 1528,
             "rating": 136.6
         },
         "completions": {
@@ -327856,11 +327895,11 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/4f511fab11feabc97308502d20eb8e43242e26f9_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1534,
+            "rank": 1535,
             "rating": 135.6
         },
         "completions": {
-            "rank": 871,
+            "rank": 872,
             "count": 8
         },
         "steamId": "76561199172922602",
@@ -327928,7 +327967,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7622632523e371254c4287fe66fcae0253482150_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1540,
+            "rank": 1541,
             "rating": 134.75
         },
         "completions": {
@@ -327970,7 +328009,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ff59816cfa5ff566c1f21364b6a577e9e318cb8e_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1559,
+            "rank": 1560,
             "rating": 131.44
         },
         "completions": {
@@ -328075,7 +328114,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ab115833f0c8222ab7ddb53b00d47ab420082a02_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1529,
+            "rank": 1530,
             "rating": 136
         },
         "completions": {
@@ -328174,7 +328213,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/d7d38b981a2472abfb4b345b06a6705266d2b5fa_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1555,
+            "rank": 1556,
             "rating": 131.845
         },
         "completions": {
@@ -328216,7 +328255,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e18f99959c4049990699bf3b5ff504c7833dd2c8_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1531,
+            "rank": 1532,
             "rating": 135.745
         },
         "completions": {
@@ -328457,7 +328496,7 @@ var userData =
         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/92/92bca05dd3dd8a9806993229d3bdd4e0a2e27bfd_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1548,
+            "rank": 1549,
             "rating": 133.745
         },
         "completions": {
@@ -328549,7 +328588,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/4968963d21bf93e03c9f74b0f1dc04083b6beca7_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1508,
+            "rank": 1509,
             "rating": 140
         },
         "steamId": "76561198279172818",
@@ -328585,7 +328624,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/9d92e9bafdde7697bcae79eab1538c272e16e3c0_full.jpg",
         "points": 140,
         "skill": {
-            "rank": 1509,
+            "rank": 1510,
             "rating": 140
         },
         "completions": {
@@ -329341,40 +329380,6 @@ var userData =
             "5c0aced2-5141-4cf4-8eaa-cf15a673cf4c"
         ]
     },
-    "36f9da41-b2cc-4143-b9e8-bf15b4364071": {
-        "name": "vamie_coff",
-        "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-        "points": 135,
-        "skill": {
-            "rank": 1566,
-            "rating": 130.65
-        },
-        "completions": {
-            "rank": 2222,
-            "count": 1
-        },
-        "steamId": "76561199418154575",
-        "retroId": "N/A",
-        "gamesPoints": {
-            "3b1bcce0-4491-4d54-80be-e228791bc27e": {
-                "points": 100
-            },
-            "46217abd-fa12-4ba1-8f3c-ff760a7d3917": {
-                "points": 15
-            },
-            "c8906347-17c6-4712-9e4f-b57fb8e591ac": {
-                "points": 15
-            },
-            "f5002235-3248-453d-93b8-b96736bb4712": {
-                "points": 5
-            }
-        },
-        "gamesNoPoints": [
-            "2122531e-7f5a-4c96-a329-28c3f12aa94d",
-            "92c8c25e-67e2-4bb3-a666-77971669932b",
-            "bd3b5df5-89e7-496d-b1b5-ca2503cf9921"
-        ]
-    },
     "49ea68a5-e348-46fb-91a3-3a74e0f2e85a": {
         "name": "DogelordCS",
         "avatar": "https://avatars.akamai.steamstatic.com/6e35371c57cb24025329cb71d9edc6cf9566a1c2_full.jpg",
@@ -329465,7 +329470,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7cb17f4b7516a1a87e01baad153e0591e122fc84_full.jpg",
         "points": 135,
         "skill": {
-            "rank": 1546,
+            "rank": 1547,
             "rating": 134
         },
         "completions": {
@@ -330371,7 +330376,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f307f41a3d9522034c456b1cb16dbdcddcedcd40_full.jpg",
         "points": 135,
         "skill": {
-            "rank": 1558,
+            "rank": 1559,
             "rating": 131.5
         },
         "completions": {
@@ -330521,7 +330526,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/83bc8aad57e5bb7b8972a55a3383f7b23d45a040_full.jpg",
         "points": 135,
         "skill": {
-            "rank": 1565,
+            "rank": 1566,
             "rating": 130.795
         },
         "completions": {
@@ -330883,7 +330888,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fdb6c53213e1d3fa7bff3a46398af08eb6543482_full.jpg",
         "points": 135,
         "skill": {
-            "rank": 1557,
+            "rank": 1558,
             "rating": 131.55
         },
         "completions": {
@@ -341170,7 +341175,7 @@ var userData =
             "rating": 109.978
         },
         "completions": {
-            "rank": 875,
+            "rank": 876,
             "count": 8
         },
         "steamId": "76561198989399259",
@@ -341849,7 +341854,7 @@ var userData =
             "rating": 113.2
         },
         "completions": {
-            "rank": 886,
+            "rank": 887,
             "count": 8
         },
         "steamId": "76561198088478558",
@@ -343595,7 +343600,7 @@ var userData =
             "rating": 102.415
         },
         "completions": {
-            "rank": 923,
+            "rank": 924,
             "count": 7
         },
         "steamId": "76561198041804016",
@@ -350215,7 +350220,7 @@ var userData =
             "rating": 99.2705
         },
         "completions": {
-            "rank": 878,
+            "rank": 879,
             "count": 8
         },
         "steamId": "76561198001218206",
@@ -354041,7 +354046,7 @@ var userData =
             "rating": 88.9559
         },
         "completions": {
-            "rank": 882,
+            "rank": 883,
             "count": 8
         },
         "steamId": "76561198077613025",
@@ -359012,7 +359017,7 @@ var userData =
             "rating": 89.245
         },
         "completions": {
-            "rank": 911,
+            "rank": 912,
             "count": 7
         },
         "steamId": "76561198065869716",
@@ -359475,7 +359480,7 @@ var userData =
             "rating": 80.8302
         },
         "completions": {
-            "rank": 920,
+            "rank": 921,
             "count": 7
         },
         "steamId": "76561198382435358",
@@ -377481,7 +377486,7 @@ var userData =
             "rating": 69.4755
         },
         "completions": {
-            "rank": 865,
+            "rank": 866,
             "count": 8
         },
         "steamId": "76561198057132010",
@@ -393797,7 +393802,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/a9c28b4e8c27f376c4b30d1f451cbfacc25d0c39_full.jpg",
         "points": 60,
         "skill": {
-            "rank": 2356,
+            "rank": 2357,
             "rating": 48.9035
         },
         "steamId": "76561198182042561",
@@ -395370,7 +395375,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0b25d0c7ae09b25b5b8181b3759231284797f3df_full.jpg",
         "points": 60,
         "skill": {
-            "rank": 2357,
+            "rank": 2358,
             "rating": 48.9035
         },
         "steamId": "76561198237611882",
@@ -396170,7 +396175,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/509f56c5fac5c19cba34aab859515f139822db67_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2358,
+            "rank": 2359,
             "rating": 48.89
         },
         "completions": {
@@ -396978,7 +396983,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/589decf780ae72899444ce0106106c6d661f7554_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2400,
+            "rank": 2401,
             "rating": 45.623
         },
         "steamId": "76561198188102031",
@@ -397126,7 +397131,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/510bf85a383ebdfc11626854b13c781c7bb508a0_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2381,
+            "rank": 2382,
             "rating": 47.1705
         },
         "steamId": "76561199230209215",
@@ -399943,7 +399948,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/aeafab31a4007ac81dc6e0f8e7d4762d72374a54_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2382,
+            "rank": 2383,
             "rating": 47.1705
         },
         "completions": {
@@ -400003,7 +400008,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/892f61e97fdda20b1c58dbb8e4b6fa91e2e94d75_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2393,
+            "rank": 2394,
             "rating": 45.951
         },
         "steamId": "76561198189184450",
@@ -400859,7 +400864,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/aac370393694cb530d7fdf537c1871502b578eae_full.jpg",
         "points": 55,
         "skill": {
-            "rank": 2387,
+            "rank": 2388,
             "rating": 46.978
         },
         "completions": {
@@ -402525,7 +402530,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/5c8486e6c622b58f4efdf391003b776f83fb67d9_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2390,
+            "rank": 2391,
             "rating": 46.6
         },
         "steamId": "76561198143296667",
@@ -402558,7 +402563,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/56ef592e81504c5fcd9f804045036fa991745cae_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2377,
+            "rank": 2378,
             "rating": 47.5
         },
         "steamId": "76561198385560419",
@@ -402581,7 +402586,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/cde5914b337b3737435160baf96da2f3fe81a5dc_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2391,
+            "rank": 2392,
             "rating": 46.6
         },
         "completions": {
@@ -402894,7 +402899,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/896f4e3957d37a184879e875a1585f71428ca503_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2363,
+            "rank": 2364,
             "rating": 48.05
         },
         "steamId": "76561199433780803",
@@ -403112,7 +403117,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/d38ac0ba5a032b241ad3342b52f9ba7330b8b38a_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2423,
+            "rank": 2424,
             "rating": 44.39
         },
         "steamId": "76561198135336716",
@@ -403425,7 +403430,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2388,
+            "rank": 2389,
             "rating": 46.695
         },
         "steamId": "76561198045702571",
@@ -403484,7 +403489,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e169fc216b24f20d85659584b63692866794d7d6_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2394,
+            "rank": 2395,
             "rating": 45.745
         },
         "steamId": "76561198223900644",
@@ -403528,7 +403533,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/92854790f85ec442e01cf8f683a5876423436ee6_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2380,
+            "rank": 2381,
             "rating": 47.195
         },
         "completions": {
@@ -403590,7 +403595,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/65d1e1bae29761eef9d71d3415fef80e45dd1a9d_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2395,
+            "rank": 2396,
             "rating": 45.745
         },
         "completions": {
@@ -403777,7 +403782,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c6d8b8277fd66b00cddd1130d8442224cfaff3e4_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2364,
+            "rank": 2365,
             "rating": 48.05
         },
         "completions": {
@@ -403841,7 +403846,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8d5d360f2ca6c6bf4942ee7fbe0d6b883b282439_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2360,
+            "rank": 2361,
             "rating": 48.5
         },
         "completions": {
@@ -403884,7 +403889,7 @@ var userData =
         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/950f9f3147d4c8530a5072825d01c34ee3f1afa1_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2389,
+            "rank": 2390,
             "rating": 46.695
         },
         "completions": {
@@ -404131,7 +404136,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/56c0230a1b64fc4066eb4d73a49cd1d34ee6ce93_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2361,
+            "rank": 2362,
             "rating": 48.5
         },
         "completions": {
@@ -404482,7 +404487,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/de7aed4299406a52b01b0fc087ec5eb1d380b7e7_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2401,
+            "rank": 2402,
             "rating": 45.245
         },
         "completions": {
@@ -404560,7 +404565,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b2e6f9c5af94c97109abc8aa631cc7bfadaec523_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2383,
+            "rank": 2384,
             "rating": 47.1
         },
         "completions": {
@@ -404775,7 +404780,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/690eead118cd559a5ca2259e4476c0ec9dbf2a52_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2399,
+            "rank": 2400,
             "rating": 45.695
         },
         "completions": {
@@ -404923,7 +404928,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/be65902c43f582d8c064c0fed73dceaf885b6455_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2424,
+            "rank": 2425,
             "rating": 44.39
         },
         "completions": {
@@ -405044,12 +405049,58 @@ var userData =
             "d89eac1b-d042-485b-9f92-7e20aa5bf337"
         ]
     },
+    "65f5a344-3663-4b1b-bf06-fbca19f53634": {
+        "name": "polygon",
+        "avatar": "https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d_full.jpg",
+        "points": 50,
+        "skill": {
+            "rank": 2347,
+            "rating": 49
+        },
+        "steamId": "76561198847642567",
+        "retroId": "N/A",
+        "gamesPoints": {
+            "1f67cb6d-926b-4af5-877e-73d3050d4684": {
+                "points": 35
+            },
+            "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
+                "points": 10
+            },
+            "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
+                "points": 5
+            }
+        },
+        "gamesNoPoints": [
+            "7b40692a-c9cd-4540-9e47-6942fb02c321",
+            "989b037e-7746-45a3-bf50-e86c190192a0",
+            "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5",
+            "bedaf17e-a054-4973-b2f6-71140fec4cbb",
+            "c571833c-d196-401c-b7b7-c09f384c8f20",
+            "00e18e29-db63-44a2-964a-2d51771a5ae3",
+            "c98bced4-e6d7-4034-8e85-5208d1487f8d",
+            "d807b4a9-f957-444e-ab8e-2ea76a11cc17",
+            "e7b09b01-e52f-443e-97a3-cd1aac854b3f",
+            "790590f1-b29b-4357-8e0f-51df2dde00ab",
+            "56be6b0c-365c-4741-a60f-84743133a55a",
+            "557c467d-243c-4179-9fc9-6256f3cc071a",
+            "0ade411b-db3d-42ad-a5e8-d9748e57f062",
+            "0c10c492-c431-41fb-9fbf-89526130b3f4",
+            "172a248a-1d49-4380-80a8-3810c340252d",
+            "1e2b4f12-228a-4786-8876-f04faba55134",
+            "22177e06-2002-488a-8c90-fe3ff3849647",
+            "35d705c9-5dc5-4857-a35e-998da34bd760",
+            "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d",
+            "50d89c40-3346-4ec2-a83e-6417c8630b72",
+            "535d2f2f-ed84-4d60-92e6-1059440eee17",
+            "f5002235-3248-453d-93b8-b96736bb4712"
+        ]
+    },
     "7cba036c-a76f-46f1-931a-aefb553983d0": {
         "name": "Lari\uff20",
         "avatar": "https://avatars.steamstatic.com/725d317b71e20b295ee3511ba5df0742f5129035_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2396,
+            "rank": 2397,
             "rating": 45.745
         },
         "completions": {
@@ -405199,7 +405250,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2372,
+            "rank": 2373,
             "rating": 47.55
         },
         "completions": {
@@ -405251,7 +405302,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c5b62285aa99150c3d4b68997a5532cbb721302a_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2365,
+            "rank": 2366,
             "rating": 48.05
         },
         "completions": {
@@ -405375,7 +405426,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/3c08c08de6951f9a98d35d00734397859ba3567d_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2386,
+            "rank": 2387,
             "rating": 47.05
         },
         "completions": {
@@ -405422,7 +405473,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2384,
+            "rank": 2385,
             "rating": 47.1
         },
         "steamId": "76561199586223177",
@@ -405453,7 +405504,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8d2703ec9c8134cdca2b7a52a84539b6cd238421_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2378,
+            "rank": 2379,
             "rating": 47.5
         },
         "completions": {
@@ -405498,7 +405549,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/f4c7d9f045976418c51f05416c7e0aa6f3909088_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2397,
+            "rank": 2398,
             "rating": 45.745
         },
         "steamId": "76561198162948317",
@@ -405590,7 +405641,7 @@ var userData =
         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/37/37ec5733a80cbcf70649fa9f9efede9ef08c0c40_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2367,
+            "rank": 2368,
             "rating": 48
         },
         "completions": {
@@ -405626,7 +405677,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/24c4c16ef5e65005a262cc8cce7ed4405ea76810_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2425,
+            "rank": 2426,
             "rating": 44.0255
         },
         "completions": {
@@ -405704,7 +405755,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/752eb38c3b0bc6f74708ec2c3d44d00bda41edde_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2347,
+            "rank": 2348,
             "rating": 49
         },
         "completions": {
@@ -405774,7 +405825,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/1ab2cbaf2a1b435f94487e6eada56af561393f6f_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2368,
+            "rank": 2369,
             "rating": 48
         },
         "completions": {
@@ -405865,7 +405916,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/a9e5656a3a26560f58de62990c4e131459924325_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2348,
+            "rank": 2349,
             "rating": 49
         },
         "completions": {
@@ -406384,7 +406435,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2373,
+            "rank": 2374,
             "rating": 47.55
         },
         "completions": {
@@ -406427,7 +406478,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/0963b70737ccf3c29143d7b3238fda06fc7df4fe_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2349,
+            "rank": 2350,
             "rating": 49
         },
         "completions": {
@@ -407063,7 +407114,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2541e17e6a17f3b7912b882aded326a84d2c1969_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2350,
+            "rank": 2351,
             "rating": 49
         },
         "completions": {
@@ -407237,7 +407288,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/29a07af1bb1343f89c25ac511fa3f909a461bbbc_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2398,
+            "rank": 2399,
             "rating": 45.745
         },
         "completions": {
@@ -407305,7 +407356,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/1a57e00c14965e5efd6689f8c08ab1ab426d860d_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2374,
+            "rank": 2375,
             "rating": 47.55
         },
         "completions": {
@@ -407535,7 +407586,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2478d1e13009351448edf1b72280adf52db9f0f6_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2369,
+            "rank": 2370,
             "rating": 48
         },
         "completions": {
@@ -407649,7 +407700,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f8492b1b276c323b12ec6b47cf334db09bce636b_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2366,
+            "rank": 2367,
             "rating": 48.05
         },
         "completions": {
@@ -407704,7 +407755,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/34bd3bf3d761c04f23138971c3ab1e45ea4769bf_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2351,
+            "rank": 2352,
             "rating": 49
         },
         "completions": {
@@ -407862,7 +407913,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f4593f784c8c25ad216232b10822c9caef9e0c43_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2370,
+            "rank": 2371,
             "rating": 48
         },
         "completions": {
@@ -408171,7 +408222,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/bdc997d86b94914e0a3b267643a2a61780629e92_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2385,
+            "rank": 2386,
             "rating": 47.1
         },
         "steamId": "76561198108952791",
@@ -408227,7 +408278,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/6c89ca2af8d09423a5af17fd3a4662cb79f4ecc9_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2359,
+            "rank": 2360,
             "rating": 48.55
         },
         "completions": {
@@ -408289,7 +408340,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2532375d1c53b82cf5af507c98490762fc7ffa70_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2379,
+            "rank": 2380,
             "rating": 47.5
         },
         "steamId": "76561198304457943",
@@ -408320,7 +408371,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/711e07c5895f35cb3523620b2a240534ef5354d3_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2352,
+            "rank": 2353,
             "rating": 49
         },
         "completions": {
@@ -408375,7 +408426,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/53590b020d23119fd7c0cdec7c47a167c831e7d9_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2362,
+            "rank": 2363,
             "rating": 48.1
         },
         "steamId": "76561198104533345",
@@ -408436,7 +408487,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/476a52fb27f24b1276bd47b0303c019d01e41bba_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2353,
+            "rank": 2354,
             "rating": 49
         },
         "completions": {
@@ -408497,7 +408548,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ff6b14360eae49a3303c7262d475befa7c3a3cdb_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2375,
+            "rank": 2376,
             "rating": 47.55
         },
         "completions": {
@@ -408566,7 +408617,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f66a1c97c9b5a51a4a6c1c64ddb738946fe40990_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2354,
+            "rank": 2355,
             "rating": 49
         },
         "steamId": "76561198043322264",
@@ -408637,7 +408688,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/9523482766874489297fc76f8399bd4a079fe4d2_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2376,
+            "rank": 2377,
             "rating": 47.55
         },
         "completions": {
@@ -408695,7 +408746,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/be5d5d7bda768f6b5cbf76d0897557670080ed8c_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2371,
+            "rank": 2372,
             "rating": 48
         },
         "steamId": "76561198062197497",
@@ -408749,7 +408800,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/1191c81a57194f64acfcda94f0fd0cb94e92eff7_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2392,
+            "rank": 2393,
             "rating": 46.1
         },
         "completions": {
@@ -408784,7 +408835,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/2a23ad2e43ccced8ba068ea46c9fd4c14cc4a056_full.jpg",
         "points": 50,
         "skill": {
-            "rank": 2355,
+            "rank": 2356,
             "rating": 49
         },
         "steamId": "76561199045251653",
@@ -408869,7 +408920,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/19c6fa0ba96030c8cc25130dca324362ee965212_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2426,
+            "rank": 2427,
             "rating": 44
         },
         "completions": {
@@ -409336,7 +409387,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/73787f3ceab5c34ba14474a535e0e5f04c76a835_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2402,
+            "rank": 2403,
             "rating": 45
         },
         "steamId": "76561198120219556",
@@ -409370,7 +409421,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/6d0d5774123e33e4fbfa957dbc8bf3cd9e9d5975_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2427,
+            "rank": 2428,
             "rating": 44
         },
         "completions": {
@@ -409426,7 +409477,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/598d7eed8af71066f8ec5fdfe7add386e28afd8c_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2403,
+            "rank": 2404,
             "rating": 45
         },
         "completions": {
@@ -409469,7 +409520,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5c25d9515b0868293bf21e432e07ec95958f3dc3_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2428,
+            "rank": 2429,
             "rating": 44
         },
         "completions": {
@@ -409621,7 +409672,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/1ef65a4ba70e1b17344caca67e64a53c5c50336e_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2429,
+            "rank": 2430,
             "rating": 44
         },
         "completions": {
@@ -409688,7 +409739,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c9f3e609dadd7db577b2207740bedb9d03d65887_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2430,
+            "rank": 2431,
             "rating": 44
         },
         "steamId": "76561198153525266",
@@ -410041,7 +410092,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/92bf5e3f4531dee45d2783c07d94f6cf327b31b8_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2404,
+            "rank": 2405,
             "rating": 45
         },
         "completions": {
@@ -410671,7 +410722,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/1325d45d132020563833563aeb66681669536b98_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2414,
+            "rank": 2415,
             "rating": 44.5
         },
         "steamId": "76561199467230780",
@@ -410730,7 +410781,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/af1cf9cf15be50bc6eda5a5c35bb1698bbf77ecd_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2431,
+            "rank": 2432,
             "rating": 44
         },
         "completions": {
@@ -410759,7 +410810,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f2ca4ec6116c0db95916e37b30d914daded988f2_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2405,
+            "rank": 2406,
             "rating": 45
         },
         "completions": {
@@ -410811,7 +410862,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/53bd0c5ed5dd7af3006343b48dcf1998b9fb908e_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2415,
+            "rank": 2416,
             "rating": 44.5
         },
         "completions": {
@@ -411318,7 +411369,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/7981127b609bd58a8d5d958b08e51ed2840f2461_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2416,
+            "rank": 2417,
             "rating": 44.5
         },
         "completions": {
@@ -411431,7 +411482,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/05fd24bebdea639a36cf2afd08613244c791807b_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2432,
+            "rank": 2433,
             "rating": 44
         },
         "completions": {
@@ -411468,7 +411519,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b2353bdf1ccbd90c42885307de4c159352dcfbf0_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2433,
+            "rank": 2434,
             "rating": 44
         },
         "completions": {
@@ -411517,7 +411568,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/952021f83db7ae28695871775d8f2a41fea4d625_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2434,
+            "rank": 2435,
             "rating": 44
         },
         "completions": {
@@ -411914,7 +411965,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/f3d05db4d8557efbcdbfb337f4176abe9fcb5c1b_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2435,
+            "rank": 2436,
             "rating": 44
         },
         "steamId": "76561198076647741",
@@ -412009,7 +412060,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/e9ea052add3d4e78b49af238a9bd1b1613426462_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2406,
+            "rank": 2407,
             "rating": 45
         },
         "completions": {
@@ -412108,7 +412159,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8442685651231b08503c282a75c5f324df2ae085_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2436,
+            "rank": 2437,
             "rating": 44
         },
         "completions": {
@@ -412317,7 +412368,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b3877044cdfff2ddb4288f670e0656064d9f1b2d_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2417,
+            "rank": 2418,
             "rating": 44.5
         },
         "completions": {
@@ -412364,7 +412415,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2407,
+            "rank": 2408,
             "rating": 45
         },
         "completions": {
@@ -412450,54 +412501,12 @@ var userData =
             "fb7117dc-1648-43b5-9b91-37b9199edce5"
         ]
     },
-    "65f5a344-3663-4b1b-bf06-fbca19f53634": {
-        "name": "polygon",
-        "avatar": "https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d_full.jpg",
-        "points": 45,
-        "skill": {
-            "rank": 2437,
-            "rating": 44
-        },
-        "steamId": "76561198847642567",
-        "retroId": "N/A",
-        "gamesPoints": {
-            "1f67cb6d-926b-4af5-877e-73d3050d4684": {
-                "points": 35
-            },
-            "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
-                "points": 10
-            }
-        },
-        "gamesNoPoints": [
-            "7b40692a-c9cd-4540-9e47-6942fb02c321",
-            "989b037e-7746-45a3-bf50-e86c190192a0",
-            "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5",
-            "bedaf17e-a054-4973-b2f6-71140fec4cbb",
-            "00e18e29-db63-44a2-964a-2d51771a5ae3",
-            "c571833c-d196-401c-b7b7-c09f384c8f20",
-            "c98bced4-e6d7-4034-8e85-5208d1487f8d",
-            "d807b4a9-f957-444e-ab8e-2ea76a11cc17",
-            "e7b09b01-e52f-443e-97a3-cd1aac854b3f",
-            "790590f1-b29b-4357-8e0f-51df2dde00ab",
-            "56be6b0c-365c-4741-a60f-84743133a55a",
-            "557c467d-243c-4179-9fc9-6256f3cc071a",
-            "0ade411b-db3d-42ad-a5e8-d9748e57f062",
-            "0c10c492-c431-41fb-9fbf-89526130b3f4",
-            "172a248a-1d49-4380-80a8-3810c340252d",
-            "1e2b4f12-228a-4786-8876-f04faba55134",
-            "22177e06-2002-488a-8c90-fe3ff3849647",
-            "35d705c9-5dc5-4857-a35e-998da34bd760",
-            "50d89c40-3346-4ec2-a83e-6417c8630b72",
-            "535d2f2f-ed84-4d60-92e6-1059440eee17",
-            "f5002235-3248-453d-93b8-b96736bb4712"
-        ]
-    },
     "6a588300-95f2-4d42-a05a-2730eec7557f": {
         "name": "LevelOneRat",
         "avatar": "https://avatars.steamstatic.com/2ac16763c19ba58c05411f3316d84ca94678da48_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2418,
+            "rank": 2419,
             "rating": 44.5
         },
         "completions": {
@@ -412652,7 +412661,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b3e5847e882aa774f2e650a5639ab426485eb01e_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2419,
+            "rank": 2420,
             "rating": 44.5
         },
         "completions": {
@@ -412687,7 +412696,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/ca26079a5e7b532b46a193526bdc1d9980c9578c_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2408,
+            "rank": 2409,
             "rating": 45
         },
         "completions": {
@@ -413145,7 +413154,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c35503cabc69ae1b9fc9e682affa074d1fb56351_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2409,
+            "rank": 2410,
             "rating": 45
         },
         "completions": {
@@ -413379,7 +413388,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/b11c0453b084e0a2ae53f2ed901d85a0fa1b6ad8_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2410,
+            "rank": 2411,
             "rating": 45
         },
         "completions": {
@@ -414805,7 +414814,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/85553f5b64ef7ac1240fc316084fb0a41b926606_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2411,
+            "rank": 2412,
             "rating": 45
         },
         "completions": {
@@ -415722,7 +415731,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/eb10e518ba8ba4b7592b32e8c604d3b39cb45026_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2420,
+            "rank": 2421,
             "rating": 44.5
         },
         "steamId": "76561199164390945",
@@ -415904,7 +415913,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/5994a38293cc3a72a198bc506184e434cf8e4a80_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2412,
+            "rank": 2413,
             "rating": 45
         },
         "completions": {
@@ -416680,7 +416689,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/9e253712e979c88fc7aa05838784a6a33a7bd73f_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2421,
+            "rank": 2422,
             "rating": 44.5
         },
         "completions": {
@@ -416902,7 +416911,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/38a127f3585b1a31e1751b1a093e732722b1c485_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2413,
+            "rank": 2414,
             "rating": 45
         },
         "steamId": "76561198379185767",
@@ -417459,7 +417468,7 @@ var userData =
         "avatar": "https://avatars.akamai.steamstatic.com/fd0f838b2ff283d2dae82d4e84a147e415b70050_full.jpg",
         "points": 45,
         "skill": {
-            "rank": 2422,
+            "rank": 2423,
             "rating": 44.5
         },
         "completions": {
@@ -491027,8 +491036,8 @@ var userDate =
     "day": 30,
     "month": 8,
     "year": 2026,
-    "hour": 9,
-    "minute": 51,
-    "second": 43,
-    "searchTime": 701.4678983688354
+    "hour": 16,
+    "minute": 15,
+    "second": 33,
+    "searchTime": 697.9162013530731
 }
