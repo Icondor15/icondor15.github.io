@@ -2,80 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 243360,
-        "CEId": "ba80ac2a-186d-4b55-8981-d4bce6a34663",
-        "name": "TrackMania\u00b2 Valley",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/243360/header.jpg?t=1588603133",
+        "platformId": 864060,
+        "CEId": "28c9d825-595c-4ed0-ab98-33cbc0785576",
+        "name": "Marble It Up! Ultra",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/864060/header.jpg?t=1692476208",
         "genre": [
-            "Arcade"
+            "Platformer"
         ],
         "tier": 3,
-        "points": 40,
+        "points": 50,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2022-08-29T07:21:24.000Z",
-        "updatedAt": "2026-08-12T01:31:49.000Z",
+        "medianPlaytime": 4055,
+        "createdAt": "2023-08-30T20:40:56.000Z",
+        "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 10,
-        "playersStarted": 7,
-        "playersTotal": 104,
+        "playersCompleted": 13,
+        "playersStarted": 3,
+        "playersTotal": 96,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 264000,
-                "final": 264000,
+                "initial": 340000,
+                "final": 340000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 4395,
+                "final": 4395,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 3899,
+                "final": 3899,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Well-Stacked in Tracks [30\u2605]\nObtain 65 Author Medals.\n\nRoad Rager [10\u2605]\nObtain 65 Gold Medals.",
+            "primaryText": "Crystal Ball [40\u2605]\nObtain the diamond medal on every level.\n\nB-Roll [10\u2605]\nCollect all hidden trophies.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 3,
-            "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
-            "achievements": 0
+            "community": 1,
+            "communityText": "Marble Madness\nObtain the unicorn horn cosmetic for placing in the top 10% globally for 24 different weekly challenge levels.",
+            "achievements": 85
         },
         "CETags": {
             "genre": [
-                "Racing"
+                "Marble"
             ],
             "info": []
         },
         "gameTags": [
+            "3D Platformer",
+            "Fast-Paced",
+            "Physics",
             "Racing",
-            "Sports",
-            "Multiplayer",
-            "Level Editor",
-            "Time Attack",
             "Arcade",
+            "Platformer",
+            "Time Attack",
+            "Action",
+            "Casual",
+            "Colorful",
             "Singleplayer",
-            "Local Multiplayer",
-            "Split Screen"
+            "3D",
+            "Abstract",
+            "Surreal",
+            "Level Editor",
+            "Replay Value",
+            "Puzzle Platformer",
+            "Great Soundtrack",
+            "Indie",
+            "Puzzle"
         ],
         "languages": {
             "english": "I",
@@ -85,21 +96,15 @@ var gameOfDay =
             "japanese": "I",
             "spanish": "I",
             "brazilian": "I",
-            "czech": "I",
-            "danish": "I",
             "dutch": "I",
-            "finnish": "I",
-            "hungarian": "I",
             "koreana": "I",
-            "norwegian": "I",
-            "polish": "I",
+            "latam": "I",
             "portuguese": "I",
-            "romanian": "I",
             "russian": "I",
             "schinese": "I",
-            "swedish": "I",
+            "tchinese": "I",
             "turkish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-08-29'
+var gameOfDayDate = '2026-08-30'
