@@ -2,109 +2,84 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 864060,
-        "CEId": "28c9d825-595c-4ed0-ab98-33cbc0785576",
-        "name": "Marble It Up! Ultra",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/864060/header.jpg?t=1692476208",
+        "platformId": 435970,
+        "CEId": "7bae13d3-e197-48c6-9582-c6fd19369a85",
+        "name": "RefRain - prism memories -",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/435970/header.jpg?t=1697768248",
         "genre": [
-            "Platformer"
+            "Bullet Hell"
         ],
-        "tier": 3,
-        "points": 50,
+        "tier": 2,
+        "points": 35,
         "secondaryPoints": 0,
-        "medianPlaytime": 4055,
-        "createdAt": "2023-08-30T20:40:56.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-08-31T07:45:43.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 13,
-        "playersStarted": 3,
-        "playersTotal": 96,
+        "playersCompleted": 0,
+        "playersStarted": 7,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1479,
+                "final": 1479,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
+                "initial": 150700,
+                "final": 150700,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 2195,
+                "final": 2195,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Crystal Ball [40\u2605]\nObtain the diamond medal on every level.\n\nB-Roll [10\u2605]\nCollect all hidden trophies.",
+            "primary": 5,
+            "primaryText": "Central Tactician (UNCLEARED) [0\u2605]\nReach a score of 5,000,000,000 or more.\n\nBeyond (UNCLEARED) [0\u2605]\nBeat the game on Re:Extreme difficulty without losing a ship.\n\nDive (UNCLEARED) [0\u2605]\nBeat the game on Re:Advanced difficulty without losing a ship.\n\nNightmare of M.R.S [20\u2605]\nBeat the game on Re:Extreme difficulty and watch the good ending.\n\nCentral Breaker [15\u2605]\nBeat the game on Re:Advanced difficulty and watch the good ending.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Marble Madness\nObtain the unicorn horn cosmetic for placing in the top 10% globally for 24 different weekly challenge levels.",
-            "achievements": 85
+            "community": 0,
+            "communityText": "",
+            "achievements": 44
         },
         "CETags": {
             "genre": [
-                "Marble"
+                "Vertical Shoot'em'Up"
             ],
-            "info": []
+            "info": [
+                "Uncleared"
+            ]
         },
         "gameTags": [
-            "3D Platformer",
-            "Fast-Paced",
-            "Physics",
-            "Racing",
-            "Arcade",
-            "Platformer",
-            "Time Attack",
-            "Action",
-            "Casual",
-            "Colorful",
-            "Singleplayer",
-            "3D",
-            "Abstract",
-            "Surreal",
-            "Level Editor",
-            "Replay Value",
-            "Puzzle Platformer",
-            "Great Soundtrack",
             "Indie",
-            "Puzzle"
+            "Action",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Great Soundtrack",
+            "Anime"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "dutch": "I",
-            "koreana": "I",
-            "latam": "I",
-            "portuguese": "I",
-            "russian": "I",
-            "schinese": "I",
-            "tchinese": "I",
-            "turkish": "I"
+            "english": "IS",
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-30'
+var gameOfDayDate = '2026-08-31'
