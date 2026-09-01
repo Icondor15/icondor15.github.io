@@ -2,84 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 435970,
-        "CEId": "7bae13d3-e197-48c6-9582-c6fd19369a85",
-        "name": "RefRain - prism memories -",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/435970/header.jpg?t=1697768248",
+        "platformId": 1884300,
+        "CEId": "d88b865b-b991-4d5f-bc05-5d6193470b87",
+        "name": "Deathsmiles I\u30fbII",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1884300/header.jpg?t=1676875376",
         "genre": [
             "Bullet Hell"
         ],
         "tier": 2,
-        "points": 35,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-08-31T07:45:43.000Z",
+        "medianPlaytime": 1096,
+        "createdAt": "2023-09-01T03:32:53.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 0,
-        "playersStarted": 7,
-        "playersTotal": 55,
+        "playersCompleted": 2,
+        "playersStarted": 2,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 3990,
+                "final": 3990,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
+                "initial": 3490,
+                "final": 3490,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 3099,
+                "final": 3099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 150700,
-                "final": 150700,
+                "initial": 495000,
+                "final": 495000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 5695,
+                "final": 5695,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 4549,
+                "final": 4549,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 5,
-            "primaryText": "Central Tactician (UNCLEARED) [0\u2605]\nReach a score of 5,000,000,000 or more.\n\nBeyond (UNCLEARED) [0\u2605]\nBeat the game on Re:Extreme difficulty without losing a ship.\n\nDive (UNCLEARED) [0\u2605]\nBeat the game on Re:Advanced difficulty without losing a ship.\n\nNightmare of M.R.S [20\u2605]\nBeat the game on Re:Extreme difficulty and watch the good ending.\n\nCentral Breaker [15\u2605]\nBeat the game on Re:Advanced difficulty and watch the good ending.",
+            "primary": 2,
+            "primaryText": "Fever Christmas [15\u2605]\nProve yourself on the X mode.\n\nHeaping Snow [5\u2605]\nClear DSII's Arcade mode without continuing.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 43
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Horizontal Shoot'em'Up"
             ],
-            "info": [
-                "Uncleared"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Indie",
             "Action",
+            "Arcade",
+            "Shooter",
             "Shoot 'Em Up",
             "Bullet Hell",
-            "Great Soundtrack",
-            "Anime"
+            "2D Platformer",
+            "Side Scroller",
+            "2D",
+            "Cute",
+            "Anime",
+            "Pixel Graphics",
+            "Fantasy",
+            "Magic",
+            "Horror",
+            "Gothic",
+            "Multiple Endings",
+            "Female Protagonist",
+            "Choices Matter",
+            "Singleplayer",
+            "Multiplayer"
         ],
         "languages": {
             "english": "IS",
-            "japanese": "IS"
+            "french": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-31'
+var gameOfDayDate = '2026-09-01'
