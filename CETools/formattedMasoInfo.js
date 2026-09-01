@@ -1279,7 +1279,7 @@ var masoData =
     "321560": {
         "description": "\u2733 Time attacks from hell",
         "tier": "2",
-        "owners": 82,
+        "owners": 83,
         "completions": 26,
         "playtime": 25.82115384615384,
         "newestCompletion": "2024-01-26T10:38:51.000Z",
@@ -2148,9 +2148,9 @@ var masoData =
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
         "owners": 100,
-        "completions": 77,
-        "playtime": 10.335281385281386,
-        "newestCompletion": "2026-01-01T01:19:30.000Z"
+        "completions": 78,
+        "playtime": 10.33568376068376,
+        "newestCompletion": "2026-06-24T19:45:05.000Z"
     },
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
@@ -2291,7 +2291,7 @@ var masoData =
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
         "tier": "3",
-        "owners": 115,
+        "owners": 116,
         "completions": 17,
         "playtime": 26.41176470588235,
         "newestCompletion": "2026-07-15T04:33:27.000Z"
@@ -3193,7 +3193,7 @@ var masoData =
         "tier": "2",
         "owners": 57,
         "completions": 4,
-        "playtime": 36.06666666666667,
+        "playtime": 41.62916666666667,
         "newestCompletion": "2026-08-05T21:11:49.000Z",
         "badges": {
             "count": 1,
@@ -4609,7 +4609,7 @@ var masoData =
         "tier": "0",
         "owners": 82,
         "completions": 24,
-        "playtime": 81.6048611111111,
+        "playtime": 81.76944444444445,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
