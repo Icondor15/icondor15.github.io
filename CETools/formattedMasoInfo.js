@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 59,
+        "owners": 60,
         "completions": 15,
         "playtime": 133.22,
         "newestCompletion": "2026-05-20T05:59:40.000Z",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 275,
         "completions": 205,
-        "playtime": 245.04593495934967,
+        "playtime": 245.70715447154475,
         "newestCompletion": "2026-07-29T11:16:09.000Z",
         "badges": {
             "count": 2,
@@ -1027,7 +1027,7 @@ var masoData =
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
         "tier": "5",
-        "owners": 146,
+        "owners": 147,
         "completions": 21,
         "playtime": 72.54682539682541,
         "newestCompletion": "2026-08-26T23:26:54.000Z"
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 188,
         "completions": 20,
-        "playtime": 1368.9425000000003,
+        "playtime": 1369.1775000000002,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1249,7 +1249,7 @@ var masoData =
         "tier": "5",
         "owners": 230,
         "completions": 11,
-        "playtime": 633.0136363636365,
+        "playtime": 633.1484848484848,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
@@ -1327,7 +1327,7 @@ var masoData =
     "223220": {
         "description": "\ud83c\udf1f While the game by itself isn\"t extreme, its hardcore mode will break you.",
         "tier": "5",
-        "owners": 92,
+        "owners": 93,
         "completions": 5,
         "playtime": 46.056666666666665,
         "newestCompletion": "2025-04-12T15:36:44.000Z"
@@ -1595,7 +1595,7 @@ var masoData =
     "473530": {
         "description": "\u2733 Physics",
         "tier": "2",
-        "owners": 69,
+        "owners": 70,
         "completions": 7,
         "playtime": 58.666666666666664,
         "newestCompletion": "2025-10-13T18:30:38.000Z"
@@ -1937,7 +1937,7 @@ var masoData =
         "tier": "5",
         "owners": 70,
         "completions": 10,
-        "playtime": 225.74,
+        "playtime": 225.775,
         "newestCompletion": "2024-07-01T10:27:42.000Z",
         "badges": {
             "count": 2,
@@ -2139,10 +2139,10 @@ var masoData =
     "775580": {
         "description": "I Think That\"s Alright",
         "tier": "1",
-        "owners": 37,
-        "completions": 13,
-        "playtime": 5.321794871794871,
-        "newestCompletion": "2026-08-16T06:35:07.000Z"
+        "owners": 38,
+        "completions": 14,
+        "playtime": 5.228571428571428,
+        "newestCompletion": "2026-09-02T02:45:35.000Z"
     },
     "1322650": {
         "description": "\u2733 Not playing RITE is wrong.",
@@ -2555,7 +2555,7 @@ var masoData =
     "1525660": {
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
-        "owners": 127,
+        "owners": 128,
         "completions": 30,
         "playtime": 44.86222222222222,
         "newestCompletion": "2026-02-03T20:17:46.000Z"
@@ -3125,7 +3125,7 @@ var masoData =
         "tier": "0",
         "owners": 64,
         "completions": 10,
-        "playtime": 97.375,
+        "playtime": 97.715,
         "newestCompletion": "2026-04-12T20:08:01.000Z",
         "badges": {
             "count": 2,
@@ -3803,10 +3803,10 @@ var masoData =
     "2127230": {
         "description": "Pongadelic",
         "tier": "1",
-        "owners": 10,
-        "completions": 4,
-        "playtime": 5.466666666666667,
-        "newestCompletion": "2026-04-16T20:02:05.000Z"
+        "owners": 11,
+        "completions": 5,
+        "playtime": 5.863333333333333,
+        "newestCompletion": "2026-08-29T02:24:38.000Z"
     },
     "429780": {
         "description": "\ud83c\udf1f Hop To It",
@@ -3955,10 +3955,10 @@ var masoData =
     "2121980": {
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
-        "owners": 43,
-        "completions": 26,
-        "playtime": 22.455769230769235,
-        "newestCompletion": "2026-04-06T17:10:54.000Z",
+        "owners": 44,
+        "completions": 27,
+        "playtime": 21.640740740740746,
+        "newestCompletion": "2026-07-05T02:26:12.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3975,10 +3975,10 @@ var masoData =
     "1293170": {
         "description": "404: Tagline not found",
         "tier": "1",
-        "owners": 45,
-        "completions": 15,
-        "playtime": 6.565555555555557,
-        "newestCompletion": "2026-08-01T21:44:29.000Z"
+        "owners": 46,
+        "completions": 16,
+        "playtime": 6.504166666666667,
+        "newestCompletion": "2026-08-27T18:25:55.000Z"
     },
     "1114940": {
         "description": "\u2606 Difficulty rating: somewhere between t2 and t6",
@@ -4056,9 +4056,9 @@ var masoData =
         "description": "Touch Boulder, Get Dizzy",
         "tier": "1",
         "owners": 9,
-        "completions": 6,
-        "playtime": 6.7555555555555555,
-        "newestCompletion": "2026-06-03T02:09:06.000Z"
+        "completions": 7,
+        "playtime": 7.15952380952381,
+        "newestCompletion": "2026-08-27T02:08:28.000Z"
     },
     "1488650": {
         "description": "Turn your lo mein into lo PAIN.",
