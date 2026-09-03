@@ -4775,7 +4775,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 13,
+        "owners": 14,
         "completions": 6,
         "playtime": 107.40833333333335,
         "newestCompletion": "2025-01-10T04:20:11.000Z",
