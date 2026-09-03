@@ -2,106 +2,106 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 342180,
-        "CEId": "036b16db-e20b-4b51-a0bf-e3ecfb5b5e26",
-        "name": "Arizona Sunshine\u00ae",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/342180/header.jpg?t=1725006637",
+        "platformId": 3167280,
+        "CEId": "e6b1065c-8f0f-4bdc-828d-ac99651a8c53",
+        "name": "Ikarus Parkour",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167280/header.jpg?t=1754071202",
         "genre": [
             "First-Person"
         ],
         "tier": 2,
-        "points": 30,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 1859,
-        "createdAt": "2024-09-02T23:03:49.000Z",
+        "medianPlaytime": 393,
+        "createdAt": "2025-09-03T14:06:34.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 4,
-        "playersTotal": 77,
+        "playersCompleted": 3,
+        "playersStarted": 2,
+        "playersTotal": 9,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
-            },
-            "GBP": {
                 "initial": 1299,
                 "final": 1299,
                 "discountPercent": 0
             },
+            "EUR": {
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
+            },
             "JPY": {
-                "initial": 168000,
-                "final": 168000,
+                "initial": 175000,
+                "final": 175000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2295,
-                "final": 2295,
+                "initial": 2099,
+                "final": 2099,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2099,
-                "final": 2099,
+                "initial": 1879,
+                "final": 1879,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Don't Dead, Open Inside [15\u2605]\nComplete the main game on Apocalyptic difficulty.\n\nDamn It [10\u2605]\nComplete The Damned DLC on Apocalyptic difficulty.\n\nDead Man Walking [5\u2605]\nComplete Dead Man DLC on Apocalyptic difficulty.",
+            "primary": 2,
+            "primaryText": "Faith on Steroids [15\u2605]\nBeat hard mode in under 15 minutes.\n\nEdge of Foddian [5\u2605]\nBeat the game on hard mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 48
+            "achievements": 11
         },
         "CETags": {
             "genre": [
-                "First Person Shooter"
+                "First Person Movement",
+                "Foddian"
             ],
-            "info": [
-                "VR Required"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action",
-            "VR",
-            "Zombies",
-            "Multiplayer",
-            "Horror",
-            "Survival",
-            "Co-op Campaign",
-            "Online Co-Op",
-            "Adventure",
-            "Gore",
-            "FPS",
-            "Shooter",
+            "3D Platformer",
+            "Parkour",
+            "Difficult",
+            "Dystopian ",
+            "Precision Platformer",
             "First-Person",
-            "Survival Horror",
-            "Indie",
-            "Co-op",
-            "Open World",
-            "Violent",
+            "Psychological Horror",
+            "Exploration",
+            "Realistic",
+            "Conspiracy",
+            "Runner",
+            "Platformer",
+            "Atmospheric",
+            "Colorful",
+            "3D",
+            "Action",
             "Singleplayer",
-            "Post-apocalyptic"
+            "Immersive",
+            "Nonlinear",
+            "Underground"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "koreana": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS"
-        },
-        "information": "This game requires a VR headset in order to play."
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "serbian": "IS",
+            "ukrainian": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-09-02'
+var gameOfDayDate = '2026-09-03'
