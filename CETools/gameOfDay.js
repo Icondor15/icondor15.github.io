@@ -2,106 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 3167280,
-        "CEId": "e6b1065c-8f0f-4bdc-828d-ac99651a8c53",
-        "name": "Ikarus Parkour",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167280/header.jpg?t=1754071202",
+        "platformId": 345480,
+        "CEId": "5ec7ec65-58b2-43a3-ae76-26d2a5023e90",
+        "name": "Lumo",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345480/header.jpg?t=1747389528",
         "genre": [
-            "First-Person"
+            "Platformer"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 393,
-        "createdAt": "2025-09-03T14:06:34.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2025-09-04T19:27:09.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 2,
-        "playersTotal": 9,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 23,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 415,
+                "final": 415,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 359,
+                "final": 359,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 175000,
-                "final": 175000,
+                "initial": 53000,
+                "final": 53000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2099,
-                "final": 2099,
+                "initial": 575,
+                "final": 575,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1879,
-                "final": 1879,
+                "initial": 459,
+                "final": 459,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Faith on Steroids [15\u2605]\nBeat hard mode in under 15 minutes.\n\nEdge of Foddian [5\u2605]\nBeat the game on hard mode.",
+            "primary": 1,
+            "primaryText": "Like It's 1985 [10\u2605]\nComplete the game in Old School Mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 11
+            "achievements": 45
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "Foddian"
+                "Puzzle Platformer",
+                "3D Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "3D Platformer",
-            "Parkour",
-            "Difficult",
-            "Dystopian ",
-            "Precision Platformer",
-            "First-Person",
-            "Psychological Horror",
-            "Exploration",
-            "Realistic",
-            "Conspiracy",
-            "Runner",
-            "Platformer",
-            "Atmospheric",
-            "Colorful",
-            "3D",
-            "Action",
-            "Singleplayer",
-            "Immersive",
-            "Nonlinear",
-            "Underground"
+            "Indie",
+            "Adventure",
+            "Retro",
+            "Puzzle Platformer",
+            "Isometric",
+            "Action-Adventure"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "serbian": "IS",
-            "ukrainian": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-03'
+var gameOfDayDate = '2026-09-04'
