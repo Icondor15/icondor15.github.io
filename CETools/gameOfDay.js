@@ -2,89 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 345480,
-        "CEId": "5ec7ec65-58b2-43a3-ae76-26d2a5023e90",
-        "name": "Lumo",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345480/header.jpg?t=1747389528",
+        "platformId": 2994660,
+        "CEId": "e3a9bde3-2b4b-4f69-b25c-2227bca57a04",
+        "name": "RPM - Road Punk Mayhem",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994660/header.jpg?t=1721205782",
         "genre": [
-            "Platformer"
+            "Bullet Hell"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-09-04T19:27:09.000Z",
+        "medianPlaytime": 159,
+        "createdAt": "2025-09-05T09:23:17.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 0,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 23,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 415,
-                "final": 415,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 359,
-                "final": 359,
+                "initial": 429,
+                "final": 429,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 53000,
-                "final": 53000,
+                "initial": 58000,
+                "final": 58000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 575,
-                "final": 575,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 459,
-                "final": 459,
+                "initial": 649,
+                "final": 649,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Like It's 1985 [10\u2605]\nComplete the game in Old School Mode.",
+            "primaryText": "Hair is Justice [10\u2605]\nBeat the game without using continues.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 45
+            "achievements": 14
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Puzzle Platformer"
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
         "gameTags": [
+            "Bullet Hell",
+            "Shoot 'Em Up",
+            "Action",
+            "Top-Down Shooter",
+            "Shooter",
+            "Sci-fi",
+            "Arcade",
+            "2D",
+            "Top-Down",
+            "Tanks",
             "Indie",
-            "Adventure",
-            "Retro",
-            "Puzzle Platformer",
-            "Isometric",
-            "Action-Adventure"
+            "Colorful",
+            "1990's",
+            "Futuristic",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "russian": "I"
+            "english": "IS",
+            "italian": "IS",
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-09-04'
+var gameOfDayDate = '2026-09-05'
