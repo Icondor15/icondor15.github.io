@@ -2,92 +2,88 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2994660,
-        "CEId": "e3a9bde3-2b4b-4f69-b25c-2227bca57a04",
-        "name": "RPM - Road Punk Mayhem",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994660/header.jpg?t=1721205782",
+        "platformId": 1492420,
+        "CEId": "fcb2bef9-e847-4390-9c12-6315fa149e3f",
+        "name": "EQUALINE",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1492420/header.jpg?t=1612777216",
         "genre": [
-            "Bullet Hell"
+            "Arcade"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 3,
+        "points": 65,
         "secondaryPoints": 0,
-        "medianPlaytime": 159,
-        "createdAt": "2025-09-05T09:23:17.000Z",
-        "updatedAt": "2026-08-30T06:36:35.000Z",
+        "medianPlaytime": 2114,
+        "createdAt": "2022-09-06T17:37:06.000Z",
+        "updatedAt": "2026-09-06T07:12:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
+        "playersCompleted": 64,
         "playersStarted": 0,
-        "playersTotal": 7,
+        "playersTotal": 171,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 929,
+                "final": 929,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 122000,
+                "final": 122000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 1695,
+                "final": 1695,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 1349,
+                "final": 1349,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hair is Justice [10\u2605]\nBeat the game without using continues.",
+            "primaryText": "Order of Operations [65\u2605]\nClear a mission with more than 120 seconds remaining. / Get a score of 1 million or more in every mission.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 14
+            "community": 3,
+            "communityText": "Divide By Zero\nAchieve a Maxout (999,999,999 points) in any of the Endless modes.\n\nEuler\nDefeat a Lv. MAX CPU with \"\"999 Sec.\", \"Easy\" and \"100 Questions\" selected in Calculation Battle.\n\nGauss\nDefeat a Lv. MAX CPU with \"999 Sec.\", \"Expert\" and \"100 Questions\" selected in Calculation Battle.",
+            "achievements": 24
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Miscellaneous",
+                "Score Attack"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives"
+            ]
         },
         "gameTags": [
-            "Bullet Hell",
-            "Shoot 'Em Up",
             "Action",
-            "Top-Down Shooter",
-            "Shooter",
-            "Sci-fi",
-            "Arcade",
+            "Puzzle",
+            "Singleplayer",
+            "Multiplayer",
+            "PvP",
             "2D",
-            "Top-Down",
-            "Tanks",
             "Indie",
-            "Colorful",
-            "1990's",
-            "Futuristic",
-            "Singleplayer"
+            "Psychedelic",
+            "Abstract"
         ],
         "languages": {
-            "english": "IS",
-            "italian": "IS",
-            "japanese": "IS"
+            "english": "I",
+            "japanese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-05'
+var gameOfDayDate = '2026-09-06'
