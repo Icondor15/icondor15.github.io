@@ -19,10 +19,10 @@ var masoData =
     "745560": {
         "description": "\u2733 How the F$#@ is this free?!",
         "tier": "2",
-        "owners": 85,
-        "completions": 25,
-        "playtime": 12.828666666666669,
-        "newestCompletion": "2025-06-27T16:11:35.000Z"
+        "owners": 86,
+        "completions": 26,
+        "playtime": 12.665384615384616,
+        "newestCompletion": "2026-09-08T08:13:16.000Z"
     },
     "994190": {
         "description": "It\"s not perfect, but it\"s free",
@@ -592,9 +592,9 @@ var masoData =
         "description": "\u2606 Sorry, you no win this time, try again",
         "tier": "3",
         "owners": 31,
-        "completions": 9,
-        "playtime": 22.79074074074074,
-        "newestCompletion": "2024-08-20T02:55:20.000Z"
+        "completions": 10,
+        "playtime": 21.163333333333334,
+        "newestCompletion": "2026-09-08T00:35:43.000Z"
     },
     "399140": {
         "description": "Muh queenie!",
@@ -3955,7 +3955,7 @@ var masoData =
     "2121980": {
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
-        "owners": 45,
+        "owners": 46,
         "completions": 27,
         "playtime": 21.640740740740746,
         "newestCompletion": "2026-07-05T02:26:12.000Z",
@@ -4697,7 +4697,7 @@ var masoData =
         "tier": "1",
         "owners": 8,
         "completions": 6,
-        "playtime": 9.519444444444444,
+        "playtime": 9.552777777777779,
         "newestCompletion": "2026-08-09T15:40:54.000Z"
     },
     "4450800": {
