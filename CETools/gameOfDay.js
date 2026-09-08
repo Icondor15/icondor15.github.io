@@ -1,52 +1,50 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 796380,
-        "CEId": "9d36a781-72fa-4529-ae78-bc14b5ae2f9b",
-        "name": "Terra Feminarum",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/796380/header.jpg?t=1588712837",
+        "gameType": 3,
+        "platformId": 782,
+        "CEId": "8e870da2-7f0c-4a3e-94a1-4855c05a755c",
+        "name": "Mega Man Zero",
+        "header": "https://upload.cedb.me/6wChBm.png",
         "genre": [
-            "Bullet Hell"
+            "Action"
         ],
-        "tier": 4,
-        "points": 120,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 2418,
-        "createdAt": "2021-09-07T20:19:56.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-09-08T22:19:25.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
+        "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 188,
+        "playersTotal": 7,
+        "gameTags": [
+            "2D Platforming",
+            "Action"
+        ],
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
-            "primary": 3,
-            "primaryText": "The Light Comes From The North [80\u2605]\nComplete all Brutal trials.\n\nBeyond The Dark Star [25\u2605]\nProve yourself.\n\nRoad to Pohjola [15\u2605]\nClear all Brutal story chapters.",
+            "primary": 2,
+            "primaryText": "Being Rusty is Nothing [5\u2605]\nGet an overall S rank on Hard mode.\n\nReawakening of the Legend [5\u2605]\nGet an S rank on every mission.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 44
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Action-Platformer",
+                "Run & Gun"
             ],
-            "info": [
-                "Free"
-            ]
+            "info": []
         },
-        "gameTags": [
-            "Action",
-            "Indie",
-            "Bullet Hell",
-            "Shoot 'Em Up",
-            "Anime",
-            "Free to Play"
-        ],
-        "languages": {
-            "english": "IS"
-        }
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     }
 }
-var gameOfDayDate = '2026-09-07'
+var gameOfDayDate = '2026-09-08'
