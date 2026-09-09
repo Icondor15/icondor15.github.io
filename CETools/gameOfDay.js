@@ -1,50 +1,66 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 782,
-        "CEId": "8e870da2-7f0c-4a3e-94a1-4855c05a755c",
-        "name": "Mega Man Zero",
-        "header": "https://upload.cedb.me/6wChBm.png",
+        "gameType": 1,
+        "platformId": 1993830,
+        "CEId": "91796946-6a46-41e5-930c-f607897e126d",
+        "name": "ROTA",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1993830/header.jpg?t=1712599127",
         "genre": [
-            "Action"
+            "Platformer"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-09-08T22:19:25.000Z",
+        "medianPlaytime": 648,
+        "createdAt": "2024-09-09T18:48:49.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 1,
-        "playersTotal": 7,
-        "gameTags": [
-            "2D Platforming",
-            "Action"
-        ],
-        "consoleData": {
-            "name": "Game Boy Advance",
-            "family": "Nintendo",
-            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
-        },
+        "playersCompleted": 5,
+        "playersStarted": 0,
+        "playersTotal": 115,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Being Rusty is Nothing [5\u2605]\nGet an overall S rank on Hard mode.\n\nReawakening of the Legend [5\u2605]\nGet an S rank on every mission.",
+            "primary": 1,
+            "primaryText": "Directionally Challenged [10\u2605]\nSeparately, complete all time trials and beat the game in under 1 hour.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 14
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Run & Gun"
+                "Puzzle Platformer"
             ],
-            "info": []
+            "info": [
+                "Free"
+            ]
         },
-        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
+        "gameTags": [
+            "Puzzle",
+            "Puzzle Platformer",
+            "Logic",
+            "Cute",
+            "Precision Platformer",
+            "Atmospheric",
+            "Relaxing",
+            "Female Protagonist",
+            "Open World",
+            "Colorful",
+            "Soundtrack",
+            "2D Platformer",
+            "Platformer",
+            "2D",
+            "Controller",
+            "Casual",
+            "Singleplayer",
+            "Family Friendly",
+            "Nature",
+            "Indie"
+        ],
+        "languages": {
+            "english": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-09-08'
+var gameOfDayDate = '2026-09-09'
