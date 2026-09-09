@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 68,
         "completions": 22,
-        "playtime": 33.35757575757575,
+        "playtime": 33.361363636363635,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -2196,9 +2196,9 @@ var masoData =
         "description": "\u2606 The best monkeyball twist PC could ask for",
         "tier": "3",
         "owners": 43,
-        "completions": 13,
-        "playtime": 56.57692307692309,
-        "newestCompletion": "2026-02-08T23:24:49.000Z"
+        "completions": 14,
+        "playtime": 57.57380952380953,
+        "newestCompletion": "2026-09-08T23:57:11.000Z"
     },
     "382560": {
         "description": "The floor is actually lava",
@@ -3228,9 +3228,9 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 137,
-        "completions": 70,
-        "playtime": 78.0761904761905,
-        "newestCompletion": "2026-07-21T22:06:31.000Z",
+        "completions": 71,
+        "playtime": 77.38521126760567,
+        "newestCompletion": "2026-09-08T20:20:48.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3404,9 +3404,9 @@ var masoData =
         "description": "Swinging plant beats up grandpa",
         "tier": "1",
         "owners": 49,
-        "completions": 11,
-        "playtime": 5.9,
-        "newestCompletion": "2025-08-01T13:45:14.000Z"
+        "completions": 12,
+        "playtime": 5.940277777777779,
+        "newestCompletion": "2026-09-08T12:43:56.000Z"
     },
     "1867530": {
         "description": "Skating on the Colossus",
