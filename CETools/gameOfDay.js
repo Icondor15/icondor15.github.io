@@ -2,103 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 314710,
-        "CEId": "e65f151c-37d4-4ea6-aae7-18d78ba88d89",
-        "name": "Mighty No. 9",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/314710/header.jpg?t=1608197459",
+        "platformId": 1485030,
+        "CEId": "53c26804-b44a-410d-8474-266f6b482b01",
+        "name": "Tobari 2: Nightmare",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1485030/header.jpg?t=1625856702",
         "genre": [
-            "Action"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 40,
+        "tier": 4,
+        "points": 90,
         "secondaryPoints": 0,
-        "medianPlaytime": 4330,
-        "createdAt": "2024-09-10T18:47:32.000Z",
+        "medianPlaytime": 7125,
+        "createdAt": "2021-09-11T08:05:07.000Z",
         "updatedAt": "2026-08-30T06:36:35.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 2,
-        "playersTotal": 125,
+        "playersCompleted": 3,
+        "playersStarted": 1,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 689,
+                "final": 689,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1779,
-                "final": 1779,
+                "initial": 589,
+                "final": 589,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 238900,
-                "final": 238900,
+                "initial": 80000,
+                "final": 80000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 1025,
+                "final": 1025,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2749,
-                "final": 2749,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Bright Ray [15\u2605]\nGet S ranks on each stage on Hyper & Maniac difficulties as Ray. / Get S rank on the \"Vermillion Destroyer\" stage on Hyper & Maniac difficulties.\n\nBeefed Up [15\u2605]\nGet S ranks on each stage of the base game on Hyper & Maniac difficulties (as Beck).\n\nI'll See You In Xel [10\u2605]\nProve yourself.",
+            "primary": 2,
+            "primaryText": "Nightmare Ocean [70\u2605]\nObtain all star fragments.\n\nDream Ocean [20\u2605]\nDefeat all bosses without taking damage.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 70
+            "achievements": 40
         },
         "CETags": {
             "genre": [
-                "Action-Platformer"
+                "2D Platformer"
             ],
-            "info": []
+            "info": [
+                "Female Protagonist"
+            ]
         },
         "gameTags": [
-            "Platformer",
             "Action",
-            "Anime",
+            "Female Protagonist",
             "Side Scroller",
-            "2.5D",
-            "Retro",
-            "Robots",
-            "Singleplayer",
+            "Puzzle",
+            "Action-Adventure",
+            "Puzzle Platformer",
+            "Anime",
+            "Colorful",
             "Indie",
-            "Multiplayer",
-            "Co-op",
+            "Pixel Graphics",
+            "Fantasy",
+            "Singleplayer",
+            "2D Platformer",
             "Casual",
-            "Difficult",
-            "Sci-fi",
-            "Comedy",
-            "2D",
-            "Great Soundtrack",
-            "Futuristic"
+            "Bullet Hell"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IAS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "IS",
+            "japanese": "IA"
         }
     }
 }
-var gameOfDayDate = '2026-09-10'
+var gameOfDayDate = '2026-09-11'
