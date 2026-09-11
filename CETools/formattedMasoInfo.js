@@ -693,7 +693,7 @@ var masoData =
         "tier": "2",
         "owners": 200,
         "completions": 102,
-        "playtime": 12.76307189542484,
+        "playtime": 12.77679738562092,
         "newestCompletion": "2026-08-02T23:52:40.000Z"
     },
     "247240": {
@@ -1936,9 +1936,9 @@ var masoData =
         "description": "\ud83c\udf1f Prepare for a long VACation after you\"ll get Mega F*****",
         "tier": "5",
         "owners": 71,
-        "completions": 11,
-        "playtime": 215.63181818181818,
-        "newestCompletion": "2026-08-12T03:31:30.000Z",
+        "completions": 12,
+        "playtime": 208.57638888888889,
+        "newestCompletion": "2026-09-10T15:26:11.000Z",
         "badges": {
             "count": 2,
             "points": 12
