@@ -2,93 +2,87 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1485030,
-        "CEId": "53c26804-b44a-410d-8474-266f6b482b01",
-        "name": "Tobari 2: Nightmare",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1485030/header.jpg?t=1625856702",
+        "platformId": 1868520,
+        "CEId": "e1e87c7c-b552-4e51-83bc-c3103dc5e8ee",
+        "name": "Super Perils of Baking",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1868520/header.jpg?t=1667143478",
         "genre": [
             "Platformer"
         ],
-        "tier": 4,
-        "points": 90,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 7125,
-        "createdAt": "2021-09-11T08:05:07.000Z",
-        "updatedAt": "2026-08-30T06:36:35.000Z",
+        "medianPlaytime": 768,
+        "createdAt": "2023-09-12T20:20:08.000Z",
+        "updatedAt": "2026-09-12T05:11:18.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 3,
-        "playersStarted": 1,
-        "playersTotal": 32,
+        "playersStarted": 0,
+        "playersTotal": 16,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 699,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 689,
-                "final": 689,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 589,
-                "final": 589,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 80000,
-                "final": 80000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1025,
-                "final": 1025,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Nightmare Ocean [70\u2605]\nObtain all star fragments.\n\nDream Ocean [20\u2605]\nDefeat all bosses without taking damage.",
+            "primary": 1,
+            "primaryText": "Where There's a Whisk, There's a Way [10\u2605]\nObtain 100% completion. / Complete NG+.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 40
+            "achievements": 46
         },
         "CETags": {
             "genre": [
                 "2D Platformer"
             ],
-            "info": [
-                "Female Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
+            "Precision Platformer",
             "Action",
-            "Female Protagonist",
-            "Side Scroller",
-            "Puzzle",
-            "Action-Adventure",
-            "Puzzle Platformer",
-            "Anime",
-            "Colorful",
-            "Indie",
-            "Pixel Graphics",
-            "Fantasy",
-            "Singleplayer",
-            "2D Platformer",
             "Casual",
-            "Bullet Hell"
+            "2D Platformer",
+            "Collectathon",
+            "Platformer",
+            "2D",
+            "Cute",
+            "Indie",
+            "Cartoony",
+            "Pixel Graphics",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IA"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-09-11'
+var gameOfDayDate = '2026-09-12'
