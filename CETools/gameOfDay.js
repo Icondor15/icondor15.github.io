@@ -2,87 +2,86 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1868520,
-        "CEId": "e1e87c7c-b552-4e51-83bc-c3103dc5e8ee",
-        "name": "Super Perils of Baking",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1868520/header.jpg?t=1667143478",
+        "platformId": 367140,
+        "CEId": "8b57a61c-e33a-4bc3-a5c2-bb06967a5a8d",
+        "name": "Wish Project",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/367140/header.jpg?t=1459976554",
         "genre": [
-            "Platformer"
+            "Bullet Hell"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 3,
+        "points": 45,
         "secondaryPoints": 0,
-        "medianPlaytime": 768,
-        "createdAt": "2023-09-12T20:20:08.000Z",
+        "medianPlaytime": 2070,
+        "createdAt": "2022-09-13T17:43:49.000Z",
         "updatedAt": "2026-09-12T05:11:18.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 0,
-        "playersTotal": 16,
+        "playersCompleted": 2,
+        "playersStarted": 2,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 159,
+                "final": 159,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 19800,
+                "final": 19800,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 295,
+                "final": 295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 219,
+                "final": 219,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Where There's a Whisk, There's a Way [10\u2605]\nObtain 100% completion. / Complete NG+.",
+            "primary": 2,
+            "primaryText": "Wish Upon a Horn [35\u2605]\nClear the game on Harder difficulty without using any continues.\n\nMedal Enthusiast [10\u2605]\nSeparately, earn all six Gold Medals on any character on Harder difficulty.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 46
+            "community": 1,
+            "communityText": "Medal Overachiever\nSeparately, earn all six Gold Medals on ALL characters (including hidden ones) on Harder difficulty.",
+            "achievements": 21
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
         "gameTags": [
-            "Precision Platformer",
             "Action",
-            "Casual",
-            "2D Platformer",
-            "Collectathon",
-            "Platformer",
-            "2D",
-            "Cute",
             "Indie",
-            "Cartoony",
-            "Pixel Graphics",
-            "Singleplayer"
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Local Co-Op",
+            "Shooter",
+            "Arcade",
+            "2D",
+            "Difficult",
+            "Singleplayer",
+            "Controller"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-12'
+var gameOfDayDate = '2026-09-13'
