@@ -2,110 +2,98 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2354000,
-        "CEId": "ea897b12-27bd-43cd-a04e-9ae4a06b9f08",
-        "name": "Slackers - Carts of Glory",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354000/header.jpg?t=1727693537",
+        "platformId": 1100990,
+        "CEId": "7eb84ad6-4a82-4917-b9b5-a46ad29707aa",
+        "name": "Aimbeast",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100990/header.jpg?t=1743083817",
         "genre": [
-            "Arcade"
+            "First-Person"
         ],
-        "tier": 2,
-        "points": 30,
+        "tier": 5,
+        "points": 205,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-11-09T03:33:45.000Z",
-        "updatedAt": "2026-09-12T05:11:18.000Z",
+        "createdAt": "2025-09-15T09:24:14.000Z",
+        "updatedAt": "2026-09-14T22:20:58.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 0,
-        "playersStarted": 9,
-        "playersTotal": 32,
+        "playersStarted": 7,
+        "playersTotal": 43,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 779,
+                "final": 779,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 669,
+                "final": 669,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 149000,
-                "final": 149000,
+                "initial": 92000,
+                "final": 92000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1895,
-                "final": 1895,
+                "initial": 1179,
+                "final": 1179,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 1049,
+                "final": 1049,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Drunken Daredevil (UNCLEARED) [0\u2605]\nObtain the platinum medal on all Freestyle levels.\n\nAbsolutely Trolleyed [15\u2605]\nObtain the platinum medal on all other Time Attack levels.\n\nTired of Bein' Sober [15\u2605]\nObtain the platinum medal on any 16 Time Attack levels.",
+            "primary": 9,
+            "primaryText": "Supreme Sharpshooter (UNCLEARED) [0\u2605]\nAchieve an overall rank of Supreme on the Aimbeast V2 Advanced Benchmark.\n\nGrandmaster Gunslinger (UNCLEARED) [0\u2605]\nAchieve an overall rank of Grandmaster III or higher on the Aimbeast V2 Advanced Benchmark.\n\nMaster Marksman (UNCLEARED) [0\u2605]\nAchieve an overall rank of Master III or higher on the Aimbeast V2 Advanced Benchmark.\n\nAmethyst Aimbot (UNCLEARED) [0\u2605]\nAchieve an overall rank of Amethyst III or higher on Aimbeast V2 Advanced Benchmark.\n\nRuby Rifleman [100\u2605]\nAchieve an overall rank of Ruby III on Aimbeast V2 Intermediate Benchmark.\n\nDiamond Destroyer [40\u2605]\nAchieve an overall rank of Diamond III or higher on Aimbeast V2 Intermediate Benchmark.\n\nPlatinum Protector [40\u2605]\nAchieve an overall rank of Platinum III or higher on Aimbeast V2 Intermediate Benchmark.\n\nGolden Gunner [20\u2605]\nAchieve an overall rank of Gold III on Aimbeast V2 Beginner Benchmark.\n\nSilver Sniper [5\u2605]\nAchieve an overall rank of Silver III or higher on Aimbeast V2 Beginner Benchmark.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "King of Winging It\nComplete all the original 16 levels in level order without dying, restarting, or quitting.",
-            "achievements": 17
+            "community": 0,
+            "communityText": "",
+            "achievements": 8
         },
         "CETags": {
             "genre": [
-                "Racing"
+                "Aim Trainer"
             ],
             "info": [
-                "Has Community Objectives",
                 "Uncleared"
             ]
         },
         "gameTags": [
-            "Indie",
+            "Action",
+            "Shooter",
             "Simulation",
-            "Casual",
-            "Driving",
-            "Funny",
-            "Skateboarding",
-            "Physics",
-            "Third Person",
-            "Colorful",
-            "Stylized",
-            "Multiplayer",
-            "Difficult",
-            "Time Attack",
-            "Arcade",
-            "Tutorial",
-            "Singleplayer",
-            "3D",
-            "Controller",
+            "FPS",
+            "Indie",
             "First-Person",
-            "Racing"
+            "Software Training",
+            "Level Editor",
+            "Utilities",
+            "eSports",
+            "Singleplayer",
+            "Third Person",
+            "3D",
+            "Multiplayer",
+            "Moddable",
+            "PvP",
+            "Software",
+            "PvE",
+            "Tutorial",
+            "Competitive"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "greek": "I",
-            "hindi": "I",
-            "koreana": "I",
-            "russian": "I",
-            "schinese": "I"
+            "english": "I"
         },
-        "information": "The original 16 levels are listed in the following order:\n\u00ad1. Groove\n\u00ad2. Monolith\n\u00ad3. Outskirts\n\u00ad4. Hillbomb\n\u00ad5. The Breeze\n\u00ad6. Coasting\n\u00ad7. Dam it!\n\u00ad8. Downtown\n\u00ad9. Derailed\n\u00ad10. Downfall\n\u00ad11. Roundabout\n\u00ad12. Road rash\n\u00ad13. Night crawler\n\u00ad14. Bottleneck\n\u00ad15. Trainwreck\n\u00ad16. Roadkill"
+        "information": "Given the video proof requirements for the Advanced PO and the final Intermediate PO, it is highly recommended to record all attempts.\n\nThe Replay Buffer function within OBS, or Steam Recording, would be the best suggestions."
     }
 }
-var gameOfDayDate = '2026-09-14'
+var gameOfDayDate = '2026-09-15'
