@@ -3405,7 +3405,7 @@ var masoData =
         "tier": "1",
         "owners": 49,
         "completions": 12,
-        "playtime": 5.940277777777779,
+        "playtime": 6.052777777777778,
         "newestCompletion": "2026-09-08T12:43:56.000Z"
     },
     "1867530": {
@@ -4695,10 +4695,10 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 9,
-        "completions": 7,
-        "playtime": 8.985714285714286,
-        "newestCompletion": "2026-09-09T01:07:51.000Z"
+        "owners": 10,
+        "completions": 8,
+        "playtime": 8.96875,
+        "newestCompletion": "2026-09-15T16:44:13.000Z"
     },
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
