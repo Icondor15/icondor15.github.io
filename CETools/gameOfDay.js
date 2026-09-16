@@ -2,98 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1100990,
-        "CEId": "7eb84ad6-4a82-4917-b9b5-a46ad29707aa",
-        "name": "Aimbeast",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100990/header.jpg?t=1743083817",
+        "platformId": 1325470,
+        "CEId": "1372fbcf-73a1-42a7-a76a-ea2bd2fda3ff",
+        "name": "Pianistic",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1325470/header.jpg?t=1681124629",
         "genre": [
-            "First-Person"
+            "Arcade"
         ],
-        "tier": 5,
-        "points": 205,
+        "tier": 3,
+        "points": 50,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2025-09-15T09:24:14.000Z",
-        "updatedAt": "2026-09-14T22:20:58.000Z",
+        "createdAt": "2023-09-16T20:59:57.000Z",
+        "updatedAt": "2026-09-15T17:17:54.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 0,
-        "playersStarted": 7,
-        "playersTotal": 43,
+        "playersStarted": 2,
+        "playersTotal": 95,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 779,
-                "final": 779,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 669,
-                "final": 669,
+                "initial": 169,
+                "final": 169,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 92000,
-                "final": 92000,
+                "initial": 23500,
+                "final": 23500,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 295,
+                "final": 295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1049,
-                "final": 1049,
+                "initial": 259,
+                "final": 259,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 9,
-            "primaryText": "Supreme Sharpshooter (UNCLEARED) [0\u2605]\nAchieve an overall rank of Supreme on the Aimbeast V2 Advanced Benchmark.\n\nGrandmaster Gunslinger (UNCLEARED) [0\u2605]\nAchieve an overall rank of Grandmaster III or higher on the Aimbeast V2 Advanced Benchmark.\n\nMaster Marksman (UNCLEARED) [0\u2605]\nAchieve an overall rank of Master III or higher on the Aimbeast V2 Advanced Benchmark.\n\nAmethyst Aimbot (UNCLEARED) [0\u2605]\nAchieve an overall rank of Amethyst III or higher on Aimbeast V2 Advanced Benchmark.\n\nRuby Rifleman [100\u2605]\nAchieve an overall rank of Ruby III on Aimbeast V2 Intermediate Benchmark.\n\nDiamond Destroyer [40\u2605]\nAchieve an overall rank of Diamond III or higher on Aimbeast V2 Intermediate Benchmark.\n\nPlatinum Protector [40\u2605]\nAchieve an overall rank of Platinum III or higher on Aimbeast V2 Intermediate Benchmark.\n\nGolden Gunner [20\u2605]\nAchieve an overall rank of Gold III on Aimbeast V2 Beginner Benchmark.\n\nSilver Sniper [5\u2605]\nAchieve an overall rank of Silver III or higher on Aimbeast V2 Beginner Benchmark.",
+            "primary": 4,
+            "primaryText": "One More Encore (UNCLEARED) [0\u2605]\nObtain an SSS rank or higher on all songs.\n\nGrand Pianist [20\u2605]\nObtain an SS rank or higher on all songs.\n\nPhilharmonic [20\u2605]\nObtain an S rank or higher on all songs.\n\nChord Progression [10\u2605]\nObtain a B+ rank or higher or more on all songs.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 8
+            "community": 1,
+            "communityText": "Concerto of the Century\nObtain a U rank on all songs.",
+            "achievements": 27
         },
         "CETags": {
             "genre": [
-                "Aim Trainer"
+                "Rhythm"
             ],
             "info": [
-                "Uncleared"
+                "Uncleared",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
-            "Action",
-            "Shooter",
-            "Simulation",
-            "FPS",
-            "Indie",
-            "First-Person",
-            "Software Training",
+            "Rhythm",
+            "Difficult",
             "Level Editor",
-            "Utilities",
-            "eSports",
+            "Atmospheric",
+            "Music",
             "Singleplayer",
-            "Third Person",
-            "3D",
-            "Multiplayer",
             "Moddable",
-            "PvP",
-            "Software",
-            "PvE",
-            "Tutorial",
-            "Competitive"
+            "Minimalist",
+            "Casual",
+            "2D",
+            "Action",
+            "Indie",
+            "Cyberpunk",
+            "Music-Based Procedural Generation"
         ],
         "languages": {
             "english": "I"
-        },
-        "information": "Given the video proof requirements for the Advanced PO and the final Intermediate PO, it is highly recommended to record all attempts.\n\nThe Replay Buffer function within OBS, or Steam Recording, would be the best suggestions."
+        }
     }
 }
-var gameOfDayDate = '2026-09-15'
+var gameOfDayDate = '2026-09-16'
