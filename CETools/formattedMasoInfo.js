@@ -56,9 +56,9 @@ var masoData =
         "description": "The most action you ever had on an elevator",
         "tier": "1",
         "owners": 73,
-        "completions": 34,
-        "playtime": 4.837745098039216,
-        "newestCompletion": "2024-08-06T08:52:21.000Z"
+        "completions": 35,
+        "playtime": 4.905714285714287,
+        "newestCompletion": "2026-09-16T23:02:30.000Z"
     },
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 165,
+        "owners": 166,
         "completions": 20,
         "playtime": 199.6925,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
@@ -663,7 +663,7 @@ var masoData =
     "356400": {
         "description": "\u2733 Feel the rhythm, time the rhythm",
         "tier": "2",
-        "owners": 82,
+        "owners": 83,
         "completions": 26,
         "playtime": 27.477564102564102,
         "newestCompletion": "2026-07-11T07:24:44.000Z",
@@ -943,7 +943,7 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 202,
+        "owners": 203,
         "completions": 104,
         "playtime": 32.77868589743592,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
@@ -1388,9 +1388,9 @@ var masoData =
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
         "owners": 275,
-        "completions": 89,
-        "playtime": 129.97022471910108,
-        "newestCompletion": "2026-09-05T11:24:45.000Z"
+        "completions": 90,
+        "playtime": 129.09611111111107,
+        "newestCompletion": "2026-09-16T20:30:06.000Z"
     },
     "557340": {
         "description": "ABSOLUTELY BANANAS",
@@ -1475,7 +1475,7 @@ var masoData =
     "1061090": {
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
-        "owners": 157,
+        "owners": 158,
         "completions": 42,
         "playtime": 272.8638888888888,
         "newestCompletion": "2026-08-12T04:19:17.000Z",
@@ -1667,7 +1667,7 @@ var masoData =
     "609420": {
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
-        "owners": 88,
+        "owners": 89,
         "completions": 6,
         "playtime": 110.26666666666667,
         "newestCompletion": "2025-11-29T02:29:08.000Z",
@@ -2867,7 +2867,7 @@ var masoData =
     "681530": {
         "description": "\ud83c\udf1f Your neighbors will hate you even more",
         "tier": "5",
-        "owners": 37,
+        "owners": 38,
         "completions": 2,
         "playtime": 240.13333333333333,
         "newestCompletion": "2023-10-12T23:46:10.000Z",
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 140,
         "completions": 42,
-        "playtime": 31.548412698412697,
+        "playtime": 32.40555555555555,
         "newestCompletion": "2026-08-13T06:36:52.000Z",
         "badges": {
             "count": 1,
@@ -3227,7 +3227,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 137,
+        "owners": 138,
         "completions": 71,
         "playtime": 77.38521126760567,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 79,
+        "owners": 80,
         "completions": 43,
         "playtime": 24.227906976744183,
         "newestCompletion": "2026-07-04T17:59:41.000Z"
@@ -3301,7 +3301,7 @@ var masoData =
         "tier": "0",
         "owners": 74,
         "completions": 10,
-        "playtime": 999.9366666666667,
+        "playtime": 999.9933333333335,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -3736,9 +3736,9 @@ var masoData =
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
         "owners": 76,
-        "completions": 7,
-        "playtime": 86.32380952380952,
-        "newestCompletion": "2025-07-22T01:59:55.000Z"
+        "completions": 8,
+        "playtime": 80.99791666666667,
+        "newestCompletion": "2026-09-17T04:29:52.000Z"
     },
     "1820570": {
         "description": "Gotta go carefully",
@@ -4159,7 +4159,7 @@ var masoData =
     "2204170": {
         "description": "\u2733 Gonna blow your mind away",
         "tier": "2",
-        "owners": 36,
+        "owners": 37,
         "completions": 14,
         "playtime": 47.95595238095239,
         "newestCompletion": "2026-08-29T05:03:11.000Z"
@@ -4609,7 +4609,7 @@ var masoData =
         "tier": "0",
         "owners": 83,
         "completions": 24,
-        "playtime": 81.76944444444445,
+        "playtime": 82.15833333333333,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4759,7 +4759,7 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 4,
+        "owners": 5,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4767,7 +4767,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 13,
+        "owners": 14,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
@@ -4775,7 +4775,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 19,
+        "owners": 20,
         "completions": 7,
         "playtime": 98.14285714285714,
         "newestCompletion": "2025-01-10T04:20:11.000Z",
