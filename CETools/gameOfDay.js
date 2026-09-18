@@ -2,97 +2,99 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1996470,
-        "CEId": "27231b8f-889d-4b78-9286-ff0cf434d97a",
-        "name": "Skator Gator 3D",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1996470/header.jpg?t=1694548750",
+        "platformId": 238010,
+        "CEId": "76b60daf-0df0-4855-a576-be5cb40e61a1",
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/238010/header.jpg?t=1661266769",
         "genre": [
-            "Platformer"
+            "First-Person"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 358,
-        "createdAt": "2023-09-17T15:05:31.000Z",
+        "medianPlaytime": 3107,
+        "createdAt": "2022-09-18T22:32:00.000Z",
         "updatedAt": "2026-09-15T17:17:54.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 7,
+        "playersCompleted": 45,
         "playersStarted": 0,
-        "playersTotal": 41,
+        "playersTotal": 528,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 1649,
+                "final": 1649,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 277000,
+                "final": 277000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 2995,
+                "final": 2995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Later, Speed Gator [5\u2605]\nGet all staff times.",
+            "primaryText": "Human at the Core [10\u2605]\nSeparately, beat the game without triggering any alarms, without killing anyone and on the hardest difficulty. / Complete \"Hei Zhen Zhu\" and \"Rifleman Bank Station\" using no Praxis kits, weapons, grenades or mines.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 59
         },
         "CETags": {
             "genre": [
-                "3D Platformer"
+                "First Person Shooter"
             ],
-            "info": [
-                "Animal Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
-            "3D Platformer",
-            "Collectathon",
-            "Short",
+            "Cyberpunk",
+            "Stealth",
+            "RPG",
+            "Sci-fi",
+            "FPS",
             "Action",
-            "Family Friendly",
-            "Skateboarding",
             "Singleplayer",
-            "Cartoon",
-            "Action-Adventure",
-            "Platformer",
-            "3D",
-            "Cute",
-            "Colorful",
-            "Skating",
-            "Cartoony",
+            "Story Rich",
+            "Great Soundtrack",
+            "Transhumanism",
+            "Dystopian ",
+            "First-Person",
+            "Atmospheric",
+            "Immersive Sim",
             "Adventure",
-            "Sports",
-            "Linear",
-            "Precision Platformer",
-            "Arcade"
+            "Inventory Management",
+            "Immersive",
+            "Shooter",
+            "Futuristic",
+            "Replay Value"
         ],
         "languages": {
-            "english": "I"
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-09-17'
+var gameOfDayDate = '2026-09-18'
