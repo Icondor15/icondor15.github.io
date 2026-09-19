@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 238010,
-        "CEId": "76b60daf-0df0-4855-a576-be5cb40e61a1",
-        "name": "Deus Ex: Human Revolution - Director's Cut",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/238010/header.jpg?t=1661266769",
+        "platformId": 1390410,
+        "CEId": "78309f28-e4f1-4bec-b3ed-cfa63122ee29",
+        "name": "Midnight Fight Express",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1390410/header.jpg?t=1663354113",
         "genre": [
-            "First-Person"
+            "Action"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 2,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 3107,
-        "createdAt": "2022-09-18T22:32:00.000Z",
+        "medianPlaytime": 1765,
+        "createdAt": "2022-09-19T14:05:31.000Z",
         "updatedAt": "2026-09-15T17:17:54.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 45,
-        "playersStarted": 0,
-        "playersTotal": 528,
+        "playersCompleted": 7,
+        "playersStarted": 1,
+        "playersTotal": 156,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -31,13 +31,13 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1649,
-                "final": 1649,
+                "initial": 1599,
+                "final": 1599,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 277000,
-                "final": 277000,
+                "initial": 198000,
+                "final": 198000,
                 "discountPercent": 0
             },
             "AUD": {
@@ -46,55 +46,55 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 2699,
+                "final": 2699,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Human at the Core [10\u2605]\nSeparately, beat the game without triggering any alarms, without killing anyone and on the hardest difficulty. / Complete \"Hei Zhen Zhu\" and \"Rifleman Bank Station\" using no Praxis kits, weapons, grenades or mines.",
+            "primary": 3,
+            "primaryText": "Hotline Express [10\u2605]\nComplete all levels on Realistic difficulty.\n\nKing of Challenges [10\u2605]\nComplete all challenges.\n\nYou Won't Be Forgotten My Friend [10\u2605]\nObtain all S ranks.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 59
+            "achievements": 40
         },
         "CETags": {
             "genre": [
-                "First Person Shooter"
+                "Beat'em'Up"
             ],
             "info": []
         },
         "gameTags": [
-            "Cyberpunk",
-            "Stealth",
-            "RPG",
-            "Sci-fi",
-            "FPS",
             "Action",
+            "Beat 'em up",
+            "Fighting",
+            "3D",
+            "Isometric",
+            "Gore",
+            "Violent",
+            "Combat",
             "Singleplayer",
-            "Story Rich",
+            "Indie",
+            "Stylized",
             "Great Soundtrack",
-            "Transhumanism",
-            "Dystopian ",
-            "First-Person",
-            "Atmospheric",
-            "Immersive Sim",
-            "Adventure",
-            "Inventory Management",
-            "Immersive",
-            "Shooter",
-            "Futuristic",
-            "Replay Value"
+            "Modern",
+            "Martial Arts",
+            "Top-Down",
+            "Top-Down Shooter"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "spanish": "IAS"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-09-18'
+var gameOfDayDate = '2026-09-19'
