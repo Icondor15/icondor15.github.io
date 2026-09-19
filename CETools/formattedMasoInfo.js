@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 278,
         "completions": 206,
-        "playtime": 244.81165048543693,
+        "playtime": 244.82119741100325,
         "newestCompletion": "2026-07-29T11:16:09.000Z",
         "badges": {
             "count": 2,
@@ -1019,7 +1019,7 @@ var masoData =
     "603960": {
         "description": "\u2606 Eternal Nightmare",
         "tier": "3",
-        "owners": 92,
+        "owners": 93,
         "completions": 6,
         "playtime": 446.5222222222221,
         "newestCompletion": "2025-05-16T00:36:22.000Z"
@@ -1417,7 +1417,7 @@ var masoData =
         "tier": "2",
         "owners": 157,
         "completions": 68,
-        "playtime": 36.87377450980394,
+        "playtime": 36.91495098039218,
         "newestCompletion": "2026-05-07T23:57:24.000Z",
         "badges": {
             "count": 2,
@@ -1527,7 +1527,7 @@ var masoData =
     "814380": {
         "description": "\u2733 It\"s all in the fundamentals",
         "tier": "2",
-        "owners": 116,
+        "owners": 117,
         "completions": 67,
         "playtime": 86.59552238805972,
         "newestCompletion": "2025-06-16T01:05:58.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 37,
-        "playtime": 86.02252252252251,
+        "playtime": 86.09279279279278,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2015,7 +2015,7 @@ var masoData =
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
         "tier": "3",
-        "owners": 60,
+        "owners": 61,
         "completions": 21,
         "playtime": 28.573809523809523,
         "newestCompletion": "2025-10-23T09:54:16.000Z"
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 126,
         "completions": 51,
-        "playtime": 243.79084967320262,
+        "playtime": 244.12973856209152,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
@@ -2639,7 +2639,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 101,
+        "owners": 102,
         "completions": 54,
         "playtime": 16.4070987654321,
         "newestCompletion": "2026-07-17T03:15:03.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 69,
         "completions": 21,
-        "playtime": 196.8293650793651,
+        "playtime": 196.88650793650794,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -3341,7 +3341,7 @@ var masoData =
         "tier": "2",
         "owners": 122,
         "completions": 41,
-        "playtime": 88.8609756097561,
+        "playtime": 89.01585365853659,
         "newestCompletion": "2026-06-07T04:14:43.000Z",
         "badges": {
             "count": 3,
@@ -3479,7 +3479,7 @@ var masoData =
     "1462040": {
         "description": "\u2733 That's got to be the most expensive game in the curator's history. And the game is not even finished.",
         "tier": "2",
-        "owners": 20,
+        "owners": 21,
         "completions": 5,
         "playtime": 80.53333333333333,
         "newestCompletion": "2023-11-26T01:28:45.000Z"
@@ -3561,7 +3561,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 12,
-        "playtime": 162.95833333333334,
+        "playtime": 163.38750000000002,
         "newestCompletion": "2026-04-18T11:36:29.000Z",
         "badges": {
             "count": 1,
@@ -4159,7 +4159,7 @@ var masoData =
     "2204170": {
         "description": "\u2733 Gonna blow your mind away",
         "tier": "2",
-        "owners": 38,
+        "owners": 39,
         "completions": 14,
         "playtime": 47.95595238095239,
         "newestCompletion": "2026-08-29T05:03:11.000Z"
@@ -4427,7 +4427,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 87,
+        "owners": 88,
         "completions": 26,
         "playtime": 48.87371794871795,
         "newestCompletion": "2026-07-21T04:31:50.000Z"
@@ -4491,7 +4491,7 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 42,
+        "owners": 43,
         "completions": 30,
         "playtime": 8.35888888888889,
         "newestCompletion": "2026-08-11T17:50:49.000Z"
@@ -4775,7 +4775,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 20,
+        "owners": 21,
         "completions": 7,
         "playtime": 98.14285714285714,
         "newestCompletion": "2025-01-10T04:20:11.000Z",
