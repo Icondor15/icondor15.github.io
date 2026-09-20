@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1390410,
-        "CEId": "78309f28-e4f1-4bec-b3ed-cfa63122ee29",
-        "name": "Midnight Fight Express",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1390410/header.jpg?t=1663354113",
+        "platformId": 1030300,
+        "CEId": "68a54e83-a273-4b5f-967e-972175999a3e",
+        "name": "Hollow Knight: Silksong",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1756994410",
         "genre": [
             "Action"
         ],
-        "tier": 2,
-        "points": 30,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1765,
-        "createdAt": "2022-09-19T14:05:31.000Z",
+        "medianPlaytime": 4944,
+        "createdAt": "2025-09-20T10:01:16.000Z",
         "updatedAt": "2026-09-15T17:17:54.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 7,
-        "playersStarted": 1,
-        "playersTotal": 156,
+        "playersCompleted": 306,
+        "playersStarted": 0,
+        "playersTotal": 812,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -26,75 +26,85 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1599,
-                "final": 1599,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 198000,
-                "final": 198000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2699,
-                "final": 2699,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Hotline Express [10\u2605]\nComplete all levels on Realistic difficulty.\n\nKing of Challenges [10\u2605]\nComplete all challenges.\n\nYou Won't Be Forgotten My Friend [10\u2605]\nObtain all S ranks.",
+            "primary": 1,
+            "primaryText": "Silk and Soul [10\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 40
+            "achievements": 52
         },
         "CETags": {
             "genre": [
-                "Beat'em'Up"
+                "Souls-like",
+                "Metroidvania"
             ],
-            "info": []
+            "info": [
+                "Animal Protagonist"
+            ]
         },
         "gameTags": [
-            "Action",
-            "Beat 'em up",
-            "Fighting",
-            "3D",
-            "Isometric",
-            "Gore",
-            "Violent",
-            "Combat",
-            "Singleplayer",
+            "Metroidvania",
+            "Difficult",
             "Indie",
-            "Stylized",
             "Great Soundtrack",
-            "Modern",
-            "Martial Arts",
-            "Top-Down",
-            "Top-Down Shooter"
+            "Souls-like",
+            "2D",
+            "Singleplayer",
+            "Platformer",
+            "Exploration",
+            "Female Protagonist",
+            "Adventure",
+            "Beautiful",
+            "Atmospheric",
+            "Story Rich",
+            "Sequel",
+            "Hand-drawn",
+            "Action",
+            "Multiple Endings",
+            "Open World",
+            "Cute"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "brazilian": "IS",
-            "latam": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS"
-        }
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        },
+        "information": "Twisted Child is missable, but it's possible to rollback your save via an ingame option."
     }
 }
-var gameOfDayDate = '2026-09-19'
+var gameOfDayDate = '2026-09-20'
