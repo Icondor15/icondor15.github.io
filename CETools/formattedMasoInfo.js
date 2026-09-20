@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 172,
+        "owners": 173,
         "completions": 67,
         "playtime": 38.37238805970149,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
@@ -315,7 +315,7 @@ var masoData =
     "365660": {
         "description": "\u2733 Play the first one too",
         "tier": "2",
-        "owners": 54,
+        "owners": 55,
         "completions": 13,
         "playtime": 19.83076923076923,
         "newestCompletion": "2025-03-18T07:30:57.000Z",
@@ -579,7 +579,7 @@ var masoData =
     "445980": {
         "description": "Magicombo",
         "tier": "1",
-        "owners": 110,
+        "owners": 111,
         "completions": 34,
         "playtime": 22.206862745098043,
         "newestCompletion": "2025-12-27T04:47:58.000Z",
@@ -591,7 +591,7 @@ var masoData =
     "384280": {
         "description": "\u2606 Sorry, you no win this time, try again",
         "tier": "3",
-        "owners": 31,
+        "owners": 32,
         "completions": 10,
         "playtime": 21.163333333333334,
         "newestCompletion": "2026-09-08T00:35:43.000Z"
@@ -599,7 +599,7 @@ var masoData =
     "399140": {
         "description": "Muh queenie!",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 9,
         "playtime": 12.379629629629632,
         "newestCompletion": "2023-11-01T13:21:54.000Z"
@@ -609,7 +609,7 @@ var masoData =
         "tier": "1",
         "owners": 83,
         "completions": 61,
-        "playtime": 3.7131147540983616,
+        "playtime": 3.714207650273225,
         "newestCompletion": "2026-08-14T11:53:26.000Z"
     },
     "852390": {
@@ -1611,7 +1611,7 @@ var masoData =
     "609110": {
         "description": "\u2733 To play all the games that kick ass",
         "tier": "2",
-        "owners": 42,
+        "owners": 43,
         "completions": 6,
         "playtime": 13.527777777777777,
         "newestCompletion": "2022-07-14T18:21:16.000Z"
@@ -1679,7 +1679,7 @@ var masoData =
     "390730": {
         "description": "\u2733 Easy Mode will still wreck you",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 4,
         "playtime": 16.929166666666667,
         "newestCompletion": "2023-07-17T08:07:39.000Z"
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 126,
         "completions": 51,
-        "playtime": 244.12973856209152,
+        "playtime": 244.1859477124183,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
@@ -2276,9 +2276,9 @@ var masoData =
         "description": "\u2733 Jump King\"s illegitimate son",
         "tier": "2",
         "owners": 53,
-        "completions": 17,
-        "playtime": 15.851960784313727,
-        "newestCompletion": "2025-03-16T22:18:25.000Z"
+        "completions": 18,
+        "playtime": 15.941666666666666,
+        "newestCompletion": "2026-09-16T21:05:54.000Z"
     },
     "1061180": {
         "description": "The best that 3D grappling has to offer",
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 43,
         "completions": 9,
-        "playtime": 86.16666666666667,
+        "playtime": 86.27777777777777,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 138,
         "completions": 71,
-        "playtime": 77.38521126760567,
+        "playtime": 77.49647887323947,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
         "badges": {
             "count": 1,
@@ -3275,7 +3275,7 @@ var masoData =
     "1598210": {
         "description": "Purrfection!",
         "tier": "1",
-        "owners": 37,
+        "owners": 38,
         "completions": 34,
         "playtime": 3.0872549019607836,
         "newestCompletion": "2026-05-29T14:51:21.000Z"
@@ -4235,7 +4235,7 @@ var masoData =
     "711540": {
         "description": "\u2733 Why climb 1000 stairs when you can go down 5 mountains?",
         "tier": "2",
-        "owners": 27,
+        "owners": 28,
         "completions": 4,
         "playtime": 34.75416666666666,
         "newestCompletion": "2024-12-26T03:51:24.000Z"
@@ -4656,9 +4656,9 @@ var masoData =
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
         "owners": 21,
-        "completions": 7,
-        "playtime": 31.704761904761906,
-        "newestCompletion": "2026-04-24T23:28:21.000Z"
+        "completions": 8,
+        "playtime": 32.225,
+        "newestCompletion": "2026-09-05T16:49:10.000Z"
     },
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
@@ -4783,5 +4783,13 @@ var masoData =
             "count": 4,
             "points": 15
         }
+    },
+    "3305690": {
+        "description": "\u272a really fishing for fish",
+        "tier": "4",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
