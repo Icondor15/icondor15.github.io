@@ -715,7 +715,7 @@ var masoData =
     "377860": {
         "description": "\u272a Peer pressure",
         "tier": "4",
-        "owners": 59,
+        "owners": 60,
         "completions": 16,
         "playtime": 44.78020833333333,
         "newestCompletion": "2026-04-23T13:25:26.000Z"
@@ -1451,7 +1451,7 @@ var masoData =
     "1037100": {
         "description": "Don\"t think about it for too long",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 11,
         "playtime": 7.96060606060606,
         "newestCompletion": "2025-07-12T05:03:45.000Z"
@@ -1999,7 +1999,7 @@ var masoData =
     "1148500": {
         "description": "One at a time boyo",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 14,
         "playtime": 4.610714285714286,
         "newestCompletion": "2025-12-19T07:51:07.000Z"
@@ -3687,7 +3687,7 @@ var masoData =
     "1772830": {
         "description": "\u2606 Don't let yoursef get rusty",
         "tier": "3",
-        "owners": 29,
+        "owners": 30,
         "completions": 7,
         "playtime": 36.357142857142854,
         "newestCompletion": "2025-01-18T14:42:57.000Z"
@@ -4387,7 +4387,7 @@ var masoData =
     "464450": {
         "description": "\ud83c\udf1f \ud83d\udc80 NOT THE BEES \ud83d\udc80",
         "tier": "5",
-        "owners": 44,
+        "owners": 45,
         "completions": 2,
         "playtime": 391.95833333333337,
         "newestCompletion": "2025-09-27T16:07:06.000Z",
@@ -4787,9 +4787,17 @@ var masoData =
     "3305690": {
         "description": "\u272a really fishing for fish",
         "tier": "4",
-        "owners": 0,
+        "owners": 1,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
+    },
+    "2533600": {
+        "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
+        "tier": "0",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 44.5,
+        "newestCompletion": "2026-08-19T02:48:36.000Z"
     }
 }
