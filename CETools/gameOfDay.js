@@ -2,109 +2,103 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1030300,
-        "CEId": "68a54e83-a273-4b5f-967e-972175999a3e",
-        "name": "Hollow Knight: Silksong",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1756994410",
+        "platformId": 248310,
+        "CEId": "a57d1929-f26f-4b90-8917-3184977698f4",
+        "name": "Freedom Planet",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/248310/header.jpg?t=1560750049",
         "genre": [
-            "Action"
+            "Platformer"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 4944,
-        "createdAt": "2025-09-20T10:01:16.000Z",
+        "medianPlaytime": 2233,
+        "createdAt": "2020-04-14T19:28:15.000Z",
         "updatedAt": "2026-09-15T17:17:54.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 306,
+        "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 812,
+        "playersTotal": 283,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
+                "initial": 1399,
+                "final": 1399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 148000,
+                "final": 148000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Silk and Soul [10\u2605]\nProve yourself.",
+            "primaryText": "Guardian of Avalice [10\u2605]\nClear the game without losing any lives. / Clear the game in less than 90 minutes.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 52
+            "community": 1,
+            "communityText": "Grand Gem Hoarder\nBeat the original version of the \"Gem Hoarder\" achievement by completing the game with over 7000 crystal shards.",
+            "achievements": 56
         },
         "CETags": {
             "genre": [
-                "Souls-like",
-                "Metroidvania"
+                "2D Platformer"
             ],
             "info": [
-                "Animal Protagonist"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
-            "Metroidvania",
-            "Difficult",
-            "Indie",
-            "Great Soundtrack",
-            "Souls-like",
-            "2D",
-            "Singleplayer",
             "Platformer",
-            "Exploration",
-            "Female Protagonist",
-            "Adventure",
-            "Beautiful",
-            "Atmospheric",
-            "Story Rich",
-            "Sequel",
-            "Hand-drawn",
+            "Great Soundtrack",
             "Action",
-            "Multiple Endings",
-            "Open World",
-            "Cute"
+            "Female Protagonist",
+            "2D",
+            "Indie",
+            "Pixel Graphics",
+            "Retro",
+            "Fast-Paced",
+            "Singleplayer",
+            "Adventure",
+            "Cute",
+            "Difficult",
+            "Anime",
+            "Classic",
+            "Side Scroller",
+            "Story Rich",
+            "Aliens",
+            "Funny",
+            "2D Platformer"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "brazilian": "IAS",
-            "koreana": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS",
-            "tchinese": "IAS"
-        },
-        "information": "Twisted Child is missable, but it's possible to rollback your save via an ingame option."
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-09-20'
+var gameOfDayDate = '2026-09-21'
