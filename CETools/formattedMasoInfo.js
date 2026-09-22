@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 166,
+        "owners": 167,
         "completions": 20,
         "playtime": 199.6925,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 130,
+        "owners": 131,
         "completions": 31,
         "playtime": 43.053225806451614,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 206,
         "completions": 70,
-        "playtime": 186.08166666666665,
+        "playtime": 186.18928571428572,
         "newestCompletion": "2026-09-07T01:40:49.000Z",
         "badges": {
             "count": 1,
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 275,
         "completions": 90,
-        "playtime": 129.09611111111107,
+        "playtime": 129.09722222222217,
         "newestCompletion": "2026-09-16T20:30:06.000Z"
     },
     "557340": {
@@ -1824,9 +1824,9 @@ var masoData =
         "description": "\u2733 W O A H",
         "tier": "2",
         "owners": 127,
-        "completions": 51,
-        "playtime": 49.452614379084956,
-        "newestCompletion": "2026-05-13T16:39:02.000Z",
+        "completions": 52,
+        "playtime": 49.40384615384614,
+        "newestCompletion": "2026-09-13T19:52:36.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -2315,7 +2315,7 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 103,
+        "owners": 104,
         "completions": 70,
         "playtime": 2.1576190476190473,
         "newestCompletion": "2026-08-16T09:09:45.000Z"
@@ -3228,8 +3228,8 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 138,
-        "completions": 71,
-        "playtime": 77.49647887323947,
+        "completions": 72,
+        "playtime": 77.33125000000001,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
         "badges": {
             "count": 1,
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 80,
+        "owners": 81,
         "completions": 43,
         "playtime": 24.227906976744183,
         "newestCompletion": "2026-07-04T17:59:41.000Z"
@@ -3301,7 +3301,7 @@ var masoData =
         "tier": "0",
         "owners": 74,
         "completions": 10,
-        "playtime": 999.9933333333335,
+        "playtime": 1002.2450000000001,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -3976,8 +3976,8 @@ var masoData =
         "description": "404: Tagline not found",
         "tier": "1",
         "owners": 46,
-        "completions": 16,
-        "playtime": 6.504166666666667,
+        "completions": 17,
+        "playtime": 6.344117647058824,
         "newestCompletion": "2026-08-27T18:25:55.000Z"
     },
     "1114940": {
@@ -4443,7 +4443,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 62,
+        "owners": 63,
         "completions": 12,
         "playtime": 25.241666666666664,
         "newestCompletion": "2026-03-03T18:25:03.000Z",
@@ -4501,7 +4501,7 @@ var masoData =
         "tier": "2",
         "owners": 167,
         "completions": 42,
-        "playtime": 107.2349206349206,
+        "playtime": 107.23650793650789,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 108,
+        "owners": 109,
         "completions": 3,
         "playtime": 218.23333333333332,
         "newestCompletion": "2026-08-05T23:09:22.000Z"
@@ -4675,7 +4675,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 17,
+        "owners": 18,
         "completions": 6,
         "playtime": 50.044444444444444,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
@@ -4711,7 +4711,7 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 4,
+        "owners": 5,
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
@@ -4719,10 +4719,10 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 3,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 4,
+        "completions": 1,
+        "playtime": 73.1,
+        "newestCompletion": "2026-04-01T23:31:51.000Z"
     },
     "3534850": {
         "description": "It's lonely at the top.",
@@ -4735,9 +4735,9 @@ var masoData =
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
         "tier": "2",
-        "owners": 7,
-        "completions": 2,
-        "playtime": 226.375,
+        "owners": 8,
+        "completions": 3,
+        "playtime": 210.15555555555557,
         "newestCompletion": "2026-08-02T12:21:24.000Z"
     },
     "1288930": {
@@ -4759,15 +4759,15 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 5,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 6,
+        "completions": 1,
+        "playtime": 15.233333333333333,
+        "newestCompletion": "2025-05-19T19:37:38.000Z"
     },
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 14,
+        "owners": 15,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
@@ -4775,9 +4775,9 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 21,
-        "completions": 7,
-        "playtime": 98.14285714285714,
+        "owners": 24,
+        "completions": 8,
+        "playtime": 91.59791666666666,
         "newestCompletion": "2025-01-10T04:20:11.000Z",
         "badges": {
             "count": 4,
@@ -4795,9 +4795,13 @@ var masoData =
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
         "tier": "0",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 44.5,
-        "newestCompletion": "2026-08-19T02:48:36.000Z"
+        "owners": 3,
+        "completions": 2,
+        "playtime": 40.40833333333333,
+        "newestCompletion": "2026-08-19T02:48:36.000Z",
+        "badges": {
+            "count": 1,
+            "points": 1
+        }
     }
 }
