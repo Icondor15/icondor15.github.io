@@ -2,91 +2,112 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1856900,
-        "CEId": "127c7f28-8644-4e49-bda4-6118520cf17f",
-        "name": "Andro Dunos II",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1856900/header.jpg?t=1648470911",
+        "platformId": 95400,
+        "CEId": "b0c4c8b6-abda-4862-9f8a-b6e4fcb76487",
+        "name": "ibb & obb",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/95400/header.jpg?t=1590420876",
         "genre": [
-            "Bullet Hell"
+            "Platformer"
         ],
-        "tier": 0,
-        "points": 0,
-        "secondaryPoints": 10,
-        "medianPlaytime": 225,
-        "createdAt": "2023-09-22T00:45:05.000Z",
+        "tier": 1,
+        "points": 10,
+        "secondaryPoints": 0,
+        "medianPlaytime": 785,
+        "createdAt": "2021-10-24T15:54:12.000Z",
         "updatedAt": "2026-09-21T05:01:27.000Z",
-        "playersOvercompleted": 6,
-        "playersCompleted": 0,
+        "playersOvercompleted": 0,
+        "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 74,
+        "playersTotal": 394,
         "priceData": {
             "USD": {
-                "initial": 1799,
-                "final": 1799,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1399,
-                "final": 1399,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 184000,
-                "final": 184000,
+                "initial": 118000,
+                "final": 118000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2595,
-                "final": 2595,
+                "initial": 1695,
+                "final": 1695,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2049,
-                "final": 2049,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 0,
-            "primaryText": "",
-            "secondary": 1,
-            "secondaryText": "From 1992 with Love [10\u2605]\nBeat the game on Android difficulty without using continues.",
+            "primary": 1,
+            "primaryText": "Friends are a Privilege [10\u2605]\nGet the highest possible score on all levels.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 10
         },
         "CETags": {
             "genre": [
-                "Horizontal Shoot'em'Up"
+                "Puzzle Platformer"
             ],
             "info": [
-                "Has Secondary Objectives"
+                "Requires Co-op"
             ]
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Bullet Hell",
+            "Co-op",
+            "Online Co-Op",
+            "Puzzle",
+            "Local Co-Op",
+            "Platformer",
+            "Indie",
+            "Cute",
+            "Multiplayer",
+            "Adventure",
+            "Puzzle Platformer",
             "Action",
-            "Arcade",
-            "Shooter",
-            "Difficult",
             "2D",
-            "Pixel Graphics",
-            "Linear",
+            "Difficult",
+            "Family Friendly",
+            "Great Soundtrack",
+            "Casual",
+            "Local Multiplayer",
             "Controller",
-            "Singleplayer",
-            "Futuristic",
-            "Soundtrack",
-            "Indie"
+            "Funny",
+            "Psychological Horror"
         ],
         "languages": {
-            "english": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-22'
+var gameOfDayDate = '2026-09-23'
