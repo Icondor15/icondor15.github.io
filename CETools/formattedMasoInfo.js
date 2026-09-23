@@ -725,7 +725,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 16,
-        "playtime": 127.00729166666666,
+        "playtime": 133.275,
         "newestCompletion": "2026-09-17T23:12:32.000Z",
         "badges": {
             "count": 3,
@@ -760,9 +760,9 @@ var masoData =
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
         "owners": 278,
-        "completions": 206,
-        "playtime": 244.82119741100325,
-        "newestCompletion": "2026-07-29T11:16:09.000Z",
+        "completions": 207,
+        "playtime": 243.73059581320453,
+        "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
             "points": 16
@@ -4685,7 +4685,7 @@ var masoData =
         "tier": "4",
         "owners": 6,
         "completions": 2,
-        "playtime": 120.59166666666667,
+        "playtime": 120.6,
         "newestCompletion": "2026-06-02T01:24:18.000Z",
         "badges": {
             "count": 1,
