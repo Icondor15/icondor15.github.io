@@ -1596,9 +1596,9 @@ var masoData =
         "description": "\u2733 Physics",
         "tier": "2",
         "owners": 71,
-        "completions": 7,
-        "playtime": 58.666666666666664,
-        "newestCompletion": "2025-10-13T18:30:38.000Z"
+        "completions": 8,
+        "playtime": 55.604166666666664,
+        "newestCompletion": "2026-09-05T17:12:31.000Z"
     },
     "252010": {
         "description": "He\"s gonna take you back to the past",
@@ -1711,7 +1711,7 @@ var masoData =
     "1120950": {
         "description": "The Deluxe Ultimate Definitive Complete Classic Edition",
         "tier": "1",
-        "owners": 61,
+        "owners": 62,
         "completions": 42,
         "playtime": 6.764285714285715,
         "newestCompletion": "2026-08-02T05:15:24.000Z"
@@ -2983,7 +2983,7 @@ var masoData =
     "1604300": {
         "description": "You got me in LOVE again",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 19,
         "playtime": 24.678947368421053,
         "newestCompletion": "2026-04-03T20:25:34.000Z",
@@ -3419,7 +3419,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 46,
+        "owners": 47,
         "completions": 13,
         "playtime": 82.2948717948718,
         "newestCompletion": "2026-07-29T16:14:40.000Z",
@@ -4189,7 +4189,7 @@ var masoData =
         "tier": "2",
         "owners": 44,
         "completions": 13,
-        "playtime": 65.94871794871794,
+        "playtime": 65.9525641025641,
         "newestCompletion": "2026-08-21T01:10:29.000Z"
     },
     "1304420": {
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 83,
+        "owners": 84,
         "completions": 24,
         "playtime": 82.15833333333333,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
