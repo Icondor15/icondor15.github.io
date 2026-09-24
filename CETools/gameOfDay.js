@@ -2,47 +2,47 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 95400,
-        "CEId": "b0c4c8b6-abda-4862-9f8a-b6e4fcb76487",
-        "name": "ibb & obb",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/95400/header.jpg?t=1590420876",
+        "platformId": 719930,
+        "CEId": "e17a963d-bc43-4286-98bf-bc9c43ab1d83",
+        "name": "Super High Ball: Pinball Platformer",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/719930/header.jpg?t=1627027446",
         "genre": [
             "Platformer"
         ],
-        "tier": 1,
-        "points": 10,
-        "secondaryPoints": 0,
-        "medianPlaytime": 785,
-        "createdAt": "2021-10-24T15:54:12.000Z",
+        "tier": 3,
+        "points": 65,
+        "secondaryPoints": 30,
+        "medianPlaytime": 2578,
+        "createdAt": "2021-09-24T06:36:49.000Z",
         "updatedAt": "2026-09-21T05:01:27.000Z",
-        "playersOvercompleted": 0,
-        "playersCompleted": 44,
-        "playersStarted": 0,
-        "playersTotal": 394,
+        "playersOvercompleted": 4,
+        "playersCompleted": 23,
+        "playersStarted": 2,
+        "playersTotal": 112,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
-            },
-            "EUR": {
                 "initial": 999,
                 "final": 999,
                 "discountPercent": 0
             },
+            "EUR": {
+                "initial": 975,
+                "final": 975,
+                "discountPercent": 0
+            },
             "GBP": {
-                "initial": 899,
-                "final": 899,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 118000,
-                "final": 118000,
+                "initial": 120000,
+                "final": 120000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1695,
-                "final": 1695,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
@@ -52,62 +52,48 @@ var gameOfDay =
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Friends are a Privilege [10\u2605]\nGet the highest possible score on all levels.",
-            "secondary": 0,
-            "secondaryText": "",
+            "primary": 2,
+            "primaryText": "Absolute Baller [40\u2605]\nBeat all Diamond times.\n\nNo Tilt Required [25\u2605]\nGet all the Sapphire balls and cubes.",
+            "secondary": 1,
+            "secondaryText": "Pinball Wizard [30\u2605]\nComplete every individual level without dying.",
             "community": 0,
             "communityText": "",
-            "achievements": 10
+            "achievements": 64
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer"
+                "Awkward Movement"
             ],
             "info": [
-                "Requires Co-op"
+                "Has Secondary Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
-            "Co-op",
-            "Online Co-Op",
-            "Puzzle",
-            "Local Co-Op",
-            "Platformer",
-            "Indie",
-            "Cute",
-            "Multiplayer",
-            "Adventure",
-            "Puzzle Platformer",
-            "Action",
-            "2D",
+            "Precision Platformer",
+            "Pinball",
             "Difficult",
-            "Family Friendly",
-            "Great Soundtrack",
-            "Casual",
-            "Local Multiplayer",
-            "Controller",
-            "Funny",
-            "Psychological Horror"
+            "Arcade",
+            "Fast-Paced",
+            "Platformer",
+            "Physics",
+            "Action",
+            "Time Attack",
+            "Score Attack",
+            "Singleplayer",
+            "Side Scroller",
+            "Parkour",
+            "Character Customization",
+            "Indie",
+            "2D Platformer",
+            "Stylized",
+            "Minimalist",
+            "Adventure",
+            "3D"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "danish": "I",
-            "dutch": "I",
-            "finnish": "I",
-            "norwegian": "I",
-            "polish": "I",
-            "russian": "I",
-            "schinese": "I",
-            "swedish": "I",
-            "turkish": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-23'
+var gameOfDayDate = '2026-09-24'
