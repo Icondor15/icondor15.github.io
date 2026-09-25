@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 147,
-        "playtime": 202.71224489795915,
+        "playtime": 202.71360544217683,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -544,9 +544,9 @@ var masoData =
         "description": "\u2733 Nothing to do with the game",
         "tier": "2",
         "owners": 121,
-        "completions": 78,
-        "playtime": 6.2739316239316265,
-        "newestCompletion": "2026-07-11T11:22:42.000Z"
+        "completions": 79,
+        "playtime": 6.461814345991564,
+        "newestCompletion": "2026-09-15T23:06:59.000Z"
     },
     "578930": {
         "description": "My favorite word",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 278,
         "completions": 207,
-        "playtime": 243.73059581320453,
+        "playtime": 244.18180354267312,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 37,
-        "playtime": 86.09279279279278,
+        "playtime": 86.36981981981981,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2556,9 +2556,9 @@ var masoData =
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
         "owners": 128,
-        "completions": 30,
-        "playtime": 44.86222222222222,
-        "newestCompletion": "2026-02-03T20:17:46.000Z"
+        "completions": 31,
+        "playtime": 45.02150537634408,
+        "newestCompletion": "2026-09-24T00:21:59.000Z"
     },
     "732930": {
         "description": "Goomba strikes back",
@@ -3123,7 +3123,7 @@ var masoData =
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
-        "owners": 64,
+        "owners": 65,
         "completions": 10,
         "playtime": 97.715,
         "newestCompletion": "2026-04-12T20:08:01.000Z",
@@ -3319,7 +3319,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 58,
+        "owners": 59,
         "completions": 5,
         "playtime": 174.38000000000002,
         "newestCompletion": "2026-04-10T21:55:18.000Z",
@@ -4501,7 +4501,7 @@ var masoData =
         "tier": "2",
         "owners": 167,
         "completions": 42,
-        "playtime": 107.23650793650789,
+        "playtime": 107.24841269841265,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
@@ -4759,9 +4759,9 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 6,
-        "completions": 1,
-        "playtime": 15.233333333333333,
+        "owners": 8,
+        "completions": 2,
+        "playtime": 14.908333333333333,
         "newestCompletion": "2025-05-19T19:37:38.000Z"
     },
     "612880": {
@@ -4787,10 +4787,10 @@ var masoData =
     "3305690": {
         "description": "\u272a really fishing for fish",
         "tier": "4",
-        "owners": 1,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 2,
+        "completions": 1,
+        "playtime": 46.65,
+        "newestCompletion": "2026-09-18T02:22:40.000Z"
     },
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
