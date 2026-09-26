@@ -167,7 +167,7 @@ var masoData =
     "927250": {
         "description": "\u2733 Make quick work of your enemies if you want to stand a chance",
         "tier": "2",
-        "owners": 26,
+        "owners": 27,
         "completions": 12,
         "playtime": 15.04027777777778,
         "newestCompletion": "2023-04-20T21:18:10.000Z"
@@ -952,9 +952,9 @@ var masoData =
         "description": "\u2606 Jukenation",
         "tier": "3",
         "owners": 98,
-        "completions": 32,
-        "playtime": 17.870833333333334,
-        "newestCompletion": "2026-04-03T14:36:10.000Z"
+        "completions": 33,
+        "playtime": 17.509090909090908,
+        "newestCompletion": "2026-09-25T14:08:49.000Z"
     },
     "239800": {
         "description": "\u2606 Through your fingers",
@@ -1067,7 +1067,7 @@ var masoData =
     "211360": {
         "description": "\u2733 Pretends to be a puzzle game",
         "tier": "2",
-        "owners": 53,
+        "owners": 54,
         "completions": 23,
         "playtime": 15.420289855072465,
         "newestCompletion": "2025-07-14T01:16:20.000Z"
@@ -1099,7 +1099,7 @@ var masoData =
     "534290": {
         "description": "\u2606 Esp\u00edritus necr\u00f3fagos y Duendes",
         "tier": "3",
-        "owners": 39,
+        "owners": 40,
         "completions": 7,
         "playtime": 16.628571428571426,
         "newestCompletion": "2024-10-01T01:15:45.000Z"
@@ -1451,7 +1451,7 @@ var masoData =
     "1037100": {
         "description": "Don\"t think about it for too long",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 11,
         "playtime": 7.96060606060606,
         "newestCompletion": "2025-07-12T05:03:45.000Z"
@@ -1512,9 +1512,9 @@ var masoData =
         "description": "Shootinito enemito tier onito",
         "tier": "1",
         "owners": 30,
-        "completions": 6,
-        "playtime": 11.819444444444445,
-        "newestCompletion": "2025-02-15T12:52:52.000Z"
+        "completions": 7,
+        "playtime": 11.435714285714287,
+        "newestCompletion": "2026-09-07T16:24:47.000Z"
     },
     "1040590": {
         "description": "Memory Chambers",
@@ -2123,7 +2123,7 @@ var masoData =
     "1019590": {
         "description": "\u2606 Finally hard",
         "tier": "3",
-        "owners": 82,
+        "owners": 83,
         "completions": 23,
         "playtime": 18.769565217391303,
         "newestCompletion": "2026-05-05T20:52:06.000Z"
@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 114,
+        "owners": 115,
         "completions": 22,
         "playtime": 589.4909090909091,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -4420,9 +4420,9 @@ var masoData =
         "description": "Wreckfast",
         "tier": "1",
         "owners": 39,
-        "completions": 9,
-        "playtime": 4.214814814814814,
-        "newestCompletion": "2026-07-20T07:27:01.000Z"
+        "completions": 10,
+        "playtime": 4.006666666666666,
+        "newestCompletion": "2026-08-23T20:33:11.000Z"
     },
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
