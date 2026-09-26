@@ -1,109 +1,57 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1520330,
-        "CEId": "1b2a5997-9812-4099-bcb7-b215e17de447",
-        "name": "TechBeat Heart",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1520330/header.jpg?t=1654351385",
+        "gameType": 2,
+        "platformId": 1261980,
+        "CEId": "58f3a81d-31ae-44f0-9ee1-35c7fe7071db",
+        "name": "Samurai Aces",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1261980/header.jpg?t=1611907763",
         "genre": [
             "Bullet Hell"
         ],
         "tier": 2,
         "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 651,
-        "createdAt": "2021-09-25T21:35:44.000Z",
+        "medianPlaytime": 232,
+        "createdAt": "2022-09-26T14:17:55.000Z",
         "updatedAt": "2026-09-21T05:01:27.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 91,
-        "priceData": {
-            "USD": {
-                "initial": 199,
-                "final": 199,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 199,
-                "final": 199,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 169,
-                "final": 169,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 23500,
-                "final": 23500,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 295,
-                "final": 295,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 259,
-                "final": 259,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 2,
+        "playersStarted": 2,
+        "playersTotal": 29,
         "milestones": {
-            "primary": 1,
-            "primaryText": "With Love [30\u2605]\nProve yourself!",
+            "primary": 2,
+            "primaryText": "Unsung Hero [20\u2605]\nClear both loops of the Score Attack mode.\n\nAce Warrior[10\u2605 (Partial: 5\u2605)]\nWatch the ending of the game without continuing on Normal difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 55
+            "achievements": 29
         },
         "CETags": {
             "genre": [
-                "Score Attack",
                 "Vertical Shoot'em'Up"
             ],
-            "info": []
+            "info": [
+                "Delisted"
+            ]
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Bullet Hell",
-            "Arena Shooter",
-            "Procedural Generation",
-            "Replay Value",
-            "Difficult",
-            "Score Attack",
-            "Arcade",
-            "Perma Death",
-            "Top-Down Shooter",
             "Action",
-            "Spectacle fighter",
-            "Singleplayer",
-            "Robots",
-            "Shooter",
-            "Fast-Paced",
+            "Shoot 'Em Up",
+            "Arcade",
             "Pixel Graphics",
-            "2D",
+            "Shooter",
+            "Ninja",
             "Retro",
-            "Exploration"
+            "Anime"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
+            "english": "I",
             "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "dutch": "I",
-            "latam": "I",
-            "portuguese": "I",
-            "russian": "I",
             "schinese": "I",
             "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-09-25'
+var gameOfDayDate = '2026-09-26'
