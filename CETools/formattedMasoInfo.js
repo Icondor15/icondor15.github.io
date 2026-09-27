@@ -3268,9 +3268,9 @@ var masoData =
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
         "owners": 81,
-        "completions": 43,
-        "playtime": 24.227906976744183,
-        "newestCompletion": "2026-07-04T17:59:41.000Z"
+        "completions": 44,
+        "playtime": 24.448106060606055,
+        "newestCompletion": "2026-09-24T23:27:08.000Z"
     },
     "1598210": {
         "description": "Purrfection!",
