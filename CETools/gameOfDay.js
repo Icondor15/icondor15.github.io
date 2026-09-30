@@ -1,90 +1,50 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 949770,
-        "CEId": "1f276ebb-5b07-4ac5-af3c-b53a61480c86",
-        "name": "Spitkiss",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/949770/header.jpg?t=1593097608",
+        "gameType": 3,
+        "platformId": 784,
+        "CEId": "4fb89d20-5966-4d0e-ad86-dd35e40420fe",
+        "name": "Mega Man Zero 4",
+        "header": "https://upload.cedb.me/4fb89d20-5966-4d0e-ad86-dd35e40420fe.png-1761036321.727315-TaZUcSUx.png",
         "genre": [
-            "Platformer"
+            "Action"
         ],
-        "tier": 2,
-        "points": 35,
+        "tier": 1,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 1081,
-        "createdAt": "2021-09-29T02:35:49.000Z",
-        "updatedAt": "2026-09-21T05:01:27.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2025-09-30T05:23:26.000Z",
+        "updatedAt": "2026-09-30T01:55:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 9,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 141,
-        "priceData": {
-            "USD": {
-                "initial": 299,
-                "final": 299,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 299,
-                "final": 299,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 209,
-                "final": 209,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 31000,
-                "final": 31000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 450,
-                "final": 450,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 339,
-                "final": 339,
-                "discountPercent": 0
-            }
+        "playersTotal": 3,
+        "gameTags": [
+            "2D Platforming",
+            "Action"
+        ],
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "\ud83c\udf51 \ud83c\udf46 [35\u2605]\nObtain 125% completion.",
+            "primaryText": "The Distant Utopia, its Sin and Rebirth [5\u2605]\nGet an overall S rank on Hard mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 1
+            "achievements": 52
         },
         "CETags": {
             "genre": [
-                "Awkward Movement"
+                "Run & Gun",
+                "Action-Platformer"
             ],
             "info": []
         },
-        "gameTags": [
-            "Indie",
-            "Action",
-            "LGBTQ+",
-            "Platformer",
-            "2D",
-            "Casual",
-            "Singleplayer",
-            "Hand-drawn"
-        ],
-        "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "danish": "I",
-            "portuguese": "I"
-        }
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     }
 }
-var gameOfDayDate = '2026-09-29'
+var gameOfDayDate = '2026-09-30'
