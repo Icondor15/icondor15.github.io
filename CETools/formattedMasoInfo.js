@@ -396,9 +396,9 @@ var masoData =
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
         "owners": 82,
-        "completions": 3,
-        "playtime": 76.99444444444444,
-        "newestCompletion": "2026-02-01T21:42:44.000Z"
+        "completions": 4,
+        "playtime": 90.41666666666666,
+        "newestCompletion": "2026-09-27T16:38:02.000Z"
     },
     "437570": {
         "description": "Don\"t lose your head",
@@ -821,7 +821,7 @@ var masoData =
         "tier": "5",
         "owners": 159,
         "completions": 43,
-        "playtime": 42.17015503875968,
+        "playtime": 42.170930232558135,
         "newestCompletion": "2026-07-18T16:27:23.000Z"
     },
     "489140": {
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 168,
         "completions": 72,
-        "playtime": 238.1175925925926,
+        "playtime": 238.12314814814812,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1745,7 +1745,7 @@ var masoData =
         "tier": "5",
         "owners": 97,
         "completions": 35,
-        "playtime": 52.24619047619046,
+        "playtime": 52.2495238095238,
         "newestCompletion": "2026-08-13T09:02:47.000Z"
     },
     "846870": {
@@ -4645,7 +4645,7 @@ var masoData =
         "tier": "0",
         "owners": 15,
         "completions": 4,
-        "playtime": 260.575,
+        "playtime": 263.7875,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
@@ -4795,7 +4795,7 @@ var masoData =
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
         "tier": "0",
-        "owners": 3,
+        "owners": 4,
         "completions": 2,
         "playtime": 40.40833333333333,
         "newestCompletion": "2026-08-19T02:48:36.000Z",
