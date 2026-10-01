@@ -1,50 +1,96 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 784,
-        "CEId": "4fb89d20-5966-4d0e-ad86-dd35e40420fe",
-        "name": "Mega Man Zero 4",
-        "header": "https://upload.cedb.me/4fb89d20-5966-4d0e-ad86-dd35e40420fe.png-1761036321.727315-TaZUcSUx.png",
+        "gameType": 0,
+        "platformId": 2815150,
+        "CEId": "82b12c4c-6142-4a6a-a534-29f3f1aaf980",
+        "name": "Hollow Floor",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815150/header.jpg?t=1726736391",
         "genre": [
-            "Action"
+            "Platformer"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-09-30T05:23:26.000Z",
+        "medianPlaytime": 294,
+        "createdAt": "2024-10-01T01:36:00.000Z",
         "updatedAt": "2026-09-30T01:55:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
-        "playersStarted": 0,
-        "playersTotal": 3,
-        "gameTags": [
-            "2D Platforming",
-            "Action"
-        ],
-        "consoleData": {
-            "name": "Game Boy Advance",
-            "family": "Nintendo",
-            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        "playersCompleted": 3,
+        "playersStarted": 2,
+        "playersTotal": 21,
+        "priceData": {
+            "USD": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 249,
+                "final": 249,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 35000,
+                "final": 35000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 450,
+                "final": 450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 389,
+                "final": 389,
+                "discountPercent": 0
+            }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "The Distant Utopia, its Sin and Rebirth [5\u2605]\nGet an overall S rank on Hard mode.",
+            "primary": 2,
+            "primaryText": "Coinllector [5\u2605]\nCollect all coins in Coin mode without dying.\n\nCollectorb [5\u2605]\nCollect all three orbs and finish the game without dying.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 52
+            "achievements": 14
         },
         "CETags": {
             "genre": [
-                "Run & Gun",
-                "Action-Platformer"
+                "Metroidvania"
             ],
             "info": []
         },
-        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
+        "gameTags": [
+            "Metroidvania",
+            "Precision Platformer",
+            "Adventure",
+            "Cute",
+            "Pixel Graphics",
+            "Retro",
+            "2D Platformer",
+            "Indie",
+            "Exploration",
+            "Platformer",
+            "Colorful",
+            "Atmospheric",
+            "Singleplayer",
+            "2D",
+            "Parkour",
+            "Family Friendly",
+            "Mystery",
+            "Controller",
+            "Action-Adventure",
+            "Linear"
+        ],
+        "languages": {
+            "english": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-09-30'
+var gameOfDayDate = '2026-10-01'
