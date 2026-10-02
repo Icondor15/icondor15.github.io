@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 206,
         "completions": 102,
-        "playtime": 44.58937908496734,
+        "playtime": 44.75571895424838,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 147,
-        "playtime": 202.71360544217683,
+        "playtime": 202.72403628117908,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -2745,7 +2745,7 @@ var masoData =
         "tier": "2",
         "owners": 68,
         "completions": 25,
-        "playtime": 31.262666666666664,
+        "playtime": 31.266,
         "newestCompletion": "2026-07-31T22:48:09.000Z"
     },
     "1003590": {
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 81,
+        "owners": 82,
         "completions": 44,
         "playtime": 24.448106060606055,
         "newestCompletion": "2026-09-24T23:27:08.000Z"
@@ -4501,7 +4501,7 @@ var masoData =
         "tier": "2",
         "owners": 167,
         "completions": 42,
-        "playtime": 107.24841269841265,
+        "playtime": 107.24920634920632,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
