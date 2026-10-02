@@ -1,59 +1,27 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 2815150,
-        "CEId": "82b12c4c-6142-4a6a-a534-29f3f1aaf980",
-        "name": "Hollow Floor",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815150/header.jpg?t=1726736391",
+        "gameType": 1,
+        "platformId": 2472840,
+        "CEId": "47a3bdc4-7079-4546-816e-df12399a5ed4",
+        "name": "Ducks Can Drive",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2472840/header.jpg?t=1693515448",
         "genre": [
-            "Platformer"
+            "Arcade"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 294,
-        "createdAt": "2024-10-01T01:36:00.000Z",
-        "updatedAt": "2026-09-30T01:55:22.000Z",
+        "medianPlaytime": 304,
+        "createdAt": "2023-10-02T04:47:41.000Z",
+        "updatedAt": "2026-10-02T03:51:33.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 2,
-        "playersTotal": 21,
-        "priceData": {
-            "USD": {
-                "initial": 299,
-                "final": 200,
-                "discountPercent": 33
-            },
-            "EUR": {
-                "initial": 299,
-                "final": 200,
-                "discountPercent": 33
-            },
-            "GBP": {
-                "initial": 249,
-                "final": 166,
-                "discountPercent": 33
-            },
-            "JPY": {
-                "initial": 35000,
-                "final": 23400,
-                "discountPercent": 33
-            },
-            "AUD": {
-                "initial": 450,
-                "final": 301,
-                "discountPercent": 33
-            },
-            "CAD": {
-                "initial": 389,
-                "final": 260,
-                "discountPercent": 33
-            }
-        },
+        "playersCompleted": 21,
+        "playersStarted": 0,
+        "playersTotal": 133,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Coinllector [5\u2605]\nCollect all coins in Coin mode without dying.\n\nCollectorb [5\u2605]\nCollect all three orbs and finish the game without dying.",
+            "primary": 1,
+            "primaryText": "Questionable License [10\u2605]\nBeat all time trial targets.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
@@ -62,35 +30,40 @@ var gameOfDay =
         },
         "CETags": {
             "genre": [
-                "Metroidvania"
+                "Racing"
             ],
-            "info": []
+            "info": [
+                "Animal Protagonist",
+                "Overwhelmingly Positive",
+                "Free"
+            ]
         },
         "gameTags": [
-            "Metroidvania",
-            "Precision Platformer",
-            "Adventure",
-            "Cute",
-            "Pixel Graphics",
-            "Retro",
-            "2D Platformer",
-            "Indie",
+            "Racing",
             "Exploration",
-            "Platformer",
+            "Driving",
+            "PvP",
+            "Arcade",
+            "Free to Play",
+            "Multiplayer",
+            "3D",
+            "Cute",
+            "Third Person",
+            "Funny",
+            "Open World",
+            "Indie",
+            "Cartoony",
+            "Casual",
             "Colorful",
-            "Atmospheric",
-            "Singleplayer",
-            "2D",
-            "Parkour",
-            "Family Friendly",
-            "Mystery",
-            "Controller",
-            "Action-Adventure",
-            "Linear"
+            "Offroad",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-10-01'
+var gameOfDayDate = '2026-10-02'
