@@ -1,69 +1,95 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2472840,
-        "CEId": "47a3bdc4-7079-4546-816e-df12399a5ed4",
-        "name": "Ducks Can Drive",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2472840/header.jpg?t=1693515448",
+        "gameType": 0,
+        "platformId": 1910260,
+        "CEId": "f3bf16c1-88ee-47d0-b1a8-22f5e14117e7",
+        "name": "Geballer",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1910260/header.jpg?t=1654868427",
         "genre": [
-            "Arcade"
+            "Bullet Hell"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 304,
-        "createdAt": "2023-10-02T04:47:41.000Z",
+        "medianPlaytime": 547,
+        "createdAt": "2022-10-03T10:39:05.000Z",
         "updatedAt": "2026-10-02T03:51:33.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 21,
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 133,
+        "playersTotal": 37,
+        "priceData": {
+            "USD": {
+                "initial": 399,
+                "final": 87,
+                "discountPercent": 78
+            },
+            "EUR": {
+                "initial": 329,
+                "final": 72,
+                "discountPercent": 78
+            },
+            "GBP": {
+                "initial": 289,
+                "final": 63,
+                "discountPercent": 78
+            },
+            "JPY": {
+                "initial": 41000,
+                "final": 9000,
+                "discountPercent": 78
+            },
+            "AUD": {
+                "initial": 595,
+                "final": 130,
+                "discountPercent": 78
+            },
+            "CAD": {
+                "initial": 465,
+                "final": 102,
+                "discountPercent": 78
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Questionable License [10\u2605]\nBeat all time trial targets.",
+            "primaryText": "Dedicated Geballer [5\u2605]\nComplete the final secret loop level. / Beat the game without dying in any non-intermission levels.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 14
+            "achievements": 21
         },
         "CETags": {
             "genre": [
-                "Racing"
+                "Avoid'em'Up"
             ],
             "info": [
-                "Animal Protagonist",
-                "Overwhelmingly Positive",
-                "Free"
+                "Mouse Focused"
             ]
         },
         "gameTags": [
-            "Racing",
-            "Exploration",
-            "Driving",
-            "PvP",
+            "Arena Shooter",
+            "Bullet Hell",
+            "Top-Down Shooter",
+            "Rhythm",
             "Arcade",
-            "Free to Play",
-            "Multiplayer",
-            "3D",
-            "Cute",
-            "Third Person",
-            "Funny",
-            "Open World",
-            "Indie",
-            "Cartoony",
+            "2D",
+            "Top-Down",
             "Casual",
+            "Relaxing",
+            "Gun Customization",
+            "Abstract",
             "Colorful",
-            "Offroad",
+            "Minimalist",
+            "Stylized",
+            "Philosophical",
+            "Level Editor",
             "Singleplayer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "ukrainian": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-10-02'
+var gameOfDayDate = '2026-10-03'
