@@ -1475,7 +1475,7 @@ var masoData =
     "1061090": {
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
-        "owners": 158,
+        "owners": 159,
         "completions": 42,
         "playtime": 272.8638888888888,
         "newestCompletion": "2026-08-12T04:19:17.000Z",
@@ -1764,9 +1764,9 @@ var masoData =
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
         "owners": 123,
-        "completions": 35,
-        "playtime": 19.134285714285717,
-        "newestCompletion": "2026-07-30T15:43:06.000Z"
+        "completions": 36,
+        "playtime": 18.921296296296298,
+        "newestCompletion": "2026-10-02T11:41:34.000Z"
     },
     "460810": {
         "description": "\u2733 PlatinumGames",
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 37,
-        "playtime": 86.36981981981981,
+        "playtime": 86.48333333333333,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2156,9 +2156,9 @@ var masoData =
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
         "owners": 60,
-        "completions": 7,
-        "playtime": 46.147619047619045,
-        "newestCompletion": "2026-03-01T17:04:20.000Z"
+        "completions": 8,
+        "playtime": 44.08958333333333,
+        "newestCompletion": "2026-10-03T02:01:19.000Z"
     },
     "508790": {
         "description": "\u2733 Flat is Justice",
@@ -2263,7 +2263,7 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 136,
+        "owners": 137,
         "completions": 93,
         "playtime": 19.803584229390687,
         "newestCompletion": "2026-08-07T15:06:50.000Z",
