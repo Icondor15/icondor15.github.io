@@ -1,95 +1,65 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1910260,
-        "CEId": "f3bf16c1-88ee-47d0-b1a8-22f5e14117e7",
-        "name": "Geballer",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1910260/header.jpg?t=1654868427",
+        "gameType": 1,
+        "platformId": 1294170,
+        "CEId": "ac61194a-354d-4cdd-abcc-5d1bcbefba2f",
+        "name": "TCSTRIKERS3",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1294170/header.jpg?t=1713051474",
         "genre": [
             "Bullet Hell"
         ],
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 547,
-        "createdAt": "2022-10-03T10:39:05.000Z",
+        "medianPlaytime": 124,
+        "createdAt": "2024-10-04T08:12:29.000Z",
         "updatedAt": "2026-10-02T03:51:33.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 37,
-        "priceData": {
-            "USD": {
-                "initial": 399,
-                "final": 87,
-                "discountPercent": 78
-            },
-            "EUR": {
-                "initial": 329,
-                "final": 72,
-                "discountPercent": 78
-            },
-            "GBP": {
-                "initial": 289,
-                "final": 63,
-                "discountPercent": 78
-            },
-            "JPY": {
-                "initial": 41000,
-                "final": 9000,
-                "discountPercent": 78
-            },
-            "AUD": {
-                "initial": 595,
-                "final": 130,
-                "discountPercent": 78
-            },
-            "CAD": {
-                "initial": 465,
-                "final": 102,
-                "discountPercent": 78
-            }
-        },
+        "playersTotal": 52,
         "milestones": {
             "primary": 1,
-            "primaryText": "Dedicated Geballer [5\u2605]\nComplete the final secret loop level. / Beat the game without dying in any non-intermission levels.",
+            "primaryText": "Techno Comeback [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 21
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "Avoid'em'Up"
+                "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Mouse Focused"
+                "Free"
             ]
         },
         "gameTags": [
-            "Arena Shooter",
+            "Shoot 'Em Up",
             "Bullet Hell",
-            "Top-Down Shooter",
-            "Rhythm",
-            "Arcade",
             "2D",
-            "Top-Down",
+            "Action",
+            "Funny",
+            "Indie",
+            "Adventure",
+            "Arcade",
+            "Free to Play",
+            "Singleplayer",
             "Casual",
-            "Relaxing",
-            "Gun Customization",
-            "Abstract",
-            "Colorful",
-            "Minimalist",
-            "Stylized",
-            "Philosophical",
-            "Level Editor",
-            "Singleplayer"
+            "Shooter",
+            "Pixel Graphics",
+            "Retro",
+            "Top-Down Shooter",
+            "Score Attack"
         ],
         "languages": {
-            "english": "I"
+            "english": "IS",
+            "japanese": "IS",
+            "tchinese": "IS",
+            "vietnamese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-10-03'
+var gameOfDayDate = '2026-10-04'
