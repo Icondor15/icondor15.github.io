@@ -1452,9 +1452,9 @@ var masoData =
         "description": "Don\"t think about it for too long",
         "tier": "1",
         "owners": 27,
-        "completions": 11,
-        "playtime": 7.96060606060606,
-        "newestCompletion": "2025-07-12T05:03:45.000Z"
+        "completions": 12,
+        "playtime": 8.713888888888889,
+        "newestCompletion": "2026-10-03T14:09:01.000Z"
     },
     "1040490": {
         "description": "TBA",
@@ -1619,7 +1619,7 @@ var masoData =
     "681110": {
         "description": "\u272a Whiff Island",
         "tier": "4",
-        "owners": 39,
+        "owners": 40,
         "completions": 4,
         "playtime": 81.69583333333333,
         "newestCompletion": "2022-05-17T09:07:06.000Z"
@@ -2315,7 +2315,7 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 104,
+        "owners": 105,
         "completions": 70,
         "playtime": 2.1576190476190473,
         "newestCompletion": "2026-08-16T09:09:45.000Z"
@@ -2675,7 +2675,7 @@ var masoData =
     "1139900": {
         "description": "Hey, is your ghost running?",
         "tier": "1",
-        "owners": 91,
+        "owners": 92,
         "completions": 26,
         "playtime": 19.45769230769231,
         "newestCompletion": "2026-02-03T13:43:21.000Z"
@@ -4035,7 +4035,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 57,
+        "owners": 58,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4259,7 +4259,7 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 31,
+        "owners": 32,
         "completions": 7,
         "playtime": 8.173809523809524,
         "newestCompletion": "2026-01-25T06:07:36.000Z"
@@ -4535,7 +4535,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 35,
+        "owners": 36,
         "completions": 10,
         "playtime": 12.3,
         "newestCompletion": "2026-08-16T03:08:55.000Z"
