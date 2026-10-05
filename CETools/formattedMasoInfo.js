@@ -195,7 +195,7 @@ var masoData =
     "658690": {
         "description": "\u272a I Wanna be the Bleeding Marshmallow Head",
         "tier": "4",
-        "owners": 68,
+        "owners": 69,
         "completions": 12,
         "playtime": 22.256944444444443,
         "newestCompletion": "2026-08-23T23:45:06.000Z"
@@ -787,7 +787,7 @@ var masoData =
     "323580": {
         "description": "\u2606 These Gods do not favor you",
         "tier": "3",
-        "owners": 108,
+        "owners": 109,
         "completions": 19,
         "playtime": 23.66578947368421,
         "newestCompletion": "2025-07-18T22:14:34.000Z"
@@ -1076,9 +1076,9 @@ var masoData =
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
         "owners": 115,
-        "completions": 33,
-        "playtime": 38.354040404040404,
-        "newestCompletion": "2026-07-31T23:59:19.000Z"
+        "completions": 34,
+        "playtime": 37.812745098039215,
+        "newestCompletion": "2026-10-04T16:34:49.000Z"
     },
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
@@ -1249,7 +1249,7 @@ var masoData =
         "tier": "5",
         "owners": 231,
         "completions": 11,
-        "playtime": 633.459090909091,
+        "playtime": 633.5303030303031,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 76,
+        "owners": 77,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -1344,9 +1344,9 @@ var masoData =
         "description": "\u2733 Its demon mode will shatter your soul into tiny fragments, and if you brave its hardships - you will be reborn.",
         "tier": "2",
         "owners": 100,
-        "completions": 22,
-        "playtime": 98.38636363636364,
-        "newestCompletion": "2024-02-28T08:42:53.000Z",
+        "completions": 23,
+        "playtime": 95.92536231884058,
+        "newestCompletion": "2026-10-05T03:06:36.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 71,
+        "owners": 72,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -2579,7 +2579,7 @@ var masoData =
     "1205170": {
         "description": "\u2606 Challenge attracts rage.",
         "tier": "3",
-        "owners": 89,
+        "owners": 90,
         "completions": 20,
         "playtime": 21.165833333333335,
         "newestCompletion": "2026-03-10T18:09:34.000Z"
@@ -2983,7 +2983,7 @@ var masoData =
     "1604300": {
         "description": "You got me in LOVE again",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 19,
         "playtime": 24.678947368421053,
         "newestCompletion": "2026-04-03T20:25:34.000Z",
@@ -3301,7 +3301,7 @@ var masoData =
         "tier": "0",
         "owners": 74,
         "completions": 10,
-        "playtime": 1002.2450000000001,
+        "playtime": 1002.2483333333333,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -3403,10 +3403,10 @@ var masoData =
     "1309940": {
         "description": "Swinging plant beats up grandpa",
         "tier": "1",
-        "owners": 49,
-        "completions": 12,
-        "playtime": 6.052777777777778,
-        "newestCompletion": "2026-09-08T12:43:56.000Z"
+        "owners": 50,
+        "completions": 13,
+        "playtime": 5.88846153846154,
+        "newestCompletion": "2026-10-03T09:12:55.000Z"
     },
     "1867530": {
         "description": "Skating on the Colossus",
@@ -3579,7 +3579,7 @@ var masoData =
     "274190": {
         "description": "\ud83c\udf1f Press F to pay respect",
         "tier": "5",
-        "owners": 96,
+        "owners": 97,
         "completions": 16,
         "playtime": 51.396875,
         "newestCompletion": "2026-05-18T05:36:58.000Z",
@@ -4343,7 +4343,7 @@ var masoData =
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
         "tier": "2",
-        "owners": 40,
+        "owners": 41,
         "completions": 15,
         "playtime": 51.53,
         "newestCompletion": "2026-08-20T22:26:09.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 33,
+        "owners": 35,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4599,7 +4599,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 32,
+        "owners": 33,
         "completions": 5,
         "playtime": 388.59333333333336,
         "newestCompletion": "2026-08-24T20:12:31.000Z"
@@ -4727,10 +4727,10 @@ var masoData =
     "3534850": {
         "description": "It's lonely at the top.",
         "tier": "1",
-        "owners": 2,
-        "completions": 1,
-        "playtime": 2.05,
-        "newestCompletion": "2025-10-03T21:47:09.000Z"
+        "owners": 3,
+        "completions": 2,
+        "playtime": 1.8583333333333334,
+        "newestCompletion": "2026-07-14T15:46:11.000Z"
     },
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
@@ -4767,7 +4767,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 15,
+        "owners": 16,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
