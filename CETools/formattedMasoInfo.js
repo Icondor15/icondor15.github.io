@@ -3035,7 +3035,7 @@ var masoData =
     "1057090": {
         "description": "\u2733 now with actual combat",
         "tier": "2",
-        "owners": 144,
+        "owners": 145,
         "completions": 39,
         "playtime": 37.896581196581195,
         "newestCompletion": "2025-09-15T20:27:37.000Z"
