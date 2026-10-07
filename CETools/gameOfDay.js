@@ -2,88 +2,96 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1425640,
-        "CEId": "eaef9371-0dde-494f-be9a-faf3b1979ef5",
-        "name": "Minestrife",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1425640/header.jpg?t=1602116617",
+        "platformId": 3681370,
+        "CEId": "6fda7ee3-f165-48a2-9574-1529cc170d92",
+        "name": "ABYSSAL BLADE",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681370/66d2e239c3bdc403299c8e9e280201b22ed21886/header.jpg?t=1750814520",
         "genre": [
-            "Arcade",
-            "Strategy"
+            "Action"
         ],
         "tier": 2,
-        "points": 25,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 712,
-        "createdAt": "2023-10-06T12:17:00.000Z",
-        "updatedAt": "2026-10-02T03:51:33.000Z",
+        "medianPlaytime": 435,
+        "createdAt": "2026-01-19T10:11:01.000Z",
+        "updatedAt": "2026-10-02T16:45:15.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 20,
-        "playersStarted": 3,
-        "playersTotal": 48,
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
-                "initial": 99,
-                "final": 99,
-                "discountPercent": 0
+                "initial": 499,
+                "final": 299,
+                "discountPercent": 40
             },
             "EUR": {
-                "initial": 99,
-                "final": 99,
-                "discountPercent": 0
+                "initial": 499,
+                "final": 299,
+                "discountPercent": 40
             },
             "GBP": {
-                "initial": 89,
-                "final": 89,
-                "discountPercent": 0
+                "initial": 429,
+                "final": 257,
+                "discountPercent": 40
             },
             "JPY": {
-                "initial": 12000,
-                "final": 12000,
-                "discountPercent": 0
+                "initial": 58000,
+                "final": 34800,
+                "discountPercent": 40
             },
             "AUD": {
-                "initial": 150,
-                "final": 150,
-                "discountPercent": 0
+                "initial": 750,
+                "final": 450,
+                "discountPercent": 40
             },
             "CAD": {
-                "initial": 129,
-                "final": 129,
-                "discountPercent": 0
+                "initial": 649,
+                "final": 389,
+                "discountPercent": 40
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Sweeper Agent [15\u2605]\nProve yourself.\n\nRife With Strife [10\u2605]\nWin a game on Grandmaster difficulty.",
+            "primary": 1,
+            "primaryText": "Master of Hope [30\u2605]\nBeat all bosses on Normal mode without dying. / Beat all bosses on Abyss mode.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 4,
-            "communityText": "Mine Weeper\nWin a game on Super Grandwizard difficulty.\n\nMagic Mine\nSeparately, win a game on Wizard and Grandwizard difficulty.\n\nTriple Torment\nWin a game on Super Grandmaster difficulty.\n\nLuck of the Minerish\nWin a game on the secret difficulty.",
-            "achievements": 20
+            "community": 0,
+            "communityText": "",
+            "achievements": 18
         },
         "CETags": {
             "genre": [
-                "Puzzle"
+                "Souls-like",
+                "Boss Rush"
             ],
-            "info": [
-                "Mouse Focused",
-                "Has Community Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Strategy",
-            "Puzzle",
-            "Board Game",
-            "2D",
+            "Souls-like",
+            "Boss Rush",
+            "Difficult",
+            "Action RPG",
+            "Hack and Slash",
+            "Combat",
+            "PvE",
+            "Pixel Graphics",
             "Top-Down",
-            "Choices Matter",
-            "Procedural Generation",
-            "Singleplayer"
+            "2D",
+            "Dark Fantasy",
+            "RPG",
+            "Action",
+            "Adventure",
+            "Action-Adventure",
+            "Philosophical",
+            "Emotional",
+            "Demons",
+            "Singleplayer",
+            "Controller"
         ],
         "languages": {
-            "english": "I"
-        },
-        "information": "## This is not recommended as a first-time Minesweeper game.\n\nPar times:\n\u2022 Beginner: 10 seconds\n\u2022 Intermediate: 60 seconds\n\u2022 Adept: 120 seconds\n\u2022 Expert: 160 seconds\n\u2022 Survival: 180 seconds\n\nIn order to access the secret difficulty:\n\u2022 Browse Local Files > Go to 'userdata' folder\n\u2022 Open 'launch_options' and edit the line under #Mode to 'secret'\n\u2022 You can also access any other difficulty using this method. **This will not affect any achievement progress outside of \"What?\"**"
+            "english": "IAS"
+        }
     }
 }
-var gameOfDayDate = '2026-10-06'
+var gameOfDayDate = '2026-10-07'
