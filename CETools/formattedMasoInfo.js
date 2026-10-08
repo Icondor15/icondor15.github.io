@@ -479,7 +479,7 @@ var masoData =
     "239350": {
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
-        "owners": 179,
+        "owners": 180,
         "completions": 57,
         "playtime": 99.2,
         "newestCompletion": "2026-03-28T00:55:39.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 278,
         "completions": 207,
-        "playtime": 244.18180354267312,
+        "playtime": 244.32721417069246,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -1435,10 +1435,10 @@ var masoData =
     "961660": {
         "description": "\u2733 Bosses Everywhere",
         "tier": "2",
-        "owners": 37,
-        "completions": 17,
-        "playtime": 10.577450980392157,
-        "newestCompletion": "2026-08-03T18:41:09.000Z"
+        "owners": 38,
+        "completions": 18,
+        "playtime": 10.391666666666667,
+        "newestCompletion": "2026-10-07T17:40:46.000Z"
     },
     "706510": {
         "description": "LEFT RIGHT LEFT RIGHT LEFT R...ESTART LEFT RIGHT LEFT RIGHT",
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 37,
-        "playtime": 86.48333333333333,
+        "playtime": 86.5891891891892,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
