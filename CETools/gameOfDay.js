@@ -2,105 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1265820,
-        "CEId": "37770c9d-2600-44f9-aecf-436958019de8",
-        "name": "Fights in Tight Spaces",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1265820/header.jpg?t=1646674466",
+        "platformId": 2190220,
+        "CEId": "251e0184-1172-43b8-bc42-bcbffc5b3b4b",
+        "name": "Touhou Danmaku Kagura Phantasia Lost",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/header.jpg?t=1726793671",
         "genre": [
-            "Strategy"
+            "Arcade"
         ],
         "tier": 3,
-        "points": 40,
+        "points": 50,
         "secondaryPoints": 0,
-        "medianPlaytime": 3057,
-        "createdAt": "2022-10-08T03:23:56.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-10-09T07:37:45.000Z",
         "updatedAt": "2026-10-02T03:51:33.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 8,
-        "playersTotal": 111,
+        "playersCompleted": 0,
+        "playersStarted": 12,
+        "playersTotal": 132,
         "priceData": {
             "USD": {
-                "initial": 2499,
-                "final": 499,
-                "discountPercent": 80
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 2099,
-                "final": 419,
-                "discountPercent": 80
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1949,
-                "final": 389,
-                "discountPercent": 80
+                "initial": 1675,
+                "final": 1675,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 257000,
-                "final": 51400,
-                "discountPercent": 80
+                "initial": 265000,
+                "final": 265000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 3595,
-                "final": 719,
-                "discountPercent": 80
+                "initial": 2950,
+                "final": 2950,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 2899,
-                "final": 579,
-                "discountPercent": 80
+                "initial": 2599,
+                "final": 2599,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "The Illusion of Choice [15\u2605]\nComplete a full run on Brutal difficulty with the Weapon of Choice DLC enabled.\n\nBattles in Cruel Spots [5\u2605]\nComplete a full run on Brutal difficulty.\n\nAgent 011 [20\u2605]\nComplete a full run on Purist difficulty. / Win a run in under an hour.",
+            "primary": 4,
+            "primaryText": "Phantasia Restored (UNCLEARED) [0\u2605]\nAchieve an All Brilliant on all LUNATIC difficulty songs from the base game.\n\nIncident Climax (UNCLEARED) [0\u2605]\nAchieve a Full Combo on all LUNATIC difficulty songs from the base game.\n\nThe Sea of Fantasy [20\u2605]\nAchieve an All Brilliant on all HARD difficulty songs from the base game.\n\nMitama Starter [30\u2605]\nAchieve a Full Combo on all HARD difficulty songs from the base game.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "MI5 Commander\nComplete a full run on Purist difficulty with every starting deck.",
-            "achievements": 40
+            "community": 0,
+            "communityText": "",
+            "achievements": 57
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Turn-Based",
-                "Rogue-like"
+                "Rhythm",
+                "VSRG"
             ],
             "info": [
-                "Has Community Objectives"
+                "Uncleared"
             ]
         },
         "gameTags": [
-            "Strategy",
+            "Music",
             "Action",
-            "Turn-Based Tactics",
-            "Deckbuilding",
-            "Turn-Based Combat",
-            "Martial Arts",
-            "Roguelike Deckbuilder",
-            "Turn-Based",
-            "Card Game",
-            "Roguelike",
-            "Turn-Based Strategy",
-            "Indie",
-            "Replay Value",
-            "Tactical",
-            "Violent",
-            "Isometric",
-            "Roguelite",
+            "Rhythm",
+            "Adventure",
+            "Faith",
+            "Visual Novel",
+            "Anime",
+            "Cute",
+            "Female Protagonist",
+            "2D",
+            "Fantasy",
             "Singleplayer",
-            "Beat 'em up",
+            "Bullet Hell",
+            "Indie",
+            "Controller",
+            "Casual",
+            "Post-apocalyptic",
             "Great Soundtrack"
         ],
         "languages": {
             "english": "IS",
-            "french": "IS",
-            "german": "IS",
             "japanese": "IS",
-            "spanish": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-10-08'
+var gameOfDayDate = '2026-10-09'
