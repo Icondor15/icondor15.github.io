@@ -383,7 +383,7 @@ var masoData =
     "625740": {
         "description": "Running\u2757 Dashing\u2757 Swinging\u2757",
         "tier": "1",
-        "owners": 21,
+        "owners": 22,
         "completions": 6,
         "playtime": 20.627777777777776,
         "newestCompletion": "2023-02-15T04:34:04.000Z",
@@ -511,7 +511,7 @@ var masoData =
     "416110": {
         "description": "\u2733 Surprisingly well made for an iOS game",
         "tier": "2",
-        "owners": 47,
+        "owners": 48,
         "completions": 15,
         "playtime": 15.005555555555556,
         "newestCompletion": "2025-01-08T19:28:04.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 278,
         "completions": 207,
-        "playtime": 244.32721417069246,
+        "playtime": 244.35410628019326,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -1059,7 +1059,7 @@ var masoData =
     "278100": {
         "description": "\u272a RIVE means split or tear apart violently, that includes your monitor.",
         "tier": "4",
-        "owners": 75,
+        "owners": 76,
         "completions": 6,
         "playtime": 45.025,
         "newestCompletion": "2025-09-03T11:54:19.000Z"
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 77,
+        "owners": 78,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 275,
         "completions": 90,
-        "playtime": 129.09722222222217,
+        "playtime": 129.11351851851848,
         "newestCompletion": "2026-09-16T20:30:06.000Z"
     },
     "557340": {
@@ -2032,9 +2032,9 @@ var masoData =
         "description": "\u2733 SKRRT SKRRT",
         "tier": "2",
         "owners": 59,
-        "completions": 16,
-        "playtime": 12.223958333333334,
-        "newestCompletion": "2025-10-03T07:13:41.000Z"
+        "completions": 17,
+        "playtime": 12.234313725490196,
+        "newestCompletion": "2026-09-13T16:36:21.000Z"
     },
     "416830": {
         "description": "Lightspeed",
@@ -3419,7 +3419,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 47,
+        "owners": 48,
         "completions": 13,
         "playtime": 82.2948717948718,
         "newestCompletion": "2026-07-29T16:14:40.000Z",
@@ -3559,7 +3559,7 @@ var masoData =
     "1058830": {
         "description": "\u2606 xD",
         "tier": "3",
-        "owners": 60,
+        "owners": 61,
         "completions": 12,
         "playtime": 163.38750000000002,
         "newestCompletion": "2026-04-18T11:36:29.000Z",
@@ -4328,9 +4328,9 @@ var masoData =
         "description": "\u2606 Not quite a Bad Apple",
         "tier": "3",
         "owners": 30,
-        "completions": 9,
-        "playtime": 22.398148148148145,
-        "newestCompletion": "2025-10-12T21:52:54.000Z"
+        "completions": 10,
+        "playtime": 25.211666666666666,
+        "newestCompletion": "2026-10-09T04:01:28.000Z"
     },
     "3274300": {
         "description": "Tier 1 Shocker",
@@ -4727,7 +4727,7 @@ var masoData =
     "3534850": {
         "description": "It's lonely at the top.",
         "tier": "1",
-        "owners": 3,
+        "owners": 4,
         "completions": 2,
         "playtime": 1.8583333333333334,
         "newestCompletion": "2026-07-14T15:46:11.000Z"
