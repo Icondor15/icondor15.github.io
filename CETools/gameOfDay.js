@@ -2,98 +2,96 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1704730,
-        "CEId": "cb4b4e8b-757e-4228-8550-b8346de8d0f5",
-        "name": "Vacant Kingdom",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1704730/header.jpg?t=1665063578",
+        "platformId": 1372210,
+        "CEId": "7938a2f0-a471-402f-a02c-f7d17a03155a",
+        "name": "Dap",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1372210/header.jpg?t=1635209446",
         "genre": [
-            "Bullet Hell"
+            "Action"
         ],
         "tier": 1,
         "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 550,
-        "createdAt": "2022-10-11T03:03:52.000Z",
+        "medianPlaytime": 674,
+        "createdAt": "2022-10-12T00:17:10.000Z",
         "updatedAt": "2026-10-02T03:51:33.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 16,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1399,
+                "final": 1399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 750,
-                "final": 750,
+                "initial": 1159,
+                "final": 1159,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 650,
-                "final": 650,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 90000,
-                "final": 90000,
+                "initial": 142000,
+                "final": 142000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 1995,
+                "final": 1995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1000,
-                "final": 1000,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Time Has Come [15\u2605]\nClear the game on Masochism, as well as all bosses.",
+            "primaryText": "Depressing Alternative of Pikmin [15\u2605]\nBeat the game without dying.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 2,
-            "communityText": "The End of Your Patience\nBeat all bosses on Masochism while having the anti-assist options enabled at max value (Player Energy Scale at 0% and Boss HP Scale at 999%).\n\nVacant Purity\nBeat all bosses on Masochism while having only weapons equipped (Sub weapons, clothes, trinkets and footwear are not allowed).",
-            "achievements": 16
+            "community": 0,
+            "communityText": "",
+            "achievements": 17
         },
         "CETags": {
             "genre": [
-                "Twin Stick"
+                "Horror",
+                "Action-Adventure"
             ],
-            "info": [
-                "Animal Protagonist",
-                "Has Community Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Bullet Hell",
-            "Shoot 'Em Up",
-            "Funny",
-            "Action RPG",
+            "Action-Adventure",
+            "Horror",
+            "Action",
             "Pixel Graphics",
-            "Twin Stick Shooter",
-            "Top-Down Shooter",
-            "Arcade",
-            "Metroidvania",
-            "Hack and Slash",
             "Atmospheric",
+            "Surreal",
+            "Adventure",
             "2D",
             "Cute",
-            "Action",
-            "Adventure",
-            "Puzzle",
-            "RPG",
-            "Action-Adventure",
-            "Cartoony",
-            "Colorful"
+            "Dark",
+            "Combat",
+            "Experimental",
+            "Top-Down Shooter",
+            "Colorful",
+            "Psychedelic",
+            "Top-Down",
+            "Mystery",
+            "Nature",
+            "Crafting",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IS"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-10-11'
+var gameOfDayDate = '2026-10-12'
