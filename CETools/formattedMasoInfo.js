@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 278,
         "completions": 207,
-        "playtime": 244.35410628019326,
+        "playtime": 244.36103059581322,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 159,
         "completions": 42,
-        "playtime": 272.8638888888888,
+        "playtime": 272.90396825396823,
         "newestCompletion": "2026-08-12T04:19:17.000Z",
         "badges": {
             "count": 1,
@@ -2147,10 +2147,10 @@ var masoData =
     "1322650": {
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
-        "owners": 101,
-        "completions": 78,
-        "playtime": 10.33568376068376,
-        "newestCompletion": "2026-06-24T19:45:05.000Z"
+        "owners": 102,
+        "completions": 79,
+        "playtime": 10.28059071729958,
+        "newestCompletion": "2026-10-11T19:27:13.000Z"
     },
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
@@ -4767,7 +4767,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 16,
+        "owners": 17,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
