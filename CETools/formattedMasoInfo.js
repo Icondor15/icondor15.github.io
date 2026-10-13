@@ -529,7 +529,7 @@ var masoData =
         "tier": "5",
         "owners": 118,
         "completions": 22,
-        "playtime": 35.97727272727273,
+        "playtime": 35.9780303030303,
         "newestCompletion": "2026-08-12T19:47:26.000Z"
     },
     "785880": {
@@ -1467,7 +1467,7 @@ var masoData =
     "718590": {
         "description": "Dank Satisfaction",
         "tier": "1",
-        "owners": 40,
+        "owners": 41,
         "completions": 7,
         "playtime": 22.440476190476186,
         "newestCompletion": "2024-04-20T16:13:28.000Z"
@@ -1937,7 +1937,7 @@ var masoData =
         "tier": "5",
         "owners": 71,
         "completions": 12,
-        "playtime": 208.57638888888889,
+        "playtime": 208.65416666666667,
         "newestCompletion": "2026-09-10T15:26:11.000Z",
         "badges": {
             "count": 2,
@@ -2265,7 +2265,7 @@ var masoData =
         "tier": "2",
         "owners": 137,
         "completions": 93,
-        "playtime": 19.803584229390687,
+        "playtime": 19.927240143369183,
         "newestCompletion": "2026-08-07T15:06:50.000Z",
         "badges": {
             "count": 1,
@@ -2744,9 +2744,9 @@ var masoData =
         "description": "\u2733 that's not how physics works",
         "tier": "2",
         "owners": 68,
-        "completions": 25,
-        "playtime": 31.266,
-        "newestCompletion": "2026-07-31T22:48:09.000Z"
+        "completions": 26,
+        "playtime": 30.693589743589744,
+        "newestCompletion": "2026-10-12T11:26:32.000Z"
     },
     "1003590": {
         "description": "\u2606 aaaaaaaaaa i'm trippin balls",
@@ -2817,7 +2817,7 @@ var masoData =
         "tier": "3",
         "owners": 62,
         "completions": 23,
-        "playtime": 26.00217391304347,
+        "playtime": 26.186956521739123,
         "newestCompletion": "2026-07-16T14:03:26.000Z"
     },
     "1663410": {
@@ -3145,7 +3145,7 @@ var masoData =
         "tier": "4",
         "owners": 85,
         "completions": 7,
-        "playtime": 238.18333333333334,
+        "playtime": 239.4642857142857,
         "newestCompletion": "2024-12-06T21:13:47.000Z",
         "badges": {
             "count": 2,
@@ -3819,7 +3819,7 @@ var masoData =
     "375900": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f YOU'RE THE TRACKMAAAAASTTTEEEEEEEEEERRRRRRRRRRRRRRRRRRRRRRR",
         "tier": "0",
-        "owners": 18,
+        "owners": 19,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4187,9 +4187,9 @@ var masoData =
     "1814170": {
         "description": "\u2733 Your brain will turn into mush afterword",
         "tier": "2",
-        "owners": 44,
-        "completions": 13,
-        "playtime": 65.9525641025641,
+        "owners": 45,
+        "completions": 14,
+        "playtime": 65.3892857142857,
         "newestCompletion": "2026-08-21T01:10:29.000Z"
     },
     "1304420": {
@@ -4407,7 +4407,7 @@ var masoData =
     "2354000": {
         "description": "Never drink and drive",
         "tier": "1",
-        "owners": 8,
+        "owners": 9,
         "completions": 5,
         "playtime": 43.50333333333333,
         "newestCompletion": "2025-05-12T05:00:30.000Z",
@@ -4435,10 +4435,10 @@ var masoData =
     "3445580": {
         "description": "\u2606 Where are the waifus????",
         "tier": "3",
-        "owners": 21,
-        "completions": 4,
-        "playtime": 11.512500000000001,
-        "newestCompletion": "2026-04-12T18:14:39.000Z"
+        "owners": 22,
+        "completions": 5,
+        "playtime": 9.906666666666668,
+        "newestCompletion": "2026-10-04T01:56:34.000Z"
     },
     "1388770": {
         "description": "Finland Pain Simulator",
@@ -4551,7 +4551,7 @@ var masoData =
     "3125120": {
         "description": "Claustrophobia simulator",
         "tier": "1",
-        "owners": 12,
+        "owners": 13,
         "completions": 3,
         "playtime": 8.588888888888889,
         "newestCompletion": "2025-08-16T22:19:19.000Z"
@@ -4599,7 +4599,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 33,
+        "owners": 34,
         "completions": 5,
         "playtime": 388.59333333333336,
         "newestCompletion": "2026-08-24T20:12:31.000Z"
@@ -4627,7 +4627,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 9,
         "playtime": 44,
         "newestCompletion": "2026-06-09T02:54:38.000Z"
@@ -4655,7 +4655,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 21,
+        "owners": 22,
         "completions": 8,
         "playtime": 32.225,
         "newestCompletion": "2026-09-05T16:49:10.000Z"
@@ -4675,7 +4675,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 18,
+        "owners": 19,
         "completions": 6,
         "playtime": 50.044444444444444,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
@@ -4703,7 +4703,7 @@ var masoData =
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 12,
+        "owners": 13,
         "completions": 4,
         "playtime": 8.833333333333332,
         "newestCompletion": "2026-07-18T23:16:03.000Z"
@@ -4711,7 +4711,7 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 5,
+        "owners": 6,
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
@@ -4775,7 +4775,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 24,
+        "owners": 25,
         "completions": 8,
         "playtime": 91.59791666666666,
         "newestCompletion": "2025-01-10T04:20:11.000Z",
