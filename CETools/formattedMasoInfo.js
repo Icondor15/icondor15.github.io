@@ -707,7 +707,7 @@ var masoData =
     "293900": {
         "description": "\u2733 #Spin2win",
         "tier": "2",
-        "owners": 28,
+        "owners": 29,
         "completions": 18,
         "playtime": 8.124074074074075,
         "newestCompletion": "2023-05-23T13:31:49.000Z"
@@ -811,7 +811,7 @@ var masoData =
     "235460": {
         "description": "\u272a How did a AAA make it here???",
         "tier": "4",
-        "owners": 94,
+        "owners": 95,
         "completions": 18,
         "playtime": 77.11388888888888,
         "newestCompletion": "2025-10-01T09:34:07.000Z"
@@ -911,7 +911,7 @@ var masoData =
     "500670": {
         "description": "\u272a WILL YOU F&amp;%*ING DARE YOU PU$#Y?!",
         "tier": "4",
-        "owners": 100,
+        "owners": 101,
         "completions": 24,
         "playtime": 30.410416666666674,
         "newestCompletion": "2025-07-04T01:13:36.000Z"
@@ -1219,7 +1219,7 @@ var masoData =
     "385710": {
         "description": "\u2606 Easy to beat, hard to complete",
         "tier": "3",
-        "owners": 66,
+        "owners": 67,
         "completions": 25,
         "playtime": 15.938666666666668,
         "newestCompletion": "2026-05-28T02:53:04.000Z"
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 78,
+        "owners": 79,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -2031,7 +2031,7 @@ var masoData =
     "320140": {
         "description": "\u2733 SKRRT SKRRT",
         "tier": "2",
-        "owners": 59,
+        "owners": 60,
         "completions": 17,
         "playtime": 12.234313725490196,
         "newestCompletion": "2026-09-13T16:36:21.000Z"
@@ -2155,7 +2155,7 @@ var masoData =
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
-        "owners": 60,
+        "owners": 61,
         "completions": 8,
         "playtime": 44.08958333333333,
         "newestCompletion": "2026-10-03T02:01:19.000Z"
@@ -2436,9 +2436,9 @@ var masoData =
         "description": "\u2733 Blazin\" Blue Blob",
         "tier": "2",
         "owners": 30,
-        "completions": 4,
-        "playtime": 49.391666666666666,
-        "newestCompletion": "2024-09-05T04:32:23.000Z"
+        "completions": 5,
+        "playtime": 43.68,
+        "newestCompletion": "2026-10-13T18:19:32.000Z"
     },
     "820540": {
         "description": "Red is your new favorite color",
@@ -4795,7 +4795,7 @@ var masoData =
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
         "tier": "0",
-        "owners": 4,
+        "owners": 5,
         "completions": 2,
         "playtime": 40.40833333333333,
         "newestCompletion": "2026-08-19T02:48:36.000Z",
