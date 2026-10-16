@@ -2,25 +2,25 @@ var gameOfDay =
 {
     "game": {
         "gameType": 3,
-        "platformId": 14815,
-        "CEId": "f19c6c24-1c78-40d2-917e-552bc98c8e2f",
-        "name": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
-        "header": "https://upload.cedb.me/f19c6c24-1c78-40d2-917e-552bc98c8e2f.png",
+        "platformId": 6102,
+        "CEId": "c3f34f50-f073-4975-9b16-ec5026081e63",
+        "name": "Kirby: Power Paintbrush | Kirby: Canvas Curse",
+        "header": "https://upload.cedb.me/c3f34f50-f073-4975-9b16-ec5026081e63.png",
         "genre": [
             "Arcade"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 15,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-10-15T16:15:23.000Z",
-        "updatedAt": "2026-10-02T03:51:33.000Z",
+        "createdAt": "2024-10-16T00:44:16.000Z",
+        "updatedAt": "2026-10-06T20:57:29.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 6,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 7,
         "gameTags": [
-            "Puzzle"
+            "2D Platforming"
         ],
         "consoleData": {
             "name": "Nintendo DS",
@@ -29,22 +29,25 @@ var gameOfDay =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Making Swaps [10\u2605]\nObtain all gold trophies.",
+            "primaryText": "Stroking It [15\u2605]\nObtain all challenge medals and score AAA rank in all minigames.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 51
+            "community": 2,
+            "communityText": "Brush Bash\nObtain in-game 100%, defeat the boss stage as Kirby without taking damage, score at least 3300cm in the Jump Game and complete the end game credits knocking down all but at most 2 portraits.\n\nPOYO\nComplete all primary objectives from all site-listed games in the Kirby franchise. See verification requirements for complete list.",
+            "achievements": 56
         },
         "CETags": {
             "genre": [
-                "Puzzle",
-                "Puzzle Platformer"
+                "Mini-Games",
+                "Autorunner",
+                "2D Platformer",
+                "Marble"
             ],
             "info": [
-                "Mouse Focused"
+                "Mouse Focused",
+                "Has Community Objectives"
             ]
         }
     }
 }
-var gameOfDayDate = '2026-10-15'
+var gameOfDayDate = '2026-10-16'
