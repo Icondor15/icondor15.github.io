@@ -35,7 +35,7 @@ var masoData =
     "770850": {
         "description": "One day Splinter returns to find Pong crawling in a strange ooze, and it mutated into this game",
         "tier": "1",
-        "owners": 10,
+        "owners": 11,
         "completions": 8,
         "playtime": 7.50625,
         "newestCompletion": "2025-10-20T21:47:39.000Z",
@@ -140,9 +140,9 @@ var masoData =
         "description": "You should\"ve played it by now",
         "tier": "1",
         "owners": 166,
-        "completions": 87,
-        "playtime": 8.104597701149421,
-        "newestCompletion": "2026-07-04T00:06:20.000Z",
+        "completions": 88,
+        "playtime": 8.061553030303028,
+        "newestCompletion": "2026-10-14T17:04:59.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -203,7 +203,7 @@ var masoData =
     "319480": {
         "description": "Give me a sec",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 5,
         "playtime": 18.026666666666664,
         "newestCompletion": "2018-12-21T09:17:17.000Z"
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 207,
         "completions": 71,
-        "playtime": 190.49483568075118,
+        "playtime": 190.49788732394367,
         "newestCompletion": "2026-09-07T01:40:49.000Z",
         "badges": {
             "count": 1,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 121,
         "completions": 38,
-        "playtime": 92.06666666666668,
+        "playtime": 92.06754385964912,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 191,
         "completions": 91,
-        "playtime": 98.64322344322346,
+        "playtime": 98.66007326007328,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 27,
+        "owners": 28,
         "completions": 4,
         "playtime": 31.337500000000002,
         "newestCompletion": "2026-06-13T21:20:49.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 70,
         "completions": 21,
-        "playtime": 196.88650793650794,
+        "playtime": 196.9238095238095,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 140,
         "completions": 72,
-        "playtime": 77.44861111111112,
+        "playtime": 77.49212962962964,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
         "badges": {
             "count": 1,
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 82,
+        "owners": 83,
         "completions": 44,
         "playtime": 24.448106060606055,
         "newestCompletion": "2026-09-24T23:27:08.000Z"
@@ -3623,7 +3623,7 @@ var masoData =
     "2330500": {
         "description": "\u272a Concrete challenge",
         "tier": "4",
-        "owners": 52,
+        "owners": 53,
         "completions": 12,
         "playtime": 46.387499999999996,
         "newestCompletion": "2026-08-27T01:20:00.000Z"
@@ -3833,7 +3833,7 @@ var masoData =
         "tier": "2",
         "owners": 130,
         "completions": 16,
-        "playtime": 241.36458333333334,
+        "playtime": 241.36666666666667,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
@@ -3889,7 +3889,7 @@ var masoData =
         "tier": "1",
         "owners": 63,
         "completions": 10,
-        "playtime": 25.27833333333333,
+        "playtime": 25.281666666666663,
         "newestCompletion": "2026-04-26T02:00:16.000Z",
         "badges": {
             "count": 1,
@@ -4023,7 +4023,7 @@ var masoData =
     "94200": {
         "description": "\ud83c\udf1f It's not Touhou, but as far as bullet-hells go - your dedication will play a big role in completing it.",
         "tier": "5",
-        "owners": 59,
+        "owners": 60,
         "completions": 3,
         "playtime": 137.7277777777778,
         "newestCompletion": "2023-11-29T18:20:13.000Z",
@@ -4252,9 +4252,9 @@ var masoData =
         "description": "Anything but a grind",
         "tier": "1",
         "owners": 25,
-        "completions": 10,
-        "playtime": 7.565,
-        "newestCompletion": "2026-08-19T16:17:10.000Z"
+        "completions": 11,
+        "playtime": 7.5621212121212125,
+        "newestCompletion": "2026-10-15T20:48:50.000Z"
     },
     "1585220": {
         "description": "Life could be a dream",
@@ -4375,7 +4375,7 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 62,
+        "owners": 63,
         "completions": 2,
         "playtime": 419.41666666666663,
         "newestCompletion": "2025-10-23T19:41:44.000Z",
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 85,
+        "owners": 86,
         "completions": 24,
         "playtime": 82.15833333333333,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4627,9 +4627,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 32,
+        "owners": 33,
         "completions": 10,
-        "playtime": 44.675,
+        "playtime": 44.68833333333333,
         "newestCompletion": "2026-06-09T02:54:38.000Z"
     },
     "1354260": {
@@ -4643,7 +4643,7 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 16,
+        "owners": 17,
         "completions": 4,
         "playtime": 263.9125,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
@@ -4735,7 +4735,7 @@ var masoData =
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
         "tier": "2",
-        "owners": 10,
+        "owners": 11,
         "completions": 3,
         "playtime": 210.15555555555557,
         "newestCompletion": "2026-08-02T12:21:24.000Z"
@@ -4767,7 +4767,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 18,
+        "owners": 19,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
@@ -4775,10 +4775,10 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 26,
-        "completions": 8,
-        "playtime": 91.59791666666666,
-        "newestCompletion": "2025-01-10T04:20:11.000Z",
+        "owners": 28,
+        "completions": 9,
+        "playtime": 87.57407407407408,
+        "newestCompletion": "2025-05-07T18:04:15.000Z",
         "badges": {
             "count": 4,
             "points": 15
@@ -4795,7 +4795,7 @@ var masoData =
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
         "tier": "0",
-        "owners": 5,
+        "owners": 6,
         "completions": 2,
         "playtime": 40.40833333333333,
         "newestCompletion": "2026-08-19T02:48:36.000Z",
