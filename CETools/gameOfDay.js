@@ -2,110 +2,90 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 323190,
-        "CEId": "30fc3451-ad90-4603-b33e-4606c4783ba5",
-        "name": "Frostpunk",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg?t=1695737003",
+        "platformId": 324070,
+        "CEId": "795a4d87-fd4a-4181-9e8c-aeb6427ee868",
+        "name": "iO",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/324070/header.jpg?t=1561642543",
         "genre": [
-            "Strategy"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 60,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 4940,
-        "createdAt": "2023-10-18T20:22:17.000Z",
+        "medianPlaytime": 825,
+        "createdAt": "2021-10-19T02:14:10.000Z",
         "updatedAt": "2026-10-17T00:59:43.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 5,
-        "playersStarted": 16,
-        "playersTotal": 497,
+        "playersStarted": 9,
+        "playersTotal": 147,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 429,
+                "final": 429,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
+                "initial": 58000,
+                "final": 58000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 649,
+                "final": 649,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Marathon Runner [10\u2605]\nReach Day 100 of Endurance Mode on Extreme difficulty.\n\nAll-Rounded Extremophile [40\u2605]\nFinish each scenario in Survivor Mode.\n\nIron Saviour [10\u2605]\nFinish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty.",
+            "primary": 2,
+            "primaryText": "SeniOr Wheeler [5\u2605]\nGet a gold medal in every level.\n\nJuniOr Wheeler [5\u2605]\nBeat every level in the game.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Screw You, New Liverpool\nFinish the Fall of Winterhome scenario in Survivor Mode while fully upgrading the Dreadnought and filling it with people.",
-            "achievements": 115
+            "community": 0,
+            "communityText": "",
+            "achievements": 39
         },
         "CETags": {
             "genre": [
-                "Resource Management",
-                "Real-Time Strategy"
+                "Miscellaneous",
+                "2D Platformer"
             ],
-            "info": [
-                "Has Community Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "City Builder",
-            "Survival",
-            "Resource Management",
-            "Strategy",
-            "Post-apocalyptic",
-            "Steampunk",
-            "Colony Sim",
-            "Building",
-            "Base Building",
-            "Singleplayer",
-            "Management",
-            "Simulation",
-            "Choices Matter",
-            "Atmospheric",
-            "Economy",
-            "Difficult",
-            "Dark",
-            "RTS",
-            "Great Soundtrack",
-            "Real-Time with Pause"
+            "Indie",
+            "Action",
+            "Racing",
+            "Physics",
+            "Puzzle",
+            "Puzzle Platformer",
+            "2D"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "turkish": "IS"
-        },
-        "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "polish": "I",
+            "portuguese": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-10-18'
+var gameOfDayDate = '2026-10-19'
