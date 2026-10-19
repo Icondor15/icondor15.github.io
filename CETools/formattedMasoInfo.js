@@ -1291,7 +1291,7 @@ var masoData =
     "70300": {
         "description": "\ud83c\udf1f One gameplay mechanic: reverse gravity. An infinite number of places to die.",
         "tier": "5",
-        "owners": 245,
+        "owners": 246,
         "completions": 66,
         "playtime": 61.60050505050504,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 121,
         "completions": 38,
-        "playtime": 92.06754385964912,
+        "playtime": 92.1311403508772,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -3005,7 +3005,7 @@ var masoData =
         "tier": "5",
         "owners": 144,
         "completions": 17,
-        "playtime": 82.20294117647059,
+        "playtime": 82.2127450980392,
         "newestCompletion": "2026-09-03T16:03:50.000Z"
     },
     "355630": {
@@ -4376,9 +4376,9 @@ var masoData =
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
         "owners": 63,
-        "completions": 2,
-        "playtime": 419.41666666666663,
-        "newestCompletion": "2025-10-23T19:41:44.000Z",
+        "completions": 3,
+        "playtime": 368.0111111111111,
+        "newestCompletion": "2026-10-18T18:41:21.000Z",
         "badges": {
             "count": 3,
             "points": 15
@@ -4501,7 +4501,7 @@ var masoData =
         "tier": "2",
         "owners": 168,
         "completions": 42,
-        "playtime": 107.24920634920632,
+        "playtime": 107.55912698412695,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
