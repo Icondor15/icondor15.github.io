@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 324070,
-        "CEId": "795a4d87-fd4a-4181-9e8c-aeb6427ee868",
-        "name": "iO",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/324070/header.jpg?t=1561642543",
+        "platformId": 2198590,
+        "CEId": "90d3b1f9-b4c1-41a4-a4cf-6f26cf411ae8",
+        "name": "Death Unphased",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2198590/header.jpg?t=1696829183",
         "genre": [
             "Platformer"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 825,
-        "createdAt": "2021-10-19T02:14:10.000Z",
+        "medianPlaytime": 539,
+        "createdAt": "2023-10-20T21:21:50.000Z",
         "updatedAt": "2026-10-17T00:59:43.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 9,
-        "playersTotal": 147,
+        "playersCompleted": 8,
+        "playersStarted": 0,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -52,40 +52,45 @@ var gameOfDay =
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "SeniOr Wheeler [5\u2605]\nGet a gold medal in every level.\n\nJuniOr Wheeler [5\u2605]\nBeat every level in the game.",
+            "primary": 1,
+            "primaryText": "Zip Zap Zoom [15\u2605]\nObtain a Z rank on every level.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 39
+            "achievements": 10
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Miscellaneous"
+                "2D Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Indie",
-            "Action",
-            "Racing",
-            "Physics",
-            "Puzzle",
+            "Precision Platformer",
+            "Pixel Graphics",
+            "Difficult",
+            "Time Attack",
             "Puzzle Platformer",
-            "2D"
+            "Retro",
+            "Indie",
+            "2D Platformer",
+            "Minimalist",
+            "Short",
+            "Platformer",
+            "Singleplayer",
+            "Arcade",
+            "Action",
+            "Controller",
+            "Experimental",
+            "Fast-Paced",
+            "Puzzle",
+            "2D",
+            "Magic"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "dutch": "I",
-            "polish": "I",
-            "portuguese": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-10-19'
+var gameOfDayDate = '2026-10-20'
