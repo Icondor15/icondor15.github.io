@@ -2438,7 +2438,11 @@ var masoData =
         "owners": 30,
         "completions": 5,
         "playtime": 43.68,
-        "newestCompletion": "2026-10-13T18:19:32.000Z"
+        "newestCompletion": "2026-10-13T18:19:32.000Z",
+        "badges": {
+            "count": 1,
+            "points": 1
+        }
     },
     "820540": {
         "description": "Red is your new favorite color",
@@ -4367,7 +4371,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 21,
         "playtime": 17.876984126984127,
         "newestCompletion": "2026-08-11T18:41:53.000Z"
@@ -4535,7 +4539,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 38,
+        "owners": 39,
         "completions": 10,
         "playtime": 12.3,
         "newestCompletion": "2026-08-16T03:08:55.000Z"
@@ -4543,9 +4547,9 @@ var masoData =
     "1282210": {
         "description": "6-key EDM concert",
         "tier": "1",
-        "owners": 9,
-        "completions": 3,
-        "playtime": 21.533333333333335,
+        "owners": 10,
+        "completions": 4,
+        "playtime": 19.845833333333335,
         "newestCompletion": "2024-09-16T02:50:19.000Z"
     },
     "3125120": {
@@ -4567,7 +4571,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 36,
+        "owners": 37,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4607,9 +4611,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 86,
-        "completions": 24,
-        "playtime": 82.15833333333333,
+        "owners": 87,
+        "completions": 25,
+        "playtime": 82.10600000000001,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4627,10 +4631,10 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 33,
-        "completions": 10,
-        "playtime": 44.68833333333333,
-        "newestCompletion": "2026-06-09T02:54:38.000Z"
+        "owners": 34,
+        "completions": 11,
+        "playtime": 43.38484848484848,
+        "newestCompletion": "2026-10-09T06:33:42.000Z"
     },
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
@@ -4643,9 +4647,9 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 17,
+        "owners": 18,
         "completions": 4,
-        "playtime": 263.9125,
+        "playtime": 264.2916666666667,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
@@ -4767,7 +4771,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 19,
+        "owners": 20,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
