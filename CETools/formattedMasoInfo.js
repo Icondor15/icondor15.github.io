@@ -463,7 +463,7 @@ var masoData =
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
         "tier": "2",
-        "owners": 144,
+        "owners": 145,
         "completions": 53,
         "playtime": 10.852515723270438,
         "newestCompletion": "2026-10-14T08:55:50.000Z"
@@ -912,9 +912,9 @@ var masoData =
         "description": "\u272a WILL YOU F&amp;%*ING DARE YOU PU$#Y?!",
         "tier": "4",
         "owners": 101,
-        "completions": 24,
-        "playtime": 30.410416666666674,
-        "newestCompletion": "2025-07-04T01:13:36.000Z"
+        "completions": 25,
+        "playtime": 30.271333333333338,
+        "newestCompletion": "2026-10-21T16:40:31.000Z"
     },
     "656970": {
         "description": "True 100% will reveal this game\"s real nature",
@@ -959,10 +959,10 @@ var masoData =
     "239800": {
         "description": "\u2606 Through your fingers",
         "tier": "3",
-        "owners": 80,
-        "completions": 17,
-        "playtime": 13.950980392156865,
-        "newestCompletion": "2026-08-02T07:06:52.000Z"
+        "owners": 81,
+        "completions": 18,
+        "playtime": 14.113888888888889,
+        "newestCompletion": "2026-10-22T02:37:06.000Z"
     },
     "292500": {
         "description": "\u2733 Go Zangyourself",
@@ -1077,7 +1077,7 @@ var masoData =
         "tier": "4",
         "owners": 115,
         "completions": 34,
-        "playtime": 37.812745098039215,
+        "playtime": 38.575,
         "newestCompletion": "2026-10-04T16:34:49.000Z"
     },
     "616000": {
@@ -1123,7 +1123,7 @@ var masoData =
     "437390": {
         "description": "\u272a Super fast paced hopping madness",
         "tier": "4",
-        "owners": 97,
+        "owners": 98,
         "completions": 11,
         "playtime": 22.975757575757576,
         "newestCompletion": "2024-10-16T20:51:42.000Z"
@@ -1727,7 +1727,7 @@ var masoData =
     "600130": {
         "description": "\u2733 \ud83d\uddf2 HELL YEAH \ud83d\uddf2",
         "tier": "2",
-        "owners": 68,
+        "owners": 69,
         "completions": 7,
         "playtime": 15.457142857142857,
         "newestCompletion": "2024-10-12T20:02:17.000Z"
@@ -1955,7 +1955,7 @@ var masoData =
     "1082000": {
         "description": "\u2733 Pop the cherry",
         "tier": "2",
-        "owners": 45,
+        "owners": 46,
         "completions": 8,
         "playtime": 15.404166666666669,
         "newestCompletion": "2023-12-30T09:55:41.000Z"
@@ -2063,7 +2063,7 @@ var masoData =
     "464060": {
         "description": "\u2733 All About the Speedruin",
         "tier": "2",
-        "owners": 64,
+        "owners": 65,
         "completions": 11,
         "playtime": 30.58333333333333,
         "newestCompletion": "2025-04-21T12:43:14.000Z"
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 126,
+        "owners": 127,
         "completions": 51,
         "playtime": 244.1859477124183,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
@@ -2293,7 +2293,7 @@ var masoData =
         "tier": "3",
         "owners": 116,
         "completions": 17,
-        "playtime": 26.41176470588235,
+        "playtime": 27.215686274509803,
         "newestCompletion": "2026-07-15T04:33:27.000Z"
     },
     "457890": {
@@ -3139,7 +3139,7 @@ var masoData =
     "1964260": {
         "description": "Avoid the void",
         "tier": "1",
-        "owners": 56,
+        "owners": 57,
         "completions": 21,
         "playtime": 5.8158730158730165,
         "newestCompletion": "2026-09-18T03:37:58.000Z"
@@ -4521,7 +4521,7 @@ var masoData =
         }
     },
     "312520": {
-        "description": "\u2606 It's a rain-y rain world",
+        "description": "\u2606 you're in for a whole new world of rain",
         "tier": "3",
         "owners": 111,
         "completions": 3,
@@ -4595,7 +4595,7 @@ var masoData =
     "2680010": {
         "description": "Nioh but Nioher",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 2,
         "playtime": 97.03333333333333,
         "newestCompletion": "2026-08-03T10:29:18.000Z"
@@ -4679,7 +4679,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 19,
+        "owners": 20,
         "completions": 6,
         "playtime": 50.044444444444444,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
@@ -4779,7 +4779,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 29,
+        "owners": 30,
         "completions": 9,
         "playtime": 87.57407407407408,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
