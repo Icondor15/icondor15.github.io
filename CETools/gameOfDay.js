@@ -1,68 +1,47 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2232950,
-        "CEId": "d34ba346-d605-478a-8ff2-c0bf65ca38c1",
-        "name": "Bobo The Cat",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2232950/header.jpg?t=1693974391",
+        "gameType": 3,
+        "platformId": 18333,
+        "CEId": "db6428e4-780d-4348-8ca7-78e6ffca8c3a",
+        "name": "TrackMania DS",
+        "header": "https://upload.cedb.me/db6428e4-780d-4348-8ca7-78e6ffca8c3a.png",
         "genre": [
-            "Platformer"
+            "Arcade"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 2,
+        "points": 25,
         "secondaryPoints": 0,
-        "medianPlaytime": 2326,
-        "createdAt": "2024-10-21T22:55:14.000Z",
-        "updatedAt": "2026-10-17T00:59:43.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-10-22T18:59:11.000Z",
+        "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 64,
+        "playersTotal": 23,
+        "gameTags": [
+            "Arcade Racing"
+        ],
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bobo Go Home [5\u2605]\n100% the game.",
+            "primaryText": "Janky Joyride [25\u2605]\nCollect all author medals within race mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 230
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "2D Platformer"
+                "Racing"
             ],
-            "info": [
-                "Free",
-                "Animal Protagonist"
-            ]
-        },
-        "gameTags": [
-            "Metroidvania",
-            "2D Platformer",
-            "Atmospheric",
-            "Cats",
-            "Cartoony",
-            "Action-Adventure",
-            "Cute",
-            "Colorful",
-            "Family Friendly",
-            "Pixel Graphics",
-            "1990's",
-            "Action",
-            "Aliens",
-            "Anime",
-            "Platformer",
-            "2D",
-            "Cartoon",
-            "Combat",
-            "Adventure",
-            "Controller"
-        ],
-        "languages": {
-            "english": "I"
+            "info": []
         }
     }
 }
-var gameOfDayDate = '2026-10-21'
+var gameOfDayDate = '2026-10-22'
