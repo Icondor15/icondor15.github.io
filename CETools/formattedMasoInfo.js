@@ -256,9 +256,9 @@ var masoData =
         "description": "\u272a I hope you like content updates",
         "tier": "4",
         "owners": 169,
-        "completions": 20,
-        "playtime": 199.6925,
-        "newestCompletion": "2025-10-09T13:53:53.000Z"
+        "completions": 21,
+        "playtime": 195.43888888888887,
+        "newestCompletion": "2026-10-22T16:09:34.000Z"
     },
     "795570": {
         "description": "\u272a Healthier option: bashing your head against a wall",
@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 69,
         "completions": 23,
-        "playtime": 33.35217391304347,
+        "playtime": 33.35652173913043,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -648,9 +648,9 @@ var masoData =
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
         "owners": 82,
-        "completions": 68,
-        "playtime": 7.103921568627451,
-        "newestCompletion": "2026-03-24T08:29:22.000Z"
+        "completions": 69,
+        "playtime": 7.041304347826087,
+        "newestCompletion": "2026-10-22T21:45:47.000Z"
     },
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
@@ -904,9 +904,9 @@ var masoData =
         "description": "Shoot, dodge, and cover.",
         "tier": "1",
         "owners": 78,
-        "completions": 36,
-        "playtime": 7.692592592592594,
-        "newestCompletion": "2025-04-02T15:46:31.000Z"
+        "completions": 37,
+        "playtime": 7.596846846846848,
+        "newestCompletion": "2026-10-22T22:29:07.000Z"
     },
     "500670": {
         "description": "\u272a WILL YOU F&amp;%*ING DARE YOU PU$#Y?!",
@@ -1076,9 +1076,9 @@ var masoData =
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
         "owners": 115,
-        "completions": 34,
-        "playtime": 38.575,
-        "newestCompletion": "2026-10-04T16:34:49.000Z"
+        "completions": 35,
+        "playtime": 37.877142857142864,
+        "newestCompletion": "2026-10-23T00:43:17.000Z"
     },
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
@@ -2535,7 +2535,7 @@ var masoData =
     "1535490": {
         "description": "\u272a Beep Beep",
         "tier": "4",
-        "owners": 22,
+        "owners": 23,
         "completions": 8,
         "playtime": 32.03958333333333,
         "newestCompletion": "2025-05-06T18:56:56.000Z"
@@ -3260,9 +3260,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f Do a barrel roll!",
         "tier": "0",
         "owners": 13,
-        "completions": 3,
-        "playtime": 5.194444444444445,
-        "newestCompletion": "2023-02-08T18:18:57.000Z",
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null,
         "badges": {
             "count": 1,
             "points": 1
@@ -3443,7 +3443,7 @@ var masoData =
     "2216320": {
         "description": "\u272a Deliver Easter eggs on the North Pole and drift around snow banks without dropping an egg. The time-trial challenges are snow joke in this eggspansion.",
         "tier": "4",
-        "owners": 14,
+        "owners": 15,
         "completions": 5,
         "playtime": 7.023333333333333,
         "newestCompletion": "2025-04-03T19:18:59.000Z"
@@ -3635,7 +3635,7 @@ var masoData =
     "1621320": {
         "description": "\u272a It's omelette sea-sun",
         "tier": "4",
-        "owners": 14,
+        "owners": 15,
         "completions": 3,
         "playtime": 31.927777777777777,
         "newestCompletion": "2024-08-02T00:22:10.000Z"
@@ -4505,7 +4505,7 @@ var masoData =
         "tier": "2",
         "owners": 168,
         "completions": 42,
-        "playtime": 107.55912698412695,
+        "playtime": 107.67341269841266,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
@@ -4659,7 +4659,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 22,
+        "owners": 23,
         "completions": 8,
         "playtime": 32.225,
         "newestCompletion": "2026-09-05T16:49:10.000Z"
@@ -4793,7 +4793,7 @@ var masoData =
         "tier": "4",
         "owners": 3,
         "completions": 2,
-        "playtime": 38.766666666666666,
+        "playtime": 47.06666666666666,
         "newestCompletion": "2026-10-11T03:29:25.000Z"
     },
     "2533600": {
