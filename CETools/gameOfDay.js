@@ -2,113 +2,105 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1972440,
-        "CEId": "651632fe-874a-41f6-a379-f3896feb69ef",
-        "name": "Shotgun King: The Final Checkmate",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1972440/header.jpg?t=1668450783",
+        "platformId": 1083310,
+        "CEId": "7c1920f6-1703-42f8-99fc-ef7181014a39",
+        "name": "OUTBUDDIES DX",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1083310/header.jpg?t=1594997233",
         "genre": [
-            "Strategy"
+            "Action"
         ],
         "tier": 1,
-        "points": 15,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 3320,
-        "createdAt": "2022-10-23T21:12:14.000Z",
+        "medianPlaytime": 1021,
+        "createdAt": "2022-10-24T01:16:40.000Z",
         "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 353,
+        "playersTotal": 125,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 1799,
+                "final": 125,
+                "discountPercent": 93
             },
             "EUR": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 1799,
+                "final": 125,
+                "discountPercent": 93
             },
             "GBP": {
-                "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "initial": 1499,
+                "final": 104,
+                "discountPercent": 93
             },
             "JPY": {
-                "initial": 140000,
-                "final": 140000,
-                "discountPercent": 0
+                "initial": 200000,
+                "final": 14000,
+                "discountPercent": 93
             },
             "AUD": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "initial": 2650,
+                "final": 185,
+                "discountPercent": 93
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "initial": 2349,
+                "final": 164,
+                "discountPercent": 93
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Regicide [15\u2605]\nFinish Throne Mode at Rank 15. / Beat Throne Mode in less than 2 minutes.",
+            "primaryText": "King of Monsters [10\u2605]\nComplete the Boss Rush mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 84
+            "achievements": 38
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Turn-Based"
+                "Metroidvania",
+                "Action-Platformer",
+                "Boss Rush"
             ],
             "info": []
         },
         "gameTags": [
-            "Chess",
-            "Turn-Based Strategy",
-            "Roguelike",
-            "Strategy",
-            "Action Roguelike",
-            "Arcade",
-            "Pixel Graphics",
-            "Tabletop",
-            "Choices Matter",
-            "Retro",
-            "Atmospheric",
+            "Indie",
+            "Metroidvania",
             "Action",
-            "Shooter",
-            "Roguelite",
-            "Top-Down Shooter",
+            "Adventure",
+            "Pixel Graphics",
+            "Platformer",
+            "Difficult",
+            "Exploration",
+            "Great Soundtrack",
             "2D",
-            "Stylized",
-            "Turn-Based Tactics",
-            "Cartoon",
-            "Top-Down"
+            "Side Scroller",
+            "Singleplayer",
+            "Local Co-Op",
+            "Atmospheric",
+            "Retro",
+            "Sci-fi",
+            "Open World",
+            "Nonlinear",
+            "Multiplayer",
+            "Lovecraftian"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "catalan": "I",
-            "dutch": "I",
-            "galician": "I",
-            "koreana": "I",
-            "latam": "I",
-            "polish": "I",
-            "romanian": "I",
-            "russian": "I",
-            "schinese": "I",
-            "ukrainian": "I",
-            "vietnamese": "I"
-        }
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
+        "information": "Dev gives tips in the Steam discussion forums here:\nhttps://steamcommunity.com/app/1083310/discussions/0/3938911974189408268/"
     }
 }
-var gameOfDayDate = '2026-10-23'
+var gameOfDayDate = '2026-10-24'
