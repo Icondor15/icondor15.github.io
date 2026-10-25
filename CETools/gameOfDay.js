@@ -1,106 +1,82 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1083310,
-        "CEId": "7c1920f6-1703-42f8-99fc-ef7181014a39",
-        "name": "OUTBUDDIES DX",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1083310/header.jpg?t=1594997233",
+        "gameType": 1,
+        "platformId": 2178380,
+        "CEId": "a4687062-7145-4a6d-859c-f72a53f509c5",
+        "name": "SCP \u2013 Containment Breach",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/efb81a4d472afc2251121c0d4c940d1dec4d70dc/header.jpg?t=1776551928",
         "genre": [
-            "Action"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 4,
+        "points": 80,
         "secondaryPoints": 0,
-        "medianPlaytime": 1021,
-        "createdAt": "2022-10-24T01:16:40.000Z",
+        "medianPlaytime": 1339,
+        "createdAt": "2021-10-25T22:02:40.000Z",
         "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 6,
+        "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 125,
-        "priceData": {
-            "USD": {
-                "initial": 1799,
-                "final": 125,
-                "discountPercent": 93
-            },
-            "EUR": {
-                "initial": 1799,
-                "final": 125,
-                "discountPercent": 93
-            },
-            "GBP": {
-                "initial": 1499,
-                "final": 104,
-                "discountPercent": 93
-            },
-            "JPY": {
-                "initial": 200000,
-                "final": 14000,
-                "discountPercent": 93
-            },
-            "AUD": {
-                "initial": 2650,
-                "final": 185,
-                "discountPercent": 93
-            },
-            "CAD": {
-                "initial": 2349,
-                "final": 164,
-                "discountPercent": 93
-            }
-        },
+        "playersTotal": 690,
         "milestones": {
             "primary": 1,
-            "primaryText": "King of Monsters [10\u2605]\nComplete the Boss Rush mode.",
+            "primaryText": "End of Nightmare [80\u2605]\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 38
+            "community": 1,
+            "communityText": "Keter-Class Anomaly\nObtain all possible achievements in a single unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
+            "achievements": 44
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Platformer",
-                "Boss Rush"
+                "Horror"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives",
+                "Overwhelmingly Positive",
+                "Free"
+            ]
         },
         "gameTags": [
-            "Indie",
-            "Metroidvania",
-            "Action",
-            "Adventure",
-            "Pixel Graphics",
-            "Platformer",
-            "Difficult",
+            "Horror",
             "Exploration",
-            "Great Soundtrack",
-            "2D",
-            "Side Scroller",
-            "Singleplayer",
-            "Local Co-Op",
             "Atmospheric",
-            "Retro",
+            "Procedural Generation",
             "Sci-fi",
-            "Open World",
-            "Nonlinear",
-            "Multiplayer",
-            "Lovecraftian"
+            "Action",
+            "Survival Horror",
+            "Surreal",
+            "3D",
+            "Retro",
+            "Mystery",
+            "Moddable",
+            "First-Person",
+            "Story Rich",
+            "Lore-Rich",
+            "Action-Adventure",
+            "Dark",
+            "Multiple Endings",
+            "Survival",
+            "Stylized"
         ],
         "languages": {
-            "english": "IS",
+            "english": "IAS",
             "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
+            "german": "IAS",
+            "italian": "IS",
             "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "czech": "IAS",
+            "indonesian": "I",
+            "latam": "IA",
+            "polish": "IA",
+            "portuguese": "I",
+            "russian": "IAS",
+            "schinese": "I",
+            "serbian": "I",
+            "ukrainian": "I"
         },
-        "information": "Dev gives tips in the Steam discussion forums here:\nhttps://steamcommunity.com/app/1083310/discussions/0/3938911974189408268/"
+        "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
     }
 }
-var gameOfDayDate = '2026-10-24'
+var gameOfDayDate = '2026-10-25'
