@@ -256,9 +256,9 @@ var masoData =
         "description": "\u272a I hope you like content updates",
         "tier": "4",
         "owners": 169,
-        "completions": 21,
-        "playtime": 195.43888888888887,
-        "newestCompletion": "2026-10-22T16:09:34.000Z"
+        "completions": 22,
+        "playtime": 191.7340909090909,
+        "newestCompletion": "2026-10-24T12:10:33.000Z"
     },
     "795570": {
         "description": "\u272a Healthier option: bashing your head against a wall",
@@ -527,7 +527,7 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 118,
+        "owners": 119,
         "completions": 22,
         "playtime": 35.9780303030303,
         "newestCompletion": "2026-08-12T19:47:26.000Z"
@@ -1083,7 +1083,7 @@ var masoData =
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
         "tier": "4",
-        "owners": 46,
+        "owners": 47,
         "completions": 15,
         "playtime": 25.204444444444444,
         "newestCompletion": "2026-10-09T14:23:49.000Z"
@@ -1187,7 +1187,7 @@ var masoData =
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
-        "owners": 193,
+        "owners": 194,
         "completions": 20,
         "playtime": 1369.1775000000002,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 220,
         "completions": 157,
-        "playtime": 20.733227176220797,
+        "playtime": 20.734607218683642,
         "newestCompletion": "2026-07-13T00:08:54.000Z"
     },
     "211260": {
@@ -2063,7 +2063,7 @@ var masoData =
     "464060": {
         "description": "\u2733 All About the Speedruin",
         "tier": "2",
-        "owners": 65,
+        "owners": 66,
         "completions": 11,
         "playtime": 30.58333333333333,
         "newestCompletion": "2025-04-21T12:43:14.000Z"
@@ -2643,7 +2643,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 103,
+        "owners": 104,
         "completions": 54,
         "playtime": 16.4070987654321,
         "newestCompletion": "2026-07-17T03:15:03.000Z"
