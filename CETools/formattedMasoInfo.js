@@ -2032,9 +2032,9 @@ var masoData =
         "description": "\u2733 SKRRT SKRRT",
         "tier": "2",
         "owners": 61,
-        "completions": 17,
-        "playtime": 12.234313725490196,
-        "newestCompletion": "2026-09-13T16:36:21.000Z"
+        "completions": 18,
+        "playtime": 12.022222222222222,
+        "newestCompletion": "2026-10-25T17:28:41.000Z"
     },
     "416830": {
         "description": "Lightspeed",
@@ -2437,7 +2437,7 @@ var masoData =
         "tier": "2",
         "owners": 30,
         "completions": 5,
-        "playtime": 43.68,
+        "playtime": 44.723333333333336,
         "newestCompletion": "2026-10-13T18:19:32.000Z",
         "badges": {
             "count": 1,
