@@ -1,82 +1,107 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2178380,
-        "CEId": "a4687062-7145-4a6d-859c-f72a53f509c5",
-        "name": "SCP \u2013 Containment Breach",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/efb81a4d472afc2251121c0d4c940d1dec4d70dc/header.jpg?t=1776551928",
+        "gameType": 0,
+        "platformId": 792710,
+        "CEId": "3fa0356b-f027-48e6-8923-d279b6e65b7b",
+        "name": "Levelhead: Platformer Maker",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/792710/header.jpg?t=1687544673",
         "genre": [
-            "First-Person"
+            "Platformer"
         ],
-        "tier": 4,
-        "points": 80,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1339,
-        "createdAt": "2021-10-25T22:02:40.000Z",
+        "medianPlaytime": 2441,
+        "createdAt": "2023-10-26T19:07:09.000Z",
         "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 16,
+        "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 690,
+        "playersTotal": 277,
+        "priceData": {
+            "USD": {
+                "initial": 499,
+                "final": 299,
+                "discountPercent": 40
+            },
+            "EUR": {
+                "initial": 499,
+                "final": 299,
+                "discountPercent": 40
+            },
+            "GBP": {
+                "initial": 429,
+                "final": 257,
+                "discountPercent": 40
+            },
+            "JPY": {
+                "initial": 58000,
+                "final": 34800,
+                "discountPercent": 40
+            },
+            "AUD": {
+                "initial": 750,
+                "final": 450,
+                "discountPercent": 40
+            },
+            "CAD": {
+                "initial": 649,
+                "final": 389,
+                "discountPercent": 40
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "End of Nightmare [80\u2605]\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
+            "primaryText": "Zipper Flipper [10\u2605]\nDeliver every package under the On-Time benchmark in the Bureau's training program.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Keter-Class Anomaly\nObtain all possible achievements in a single unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
+            "community": 0,
+            "communityText": "",
             "achievements": 44
         },
         "CETags": {
             "genre": [
-                "Horror"
+                "2D Platformer"
             ],
-            "info": [
-                "Has Community Objectives",
-                "Overwhelmingly Positive",
-                "Free"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Horror",
-            "Exploration",
-            "Atmospheric",
-            "Procedural Generation",
-            "Sci-fi",
+            "Platformer",
+            "Co-op",
+            "Level Editor",
+            "Party Game",
+            "Local Co-Op",
+            "Casual",
+            "Multiplayer",
+            "2D Platformer",
+            "Funny",
             "Action",
-            "Survival Horror",
-            "Surreal",
-            "3D",
-            "Retro",
-            "Mystery",
-            "Moddable",
-            "First-Person",
-            "Story Rich",
-            "Lore-Rich",
-            "Action-Adventure",
-            "Dark",
-            "Multiple Endings",
-            "Survival",
-            "Stylized"
+            "Local Multiplayer",
+            "2D",
+            "Cute",
+            "4 Player Local",
+            "Colorful",
+            "Family Friendly",
+            "Party",
+            "Singleplayer",
+            "Online Co-Op",
+            "PvP"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "IA",
             "french": "IS",
-            "german": "IAS",
+            "german": "IS",
             "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
             "brazilian": "IS",
-            "czech": "IAS",
-            "indonesian": "I",
-            "latam": "IA",
-            "polish": "IA",
-            "portuguese": "I",
-            "russian": "IAS",
-            "schinese": "I",
-            "serbian": "I",
-            "ukrainian": "I"
-        },
-        "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-10-25'
+var gameOfDayDate = '2026-10-26'
