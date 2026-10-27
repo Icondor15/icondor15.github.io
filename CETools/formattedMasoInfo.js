@@ -63,10 +63,10 @@ var masoData =
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
         "tier": "2",
-        "owners": 49,
-        "completions": 19,
-        "playtime": 9.086842105263159,
-        "newestCompletion": "2026-07-13T19:07:57.000Z"
+        "owners": 50,
+        "completions": 20,
+        "playtime": 9.002500000000001,
+        "newestCompletion": "2026-10-21T02:57:16.000Z"
     },
     "325150": {
         "description": "I guess you never die huh?",
@@ -512,9 +512,9 @@ var masoData =
         "description": "\u2733 Surprisingly well made for an iOS game",
         "tier": "2",
         "owners": 48,
-        "completions": 15,
-        "playtime": 15.005555555555556,
-        "newestCompletion": "2025-01-08T19:28:04.000Z"
+        "completions": 16,
+        "playtime": 15.032291666666667,
+        "newestCompletion": "2026-10-22T19:37:32.000Z"
     },
     "260790": {
         "description": "1001 ways to die",
@@ -1201,7 +1201,7 @@ var masoData =
         "tier": "3",
         "owners": 125,
         "completions": 33,
-        "playtime": 60.169696969696965,
+        "playtime": 60.21969696969696,
         "newestCompletion": "2025-09-04T17:54:43.000Z"
     },
     "422970": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 277,
         "completions": 90,
-        "playtime": 129.11351851851848,
+        "playtime": 129.11851851851847,
         "newestCompletion": "2026-09-16T20:30:06.000Z"
     },
     "557340": {
@@ -1409,7 +1409,7 @@ var masoData =
         "tier": "4",
         "owners": 124,
         "completions": 19,
-        "playtime": 68.90263157894736,
+        "playtime": 68.9938596491228,
         "newestCompletion": "2024-05-19T23:51:51.000Z"
     },
     "460950": {
@@ -1892,9 +1892,9 @@ var masoData =
         "description": "Epillipsis",
         "tier": "1",
         "owners": 59,
-        "completions": 43,
-        "playtime": 4.815116279069767,
-        "newestCompletion": "2026-01-16T23:05:23.000Z"
+        "completions": 44,
+        "playtime": 4.77310606060606,
+        "newestCompletion": "2026-10-26T19:00:21.000Z"
     },
     "610410": {
         "description": "\u2606 Rock, Paper, Lasers",
@@ -3995,7 +3995,7 @@ var masoData =
     "718010": {
         "description": "Greed kills",
         "tier": "1",
-        "owners": 8,
+        "owners": 9,
         "completions": 3,
         "playtime": 25.388888888888886,
         "newestCompletion": "2023-11-05T21:02:17.000Z",
@@ -4371,7 +4371,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 21,
         "playtime": 17.876984126984127,
         "newestCompletion": "2026-08-11T18:41:53.000Z"
@@ -4531,7 +4531,7 @@ var masoData =
     "1924180": {
         "description": "Featuring the world's most rude NPCs!",
         "tier": "1",
-        "owners": 5,
+        "owners": 6,
         "completions": 2,
         "playtime": 11.908333333333333,
         "newestCompletion": "2026-03-03T04:10:27.000Z"
@@ -4611,9 +4611,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 88,
-        "completions": 25,
-        "playtime": 82.54066666666665,
+        "owners": 89,
+        "completions": 26,
+        "playtime": 80.62051282051281,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
