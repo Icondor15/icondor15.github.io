@@ -2,106 +2,115 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 792710,
-        "CEId": "3fa0356b-f027-48e6-8923-d279b6e65b7b",
-        "name": "Levelhead: Platformer Maker",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/792710/header.jpg?t=1687544673",
+        "platformId": 2633640,
+        "CEId": "2aa6284d-1a31-4b26-9742-7737f690fc73",
+        "name": "Eyes: The Horror Game",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633640/header.jpg?t=1757698501",
         "genre": [
-            "Platformer"
+            "First-Person"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 2441,
-        "createdAt": "2023-10-26T19:07:09.000Z",
+        "medianPlaytime": 301,
+        "createdAt": "2026-04-01T03:43:37.000Z",
         "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 10,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 277,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 299,
-                "discountPercent": 40
+                "final": 99,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 499,
-                "final": 299,
-                "discountPercent": 40
+                "final": 99,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 429,
-                "final": 257,
-                "discountPercent": 40
+                "final": 85,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 58000,
-                "final": 34800,
-                "discountPercent": 40
+                "final": 11600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 750,
-                "final": 450,
-                "discountPercent": 40
+                "final": 150,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 649,
-                "final": 389,
-                "discountPercent": 40
+                "final": 129,
+                "discountPercent": 80
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zipper Flipper [10\u2605]\nDeliver every package under the On-Time benchmark in the Bureau's training program.",
+            "primaryText": "Constantly Haunted [5\u2605]\nBeat all campaigns on Nightmare difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 28
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Horror"
             ],
             "info": []
         },
         "gameTags": [
-            "Platformer",
-            "Co-op",
-            "Level Editor",
-            "Party Game",
-            "Local Co-Op",
-            "Casual",
+            "Adventure",
+            "Horror",
+            "Survival Horror",
+            "Exploration",
+            "Dark",
+            "Puzzle",
+            "Simulation",
+            "Demons",
+            "Interactive Fiction",
+            "First-Person",
             "Multiplayer",
-            "2D Platformer",
-            "Funny",
-            "Action",
-            "Local Multiplayer",
-            "2D",
-            "Cute",
-            "4 Player Local",
-            "Colorful",
-            "Family Friendly",
-            "Party",
+            "3D",
             "Singleplayer",
-            "Online Co-Op",
-            "PvP"
+            "Stealth",
+            "Quick-Time Events",
+            "Co-op"
         ],
         "languages": {
-            "english": "IA",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "latam": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "dutch": "I",
+            "hindi": "I",
+            "hungarian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "slovak": "I",
+            "swedish": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-10-26'
+var gameOfDayDate = '2026-10-27'
