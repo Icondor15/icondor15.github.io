@@ -992,9 +992,9 @@ var masoData =
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
         "owners": 228,
-        "completions": 22,
-        "playtime": 247.24393939393943,
-        "newestCompletion": "2026-05-07T11:49:03.000Z",
+        "completions": 23,
+        "playtime": 241.90652173913048,
+        "newestCompletion": "2026-10-27T21:53:31.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -1249,7 +1249,7 @@ var masoData =
         "tier": "5",
         "owners": 232,
         "completions": 11,
-        "playtime": 633.719696969697,
+        "playtime": 633.760606060606,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
