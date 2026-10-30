@@ -912,9 +912,9 @@ var masoData =
         "description": "\u272a WILL YOU F&amp;%*ING DARE YOU PU$#Y?!",
         "tier": "4",
         "owners": 101,
-        "completions": 25,
-        "playtime": 30.271333333333338,
-        "newestCompletion": "2026-10-21T16:40:31.000Z"
+        "completions": 26,
+        "playtime": 30.12884615384616,
+        "newestCompletion": "2026-10-29T07:06:40.000Z"
     },
     "656970": {
         "description": "True 100% will reveal this game\"s real nature",
@@ -992,9 +992,9 @@ var masoData =
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
         "owners": 228,
-        "completions": 23,
-        "playtime": 241.90652173913048,
-        "newestCompletion": "2026-10-27T21:53:31.000Z",
+        "completions": 24,
+        "playtime": 236.23888888888894,
+        "newestCompletion": "2026-10-28T22:42:09.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -1815,7 +1815,7 @@ var masoData =
     "1054710": {
         "description": "Sponsored by Katy Parry",
         "tier": "1",
-        "owners": 27,
+        "owners": 28,
         "completions": 12,
         "playtime": 7.3388888888888895,
         "newestCompletion": "2026-07-06T05:28:55.000Z"
@@ -2315,7 +2315,7 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 106,
+        "owners": 107,
         "completions": 70,
         "playtime": 2.1576190476190473,
         "newestCompletion": "2026-08-16T09:09:45.000Z"
@@ -2379,7 +2379,7 @@ var masoData =
     "252030": {
         "description": "\u2733 Vladyn\"s Story",
         "tier": "2",
-        "owners": 41,
+        "owners": 42,
         "completions": 6,
         "playtime": 100.00555555555555,
         "newestCompletion": "2017-06-05T04:03:24.000Z"
@@ -3007,7 +3007,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 144,
+        "owners": 145,
         "completions": 17,
         "playtime": 82.2127450980392,
         "newestCompletion": "2026-09-03T16:03:50.000Z"
@@ -3779,7 +3779,7 @@ var masoData =
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
-        "owners": 57,
+        "owners": 58,
         "completions": 13,
         "playtime": 31.702564102564107,
         "newestCompletion": "2026-06-19T12:56:28.000Z"
@@ -3787,7 +3787,7 @@ var masoData =
     "2228030": {
         "description": "Puyo in the grinder",
         "tier": "1",
-        "owners": 56,
+        "owners": 57,
         "completions": 15,
         "playtime": 13.171111111111111,
         "newestCompletion": "2025-12-18T15:50:33.000Z"
@@ -3980,9 +3980,9 @@ var masoData =
         "description": "404: Tagline not found",
         "tier": "1",
         "owners": 46,
-        "completions": 17,
-        "playtime": 6.344117647058824,
-        "newestCompletion": "2026-08-27T18:25:55.000Z"
+        "completions": 18,
+        "playtime": 6.18888888888889,
+        "newestCompletion": "2026-10-28T18:46:20.000Z"
     },
     "1114940": {
         "description": "\u2606 Difficulty rating: somewhere between t2 and t6",
@@ -4271,7 +4271,7 @@ var masoData =
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
         "tier": "5",
-        "owners": 30,
+        "owners": 31,
         "completions": 2,
         "playtime": 106.95833333333333,
         "newestCompletion": "2024-08-03T06:00:49.000Z"
@@ -4659,7 +4659,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 23,
+        "owners": 24,
         "completions": 8,
         "playtime": 32.225,
         "newestCompletion": "2026-09-05T16:49:10.000Z"
@@ -4679,7 +4679,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 20,
+        "owners": 21,
         "completions": 6,
         "playtime": 50.044444444444444,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
