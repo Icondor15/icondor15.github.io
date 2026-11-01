@@ -1220,9 +1220,9 @@ var masoData =
         "description": "\u2606 Easy to beat, hard to complete",
         "tier": "3",
         "owners": 67,
-        "completions": 25,
-        "playtime": 15.938666666666668,
-        "newestCompletion": "2026-05-28T02:53:04.000Z"
+        "completions": 26,
+        "playtime": 15.555128205128206,
+        "newestCompletion": "2026-10-31T12:10:42.000Z"
     },
     "404700": {
         "description": "Snake on steroids.",
@@ -3423,7 +3423,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 49,
+        "owners": 50,
         "completions": 13,
         "playtime": 82.2948717948718,
         "newestCompletion": "2026-07-29T16:14:40.000Z",
@@ -3707,7 +3707,7 @@ var masoData =
     "2181000": {
         "description": "\u2733 An incorrect summary of Hyper Demon",
         "tier": "2",
-        "owners": 14,
+        "owners": 15,
         "completions": 3,
         "playtime": 16.755555555555556,
         "newestCompletion": "2025-07-17T16:48:11.000Z"
@@ -4480,9 +4480,9 @@ var masoData =
         "description": "&quot;Would you love me if I was a space worm?&quot;",
         "tier": "1",
         "owners": 5,
-        "completions": 3,
-        "playtime": 8.527777777777779,
-        "newestCompletion": "2025-07-19T04:15:06.000Z"
+        "completions": 4,
+        "playtime": 7.958333333333334,
+        "newestCompletion": "2026-10-31T12:04:46.000Z"
     },
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
@@ -4668,9 +4668,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
         "tier": "0",
         "owners": 6,
-        "completions": 2,
-        "playtime": 8.108333333333334,
-        "newestCompletion": "2026-03-23T21:30:31.000Z",
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null,
         "badges": {
             "count": 1,
             "points": 6
