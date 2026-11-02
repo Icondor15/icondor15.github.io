@@ -3691,7 +3691,7 @@ var masoData =
     "1772830": {
         "description": "\u2606 Don't let yoursef get rusty",
         "tier": "3",
-        "owners": 30,
+        "owners": 31,
         "completions": 7,
         "playtime": 36.357142857142854,
         "newestCompletion": "2025-01-18T14:42:57.000Z"
@@ -4779,7 +4779,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 32,
+        "owners": 33,
         "completions": 10,
         "playtime": 84.76833333333333,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
