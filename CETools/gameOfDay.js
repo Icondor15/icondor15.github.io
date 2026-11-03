@@ -2,103 +2,101 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1984020,
-        "CEId": "321e41af-fbc6-4cc3-878a-603004861e12",
-        "name": "Everhood 2",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984020/header.jpg?t=1741358320",
+        "platformId": 774801,
+        "CEId": "2f1bd762-f732-4148-bb79-d94283881040",
+        "name": "Crab Champions",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774801/header.jpg?t=1754771711",
         "genre": [
-            "Arcade"
+            "Action"
         ],
-        "tier": 1,
-        "points": 15,
-        "secondaryPoints": 0,
-        "medianPlaytime": 1151,
-        "createdAt": "2025-03-16T09:05:04.000Z",
-        "updatedAt": "2026-10-21T11:35:52.000Z",
-        "playersOvercompleted": 0,
+        "tier": 2,
+        "points": 20,
+        "secondaryPoints": 20,
+        "medianPlaytime": 5710,
+        "createdAt": "2024-11-03T19:10:40.000Z",
+        "updatedAt": "2026-11-01T18:28:00.000Z",
+        "playersOvercompleted": 1,
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 96,
+        "playersTotal": 189,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "initial": 999,
+                "final": 699,
+                "discountPercent": 30
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "initial": 999,
+                "final": 699,
+                "discountPercent": 30
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "initial": 899,
+                "final": 629,
+                "discountPercent": 30
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "initial": 120000,
+                "final": 84000,
+                "discountPercent": 30
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "initial": 1450,
+                "final": 1015,
+                "discountPercent": 30
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "initial": 1299,
+                "final": 909,
+                "discountPercent": 30
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "One-Hit Wonder [15\u2605]\nProve yourself.",
-            "secondary": 0,
-            "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 128
+            "primaryText": "Battle of the Bays [20\u2605]\nReach Prismatic account rank. / Complete the game on Ultra Chaos difficulty.",
+            "secondary": 1,
+            "secondaryText": "May the Best Crab Win [20\u2605]\nComplete the game on Full Flex Prismatic difficulty.",
+            "community": 1,
+            "communityText": "Shell-ebrate Your Success\nComplete all challenges.",
+            "achievements": 109
         },
         "CETags": {
             "genre": [
-                "Reflex/Reaction",
-                "Rhythm"
+                "Rogue-like"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives",
+                "Overwhelmingly Positive",
+                "Has Secondary Objectives",
+                "Animal Protagonist"
+            ]
         },
         "gameTags": [
-            "Psychedelic",
-            "Music",
-            "Indie",
-            "Story Rich",
-            "2D",
-            "RPG",
-            "Pixel Graphics",
-            "Choices Matter",
-            "Singleplayer",
-            "Rhythm",
-            "Replay Value",
-            "Action-Adventure",
-            "JRPG",
+            "Action Roguelike",
+            "Multiplayer",
+            "Looter Shooter",
+            "Roguelike",
+            "Soundtrack",
+            "Arcade",
+            "Third-Person Shooter",
+            "3D",
+            "Co-op",
+            "Bullet Hell",
+            "Shooter",
+            "Casual",
             "Action",
-            "Adventure",
-            "Funny",
-            "Level Editor",
-            "Dark",
-            "Horror",
-            "Comedy"
+            "PvE",
+            "Platformer",
+            "Perma Death",
+            "Choices Matter",
+            "Memes",
+            "Roguelite",
+            "Relaxing"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "brazilian": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS",
-            "tchinese": "IAS"
-        }
+            "english": "IA"
+        },
+        "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     }
 }
-var gameOfDayDate = '2026-11-02'
+var gameOfDayDate = '2026-11-03'
