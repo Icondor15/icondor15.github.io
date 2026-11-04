@@ -2651,10 +2651,10 @@ var masoData =
     "1170060": {
         "description": "\u272a Okay Boomerang ",
         "tier": "4",
-        "owners": 84,
-        "completions": 25,
-        "playtime": 16.60666666666667,
-        "newestCompletion": "2026-08-28T19:04:50.000Z"
+        "owners": 85,
+        "completions": 26,
+        "playtime": 16.452564102564104,
+        "newestCompletion": "2026-10-30T22:27:48.000Z"
     },
     "1333890": {
         "description": "\u2733 Brings a new meaning to \"kusoge\"",
@@ -3344,9 +3344,9 @@ var masoData =
         "description": "\u2733 LSDD",
         "tier": "2",
         "owners": 123,
-        "completions": 41,
-        "playtime": 89.01585365853659,
-        "newestCompletion": "2026-06-07T04:14:43.000Z",
+        "completions": 42,
+        "playtime": 87.05634920634921,
+        "newestCompletion": "2026-11-04T01:01:11.000Z",
         "badges": {
             "count": 3,
             "points": 21
@@ -3363,7 +3363,7 @@ var masoData =
     "1167630": {
         "description": "Reversed IKEA",
         "tier": "1",
-        "owners": 31,
+        "owners": 32,
         "completions": 10,
         "playtime": 43.388333333333335,
         "newestCompletion": "2024-12-23T20:38:02.000Z"
@@ -3837,7 +3837,7 @@ var masoData =
         "tier": "2",
         "owners": 130,
         "completions": 16,
-        "playtime": 241.36666666666667,
+        "playtime": 243.05520833333333,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
@@ -4779,7 +4779,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 33,
+        "owners": 34,
         "completions": 10,
         "playtime": 84.76833333333333,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
