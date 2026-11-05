@@ -2,96 +2,90 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 577690,
-        "CEId": "a18081e7-5e03-43e5-9948-105d978b2b44",
-        "name": "Spooky's Jump Scare Mansion: HD Renovation",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/577690/header.jpg?t=1663381711",
+        "platformId": 2404430,
+        "CEId": "c893c995-8881-4651-86e4-5ceb06e066e6",
+        "name": "Duck's Despair",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404430/header.jpg?t=1717841986",
         "genre": [
-            "First-Person"
+            "Platformer"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 3,
+        "points": 40,
         "secondaryPoints": 0,
-        "medianPlaytime": 2830,
-        "createdAt": "2025-11-04T18:50:36.000Z",
-        "updatedAt": "2026-10-22T02:31:08.000Z",
+        "medianPlaytime": 1533,
+        "createdAt": "2024-11-05T00:24:27.000Z",
+        "updatedAt": "2026-10-21T11:35:52.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 19,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 66,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "GBP": {
                 "initial": 699,
                 "final": 699,
                 "discountPercent": 0
             },
+            "EUR": {
+                "initial": 689,
+                "final": 689,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 589,
+                "final": 589,
+                "discountPercent": 0
+            },
             "JPY": {
-                "initial": 98000,
-                "final": 98000,
+                "initial": 80000,
+                "final": 80000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1025,
+                "final": 1025,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Uninvited Guest [5\u2605]\nBeat the Story Mode without saving your game.",
+            "primary": 2,
+            "primaryText": "Feathered Flagellation [15\u2605]\nObtain all 72 hidden extra medals. (Times listed in \"Information\")\n\nDucking Hard [25\u2605]\nCollect all gold medals, eggs, and finish every level without checkpoints.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 34
+            "achievements": 19
         },
         "CETags": {
             "genre": [
-                "Horror"
+                "2D Platformer"
             ],
             "info": [
-                "Overwhelmingly Positive"
+                "Animal Protagonist"
             ]
         },
         "gameTags": [
-            "Horror",
-            "Indie",
+            "Precision Platformer",
             "Adventure",
-            "First-Person",
-            "Cute",
             "Action",
-            "Psychological Horror",
-            "Great Soundtrack",
-            "Survival Horror",
-            "Singleplayer",
-            "Atmospheric",
-            "VR",
-            "Walking Simulator",
+            "Pixel Graphics",
+            "Difficult",
+            "Colorful",
             "Funny",
-            "Jump Scare",
-            "Gore"
+            "2D Platformer",
+            "Indie",
+            "Platformer",
+            "2D",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IAS",
-            "spanish": "I",
-            "polish": "I",
-            "russian": "I"
-        }
+            "english": "IAS"
+        },
+        "information": "Video Guide + Medal requirements in description.\n[https://www.youtube.com/watch?v=3Evnc0pMZC4](https://www.youtube.com/watch?v=3Evnc0pMZC4)"
     }
 }
-var gameOfDayDate = '2026-11-04'
+var gameOfDayDate = '2026-11-05'
