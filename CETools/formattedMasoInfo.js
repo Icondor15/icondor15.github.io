@@ -1824,9 +1824,9 @@ var masoData =
         "description": "\u2733 W O A H",
         "tier": "2",
         "owners": 128,
-        "completions": 52,
-        "playtime": 49.40384615384614,
-        "newestCompletion": "2026-09-13T19:52:36.000Z",
+        "completions": 53,
+        "playtime": 49.41477987421382,
+        "newestCompletion": "2026-11-04T17:31:42.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4679,7 +4679,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 21,
+        "owners": 22,
         "completions": 6,
         "playtime": 50.044444444444444,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
