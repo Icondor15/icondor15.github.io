@@ -463,7 +463,7 @@ var masoData =
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
         "tier": "2",
-        "owners": 145,
+        "owners": 146,
         "completions": 53,
         "playtime": 10.852515723270438,
         "newestCompletion": "2026-10-14T08:55:50.000Z"
@@ -527,7 +527,7 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 119,
+        "owners": 120,
         "completions": 22,
         "playtime": 35.9780303030303,
         "newestCompletion": "2026-08-12T19:47:26.000Z"
@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 132,
+        "owners": 133,
         "completions": 31,
         "playtime": 43.053225806451614,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -1179,7 +1179,7 @@ var masoData =
     "285820": {
         "description": "\u2606 Taste the rainbow :beatmeat:",
         "tier": "3",
-        "owners": 61,
+        "owners": 62,
         "completions": 19,
         "playtime": 41.020175438596496,
         "newestCompletion": "2025-06-30T13:53:20.000Z"
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 220,
         "completions": 157,
-        "playtime": 20.736305732484066,
+        "playtime": 20.73662420382165,
         "newestCompletion": "2026-07-13T00:08:54.000Z"
     },
     "211260": {
@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 72,
+        "owners": 73,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -1695,7 +1695,7 @@ var masoData =
     "233610": {
         "description": "A road comes in all kind of shapes",
         "tier": "1",
-        "owners": 48,
+        "owners": 49,
         "completions": 7,
         "playtime": 27.91190476190476,
         "newestCompletion": "2023-01-25T08:30:14.000Z"
@@ -1771,7 +1771,7 @@ var masoData =
     "460810": {
         "description": "\u2733 PlatinumGames",
         "tier": "2",
-        "owners": 42,
+        "owners": 43,
         "completions": 11,
         "playtime": 24.36818181818182,
         "newestCompletion": "2026-05-04T00:09:13.000Z"
@@ -2015,7 +2015,7 @@ var masoData =
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
         "tier": "3",
-        "owners": 61,
+        "owners": 62,
         "completions": 21,
         "playtime": 28.573809523809523,
         "newestCompletion": "2025-10-23T09:54:16.000Z"
@@ -2024,9 +2024,9 @@ var masoData =
         "description": "The cube that flipped the rhythm",
         "tier": "1",
         "owners": 60,
-        "completions": 31,
-        "playtime": 4.228494623655914,
-        "newestCompletion": "2026-05-20T01:19:04.000Z"
+        "completions": 32,
+        "playtime": 4.288020833333334,
+        "newestCompletion": "2026-11-05T23:42:21.000Z"
     },
     "320140": {
         "description": "\u2733 SKRRT SKRRT",
@@ -3233,7 +3233,7 @@ var masoData =
         "tier": "3",
         "owners": 140,
         "completions": 72,
-        "playtime": 77.49305555555559,
+        "playtime": 77.52453703703706,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
         "badges": {
             "count": 1,
@@ -3987,7 +3987,7 @@ var masoData =
     "1114940": {
         "description": "\u2606 Difficulty rating: somewhere between t2 and t6",
         "tier": "3",
-        "owners": 126,
+        "owners": 127,
         "completions": 11,
         "playtime": 444.11212121212134,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
@@ -4723,7 +4723,7 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 5,
+        "owners": 6,
         "completions": 1,
         "playtime": 73.1,
         "newestCompletion": "2026-04-01T23:31:51.000Z"
@@ -4771,7 +4771,7 @@ var masoData =
     "612880": {
         "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 21,
+        "owners": 22,
         "completions": 5,
         "playtime": 74.71333333333334,
         "newestCompletion": "2025-10-31T20:53:52.000Z"
@@ -4779,7 +4779,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 34,
+        "owners": 35,
         "completions": 10,
         "playtime": 84.76833333333333,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
