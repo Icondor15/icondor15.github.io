@@ -161,7 +161,7 @@ var masoData =
         "tier": "1",
         "owners": 113,
         "completions": 102,
-        "playtime": 3.463235294117648,
+        "playtime": 3.4746732026143796,
         "newestCompletion": "2026-03-25T09:32:11.000Z"
     },
     "927250": {
@@ -716,9 +716,9 @@ var masoData =
         "description": "\u272a Peer pressure",
         "tier": "4",
         "owners": 60,
-        "completions": 16,
-        "playtime": 44.78020833333333,
-        "newestCompletion": "2026-04-23T13:25:26.000Z"
+        "completions": 17,
+        "playtime": 46.79607843137254,
+        "newestCompletion": "2026-11-04T20:20:55.000Z"
     },
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
@@ -1227,7 +1227,7 @@ var masoData =
     "404700": {
         "description": "Snake on steroids.",
         "tier": "1",
-        "owners": 100,
+        "owners": 101,
         "completions": 58,
         "playtime": 6.322988505747126,
         "newestCompletion": "2025-09-11T13:07:04.000Z"
