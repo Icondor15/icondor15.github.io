@@ -159,10 +159,10 @@ var masoData =
     "735570": {
         "description": "Best (kinda) free game you played today",
         "tier": "1",
-        "owners": 114,
-        "completions": 102,
-        "playtime": 3.4746732026143796,
-        "newestCompletion": "2026-03-25T09:32:11.000Z"
+        "owners": 115,
+        "completions": 103,
+        "playtime": 3.476051779935276,
+        "newestCompletion": "2026-09-07T18:26:59.000Z"
     },
     "927250": {
         "description": "\u2733 Make quick work of your enemies if you want to stand a chance",
@@ -219,7 +219,7 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 140,
+        "owners": 141,
         "completions": 35,
         "playtime": 61.85619047619049,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
@@ -285,7 +285,7 @@ var masoData =
         "tier": "3",
         "owners": 83,
         "completions": 14,
-        "playtime": 95.43928571428572,
+        "playtime": 95.72142857142858,
         "newestCompletion": "2025-11-04T20:26:02.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 269,
         "completions": 147,
-        "playtime": 202.72403628117908,
+        "playtime": 202.7303854875283,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -607,7 +607,7 @@ var masoData =
     "673000": {
         "description": "Neon soaked madness",
         "tier": "1",
-        "owners": 83,
+        "owners": 84,
         "completions": 61,
         "playtime": 3.714207650273225,
         "newestCompletion": "2026-08-14T11:53:26.000Z"
@@ -1247,7 +1247,7 @@ var masoData =
     "247080": {
         "description": "\ud83c\udf1f You better make this game your second life and consume your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 233,
+        "owners": 234,
         "completions": 11,
         "playtime": 633.760606060606,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 80,
+        "owners": 81,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 122,
         "completions": 39,
-        "playtime": 91.68333333333332,
+        "playtime": 91.87991452991453,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 127,
         "completions": 51,
-        "playtime": 244.33169934640523,
+        "playtime": 245.5297385620915,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
@@ -2755,7 +2755,7 @@ var masoData =
     "1003590": {
         "description": "\u2606 aaaaaaaaaa i'm trippin balls",
         "tier": "3",
-        "owners": 70,
+        "owners": 71,
         "completions": 21,
         "playtime": 197.17619047619047,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
@@ -2807,9 +2807,9 @@ var masoData =
     "1211110": {
         "description": "\u272a Petal Crush my soul",
         "tier": "4",
-        "owners": 43,
+        "owners": 44,
         "completions": 9,
-        "playtime": 86.27777777777777,
+        "playtime": 87.42777777777778,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -2955,7 +2955,7 @@ var masoData =
     "1358090": {
         "description": "\ud83c\udf1f You'll need some new eyes after this game",
         "tier": "5",
-        "owners": 92,
+        "owners": 93,
         "completions": 21,
         "playtime": 172.26666666666665,
         "newestCompletion": "2024-12-13T06:20:36.000Z",
@@ -3147,7 +3147,7 @@ var masoData =
     "342610": {
         "description": "\u272a Exponentially increasing opportunities to get dunked on",
         "tier": "4",
-        "owners": 87,
+        "owners": 88,
         "completions": 7,
         "playtime": 239.4642857142857,
         "newestCompletion": "2024-12-06T21:13:47.000Z",
@@ -3231,7 +3231,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 141,
+        "owners": 142,
         "completions": 72,
         "playtime": 77.52453703703706,
         "newestCompletion": "2026-09-08T20:20:48.000Z",
@@ -3345,7 +3345,7 @@ var masoData =
         "tier": "2",
         "owners": 123,
         "completions": 42,
-        "playtime": 87.05634920634921,
+        "playtime": 87.05753968253968,
         "newestCompletion": "2026-11-04T01:01:11.000Z",
         "badges": {
             "count": 3,
@@ -3563,7 +3563,7 @@ var masoData =
     "1058830": {
         "description": "\u2606 xD",
         "tier": "3",
-        "owners": 61,
+        "owners": 62,
         "completions": 12,
         "playtime": 163.82083333333333,
         "newestCompletion": "2026-04-18T11:36:29.000Z",
@@ -3585,7 +3585,7 @@ var masoData =
         "tier": "5",
         "owners": 97,
         "completions": 16,
-        "playtime": 51.396875,
+        "playtime": 51.40208333333333,
         "newestCompletion": "2026-05-18T05:36:58.000Z",
         "badges": {
             "count": 2,
@@ -3629,7 +3629,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 12,
-        "playtime": 46.387499999999996,
+        "playtime": 46.645833333333336,
         "newestCompletion": "2026-08-27T01:20:00.000Z"
     },
     "1621320": {
@@ -4339,10 +4339,10 @@ var masoData =
     "3274300": {
         "description": "Tier 1 Shocker",
         "tier": "1",
-        "owners": 73,
-        "completions": 47,
-        "playtime": 3.389716312056737,
-        "newestCompletion": "2026-04-30T20:29:32.000Z"
+        "owners": 74,
+        "completions": 48,
+        "playtime": 3.345138888888888,
+        "newestCompletion": "2026-11-09T14:14:07.000Z"
     },
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
@@ -4717,7 +4717,7 @@ var masoData =
         "tier": "5",
         "owners": 10,
         "completions": 2,
-        "playtime": 404.3,
+        "playtime": 406.19166666666666,
         "newestCompletion": "2026-07-20T21:50:44.000Z"
     },
     "1144200": {
@@ -4779,7 +4779,7 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 35,
+        "owners": 36,
         "completions": 10,
         "playtime": 84.76833333333333,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
@@ -4799,7 +4799,7 @@ var masoData =
     "2533600": {
         "description": "\ud83c\udf96\ufe0f to kill a god you must first become one",
         "tier": "0",
-        "owners": 8,
+        "owners": 9,
         "completions": 2,
         "playtime": 40.40833333333333,
         "newestCompletion": "2026-08-19T02:48:36.000Z",
