@@ -2,94 +2,103 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1866880,
-        "CEId": "6d9cbd81-328a-4111-b753-fda941eeda1a",
-        "name": "Cultivation Story: Reincarnation",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1866880/header.jpg?t=1675183939",
+        "platformId": 1382330,
+        "CEId": "a4525844-9b42-4b2b-ba36-4888ef14974c",
+        "name": "Persona\u00ae 5 Strikers",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1382330/header.jpg?t=1688115650",
         "genre": [
             "Action"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-11-09T06:42:35.000Z",
-        "updatedAt": "2026-11-07T20:13:44.000Z",
+        "createdAt": "2023-11-10T05:18:10.000Z",
+        "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 0,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 7,
+        "playersTotal": 286,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 499,
-                "discountPercent": 50
+                "initial": 5999,
+                "final": 5999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 409,
-                "discountPercent": 50
+                "initial": 5999,
+                "final": 5999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 359,
-                "discountPercent": 50
+                "initial": 5499,
+                "final": 5499,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 50500,
-                "discountPercent": 50
+                "initial": 798000,
+                "final": 798000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 725,
-                "discountPercent": 50
+                "initial": 9995,
+                "final": 9995,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 574,
-                "discountPercent": 50
+                "initial": 7999,
+                "final": 7999,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Time is Power [5\u2605]\nBeat the boss rush (Challenge Mode).",
+            "primaryText": "Knocking on Death's Door [10\u2605]\nDefeat the Reaper on Merciless.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 108
+            "achievements": 47
         },
         "CETags": {
             "genre": [
-                "Rogue-like"
+                "Action-Adventure",
+                "Hack & Slash"
             ],
             "info": []
         },
         "gameTags": [
-            "RPG",
-            "Action Roguelike",
-            "Roguelite",
-            "Bullet Hell",
-            "Action",
-            "Roguelike",
-            "2D",
-            "Top-Down",
-            "Mythology",
-            "Pixel Graphics",
-            "Procedural Generation",
-            "Xianxia",
-            "Indie",
+            "Anime",
+            "Hack and Slash",
+            "JRPG",
+            "Great Soundtrack",
             "Adventure",
-            "Wuxia",
             "Singleplayer",
-            "Combat",
-            "Martial Arts"
+            "Story Rich",
+            "RPG",
+            "Action",
+            "Musou",
+            "Action-Adventure",
+            "Third Person",
+            "3D",
+            "Action RPG",
+            "Colorful",
+            "Atmospheric",
+            "Funny",
+            "3D Platformer",
+            "Simulation",
+            "2D"
         ],
         "languages": {
-            "english": "I",
-            "schinese": "I"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-11-09'
+var gameOfDayDate = '2026-11-10'
