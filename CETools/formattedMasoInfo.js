@@ -285,7 +285,7 @@ var masoData =
         "tier": "3",
         "owners": 83,
         "completions": 14,
-        "playtime": 95.72142857142858,
+        "playtime": 95.74166666666667,
         "newestCompletion": "2025-11-04T20:26:02.000Z",
         "badges": {
             "count": 1,
@@ -295,10 +295,10 @@ var masoData =
     "387290": {
         "description": "\u2606 The Definitely Edition",
         "tier": "3",
-        "owners": 201,
-        "completions": 54,
-        "playtime": 35.13518518518518,
-        "newestCompletion": "2026-05-13T19:30:57.000Z"
+        "owners": 202,
+        "completions": 55,
+        "playtime": 35.39787878787878,
+        "newestCompletion": "2026-10-04T05:55:22.000Z"
     },
     "253230": {
         "description": "Thank god for mods and EZ mode",
@@ -427,9 +427,9 @@ var masoData =
     "367520": {
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
-        "owners": 269,
-        "completions": 147,
-        "playtime": 202.7303854875283,
+        "owners": 270,
+        "completions": 148,
+        "playtime": 203.13367117117113,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -759,9 +759,9 @@ var masoData =
     "504230": {
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
-        "owners": 281,
-        "completions": 209,
-        "playtime": 244.3283094098884,
+        "owners": 282,
+        "completions": 210,
+        "playtime": 243.42000000000004,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -819,7 +819,7 @@ var masoData =
     "701440": {
         "description": "\ud83c\udf1f Entry-level: 100% Super Meat Boy",
         "tier": "5",
-        "owners": 161,
+        "owners": 162,
         "completions": 43,
         "playtime": 42.170930232558135,
         "newestCompletion": "2026-07-18T16:27:23.000Z"
@@ -1027,10 +1027,10 @@ var masoData =
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
         "tier": "5",
-        "owners": 149,
-        "completions": 22,
-        "playtime": 72.10454545454546,
-        "newestCompletion": "2026-08-26T23:26:54.000Z"
+        "owners": 150,
+        "completions": 23,
+        "playtime": 74.07971014492755,
+        "newestCompletion": "2026-11-05T13:06:53.000Z"
     },
     "204180": {
         "description": "\u2606 The most unique challenging gameplay you\"ll probably find on steam",
@@ -1291,7 +1291,7 @@ var masoData =
     "70300": {
         "description": "\ud83c\udf1f One gameplay mechanic: reverse gravity. An infinite number of places to die.",
         "tier": "5",
-        "owners": 247,
+        "owners": 248,
         "completions": 66,
         "playtime": 61.60050505050504,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
@@ -1387,7 +1387,7 @@ var masoData =
     "40800": {
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
-        "owners": 278,
+        "owners": 279,
         "completions": 90,
         "playtime": 129.11851851851847,
         "newestCompletion": "2026-09-16T20:30:06.000Z"
@@ -1659,9 +1659,9 @@ var masoData =
     "764790": {
         "description": "Sequel of The Skype",
         "tier": "1",
-        "owners": 133,
-        "completions": 58,
-        "playtime": 21.032758620689652,
+        "owners": 134,
+        "completions": 59,
+        "playtime": 21.101129943502823,
         "newestCompletion": "2026-04-30T15:06:15.000Z"
     },
     "609420": {
@@ -1735,9 +1735,9 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 173,
-        "completions": 56,
-        "playtime": 38.406547619047615,
+        "owners": 174,
+        "completions": 57,
+        "playtime": 39.282456140350874,
         "newestCompletion": "2026-07-31T05:21:33.000Z"
     },
     "1012970": {
@@ -2599,10 +2599,10 @@ var masoData =
     "1369630": {
         "description": "Developer intended platforming\u2122",
         "tier": "1",
-        "owners": 57,
-        "completions": 32,
-        "playtime": 23.714583333333326,
-        "newestCompletion": "2026-04-01T14:22:41.000Z"
+        "owners": 58,
+        "completions": 33,
+        "playtime": 23.584848484848475,
+        "newestCompletion": "2026-09-27T00:04:41.000Z"
     },
     "1133590": {
         "description": "\ud83c\udf1f Move over Terry, there\"s a new Iron Fella in town",
@@ -3039,7 +3039,7 @@ var masoData =
     "1057090": {
         "description": "\u2733 now with actual combat",
         "tier": "2",
-        "owners": 148,
+        "owners": 149,
         "completions": 39,
         "playtime": 37.896581196581195,
         "newestCompletion": "2025-09-15T20:27:37.000Z"
@@ -3063,9 +3063,9 @@ var masoData =
     "1245620": {
         "description": "\u2733 why is it always fort, night",
         "tier": "2",
-        "owners": 124,
-        "completions": 71,
-        "playtime": 196.24084507042252,
+        "owners": 125,
+        "completions": 72,
+        "playtime": 196.42523148148146,
         "newestCompletion": "2025-10-16T00:57:36.000Z"
     },
     "1190170": {
@@ -3364,9 +3364,9 @@ var masoData =
         "description": "Reversed IKEA",
         "tier": "1",
         "owners": 32,
-        "completions": 10,
-        "playtime": 43.388333333333335,
-        "newestCompletion": "2024-12-23T20:38:02.000Z"
+        "completions": 11,
+        "playtime": 41.57121212121212,
+        "newestCompletion": "2026-11-10T17:09:40.000Z"
     },
     "1071190": {
         "description": "\ud83c\udf1f Especially thanks to Achrotone for this one.",
@@ -4431,9 +4431,9 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 89,
-        "completions": 26,
-        "playtime": 48.87371794871795,
+        "owners": 90,
+        "completions": 27,
+        "playtime": 48.86666666666667,
         "newestCompletion": "2026-07-21T04:31:50.000Z"
     },
     "3445580": {
@@ -4503,9 +4503,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 169,
-        "completions": 42,
-        "playtime": 107.67341269841266,
+        "owners": 170,
+        "completions": 43,
+        "playtime": 109.39728682170539,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
