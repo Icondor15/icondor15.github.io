@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 173,
+        "owners": 174,
         "completions": 67,
         "playtime": 38.37238805970149,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
@@ -285,7 +285,7 @@ var masoData =
         "tier": "3",
         "owners": 83,
         "completions": 14,
-        "playtime": 95.74166666666667,
+        "playtime": 95.79642857142858,
         "newestCompletion": "2025-11-04T20:26:02.000Z",
         "badges": {
             "count": 1,
@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 134,
+        "owners": 135,
         "completions": 31,
         "playtime": 43.053225806451614,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -887,7 +887,7 @@ var masoData =
     "322500": {
         "description": "\u2733 Just killing red dudes",
         "tier": "2",
-        "owners": 160,
+        "owners": 161,
         "completions": 72,
         "playtime": 19.06921296296296,
         "newestCompletion": "2025-11-07T20:42:27.000Z"
@@ -1260,9 +1260,9 @@ var masoData =
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
         "owners": 206,
-        "completions": 41,
-        "playtime": 25.53983739837398,
-        "newestCompletion": "2025-10-23T13:42:14.000Z"
+        "completions": 42,
+        "playtime": 25.341666666666665,
+        "newestCompletion": "2026-08-03T12:28:07.000Z"
     },
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 127,
         "completions": 51,
-        "playtime": 245.5297385620915,
+        "playtime": 245.59607843137255,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
@@ -2643,7 +2643,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 105,
+        "owners": 106,
         "completions": 54,
         "playtime": 16.4070987654321,
         "newestCompletion": "2026-07-17T03:15:03.000Z"
@@ -2893,7 +2893,7 @@ var masoData =
         "tier": "1",
         "owners": 143,
         "completions": 43,
-        "playtime": 32.09651162790697,
+        "playtime": 32.101550387596895,
         "newestCompletion": "2026-08-13T06:36:52.000Z",
         "badges": {
             "count": 1,
@@ -3271,7 +3271,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 84,
+        "owners": 85,
         "completions": 44,
         "playtime": 24.448106060606055,
         "newestCompletion": "2026-09-24T23:27:08.000Z"
@@ -3415,7 +3415,7 @@ var masoData =
     "1867530": {
         "description": "Skating on the Colossus",
         "tier": "1",
-        "owners": 18,
+        "owners": 19,
         "completions": 6,
         "playtime": 11.563888888888888,
         "newestCompletion": "2024-11-21T04:49:06.000Z"
@@ -4723,7 +4723,7 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 6,
+        "owners": 7,
         "completions": 1,
         "playtime": 73.1,
         "newestCompletion": "2026-04-01T23:31:51.000Z"
@@ -4763,9 +4763,9 @@ var masoData =
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
         "tier": "1",
-        "owners": 10,
-        "completions": 3,
-        "playtime": 14.083333333333334,
+        "owners": 11,
+        "completions": 4,
+        "playtime": 16.270833333333332,
         "newestCompletion": "2025-12-15T23:11:55.000Z"
     },
     "612880": {
