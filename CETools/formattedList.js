@@ -62,8 +62,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "Horizontal Shoot'em'Up"
+                "Horizontal Shoot'em'Up",
+                "Awkward Movement"
             ],
             "info": []
         },
@@ -306,7 +306,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 96,
         "playersStarted": 0,
-        "playersTotal": 723,
+        "playersTotal": 722,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -350,8 +350,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -667,37 +667,37 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 132,
         "playersStarted": 0,
-        "playersTotal": 568,
+        "playersTotal": 569,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 85,
-                "discountPercent": 80
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 11600,
-                "discountPercent": 80
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 129,
-                "discountPercent": 80
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -732,8 +732,8 @@ var data =
             "Puzzle",
             "Precision Platformer",
             "Abstract",
-            "Puzzle Platformer",
             "Side Scroller",
+            "Puzzle Platformer",
             "Casual"
         ],
         "languages": {
@@ -828,8 +828,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Platformer"
             ],
             "info": []
         },
@@ -1140,8 +1140,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Trapformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Trapformer"
             ],
             "info": []
         },
@@ -1179,7 +1179,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 50,
         "playersStarted": 0,
-        "playersTotal": 290,
+        "playersTotal": 291,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -1544,8 +1544,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 28,
-        "playersStarted": 440,
-        "playersTotal": 1345,
+        "playersStarted": 439,
+        "playersTotal": 1344,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -1592,9 +1592,9 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Has Secondary Objectives",
+                "Loop Featured",
                 "Has Community Objectives",
-                "Loop Featured"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -1880,15 +1880,15 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Action-Adventure"
+                "Action-Adventure",
+                "3D Platformer"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Requires Co-op",
-                "Loop Featured",
                 "Has Community Objectives",
-                "Female Protagonist"
+                "Female Protagonist",
+                "Overwhelmingly Positive",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -2702,7 +2702,7 @@ var data =
         "createdAt": "2020-01-28T08:07:31.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 91,
+        "playersCompleted": 92,
         "playersStarted": 0,
         "playersTotal": 883,
         "priceData": {
@@ -3112,8 +3112,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Twin Stick"
+                "Twin Stick",
+                "Rhythm"
             ],
             "info": []
         },
@@ -3201,8 +3201,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Sports",
-                "Miscellaneous"
+                "Miscellaneous",
+                "Sports"
             ],
             "info": []
         },
@@ -3950,8 +3950,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Boss Rush"
+                "Boss Rush",
+                "Metroidvania"
             ],
             "info": [
                 "Female Protagonist"
@@ -5520,7 +5520,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 8,
         "playersStarted": 5,
-        "playersTotal": 110,
+        "playersTotal": 111,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -5862,8 +5862,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "2D Platformer"
+                "2D Platformer",
+                "Metroidvania"
             ],
             "info": [
                 "Female Protagonist"
@@ -5957,8 +5957,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Marble"
+                "Marble",
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -7122,8 +7122,8 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -7312,8 +7312,8 @@ var data =
                 "Hack & Slash"
             ],
             "info": [
-                "Female Protagonist",
-                "Uncleared"
+                "Uncleared",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -7497,8 +7497,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -7685,9 +7685,9 @@ var data =
                 "Boss Rush"
             ],
             "info": [
-                "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -7792,9 +7792,9 @@ var data =
                 "Twin Stick"
             ],
             "info": [
-                "Loop Featured",
                 "Animal Protagonist",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -7893,8 +7893,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Mini-Games",
-                "Miscellaneous"
+                "Miscellaneous",
+                "Mini-Games"
             ],
             "info": []
         },
@@ -7991,8 +7991,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Miscellaneous",
-                "Sports"
+                "Sports",
+                "Miscellaneous"
             ],
             "info": []
         },
@@ -9050,8 +9050,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -9152,8 +9152,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Twin Stick"
+                "Twin Stick",
+                "Hack & Slash"
             ],
             "info": []
         },
@@ -9247,8 +9247,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Avoid'em'Up"
+                "Avoid'em'Up",
+                "Rhythm"
             ],
             "info": []
         },
@@ -9432,10 +9432,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
                 "Third Person Shooter",
                 "Horizontal Shoot'em'Up",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Score Attack"
             ],
             "info": [
                 "Animal Protagonist"
@@ -9823,8 +9823,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -9888,7 +9888,7 @@ var data =
         "createdAt": "2020-01-28T09:54:18.000Z",
         "updatedAt": "2026-11-09T18:39:03.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 38,
+        "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 219,
         "priceData": {
@@ -10129,8 +10129,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horizontal Shoot'em'Up",
-                "Rogue-like"
+                "Rogue-like",
+                "Horizontal Shoot'em'Up"
             ],
             "info": []
         },
@@ -10223,8 +10223,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Aim Trainer",
-                "Rhythm"
+                "Rhythm",
+                "Aim Trainer"
             ],
             "info": [
                 "VR Required"
@@ -11152,8 +11152,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -11698,11 +11698,11 @@ var data =
         "secondaryPoints": 5,
         "medianPlaytime": 10095,
         "createdAt": "2024-05-16T22:40:35.000Z",
-        "updatedAt": "2026-11-11T00:15:07.000Z",
+        "updatedAt": "2026-11-14T02:34:14.000Z",
         "playersOvercompleted": 27,
         "playersCompleted": 87,
         "playersStarted": 92,
-        "playersTotal": 1110,
+        "playersTotal": 1111,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11746,13 +11746,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Deck-Builder"
+                "Deck-Builder",
+                "Rogue-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -12272,7 +12272,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 123,
         "playersStarted": 0,
-        "playersTotal": 733,
+        "playersTotal": 734,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -12416,8 +12416,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": [
                 "Female Protagonist"
@@ -12468,7 +12468,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 124,
         "playersStarted": 0,
-        "playersTotal": 590,
+        "playersTotal": 591,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -12568,7 +12568,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 554,
+        "playersTotal": 555,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -12668,7 +12668,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 566,
+        "playersTotal": 567,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13120,8 +13120,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -13619,10 +13619,10 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "VR Required"
+                "VR Required",
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -13720,8 +13720,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "First Person Movement"
+                "First Person Movement",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -13813,8 +13813,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Arcade Puzzler"
+                "Arcade Puzzler",
+                "Score Attack"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -14002,13 +14002,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Foddian",
-                "First Person Movement"
+                "First Person Movement",
+                "Foddian"
             ],
             "info": [
-                "Has Community Objectives",
                 "Loop Featured",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -14384,8 +14384,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Multitasking"
+                "Multitasking",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -14476,8 +14476,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -14529,7 +14529,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 997,
+        "playersTotal": 998,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -15595,8 +15595,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -15690,8 +15690,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Souls-like"
+                "Souls-like",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -16361,8 +16361,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -16570,9 +16570,9 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Has Community Objectives",
                 "Female Protagonist",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -16667,10 +16667,10 @@ var data =
                 "Run & Gun"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives",
-                "Female Protagonist"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -17219,8 +17219,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Score Attack"
             ],
             "info": [
                 "Has Community Objectives"
@@ -17414,8 +17414,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "First Person Movement"
+                "First Person Movement",
+                "Hack & Slash"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -17475,7 +17475,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 35,
         "playersStarted": 0,
-        "playersTotal": 308,
+        "playersTotal": 307,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -17519,8 +17519,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Trapformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Trapformer"
             ],
             "info": []
         },
@@ -17615,12 +17615,12 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Curated",
-                "Overwhelmingly Positive",
                 "Has Secondary Objectives",
                 "Loop Featured",
                 "Female Protagonist",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -17989,9 +17989,9 @@ var data =
                 "First Person Shooter"
             ],
             "info": [
+                "Curated",
                 "Overwhelmingly Positive",
-                "Loop Featured",
-                "Curated"
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -18172,8 +18172,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Autorunner"
+                "Autorunner",
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -18271,8 +18271,8 @@ var data =
                 "Boss Rush"
             ],
             "info": [
-                "Has Community Objectives",
-                "Uncleared"
+                "Uncleared",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -18470,10 +18470,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Avoidance",
-                "Boss Rush",
                 "Autojumper",
-                "2D Platformer"
+                "2D Platformer",
+                "Avoidance",
+                "Boss Rush"
             ],
             "info": []
         },
@@ -18964,8 +18964,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Requires Co-op",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Requires Co-op"
             ]
         },
         "gameTags": [
@@ -19174,13 +19174,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Foddian"
+                "Foddian",
+                "2D Platformer"
             ],
             "info": [
-                "Requires Co-op",
                 "Uncleared",
-                "Animal Protagonist"
+                "Animal Protagonist",
+                "Requires Co-op"
             ]
         },
         "gameTags": [
@@ -19463,13 +19463,13 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Run & Gun",
                 "Action-Platformer",
-                "2D Platformer",
-                "Run & Gun"
+                "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -19568,12 +19568,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -19677,8 +19677,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": [
                 "Curated",
@@ -19970,9 +19970,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Overwhelmingly Positive",
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -20998,8 +20998,8 @@ var data =
             "Indie",
             "Difficult",
             "Adventure",
-            "Atmospheric",
             "Singleplayer",
+            "Atmospheric",
             "Survival",
             "Parkour",
             "Sports",
@@ -22487,8 +22487,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -22768,8 +22768,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Metroidvania"
+                "Metroidvania",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -22993,7 +22993,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 43,
         "playersStarted": 0,
-        "playersTotal": 649,
+        "playersTotal": 648,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -23088,7 +23088,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 4,
         "playersStarted": 24,
-        "playersTotal": 405,
+        "playersTotal": 404,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -23284,8 +23284,8 @@ var data =
         "updatedAt": "2026-11-10T00:11:30.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 103,
-        "playersStarted": 291,
-        "playersTotal": 2570,
+        "playersStarted": 290,
+        "playersTotal": 2569,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -23332,11 +23332,11 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
-                "Female Protagonist",
-                "Loop Featured",
+                "Curated",
                 "Overwhelmingly Positive",
-                "Curated"
+                "Female Protagonist",
+                "Has Community Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -23619,8 +23619,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -23708,9 +23708,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle",
                 "Arcade Puzzler",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Puzzle"
             ],
             "info": []
         },
@@ -24113,8 +24113,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": [
                 "Curated"
@@ -24499,8 +24499,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "2D Platformer"
+                "2D Platformer",
+                "Awkward Movement"
             ],
             "info": [
                 "Has Community Objectives"
@@ -24779,8 +24779,8 @@ var data =
                 "Beat'em'Up"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -24984,8 +24984,8 @@ var data =
                 "3D Platformer"
             ],
             "info": [
-                "Female Protagonist",
-                "Loop Featured"
+                "Loop Featured",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -25118,9 +25118,9 @@ var data =
         "createdAt": "2020-01-28T08:06:31.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 386,
+        "playersCompleted": 385,
         "playersStarted": 0,
-        "playersTotal": 820,
+        "playersTotal": 819,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -25362,8 +25362,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Run & Gun",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Run & Gun"
             ],
             "info": []
         },
@@ -25407,13 +25407,13 @@ var data =
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 2883,
+        "medianPlaytime": 2882,
         "createdAt": "2023-01-09T05:58:04.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T12:51:27.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 101,
+        "playersCompleted": 102,
         "playersStarted": 0,
-        "playersTotal": 511,
+        "playersTotal": 512,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -26780,10 +26780,10 @@ var data =
                 "Rogue-like"
             ],
             "info": [
+                "Animal Protagonist",
                 "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives",
-                "Animal Protagonist"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -27014,7 +27014,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 9,
         "playersStarted": 31,
-        "playersTotal": 186,
+        "playersTotal": 187,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -27109,11 +27109,11 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 3180,
         "createdAt": "2020-01-28T07:16:35.000Z",
-        "updatedAt": "2026-11-12T21:21:39.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 44,
-        "playersStarted": 109,
-        "playersTotal": 812,
+        "playersStarted": 110,
+        "playersTotal": 813,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -27160,9 +27160,9 @@ var data =
                 "3D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
                 "Animal Protagonist",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -27354,9 +27354,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Curated",
                 "Has Community Objectives",
-                "Has Secondary Objectives",
-                "Curated"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -27507,7 +27507,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 444,
+        "playersTotal": 443,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -27554,9 +27554,9 @@ var data =
                 "Action-Adventure"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Community Objectives",
-                "Has Secondary Objectives",
-                "Female Protagonist"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -27840,8 +27840,8 @@ var data =
                 "First Person Shooter"
             ],
             "info": [
-                "Curated",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -28138,8 +28138,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Metroidvania"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -28247,11 +28247,11 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Curated",
                 "Loop Featured",
-                "Has Secondary Objectives",
-                "Female Protagonist"
+                "Overwhelmingly Positive",
+                "Female Protagonist",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -28492,7 +28492,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 130,
         "playersStarted": 340,
-        "playersTotal": 1575,
+        "playersTotal": 1574,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -28536,15 +28536,15 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Run & Gun",
+                "Boss Rush",
                 "Horizontal Shoot'em'Up",
-                "Boss Rush"
+                "Run & Gun"
             ],
             "info": [
-                "Loop Featured",
                 "Has Community Objectives",
                 "Curated",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -29128,8 +29128,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "First Person Movement"
+                "First Person Movement",
+                "Grappler"
             ],
             "info": [
                 "Has Community Objectives"
@@ -30072,8 +30072,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Horror"
+                "Horror",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -30125,33 +30125,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 4999,
-                "final": 1249,
-                "discountPercent": 75
+                "final": 4999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 4899,
-                "final": 1224,
-                "discountPercent": 75
+                "final": 4899,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 4199,
-                "final": 1049,
-                "discountPercent": 75
+                "final": 4199,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 515000,
-                "final": 128700,
-                "discountPercent": 75
+                "final": 515000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 7350,
-                "final": 1837,
-                "discountPercent": 75
+                "final": 7350,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 6499,
-                "final": 1624,
-                "discountPercent": 75
+                "final": 6499,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -30264,8 +30264,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Souls-like"
+                "Souls-like",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -30322,7 +30322,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 11,
         "playersStarted": 339,
-        "playersTotal": 784,
+        "playersTotal": 783,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -30473,9 +30473,9 @@ var data =
                 "Souls-like"
             ],
             "info": [
-                "Curated",
+                "Has Community Objectives",
                 "Loop Featured",
-                "Has Community Objectives"
+                "Curated"
             ]
         },
         "gameTags": [
@@ -30533,8 +30533,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 80,
-        "playersStarted": 293,
-        "playersTotal": 838,
+        "playersStarted": 292,
+        "playersTotal": 837,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -30683,8 +30683,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Turn-Based"
+                "Turn-Based",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -30825,7 +30825,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 230,
+        "playersTotal": 229,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -31401,7 +31401,7 @@ var data =
         "playersOvercompleted": 13,
         "playersCompleted": 14,
         "playersStarted": 24,
-        "playersTotal": 1210,
+        "playersTotal": 1211,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -31445,14 +31445,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Boss Rush"
+                "Boss Rush",
+                "Rogue-like"
             ],
             "info": [
-                "Loop Featured",
                 "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -31558,8 +31558,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Rogue-like"
+                "Rogue-like",
+                "Twin Stick"
             ],
             "info": []
         },
@@ -31651,8 +31651,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -31747,10 +31747,10 @@ var data =
                 "Stealth"
             ],
             "info": [
-                "Curated",
-                "Has Secondary Objectives",
                 "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -32016,8 +32016,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Rogue-like"
+                "Rogue-like",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -32457,13 +32457,13 @@ var data =
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1073,
+        "medianPlaytime": 1076,
         "createdAt": "2021-08-10T17:51:51.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T12:51:28.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 144,
+        "playersCompleted": 145,
         "playersStarted": 0,
-        "playersTotal": 547,
+        "playersTotal": 548,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -32570,33 +32570,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "final": 1999,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 291400,
-                "final": 145700,
-                "discountPercent": 50
+                "final": 291400,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 3199,
-                "final": 1599,
-                "discountPercent": 50
+                "final": 3199,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2799,
-                "final": 1399,
-                "discountPercent": 50
+                "final": 2799,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -32800,8 +32800,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -32900,9 +32900,9 @@ var data =
                 "Horizontal Shoot'em'Up"
             ],
             "info": [
+                "Female Protagonist",
                 "Overwhelmingly Positive",
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -33230,7 +33230,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 159,
         "playersStarted": 0,
-        "playersTotal": 1331,
+        "playersTotal": 1332,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -33277,9 +33277,9 @@ var data =
                 "First Person Shooter"
             ],
             "info": [
+                "Requires Co-op",
                 "Has Community Objectives",
-                "Overwhelmingly Positive",
-                "Requires Co-op"
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -33387,8 +33387,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -33611,9 +33611,9 @@ var data =
                 "Mini-Games"
             ],
             "info": [
-                "Has Secondary Objectives",
                 "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -33803,8 +33803,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Autorunner"
+                "Autorunner",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -34511,7 +34511,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 2867,
         "createdAt": "2020-07-02T23:15:22.000Z",
-        "updatedAt": "2026-11-09T18:35:06.000Z",
+        "updatedAt": "2026-11-13T16:52:16.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 4,
         "playersStarted": 8,
@@ -34519,38 +34519,38 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 624,
-                "discountPercent": 75
+                "final": 2499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 2299,
-                "final": 574,
-                "discountPercent": 75
+                "final": 2299,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1949,
-                "final": 487,
-                "discountPercent": 75
+                "final": 1949,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 256900,
-                "final": 64200,
-                "discountPercent": 75
+                "final": 256900,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 3595,
-                "final": 898,
-                "discountPercent": 75
+                "final": 3595,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2899,
-                "final": 724,
-                "discountPercent": 75
+                "final": 2899,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "True Descender [25\u2605]\nComplete \"BikeOut!\", \"BikeOut! Again!\", \"Oh No, Not BikeOut Again\" and \"Bikeowwwwwt\".\n\nWay of the Cyclist [20\u2605]\nFinish a Career session from highlands to peaks without bailing a single time.\n\nDownhill Daredevil [10\u2605]\nUnlock all zones and complete all bonus worlds in Freeride mode.",
+            "primaryText": "True Descender [10\u2605]\nComplete \"BikeOut!\", \"BikeOut! Again!\", \"Oh No, Not BikeOut Again\" and \"Bikeowwwwwt\".\n\nWay of the Cyclist [20\u2605]\nFinish a Career session from highlands to peaks without bailing a single time.\n\nDownhill Daredevil [25\u2605]\nUnlock all zones and complete all bonus worlds in Freeride mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 3,
@@ -34672,8 +34672,8 @@ var data =
                 "Puzzle"
             ],
             "info": [
-                "Curated",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -35243,8 +35243,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Stealth"
             ],
             "info": []
         },
@@ -35343,8 +35343,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Twin Stick"
+                "Twin Stick",
+                "Score Attack"
             ],
             "info": []
         },
@@ -35543,14 +35543,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Arena Shooter"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": [
-                "Has Community Objectives",
-                "Loop Featured",
                 "Curated",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -35784,7 +35784,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 14,
-        "playersTotal": 706,
+        "playersTotal": 707,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -35936,8 +35936,8 @@ var data =
                 "Hack & Slash"
             ],
             "info": [
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -37131,8 +37131,8 @@ var data =
                 "Avoid'em'Up"
             ],
             "info": [
-                "Loop Featured",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -37233,9 +37233,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Stealth",
                 "Hack & Slash",
-                "First Person Shooter",
-                "Stealth"
+                "First Person Shooter"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -37628,9 +37628,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Overwhelmingly Positive",
+                "Loop Featured",
                 "Curated",
-                "Loop Featured"
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -37977,7 +37977,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 7,
         "playersStarted": 6,
-        "playersTotal": 989,
+        "playersTotal": 990,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -38021,8 +38021,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arena Shooter",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Arena Shooter"
             ],
             "info": [
                 "Has Community Objectives",
@@ -38674,9 +38674,9 @@ var data =
         "createdAt": "2020-01-28T09:48:13.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 5,
-        "playersCompleted": 214,
+        "playersCompleted": 213,
         "playersStarted": 0,
-        "playersTotal": 994,
+        "playersTotal": 993,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -38720,15 +38720,15 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
                 "Vertical Shoot'em'Up",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Platformer"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Has Community Objectives",
                 "Curated",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -39300,9 +39300,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Score Attack",
                 "First Person Movement",
-                "Grappler",
-                "Score Attack"
+                "Grappler"
             ],
             "info": []
         },
@@ -40799,8 +40799,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -41167,10 +41167,10 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Has Secondary Objectives",
                 "Curated",
                 "Has Community Objectives",
-                "Loop Featured"
+                "Loop Featured",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -41439,8 +41439,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -41736,8 +41736,8 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Uncleared",
-                "Animal Protagonist"
+                "Animal Protagonist",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -42291,9 +42291,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
                 "Foddian",
-                "Awkward Movement"
+                "Awkward Movement",
+                "3D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -42397,8 +42397,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "Foddian"
+                "Foddian",
+                "Awkward Movement"
             ],
             "info": [
                 "Mouse Focused"
@@ -42603,9 +42603,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Sports",
                 "Awkward Movement",
-                "2D Platformer",
-                "Sports"
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -42692,13 +42692,13 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Awkward Movement",
-                "Sports",
-                "2D Platformer"
+                "Sports"
             ],
             "info": [
-                "Has Community Objectives",
-                "Loop Featured"
+                "Loop Featured",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -42731,7 +42731,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 77,
         "playersStarted": 512,
-        "playersTotal": 1339,
+        "playersTotal": 1340,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -42993,8 +42993,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Souls-like"
+                "Souls-like",
+                "Hack & Slash"
             ],
             "info": []
         },
@@ -43595,8 +43595,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Rogue-like"
+                "Rogue-like",
+                "Hack & Slash"
             ],
             "info": []
         },
@@ -43802,8 +43802,8 @@ var data =
                 "Metroidvania"
             ],
             "info": [
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Female Protagonist",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -43964,7 +43964,7 @@ var data =
         "createdAt": "2020-04-14T18:46:16.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 14,
-        "playersCompleted": 290,
+        "playersCompleted": 289,
         "playersStarted": 0,
         "playersTotal": 1608,
         "priceData": {
@@ -44014,10 +44014,10 @@ var data =
                 "Twin Stick"
             ],
             "info": [
-                "Overwhelmingly Positive",
+                "Has Secondary Objectives",
                 "Female Protagonist",
-                "Curated",
-                "Has Secondary Objectives"
+                "Overwhelmingly Positive",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -44209,8 +44209,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Miscellaneous",
-                "Score Attack"
+                "Score Attack",
+                "Miscellaneous"
             ],
             "info": [
                 "Has Community Objectives"
@@ -44387,8 +44387,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Trapformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Trapformer"
             ],
             "info": []
         },
@@ -44659,8 +44659,8 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Uncleared",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -45012,7 +45012,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 32,
         "playersStarted": 24,
-        "playersTotal": 857,
+        "playersTotal": 856,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -45522,7 +45522,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 14,
         "playersStarted": 22,
-        "playersTotal": 303,
+        "playersTotal": 304,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -45566,8 +45566,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -45631,33 +45631,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 254,
+                "discountPercent": 85
             },
             "EUR": {
                 "initial": 1649,
-                "final": 1649,
-                "discountPercent": 0
+                "final": 247,
+                "discountPercent": 85
             },
             "GBP": {
                 "initial": 1429,
-                "final": 1429,
-                "discountPercent": 0
+                "final": 214,
+                "discountPercent": 85
             },
             "JPY": {
                 "initial": 190000,
-                "final": 190000,
-                "discountPercent": 0
+                "final": 28500,
+                "discountPercent": 85
             },
             "AUD": {
                 "initial": 2495,
-                "final": 2495,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 85
             },
             "CAD": {
                 "initial": 2199,
-                "final": 2199,
-                "discountPercent": 0
+                "final": 329,
+                "discountPercent": 85
             }
         },
         "milestones": {
@@ -45671,9 +45671,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
                 "Miscellaneous",
-                "Marble"
+                "Marble",
+                "3D Platformer"
             ],
             "info": []
         },
@@ -46166,8 +46166,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Metroidvania"
             ],
             "info": [
                 "Uncleared"
@@ -46229,33 +46229,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 499,
-                "discountPercent": 75
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1950,
-                "final": 487,
-                "discountPercent": 75
+                "final": 1950,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1675,
-                "final": 418,
-                "discountPercent": 75
+                "final": 1675,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 230000,
-                "final": 57500,
-                "discountPercent": 75
+                "final": 230000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2950,
-                "final": 737,
-                "discountPercent": 75
+                "final": 2950,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2599,
-                "final": 649,
-                "discountPercent": 75
+                "final": 2599,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -46736,9 +46736,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
                 "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Deck-Builder"
             ],
             "info": [
                 "Has Community Objectives"
@@ -47118,8 +47118,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Reflex/Reaction",
-                "Mini-Games"
+                "Mini-Games",
+                "Reflex/Reaction"
             ],
             "info": []
         },
@@ -47370,8 +47370,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Multitasking"
+                "Multitasking",
+                "Horror"
             ],
             "info": [
                 "Has Community Objectives"
@@ -47465,8 +47465,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Multitasking",
-                "Horror"
+                "Horror",
+                "Multitasking"
             ],
             "info": []
         },
@@ -47653,8 +47653,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": []
         },
@@ -47736,9 +47736,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Score Attack",
-                "Action-Platformer",
-                "2D Platformer"
+                "Action-Platformer"
             ],
             "info": []
         },
@@ -48281,7 +48281,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 1832,
         "createdAt": "2025-06-28T07:21:24.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 6,
@@ -48503,8 +48503,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "2D Platformer"
+                "2D Platformer",
+                "Awkward Movement"
             ],
             "info": [
                 "Has Community Objectives"
@@ -48690,8 +48690,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Traditional Fighter",
-                "Rogue-like"
+                "Rogue-like",
+                "Traditional Fighter"
             ],
             "info": []
         },
@@ -49446,10 +49446,10 @@ var data =
         },
         "CETags": {
             "genre": [
+                "First Person Shooter",
                 "Boss Rush",
                 "Souls-like",
-                "Metroidvania",
-                "First Person Shooter"
+                "Metroidvania"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -49592,7 +49592,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 17,
-        "playersTotal": 507,
+        "playersTotal": 508,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -49636,8 +49636,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Resource Management",
-                "Real-Time Strategy"
+                "Real-Time Strategy",
+                "Resource Management"
             ],
             "info": [
                 "Has Community Objectives"
@@ -49848,15 +49848,15 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Real-Time Strategy"
+                "Real-Time Strategy",
+                "Rogue-like"
             ],
             "info": [
-                "Has Secondary Objectives",
+                "Loop Featured",
                 "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Loop Featured",
-                "Curated"
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -50005,7 +50005,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 4,
         "playersStarted": 90,
-        "playersTotal": 737,
+        "playersTotal": 736,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -50049,13 +50049,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
                 "Twin Stick",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Boss Rush"
             ],
             "info": [
-                "Loop Featured",
-                "Curated"
+                "Curated",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -50918,10 +50918,10 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Curated",
                 "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -51170,7 +51170,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 69,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -51214,8 +51214,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -51330,7 +51330,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 484,
         "createdAt": "2022-10-03T10:39:05.000Z",
-        "updatedAt": "2026-11-10T22:31:25.000Z",
+        "updatedAt": "2026-11-14T04:00:55.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 14,
         "playersStarted": 0,
@@ -51469,8 +51469,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Rogue-like"
+                "Rogue-like",
+                "Twin Stick"
             ],
             "info": [
                 "Has Community Objectives"
@@ -51569,9 +51569,9 @@ var data =
                 "Rhythm"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Loop Featured",
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -51580,8 +51580,8 @@ var data =
             "Level Editor",
             "2D",
             "Great Soundtrack",
-            "Rhythm",
             "Precision Platformer",
+            "Rhythm",
             "Singleplayer",
             "Platformer",
             "Colorful",
@@ -51618,7 +51618,7 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 7,
-        "playersStarted": 10,
+        "playersStarted": 11,
         "playersTotal": 169,
         "priceData": {
             "USD": {
@@ -51667,8 +51667,8 @@ var data =
                 "Score Attack"
             ],
             "info": [
-                "Loop Featured",
-                "Curated"
+                "Curated",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -51760,8 +51760,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -52220,9 +52220,9 @@ var data =
         "createdAt": "2020-01-28T09:50:39.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 775,
+        "playersCompleted": 774,
         "playersStarted": 0,
-        "playersTotal": 1704,
+        "playersTotal": 1703,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -52266,14 +52266,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Foddian",
-                "Awkward Movement"
+                "Awkward Movement",
+                "Foddian"
             ],
             "info": [
-                "Loop Featured",
                 "Has Community Objectives",
                 "Mouse Focused",
-                "Curated"
+                "Curated",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -52607,8 +52607,8 @@ var data =
             "Ninja",
             "Post-apocalyptic",
             "Fighting",
-            "Strategy",
-            "Shooter"
+            "Shooter",
+            "Strategy"
         ],
         "languages": {
             "english": "IAS",
@@ -53087,8 +53087,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -53277,8 +53277,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -53366,8 +53366,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "2D Platformer"
+                "2D Platformer",
+                "Awkward Movement"
             ],
             "info": [
                 "Has Community Objectives"
@@ -53555,8 +53555,8 @@ var data =
                 "Puzzle"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Mouse Focused"
+                "Mouse Focused",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -54140,9 +54140,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Boss Rush",
                 "Twin Stick",
-                "Rogue-like",
-                "Boss Rush"
+                "Rogue-like"
             ],
             "info": []
         },
@@ -54199,7 +54199,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 580,
+        "playersTotal": 579,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -54511,7 +54511,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 20,
         "playersStarted": 45,
-        "playersTotal": 211,
+        "playersTotal": 210,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -54555,8 +54555,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "Foddian"
+                "Foddian",
+                "Awkward Movement"
             ],
             "info": [
                 "Mouse Focused"
@@ -54999,7 +54999,7 @@ var data =
         "createdAt": "2023-05-29T20:57:35.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 62,
+        "playersCompleted": 63,
         "playersStarted": 7,
         "playersTotal": 593,
         "priceData": {
@@ -55420,8 +55420,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Grappler"
+                "Grappler",
+                "3D Platformer"
             ],
             "info": []
         },
@@ -55705,8 +55705,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "2D Platformer"
+                "2D Platformer",
+                "Grappler"
             ],
             "info": []
         },
@@ -55784,8 +55784,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "Foddian"
+                "Foddian",
+                "Grappler"
             ],
             "info": []
         },
@@ -56173,8 +56173,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Marble"
+                "Marble",
+                "3D Platformer"
             ],
             "info": []
         },
@@ -56653,8 +56653,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Arena Shooter"
+                "Arena Shooter",
+                "Twin Stick"
             ],
             "info": []
         },
@@ -57011,7 +57011,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 3,
         "playersStarted": 10,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -57145,8 +57145,8 @@ var data =
                 "First Person Shooter"
             ],
             "info": [
-                "Has Community Objectives",
-                "Requires Co-op"
+                "Requires Co-op",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -57448,8 +57448,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Foddian"
+                "Foddian",
+                "2D Platformer"
             ],
             "info": [
                 "Animal Protagonist"
@@ -57554,8 +57554,8 @@ var data =
                 "Traditional Fighter"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -58576,10 +58576,10 @@ var data =
         "secondaryPoints": 20,
         "medianPlaytime": 6093,
         "createdAt": "2020-06-09T19:39:47.000Z",
-        "updatedAt": "2026-11-12T09:18:28.000Z",
+        "updatedAt": "2026-11-13T12:12:19.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 113,
-        "playersStarted": 270,
+        "playersStarted": 269,
         "playersTotal": 1539,
         "priceData": {
             "USD": {
@@ -58628,11 +58628,11 @@ var data =
                 "Rogue-like"
             ],
             "info": [
-                "Curated",
-                "Has Secondary Objectives",
                 "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Loop Featured"
+                "Loop Featured",
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -58689,7 +58689,7 @@ var data =
         "playersOvercompleted": 10,
         "playersCompleted": 25,
         "playersStarted": 45,
-        "playersTotal": 267,
+        "playersTotal": 266,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -58733,14 +58733,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Rogue-like"
+                "Rogue-like",
+                "Hack & Slash"
             ],
             "info": [
-                "Female Protagonist",
                 "Has Secondary Objectives",
                 "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -58900,7 +58900,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 26,
         "playersStarted": 35,
-        "playersTotal": 864,
+        "playersTotal": 863,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -59263,8 +59263,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -59380,6 +59380,102 @@ var data =
         "languages": {
             "english": "IS",
             "japanese": "IAS"
+        }
+    },
+    {
+        "gameType": 0,
+        "platformId": 4705510,
+        "CEId": "51897b7f-16cc-4603-a04c-a0c3b130a8a8",
+        "name": "Happy Wheels",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1791030748",
+        "genre": [
+            "Arcade"
+        ],
+        "tier": 1,
+        "points": 5,
+        "secondaryPoints": 0,
+        "medianPlaytime": 0,
+        "createdAt": "2026-11-13T16:53:20.000Z",
+        "updatedAt": "2026-11-13T17:50:03.000Z",
+        "playersOvercompleted": 0,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 2,
+        "priceData": {
+            "USD": {
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 459,
+                "final": 459,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 65500,
+                "final": 65500,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 695,
+                "final": 695,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Oh, My Legs! [5\u2605]\nBeat the following featured levels: \"Pokemon Adventure\", \"Pyramid of the Gods\", \"Pyramid O'The Gods 2\", \"Super Mario 64\", \"Abandoned\", and \"- I Save You Indy! -\".",
+            "secondary": 0,
+            "secondaryText": "",
+            "community": 0,
+            "communityText": "",
+            "achievements": 80
+        },
+        "CETags": {
+            "genre": [
+                "Miscellaneous",
+                "Awkward Movement",
+                "2D Platformer"
+            ],
+            "info": [
+                "Overwhelmingly Positive"
+            ]
+        },
+        "gameTags": [
+            "Gore",
+            "Physics",
+            "Sandbox",
+            "Level Editor",
+            "Dark Humor",
+            "Indie",
+            "Violent",
+            "2D",
+            "Action",
+            "Funny",
+            "Casual",
+            "Singleplayer",
+            "Satire",
+            "Nostalgia",
+            "Side Scroller",
+            "Cartoony",
+            "Racing",
+            "Classic",
+            "Psychological Horror",
+            "Multiplayer"
+        ],
+        "languages": {
+            "english": "IA"
         }
     },
     {
@@ -59537,8 +59633,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Multitasking",
-                "Miscellaneous"
+                "Miscellaneous",
+                "Multitasking"
             ],
             "info": []
         },
@@ -59921,8 +60017,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Horizontal Shoot'em'Up"
+                "Horizontal Shoot'em'Up",
+                "Score Attack"
             ],
             "info": [
                 "Overwhelmingly Positive",
@@ -60310,8 +60406,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Vertical Shoot'em'Up"
+                "Vertical Shoot'em'Up",
+                "Deck-Builder"
             ],
             "info": [
                 "Uncleared"
@@ -61046,9 +61142,9 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 288,
         "createdAt": "2022-03-23T20:57:07.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T19:23:13.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 58,
+        "playersCompleted": 59,
         "playersStarted": 0,
         "playersTotal": 102,
         "priceData": {
@@ -61232,7 +61328,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 99,
+        "playersTotal": 100,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -61770,8 +61866,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Stealth"
             ],
             "info": [
                 "Has Community Objectives"
@@ -62236,7 +62332,7 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 26,
         "playersCompleted": 51,
-        "playersStarted": 998,
+        "playersStarted": 997,
         "playersTotal": 2458,
         "priceData": {
             "USD": {
@@ -62281,16 +62377,16 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Metroidvania",
                 "Boss Rush",
-                "Souls-like",
-                "Metroidvania"
+                "Souls-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Secondary Objectives",
                 "Curated",
-                "Loop Featured"
+                "Has Secondary Objectives",
+                "Loop Featured",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -62346,9 +62442,9 @@ var data =
         "createdAt": "2025-09-20T10:01:16.000Z",
         "updatedAt": "2026-11-12T01:40:17.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 324,
+        "playersCompleted": 323,
         "playersStarted": 0,
-        "playersTotal": 879,
+        "playersTotal": 878,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -62392,8 +62488,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Souls-like",
-                "Metroidvania"
+                "Metroidvania",
+                "Souls-like"
             ],
             "info": [
                 "Animal Protagonist"
@@ -62823,7 +62919,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 376,
         "playersStarted": 0,
-        "playersTotal": 1402,
+        "playersTotal": 1401,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -62867,12 +62963,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Twin Stick"
+                "Twin Stick",
+                "Score Attack"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Loop Featured"
+                "Loop Featured",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -62964,8 +63060,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Twin Stick"
+                "Twin Stick",
+                "Score Attack"
             ],
             "info": []
         },
@@ -63164,8 +63260,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Traditional Rogue-like",
-                "Horror"
+                "Horror",
+                "Traditional Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -63363,8 +63459,8 @@ var data =
                 "Awkward Movement"
             ],
             "info": [
-                "Curated",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -63646,13 +63742,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arena Shooter",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Arena Shooter"
             ],
             "info": [
-                "Has Community Objectives",
                 "Curated",
-                "Loop Featured"
+                "Loop Featured",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -63743,8 +63839,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Boss Rush"
             ],
             "info": [
                 "Has Secondary Objectives"
@@ -64033,9 +64129,9 @@ var data =
                 "Traditional Rogue-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Overwhelmingly Positive",
                 "Has Secondary Objectives",
+                "Has Community Objectives",
                 "Curated"
             ]
         },
@@ -64239,8 +64335,8 @@ var data =
                 "Reflex/Reaction"
             ],
             "info": [
-                "Curated",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -64315,9 +64411,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
                 "Autojumper",
-                "2D Platformer"
+                "2D Platformer",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -64454,7 +64550,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 13,
-        "playersTotal": 363,
+        "playersTotal": 364,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -64844,7 +64940,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 1613,
         "createdAt": "2020-01-28T09:32:27.000Z",
-        "updatedAt": "2026-11-13T06:14:36.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 37,
         "playersStarted": 6,
@@ -64892,12 +64988,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Avoidance"
+                "Avoidance",
+                "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
-                "Animal Protagonist"
+                "Animal Protagonist",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -65179,12 +65275,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Metroidvania"
+                "Metroidvania",
+                "Boss Rush"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -65282,8 +65378,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "Grappler"
+                "Grappler",
+                "First Person Movement"
             ],
             "info": [
                 "Uncleared"
@@ -65851,9 +65947,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
                 "Rogue-like",
-                "Boomer Shooter"
+                "Boomer Shooter",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -66144,8 +66240,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Autorunner",
-                "2D Platformer"
+                "2D Platformer",
+                "Autorunner"
             ],
             "info": []
         },
@@ -66525,8 +66621,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -66845,7 +66941,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 95,
         "playersStarted": 0,
-        "playersTotal": 647,
+        "playersTotal": 648,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -66889,8 +66985,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Deck-Builder"
+                "Deck-Builder",
+                "Turn-Based"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -67084,8 +67180,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -67387,13 +67483,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
+                "Rogue-like",
                 "Turn-Based",
-                "Rogue-like"
+                "Stealth"
             ],
             "info": [
-                "Has Community Objectives",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -67928,8 +68024,8 @@ var data =
                 "Horror"
             ],
             "info": [
-                "Curated",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -67979,33 +68075,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 224,
+                "discountPercent": 85
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 221,
+                "discountPercent": 85
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 191,
+                "discountPercent": 85
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 25500,
+                "discountPercent": 85
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 329,
+                "discountPercent": 85
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 292,
+                "discountPercent": 85
             }
         },
         "milestones": {
@@ -68594,9 +68690,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Requires Co-op",
-                "Overwhelmingly Positive"
+                "Requires Co-op"
             ]
         },
         "gameTags": [
@@ -68741,33 +68837,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 295,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 255,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 34000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 439,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 389,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -68878,12 +68974,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "First Person Shooter"
+                "First Person Shooter",
+                "First Person Movement"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -69415,7 +69511,7 @@ var data =
         "playersOvercompleted": 4,
         "playersCompleted": 70,
         "playersStarted": 424,
-        "playersTotal": 1054,
+        "playersTotal": 1053,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -69463,9 +69559,9 @@ var data =
                 "Foddian"
             ],
             "info": [
-                "Has Community Objectives",
                 "Loop Featured",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -69566,8 +69662,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Miscellaneous",
-                "Avoid'em'Up"
+                "Avoid'em'Up",
+                "Miscellaneous"
             ],
             "info": []
         },
@@ -69954,8 +70050,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Rogue-like"
+                "Rogue-like",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -70255,8 +70351,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -70389,7 +70485,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 7,
         "playersStarted": 12,
-        "playersTotal": 135,
+        "playersTotal": 136,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -70656,7 +70752,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 420,
+        "playersTotal": 421,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -70863,7 +70959,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 132,
         "playersStarted": 0,
-        "playersTotal": 782,
+        "playersTotal": 781,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -71188,9 +71284,9 @@ var data =
         "createdAt": "2022-09-27T06:24:37.000Z",
         "updatedAt": "2026-11-12T09:37:48.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 19,
+        "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 127,
+        "playersTotal": 126,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -71534,13 +71630,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
                 "Arena Shooter",
-                "Score Attack"
+                "Score Attack",
+                "Twin Stick"
             ],
             "info": [
-                "Female Protagonist",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -71892,8 +71988,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "First Person Movement"
+                "First Person Movement",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -73412,9 +73508,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
                 "Action-Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -73982,7 +74078,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 14,
         "playersStarted": 19,
-        "playersTotal": 1425,
+        "playersTotal": 1426,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -74026,9 +74122,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "First Person Shooter",
                 "Horror",
-                "Arena Shooter",
-                "First Person Shooter"
+                "Arena Shooter"
             ],
             "info": [
                 "Overwhelmingly Positive",
@@ -74424,8 +74520,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -74527,8 +74623,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Reflex/Reaction",
-                "Beat'em'Up"
+                "Beat'em'Up",
+                "Reflex/Reaction"
             ],
             "info": []
         },
@@ -74620,8 +74716,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Beat'em'Up",
-                "Reflex/Reaction"
+                "Reflex/Reaction",
+                "Beat'em'Up"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -75122,8 +75218,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Souls-like",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Souls-like"
             ],
             "info": []
         },
@@ -75288,7 +75384,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 35,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -75395,33 +75491,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 199,
-                "discountPercent": 80
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 999,
-                "final": 199,
-                "discountPercent": 80
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 999,
-                "final": 199,
-                "discountPercent": 80
+                "final": 999,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 142000,
-                "final": 28400,
-                "discountPercent": 80
+                "final": 142000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1559,
-                "final": 311,
-                "discountPercent": 80
+                "final": 1559,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1399,
-                "final": 279,
-                "discountPercent": 80
+                "final": 1399,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -75812,10 +75908,10 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Female Protagonist",
                 "Curated",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Has Secondary Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -75909,9 +76005,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
                 "Horror",
-                "2D Platformer"
+                "2D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -76016,8 +76112,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up",
-                "Rogue-like"
+                "Rogue-like",
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
@@ -76143,11 +76239,11 @@ var data =
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 901,
+        "medianPlaytime": 892,
         "createdAt": "2022-04-01T19:48:44.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T18:02:20.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 108,
+        "playersCompleted": 109,
         "playersStarted": 0,
         "playersTotal": 1712,
         "priceData": {
@@ -76508,8 +76604,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "2D Platformer"
+                "2D Platformer",
+                "Metroidvania"
             ],
             "info": [
                 "Uncleared"
@@ -76662,7 +76758,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 6,
         "playersStarted": 3,
-        "playersTotal": 117,
+        "playersTotal": 118,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -77004,8 +77100,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "3D Platformer"
+                "3D Platformer",
+                "Awkward Movement"
             ],
             "info": []
         },
@@ -77098,8 +77194,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "3D Platformer"
             ],
             "info": []
         },
@@ -77380,8 +77476,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "3D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -77477,8 +77573,8 @@ var data =
                 "Twin Stick"
             ],
             "info": [
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -78853,8 +78949,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
-                "3D Platformer"
+                "3D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -79044,9 +79140,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arcade Puzzler",
                 "Tower Defense",
-                "Score Attack"
+                "Score Attack",
+                "Arcade Puzzler"
             ],
             "info": []
         },
@@ -79774,7 +79870,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 8,
+        "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -80897,8 +80993,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Run & Gun"
+                "Run & Gun",
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -81098,9 +81194,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Boss Rush",
                 "Action-Platformer",
-                "Run & Gun",
-                "Boss Rush"
+                "Run & Gun"
             ],
             "info": [
                 "Uncleared"
@@ -81195,8 +81291,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Run & Gun"
+                "Run & Gun",
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives",
@@ -81254,7 +81350,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 47,
         "playersStarted": 0,
-        "playersTotal": 241,
+        "playersTotal": 240,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -81298,8 +81394,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Mini-Games"
+                "Mini-Games",
+                "Rhythm"
             ],
             "info": []
         },
@@ -81587,8 +81683,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Stealth"
             ],
             "info": []
         },
@@ -81685,8 +81781,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Stealth"
             ],
             "info": []
         },
@@ -81783,8 +81879,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Stealth"
             ],
             "info": []
         },
@@ -81835,9 +81931,9 @@ var data =
         "createdAt": "2023-10-19T22:54:00.000Z",
         "updatedAt": "2026-11-11T00:15:07.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 55,
+        "playersCompleted": 54,
         "playersStarted": 0,
-        "playersTotal": 254,
+        "playersTotal": 253,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -81931,7 +82027,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 292,
+        "playersTotal": 291,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -82073,8 +82169,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Rhythm"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -83147,8 +83243,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Metroidvania"
+                "Metroidvania",
+                "Boss Rush"
             ],
             "info": []
         },
@@ -83240,8 +83336,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": [
                 "Mouse Focused",
@@ -83343,8 +83439,8 @@ var data =
                 "Puzzle"
             ],
             "info": [
-                "Has Community Objectives",
-                "Mouse Focused"
+                "Mouse Focused",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -83517,9 +83613,9 @@ var data =
                 "Real-Time Strategy"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Mouse Focused",
-                "Curated"
+                "Curated",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -84430,7 +84526,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 94,
         "playersStarted": 0,
-        "playersTotal": 619,
+        "playersTotal": 618,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -84640,8 +84736,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 0,
-        "playersStarted": 293,
-        "playersTotal": 631,
+        "playersStarted": 294,
+        "playersTotal": 632,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -84688,8 +84784,8 @@ var data =
                 "Action-Adventure"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Uncleared"
+                "Uncleared",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -84712,7 +84808,7 @@ var data =
             "Hack and Slash",
             "JRPG",
             "MMORPG",
-            "Dating Sim"
+            "Souls-like"
         ],
         "languages": {
             "english": "IAS",
@@ -84894,13 +84990,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Deck-Builder"
+                "Deck-Builder",
+                "Rogue-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -85341,8 +85437,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Souls-like"
+                "Souls-like",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -85448,8 +85544,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Rogue-like"
+                "Rogue-like",
+                "Hack & Slash"
             ],
             "info": [
                 "Has Community Objectives"
@@ -85597,7 +85693,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 261,
+        "playersTotal": 260,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -86204,8 +86300,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up",
-                "Arcade Puzzler"
+                "Arcade Puzzler",
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
@@ -86246,7 +86342,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 45,
-        "playersTotal": 1621,
+        "playersTotal": 1620,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -86392,10 +86488,10 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Female Protagonist",
                 "Loop Featured",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -86485,8 +86581,8 @@ var data =
         "CETags": {
             "genre": [
                 "2D Platformer",
-                "Puzzle Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "Puzzle Platformer"
             ],
             "info": [
                 "Curated",
@@ -87258,7 +87354,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 11,
         "playersStarted": 59,
-        "playersTotal": 818,
+        "playersTotal": 817,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -87306,9 +87402,9 @@ var data =
             ],
             "info": [
                 "Has Community Objectives",
+                "Loop Featured",
                 "Requires Co-op",
-                "Curated",
-                "Loop Featured"
+                "Curated"
             ]
         },
         "gameTags": [
@@ -87518,13 +87614,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Boss Rush"
+                "Boss Rush",
+                "Hack & Slash"
             ],
             "info": [
+                "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Female Protagonist",
-                "Overwhelmingly Positive"
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -87792,8 +87888,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Score Attack"
+                "Score Attack",
+                "Twin Stick"
             ],
             "info": []
         },
@@ -88179,14 +88275,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "First Person Shooter"
+                "First Person Shooter",
+                "First Person Movement"
             ],
             "info": [
-                "Has Community Objectives",
+                "Overwhelmingly Positive",
                 "Loop Featured",
-                "Curated",
-                "Overwhelmingly Positive"
+                "Has Community Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -88438,33 +88534,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 147,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 127,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 17000,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 194,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -88966,9 +89062,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Metroidvania",
                 "Souls-like",
-                "Action-Platformer",
-                "Metroidvania"
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -89519,7 +89615,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 36,
-        "playersTotal": 390,
+        "playersTotal": 391,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -89859,14 +89955,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Vertical Shoot'em'Up"
+                "Vertical Shoot'em'Up",
+                "Rhythm"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Loop Featured",
-                "Has Community Objectives",
                 "Curated",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -89915,7 +90011,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 37,
         "playersStarted": 298,
-        "playersTotal": 1223,
+        "playersTotal": 1224,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -89962,9 +90058,9 @@ var data =
                 "Rogue-like"
             ],
             "info": [
-                "Curated",
                 "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -90634,8 +90730,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Avoidance",
-                "Boss Rush"
+                "Boss Rush",
+                "Avoidance"
             ],
             "info": [
                 "Curated"
@@ -90675,7 +90771,7 @@ var data =
         "playersOvercompleted": 2,
         "playersCompleted": 27,
         "playersStarted": 140,
-        "playersTotal": 847,
+        "playersTotal": 846,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -90719,13 +90815,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Rogue-like"
+                "Rogue-like",
+                "Twin Stick"
             ],
             "info": [
                 "Overwhelmingly Positive",
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -90831,9 +90927,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Foddian",
                 "Awkward Movement",
-                "2D Platformer"
+                "2D Platformer",
+                "Foddian"
             ],
             "info": []
         },
@@ -90927,8 +91023,8 @@ var data =
                 "Metroidvania"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -91208,8 +91304,8 @@ var data =
                 "Autorunner"
             ],
             "info": [
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -91700,8 +91796,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "3D Platformer"
             ],
             "info": [
                 "Has Secondary Objectives"
@@ -92281,9 +92377,9 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Has Secondary Objectives",
                 "Loop Featured",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -92568,8 +92664,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Sports",
-                "Autorunner"
+                "Autorunner",
+                "Sports"
             ],
             "info": []
         },
@@ -93047,10 +93143,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Action-Adventure",
                 "Awkward Movement",
-                "Marble"
+                "Marble",
+                "Score Attack",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -93525,8 +93621,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Reflex/Reaction"
+                "Reflex/Reaction",
+                "Score Attack"
             ],
             "info": []
         },
@@ -93618,15 +93714,15 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
                 "Deck-Builder",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Adventure"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Community Objectives",
                 "Loop Featured",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Female Protagonist",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -93875,7 +93971,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 125,
         "playersStarted": 0,
-        "playersTotal": 276,
+        "playersTotal": 277,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -94122,9 +94218,9 @@ var data =
                 "Reflex/Reaction"
             ],
             "info": [
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Loop Featured"
+                "Loop Featured",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -94404,9 +94500,9 @@ var data =
                 "Metroidvania"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Curated"
+                "Curated",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -94456,7 +94552,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 2002,
         "createdAt": "2022-06-07T02:48:54.000Z",
-        "updatedAt": "2026-11-12T20:11:13.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 14,
         "playersStarted": 156,
@@ -94714,8 +94810,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
                 "Female Protagonist"
@@ -94805,9 +94901,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
                 "Action-Platformer",
-                "Boss Rush"
+                "Boss Rush",
+                "Metroidvania"
             ],
             "info": []
         },
@@ -95025,8 +95121,8 @@ var data =
             "Violent",
             "Multiplayer",
             "Survival",
-            "Nudity",
             "Sexual Content",
+            "Nudity",
             "Action",
             "Story Rich",
             "Adventure",
@@ -96356,8 +96452,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Rogue-like"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -96477,8 +96573,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Avoid'em'Up"
+                "Avoid'em'Up",
+                "Score Attack"
             ],
             "info": []
         },
@@ -97020,8 +97116,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -97123,8 +97219,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Sports",
-                "Reflex/Reaction"
+                "Reflex/Reaction",
+                "Sports"
             ],
             "info": []
         },
@@ -97687,7 +97783,7 @@ var data =
         "updatedAt": "2026-11-13T01:12:09.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 57,
-        "playersStarted": 160,
+        "playersStarted": 159,
         "playersTotal": 1018,
         "priceData": {
             "USD": {
@@ -97796,7 +97892,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 82,
-        "playersTotal": 239,
+        "playersTotal": 238,
         "priceData": {
             "USD": {
                 "initial": 1899,
@@ -97840,13 +97936,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Sports",
-                "First Person Movement"
+                "First Person Movement",
+                "Sports"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Uncleared",
-                "Curated"
+                "Curated",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -97941,8 +98037,8 @@ var data =
                 "Miscellaneous"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -98517,8 +98613,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Hack & Slash"
+                "Hack & Slash",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -98617,8 +98713,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Multitasking"
+                "Multitasking",
+                "Horror"
             ],
             "info": [
                 "Has Community Objectives",
@@ -98711,10 +98807,10 @@ var data =
                 "Arcade Puzzler"
             ],
             "info": [
+                "Curated",
                 "Loop Featured",
                 "Has Community Objectives",
-                "Mouse Focused",
-                "Curated"
+                "Mouse Focused"
             ]
         },
         "gameTags": [
@@ -98759,7 +98855,7 @@ var data =
         "createdAt": "2021-09-24T06:10:21.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 12,
+        "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 145,
         "priceData": {
@@ -99018,8 +99114,8 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Uncleared",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -99157,7 +99253,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 136,
         "playersStarted": 0,
-        "playersTotal": 235,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -99265,7 +99361,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 9,
+        "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -99312,8 +99408,8 @@ var data =
                 "Avoid'em'Up"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Uncleared"
+                "Uncleared",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -100039,7 +100135,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 27,
-        "playersTotal": 288,
+        "playersTotal": 287,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -100682,8 +100778,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "3D Platformer"
+                "3D Platformer",
+                "Awkward Movement"
             ],
             "info": [
                 "Has Community Objectives",
@@ -100870,16 +100966,16 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement",
                 "Foddian",
-                "Autojumper"
+                "Autojumper",
+                "2D Platformer",
+                "Awkward Movement"
             ],
             "info": [
                 "Loop Featured",
                 "Has Secondary Objectives",
-                "Has Community Objectives",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -101119,7 +101215,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 3,
         "playersStarted": 15,
-        "playersTotal": 175,
+        "playersTotal": 174,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -101266,8 +101362,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "First Person Movement"
+                "First Person Movement",
+                "First Person Shooter"
             ],
             "info": [
                 "Uncleared"
@@ -101369,8 +101465,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Marble",
-                "3D Platformer"
+                "3D Platformer",
+                "Marble"
             ],
             "info": []
         },
@@ -101604,7 +101700,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 633,
         "playersStarted": 0,
-        "playersTotal": 2518,
+        "playersTotal": 2517,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -101770,8 +101866,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Rogue-like"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -102274,8 +102370,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -102747,8 +102843,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boomer Shooter",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Boomer Shooter"
             ],
             "info": []
         },
@@ -103081,7 +103177,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 260,
+        "playersTotal": 259,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -103125,8 +103221,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "Metroidvania"
+                "Metroidvania",
+                "3D Platformer"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -103383,8 +103479,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Traditional Fighter",
-                "Beat'em'Up"
+                "Beat'em'Up",
+                "Traditional Fighter"
             ],
             "info": []
         },
@@ -103476,8 +103572,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Score Attack"
+                "Score Attack",
+                "Twin Stick"
             ],
             "info": [
                 "Has Community Objectives"
@@ -103577,9 +103673,9 @@ var data =
                 "Mini-Games"
             ],
             "info": [
+                "Female Protagonist",
                 "Overwhelmingly Positive",
-                "Curated",
-                "Female Protagonist"
+                "Curated"
             ]
         },
         "gameTags": [
@@ -105098,12 +105194,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Horizontal Shoot'em'Up"
+                "Horizontal Shoot'em'Up",
+                "Rogue-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Female Protagonist",
+                "Has Community Objectives",
                 "Requires Co-op",
                 "Overwhelmingly Positive"
             ]
@@ -105202,8 +105298,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Reflex/Reaction"
+                "Reflex/Reaction",
+                "Score Attack"
             ],
             "info": []
         },
@@ -105280,16 +105376,16 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Metroidvania",
                 "Boss Rush",
-                "Avoidance",
-                "Metroidvania"
+                "Avoidance"
             ],
             "info": [
+                "Overwhelmingly Positive",
+                "Has Secondary Objectives",
                 "Loop Featured",
                 "Female Protagonist",
-                "Has Community Objectives",
-                "Overwhelmingly Positive",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -106151,7 +106247,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 167,
-        "playersTotal": 1063,
+        "playersTotal": 1062,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -106195,13 +106291,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Action-Platformer"
             ],
             "info": [
+                "Loop Featured",
                 "Has Community Objectives",
-                "Has Secondary Objectives",
-                "Loop Featured"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -106786,8 +106882,8 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Uncleared",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -106832,7 +106928,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 170,
+        "playersTotal": 169,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -106982,14 +107078,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Resource Management",
-                "Real-Time Strategy"
+                "Real-Time Strategy",
+                "Resource Management"
             ],
             "info": [
-                "Uncleared",
                 "Has Community Objectives",
                 "Requires Co-op",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -107093,13 +107189,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up",
-                "Boss Rush"
+                "Boss Rush",
+                "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Female Protagonist",
                 "Has Secondary Objectives",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -107508,7 +107604,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 48,
         "playersStarted": 0,
-        "playersTotal": 466,
+        "playersTotal": 465,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -107552,8 +107648,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Souls-like"
+                "Souls-like",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -107884,8 +107980,8 @@ var data =
             "Story Rich",
             "Difficult",
             "Gore",
-            "Third-Person Shooter",
             "Multiplayer",
+            "Third-Person Shooter",
             "Great Soundtrack",
             "Shooter"
         ],
@@ -107918,7 +108014,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 15,
         "playersStarted": 111,
-        "playersTotal": 647,
+        "playersTotal": 648,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -107966,8 +108062,8 @@ var data =
                 "Horror"
             ],
             "info": [
-                "Overwhelmingly Positive",
-                "Female Protagonist"
+                "Female Protagonist",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -108182,8 +108278,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Horror"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -108448,7 +108544,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 15,
         "playersStarted": 72,
-        "playersTotal": 598,
+        "playersTotal": 599,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -108718,9 +108814,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Multitasking",
                 "Puzzle Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Multitasking"
             ],
             "info": [
                 "Has Secondary Objectives",
@@ -108908,8 +109004,8 @@ var data =
                 "Horizontal Shoot'em'Up"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Curated"
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -109001,9 +109097,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Metroidvania",
                 "2D Platformer",
-                "Action-Platformer",
-                "Metroidvania"
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -109390,11 +109486,11 @@ var data =
         "tier": 2,
         "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 364,
+        "medianPlaytime": 376,
         "createdAt": "2023-02-05T14:23:12.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-14T02:00:59.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 31,
+        "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 178,
         "priceData": {
@@ -109791,7 +109887,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 54,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -110020,8 +110116,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Turn-Based"
+                "Turn-Based",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -110125,8 +110221,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Platformer"
             ],
             "info": []
         },
@@ -110307,12 +110403,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Action-Adventure"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Female Protagonist"
+                "Female Protagonist",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -110417,8 +110513,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Rogue-like"
+                "Rogue-like",
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -110521,8 +110617,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Rogue-like"
             ],
             "info": [
                 "Loop Featured",
@@ -110573,7 +110669,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 357,
-        "playersTotal": 1811,
+        "playersTotal": 1812,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -110620,9 +110716,9 @@ var data =
                 "Rogue-like"
             ],
             "info": [
-                "Curated",
                 "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -110863,7 +110959,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 165,
         "playersStarted": 0,
-        "playersTotal": 292,
+        "playersTotal": 291,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -111098,8 +111194,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Run & Gun",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Run & Gun"
             ],
             "info": []
         },
@@ -111375,8 +111471,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Action-Platformer"
             ],
             "info": []
         },
@@ -111462,8 +111558,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Trapformer"
+                "Trapformer",
+                "2D Platformer"
             ],
             "info": [
                 "Has Secondary Objectives"
@@ -111561,9 +111657,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
                 "Rogue-like",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Rhythm"
             ],
             "info": []
         },
@@ -111626,7 +111722,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 48,
         "playersStarted": 0,
-        "playersTotal": 346,
+        "playersTotal": 345,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -111738,7 +111834,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 42,
         "playersStarted": 0,
-        "playersTotal": 251,
+        "playersTotal": 250,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -111834,7 +111930,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 57,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -112429,7 +112525,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 118,
         "playersStarted": 42,
-        "playersTotal": 721,
+        "playersTotal": 720,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -112675,8 +112771,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Rogue-like"
+                "Rogue-like",
+                "Deck-Builder"
             ],
             "info": []
         },
@@ -113277,8 +113373,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Autojumper"
+                "Autojumper",
+                "2D Platformer"
             ],
             "info": [
                 "Animal Protagonist"
@@ -114141,9 +114237,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Community Objectives",
-                "Loop Featured",
-                "Female Protagonist"
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -114241,8 +114337,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Autorunner"
+                "Autorunner",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -114523,9 +114619,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
                 "Action-Platformer",
                 "Grappler",
+                "Metroidvania",
                 "2D Platformer"
             ],
             "info": [
@@ -114801,9 +114897,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
                 "Horror",
-                "First Person Movement"
+                "First Person Movement",
+                "Metroidvania"
             ],
             "info": [
                 "Uncleared",
@@ -115180,9 +115276,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arcade Puzzler",
                 "Miscellaneous",
-                "Score Attack"
+                "Score Attack",
+                "Arcade Puzzler"
             ],
             "info": []
         },
@@ -115796,7 +115892,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 191,
+        "playersTotal": 190,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -115934,9 +116030,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Autorunner",
                 "Rhythm",
-                "Score Attack"
+                "Score Attack",
+                "Autorunner"
             ],
             "info": [
                 "Overwhelmingly Positive",
@@ -116361,9 +116457,9 @@ var data =
                 "Rogue-like"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Community Objectives",
-                "Has Secondary Objectives",
-                "Female Protagonist"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -116418,7 +116514,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 541,
         "createdAt": "2023-07-24T17:09:57.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 8,
         "playersStarted": 0,
@@ -116466,8 +116562,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Avoidance",
-                "2D Platformer"
+                "2D Platformer",
+                "Avoidance"
             ],
             "info": []
         },
@@ -116832,8 +116928,8 @@ var data =
                 "Souls-like"
             ],
             "info": [
-                "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -116939,8 +117035,8 @@ var data =
                 "Twin Stick"
             ],
             "info": [
-                "Has Secondary Objectives",
                 "Curated",
+                "Has Secondary Objectives",
                 "Overwhelmingly Positive"
             ]
         },
@@ -117041,8 +117137,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
                 "Animal Protagonist"
@@ -117326,8 +117422,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Arena Shooter"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -117482,11 +117578,11 @@ var data =
         "tier": 1,
         "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 2185,
+        "medianPlaytime": 2103,
         "createdAt": "2020-08-28T17:19:37.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T14:06:21.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 52,
+        "playersCompleted": 53,
         "playersStarted": 11,
         "playersTotal": 475,
         "priceData": {
@@ -117532,8 +117628,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arena Shooter",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Arena Shooter"
             ],
             "info": [
                 "Has Community Objectives",
@@ -117633,8 +117729,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Arena Shooter"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -118262,7 +118358,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 2936,
         "createdAt": "2022-04-02T23:22:11.000Z",
-        "updatedAt": "2026-11-11T11:50:31.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 54,
         "playersStarted": 0,
@@ -118322,8 +118418,8 @@ var data =
             "Female Protagonist",
             "Singleplayer",
             "Open World",
-            "Third Person",
             "Story Rich",
+            "Third Person",
             "Puzzle",
             "Stealth",
             "Action-Adventure",
@@ -118627,8 +118723,8 @@ var data =
             "Pixel Graphics",
             "Action",
             "Adventure",
-            "Anime",
             "Indie",
+            "Anime",
             "Cute",
             "Singleplayer",
             "Pirates",
@@ -119555,9 +119651,9 @@ var data =
                 "Traditional Rogue-like"
             ],
             "info": [
+                "Has Community Objectives",
                 "Curated",
-                "Has Secondary Objectives",
-                "Has Community Objectives"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -119645,8 +119741,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Mini-Games",
-                "Vertical Shoot'em'Up"
+                "Vertical Shoot'em'Up",
+                "Mini-Games"
             ],
             "info": []
         },
@@ -119675,13 +119771,13 @@ var data =
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
+        "medianPlaytime": 340,
         "createdAt": "2026-11-12T22:27:17.000Z",
-        "updatedAt": "2026-11-12T22:32:00.000Z",
+        "updatedAt": "2026-11-13T19:23:13.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1,
+        "playersTotal": 2,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -120212,12 +120308,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -120358,7 +120454,7 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 2,
         "playersCompleted": 3,
-        "playersStarted": 54,
+        "playersStarted": 55,
         "playersTotal": 385,
         "priceData": {
             "USD": {
@@ -120512,10 +120608,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "First Person Shooter",
                 "Arena Shooter",
-                "Grappler"
+                "Grappler",
+                "First Person Movement",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -120805,9 +120901,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
                 "Souls-like",
-                "Boss Rush"
+                "Boss Rush",
+                "Hack & Slash"
             ],
             "info": []
         },
@@ -121037,7 +121133,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -121546,9 +121642,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Grappler",
                 "First Person Movement",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Grappler"
             ],
             "info": []
         },
@@ -121683,7 +121779,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 6,
         "playersStarted": 3,
-        "playersTotal": 53,
+        "playersTotal": 52,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -122081,8 +122177,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 22,
         "playersCompleted": 82,
-        "playersStarted": 274,
-        "playersTotal": 1622,
+        "playersStarted": 275,
+        "playersTotal": 1623,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -122126,8 +122222,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Deck-Builder"
+                "Deck-Builder",
+                "Rogue-like"
             ],
             "info": [
                 "Curated",
@@ -123538,8 +123634,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Reflex/Reaction",
-                "Multitasking"
+                "Multitasking",
+                "Reflex/Reaction"
             ],
             "info": [
                 "Mouse Focused"
@@ -123920,8 +124016,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "3D Platformer"
+                "3D Platformer",
+                "2D Platformer"
             ],
             "info": [
                 "Animal Protagonist"
@@ -124026,8 +124122,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "3D Platformer"
+                "3D Platformer",
+                "2D Platformer"
             ],
             "info": [
                 "Animal Protagonist"
@@ -124315,12 +124411,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "3D Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "3D Platformer"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Animal Protagonist",
+                "Overwhelmingly Positive",
                 "Has Secondary Objectives"
             ]
         },
@@ -124716,8 +124812,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Twin Stick"
+                "Twin Stick",
+                "Rhythm"
             ],
             "info": []
         },
@@ -124823,9 +124919,9 @@ var data =
                 "Avoid'em'Up"
             ],
             "info": [
-                "Has Community Objectives",
                 "Curated",
-                "Mouse Focused"
+                "Mouse Focused",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -125208,8 +125304,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Vertical Shoot'em'Up"
+                "Vertical Shoot'em'Up",
+                "Score Attack"
             ],
             "info": []
         },
@@ -125309,8 +125405,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Arena Shooter"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -125519,8 +125615,8 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Uncleared",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -125883,8 +125979,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Miscellaneous"
+                "Miscellaneous",
+                "Score Attack"
             ],
             "info": []
         },
@@ -126198,8 +126294,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -126457,9 +126553,9 @@ var data =
         "createdAt": "2020-01-28T09:27:01.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 119,
+        "playersCompleted": 118,
         "playersStarted": 0,
-        "playersTotal": 861,
+        "playersTotal": 860,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -126556,8 +126652,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 4,
         "playersCompleted": 41,
-        "playersStarted": 188,
-        "playersTotal": 643,
+        "playersStarted": 187,
+        "playersTotal": 642,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -126601,14 +126697,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "2D Platformer"
+                "2D Platformer",
+                "Rogue-like"
             ],
             "info": [
-                "Curated",
-                "Has Secondary Objectives",
                 "Has Community Objectives",
-                "Loop Featured"
+                "Loop Featured",
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -126667,7 +126763,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 0,
         "playersStarted": 5,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -126817,9 +126913,9 @@ var data =
                 "Rhythm"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Loop Featured",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -126920,8 +127016,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Grappler"
+                "Grappler",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -127344,7 +127440,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 32,
         "playersStarted": 0,
-        "playersTotal": 447,
+        "playersTotal": 446,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -127664,8 +127760,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -128591,13 +128687,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Twin Stick"
+                "Twin Stick",
+                "Rogue-like"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -128739,7 +128835,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 13120,
         "createdAt": "2023-06-12T20:20:15.000Z",
-        "updatedAt": "2026-11-12T18:52:30.000Z",
+        "updatedAt": "2026-11-13T09:14:05.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 182,
         "playersStarted": 0,
@@ -128799,8 +128895,8 @@ var data =
             "Pixel Graphics",
             "Multiplayer",
             "Life Sim",
-            "Relaxing",
             "RPG",
+            "Relaxing",
             "Simulation",
             "Agriculture",
             "Crafting",
@@ -129245,8 +129341,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -129334,9 +129430,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Metroidvania",
-                "Action-Adventure",
-                "2D Platformer"
+                "Action-Adventure"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -129927,10 +130023,10 @@ var data =
                 "Awkward Movement"
             ],
             "info": [
-                "Has Secondary Objectives",
                 "Loop Featured",
                 "Has Community Objectives",
-                "Curated"
+                "Curated",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -130212,12 +130308,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Action-Adventure"
             ],
             "info": [
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -130318,8 +130414,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Arena Shooter",
-                "Score Attack"
+                "Score Attack",
+                "Arena Shooter"
             ],
             "info": [
                 "Uncleared"
@@ -130608,8 +130704,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "2D Platformer"
+                "2D Platformer",
+                "Awkward Movement"
             ],
             "info": []
         },
@@ -132030,8 +132126,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Grappler"
+                "Grappler",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -132223,8 +132319,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Autorunner"
+                "Autorunner",
+                "2D Platformer"
             ],
             "info": [
                 "Overwhelmingly Positive",
@@ -132487,7 +132583,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 5,
+        "playersTotal": 6,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -132625,8 +132721,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Sports"
+                "Sports",
+                "Rhythm"
             ],
             "info": []
         },
@@ -132811,8 +132907,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Mini-Games",
-                "Multitasking"
+                "Multitasking",
+                "Mini-Games"
             ],
             "info": []
         },
@@ -133084,8 +133180,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": [
                 "Animal Protagonist"
@@ -133179,10 +133275,10 @@ var data =
                 "Reflex/Reaction"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Curated"
+                "Curated",
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -133465,8 +133561,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Rogue-like"
             ],
             "info": [
                 "Overwhelmingly Positive",
@@ -134106,9 +134202,9 @@ var data =
         "createdAt": "2020-01-28T06:33:36.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 95,
+        "playersCompleted": 94,
         "playersStarted": 331,
-        "playersTotal": 1942,
+        "playersTotal": 1941,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -134913,8 +135009,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -134997,8 +135093,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -135151,33 +135247,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 429,
-                "final": 429,
-                "discountPercent": 0
+                "final": 257,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 50000,
-                "final": 50000,
-                "discountPercent": 0
+                "final": 30000,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 450,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -135362,8 +135458,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Marble",
-                "3D Platformer"
+                "3D Platformer",
+                "Marble"
             ],
             "info": []
         },
@@ -135649,9 +135745,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
                 "First Person Movement",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "First Person Shooter"
             ],
             "info": []
         },
@@ -136510,9 +136606,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Autorunner",
                 "Reflex/Reaction",
-                "Sports"
+                "Sports",
+                "Autorunner"
             ],
             "info": []
         },
@@ -136544,7 +136640,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 37,
         "playersStarted": 0,
-        "playersTotal": 608,
+        "playersTotal": 607,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -136881,8 +136977,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -136932,33 +137028,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 25
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 731,
+                "discountPercent": 25
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 637,
+                "discountPercent": 25
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 90000,
+                "discountPercent": 25
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 1087,
+                "discountPercent": 25
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 974,
+                "discountPercent": 25
             }
         },
         "milestones": {
@@ -136972,9 +137068,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
                 "Autorunner",
-                "2D Platformer"
+                "2D Platformer",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -137027,33 +137123,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 524,
+                "discountPercent": 65
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 517,
+                "discountPercent": 65
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 447,
+                "discountPercent": 65
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 59500,
+                "discountPercent": 65
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 768,
+                "discountPercent": 65
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 682,
+                "discountPercent": 65
             }
         },
         "milestones": {
@@ -137165,8 +137261,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Avoid'em'Up"
+                "Avoid'em'Up",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives"
@@ -137950,9 +138046,9 @@ var data =
                 "Traditional Rogue-like"
             ],
             "info": [
-                "Has Community Objectives",
                 "Has Secondary Objectives",
                 "Uncleared",
+                "Has Community Objectives",
                 "Curated"
             ]
         },
@@ -138804,8 +138900,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up",
-                "Score Attack"
+                "Score Attack",
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
@@ -139010,8 +139106,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": []
         },
@@ -139492,9 +139588,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Traditional Rogue-like",
                 "Stealth",
-                "Score Attack"
+                "Score Attack",
+                "Traditional Rogue-like"
             ],
             "info": [
                 "Uncleared"
@@ -139773,10 +139869,10 @@ var data =
                 "Arcade Puzzler"
             ],
             "info": [
-                "Has Community Objectives",
-                "Loop Featured",
+                "Curated",
                 "Has Secondary Objectives",
-                "Curated"
+                "Has Community Objectives",
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -140367,8 +140463,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Miscellaneous",
-                "2D Platformer"
+                "2D Platformer",
+                "Miscellaneous"
             ],
             "info": [
                 "Has Community Objectives"
@@ -140553,8 +140649,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Rogue-like"
+                "Rogue-like",
+                "Twin Stick"
             ],
             "info": [
                 "Has Community Objectives"
@@ -140802,33 +140898,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 399,
-                "final": 79,
-                "discountPercent": 80
+                "final": 399,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 399,
-                "final": 79,
-                "discountPercent": 80
+                "final": 399,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 339,
-                "final": 67,
-                "discountPercent": 80
+                "final": 339,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 47000,
-                "final": 9400,
-                "discountPercent": 80
+                "final": 47000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 595,
-                "final": 119,
-                "discountPercent": 80
+                "final": 595,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -141133,8 +141229,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Twin Stick"
+                "Twin Stick",
+                "Action-Adventure"
             ],
             "info": []
         },
@@ -141548,9 +141644,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Loop Featured",
+                "Has Community Objectives",
                 "Curated",
-                "Has Community Objectives"
+                "Loop Featured"
             ]
         },
         "gameTags": [
@@ -141735,8 +141831,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Horror"
             ],
             "info": [
                 "Has Community Objectives"
@@ -141836,8 +141932,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Third Person Shooter"
+                "Third Person Shooter",
+                "Horror"
             ],
             "info": []
         },
@@ -142034,8 +142130,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Souls-like",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Souls-like"
             ],
             "info": []
         },
@@ -142482,33 +142578,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 499,
-                "discountPercent": 75
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1679,
-                "final": 419,
-                "discountPercent": 75
+                "final": 1679,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1549,
-                "final": 387,
-                "discountPercent": 75
+                "final": 1549,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 205000,
-                "final": 51200,
-                "discountPercent": 75
+                "final": 205000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2895,
-                "final": 723,
-                "discountPercent": 75
+                "final": 2895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2279,
-                "final": 569,
-                "discountPercent": 75
+                "final": 2279,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -142721,8 +142817,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "Rogue-like",
+                "Turn-Based"
             ],
             "info": []
         },
@@ -143121,9 +143217,9 @@ var data =
         "createdAt": "2020-01-28T09:11:37.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 146,
+        "playersCompleted": 145,
         "playersStarted": 0,
-        "playersTotal": 616,
+        "playersTotal": 615,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -143914,8 +144010,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Rogue-like"
+                "Rogue-like",
+                "Deck-Builder"
             ],
             "info": []
         },
@@ -144264,7 +144360,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 60,
         "playersStarted": 0,
-        "playersTotal": 500,
+        "playersTotal": 499,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -144308,9 +144404,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
                 "Multitasking",
-                "Avoid'em'Up"
+                "Avoid'em'Up",
+                "Boss Rush"
             ],
             "info": [
                 "Loop Featured"
@@ -144446,11 +144542,11 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 1856,
         "createdAt": "2022-04-30T05:58:04.000Z",
-        "updatedAt": "2026-11-11T21:10:42.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 295,
         "playersStarted": 0,
-        "playersTotal": 1022,
+        "playersTotal": 1021,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -144700,8 +144796,8 @@ var data =
                 "Puzzle"
             ],
             "info": [
-                "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Overwhelmingly Positive",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -144937,33 +145033,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 85,
-                "discountPercent": 80
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 11600,
-                "discountPercent": 80
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 129,
-                "discountPercent": 80
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -145035,7 +145131,7 @@ var data =
         "secondaryPoints": 10,
         "medianPlaytime": 13593,
         "createdAt": "2024-02-07T03:40:16.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T19:14:35.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 6,
         "playersStarted": 78,
@@ -145086,9 +145182,9 @@ var data =
                 "Puzzle"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Curated",
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -145853,8 +145949,8 @@ var data =
                 "Grappler"
             ],
             "info": [
-                "Uncleared",
-                "Animal Protagonist"
+                "Animal Protagonist",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -146219,8 +146315,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Action-Adventure"
             ],
             "info": [
                 "Has Community Objectives"
@@ -146353,13 +146449,13 @@ var data =
         "tier": 3,
         "points": 50,
         "secondaryPoints": 0,
-        "medianPlaytime": 1199,
+        "medianPlaytime": 1203,
         "createdAt": "2020-01-28T08:38:30.000Z",
-        "updatedAt": "2026-11-11T00:34:36.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 85,
+        "playersCompleted": 84,
         "playersStarted": 14,
-        "playersTotal": 1266,
+        "playersTotal": 1265,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -146910,33 +147006,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 149,
-                "discountPercent": 90
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1249,
-                "final": 124,
-                "discountPercent": 90
+                "final": 1249,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1139,
-                "final": 113,
-                "discountPercent": 90
+                "final": 1139,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 152000,
-                "final": 15200,
-                "discountPercent": 90
+                "final": 152000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 215,
-                "discountPercent": 90
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 174,
-                "discountPercent": 90
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -147148,12 +147244,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Arena Shooter"
+                "Arena Shooter",
+                "Twin Stick"
             ],
             "info": [
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Female Protagonist",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -147522,9 +147618,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Female Protagonist",
                 "Overwhelmingly Positive",
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -148392,7 +148488,7 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 7,
-        "playersStarted": 25,
+        "playersStarted": 26,
         "playersTotal": 136,
         "priceData": {
             "USD": {
@@ -148440,9 +148536,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Community Objectives",
-                "Overwhelmingly Positive",
-                "Female Protagonist"
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -150409,7 +150505,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 2385,
         "createdAt": "2022-05-18T16:54:58.000Z",
-        "updatedAt": "2026-11-12T09:37:47.000Z",
+        "updatedAt": "2026-11-13T18:52:49.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 15,
         "playersStarted": 3,
@@ -150447,7 +150543,7 @@ var data =
             "secondary": 0,
             "secondaryText": "",
             "community": 4,
-            "communityText": "Death Defying\nComplete \"Diablo\" and \"You Shall Not Pass\" with 0 faults.\n\nFull Throttle\nObtain at least 1 primary objective from each game in the Trials Franchise. See verification requirements for complete list.\n\nRedLynx\nObtain all primary objectives from all games in the Trials franchise. See verification requirements for complete list.\n\nTop Dog\nGet a time of 3.50 on \"Basics of Handling\".",
+            "communityText": "Death Defying\nComplete \"Diablo\" and \"You Shall Not Pass\" with 0 faults.\n\nTop Dog\nGet a time of 3.50 on \"Basics of Handling\".\n\nRedLynx\nObtain all primary objectives from all games in the Trials franchise. See verification requirements for complete list.\n\nFull Throttle\nObtain at least 1 primary objective from each game in the Trials Franchise. See verification requirements for complete list.",
             "achievements": 25
         },
         "CETags": {
@@ -150494,11 +150590,11 @@ var data =
         "secondaryPoints": 30,
         "medianPlaytime": 4553,
         "createdAt": "2022-02-05T23:51:02.000Z",
-        "updatedAt": "2026-11-13T07:25:37.000Z",
+        "updatedAt": "2026-11-13T18:08:41.000Z",
         "playersOvercompleted": 1,
         "playersCompleted": 29,
         "playersStarted": 28,
-        "playersTotal": 225,
+        "playersTotal": 226,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -150543,11 +150639,12 @@ var data =
         "CETags": {
             "genre": [
                 "Racing",
+                "2D Platformer",
                 "Sports"
             ],
             "info": [
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -150645,13 +150742,13 @@ var data =
         "CETags": {
             "genre": [
                 "2D Platformer",
-                "Sports",
-                "Racing"
+                "Racing",
+                "Sports"
             ],
             "info": [
-                "Has Community Objectives",
                 "Loop Featured",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -150943,9 +151040,9 @@ var data =
                 "Racing"
             ],
             "info": [
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Curated"
+                "Curated",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -150995,7 +151092,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 60,
         "playersStarted": 0,
-        "playersTotal": 480,
+        "playersTotal": 479,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -151215,7 +151312,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 48,
         "playersStarted": 0,
-        "playersTotal": 367,
+        "playersTotal": 366,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -152498,8 +152595,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
                 "Avoidance",
+                "Action-Platformer",
                 "Run & Gun"
             ],
             "info": []
@@ -152548,7 +152645,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 9,
         "playersStarted": 4,
-        "playersTotal": 245,
+        "playersTotal": 244,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -152592,56 +152689,56 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Third Person Shooter",
-                "Vertical Shoot'em'Up",
-                "Action-Adventure",
                 "First Person Movement",
                 "Traditional Rogue-like",
-                "Racing",
-                "2D Platformer",
+                "Rogue-like",
                 "Puzzle",
                 "Hack & Slash",
-                "Traditional Fighter",
-                "First Person Shooter",
+                "Arena Shooter",
                 "Tower Defense",
-                "Sports",
-                "Reflex/Reaction",
+                "Third Person Shooter",
                 "Resource Management",
-                "Avoidance",
-                "Mini-Games",
-                "Horror",
-                "Foddian",
-                "Boss Rush",
-                "VSRG",
-                "Real-Time Strategy",
-                "Trapformer",
-                "Run & Gun",
-                "Autorunner",
-                "Puzzle Platformer",
-                "Marble",
-                "Awkward Movement",
-                "Metroidvania",
-                "Turn-Based",
-                "Juggler",
-                "Beat'em'Up",
-                "Aim Trainer",
-                "Twin Stick",
-                "Miscellaneous",
-                "Avoid'em'Up",
                 "Boomer Shooter",
                 "Stealth",
-                "Autojumper",
                 "Deck-Builder",
-                "Multitasking",
-                "Arcade Puzzler",
                 "Score Attack",
                 "Horizontal Shoot'em'Up",
-                "Action-Platformer",
-                "Rogue-like",
-                "Souls-like",
                 "3D Platformer",
+                "Foddian",
                 "Grappler",
-                "Arena Shooter"
+                "Real-Time Strategy",
+                "Reflex/Reaction",
+                "Run & Gun",
+                "Autorunner",
+                "Mini-Games",
+                "Awkward Movement",
+                "Turn-Based",
+                "Horror",
+                "Aim Trainer",
+                "Action-Adventure",
+                "Racing",
+                "Traditional Fighter",
+                "2D Platformer",
+                "First Person Shooter",
+                "Sports",
+                "Avoid'em'Up",
+                "Avoidance",
+                "Autojumper",
+                "Multitasking",
+                "Arcade Puzzler",
+                "Beat'em'Up",
+                "Action-Platformer",
+                "Twin Stick",
+                "Miscellaneous",
+                "Souls-like",
+                "Boss Rush",
+                "VSRG",
+                "Trapformer",
+                "Puzzle Platformer",
+                "Marble",
+                "Metroidvania",
+                "Vertical Shoot'em'Up",
+                "Juggler"
             ],
             "info": [
                 "Overwhelmingly Positive"
@@ -152742,8 +152839,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Puzzle Platformer"
             ],
             "info": []
         },
@@ -153102,7 +153199,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 213,
+        "playersTotal": 212,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -153280,7 +153377,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 18,
         "playersStarted": 1,
-        "playersTotal": 201,
+        "playersTotal": 200,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -153324,9 +153421,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Awkward Movement",
-                "Grappler",
-                "2D Platformer"
+                "Grappler"
             ],
             "info": [
                 "Female Protagonist"
@@ -153878,7 +153975,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 220,
+        "playersTotal": 219,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -154323,8 +154420,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Souls-like",
-                "Metroidvania"
+                "Metroidvania",
+                "Souls-like"
             ],
             "info": []
         },
@@ -155481,8 +155578,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Rogue-like"
+                "Rogue-like",
+                "Deck-Builder"
             ],
             "info": [
                 "Has Community Objectives"
@@ -156017,7 +156114,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 54,
         "playersStarted": 28,
-        "playersTotal": 485,
+        "playersTotal": 484,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -156076,8 +156173,8 @@ var data =
             "Fast-Paced",
             "3D Platformer",
             "Level Editor",
-            "Great Soundtrack",
             "Surreal",
+            "Great Soundtrack",
             "First-Person",
             "Platformer",
             "Parkour",
@@ -156381,9 +156478,9 @@ var data =
                 "Miscellaneous"
             ],
             "info": [
+                "Overwhelmingly Positive",
                 "Has Community Objectives",
-                "Has Secondary Objectives",
-                "Overwhelmingly Positive"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -156758,9 +156855,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Twin Stick",
                 "Boss Rush",
-                "Avoid'em'Up",
-                "Twin Stick"
+                "Avoid'em'Up"
             ],
             "info": [
                 "Has Community Objectives",
@@ -157278,7 +157375,7 @@ var data =
         "playersOvercompleted": 6,
         "playersCompleted": 74,
         "playersStarted": 116,
-        "playersTotal": 1465,
+        "playersTotal": 1464,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -157325,10 +157422,10 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Loop Featured",
                 "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Loop Featured",
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -157885,7 +157982,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 120,
+        "playersTotal": 121,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -157994,7 +158091,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 1172,
+        "playersTotal": 1173,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -159149,9 +159246,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Score Attack",
                 "Twin Stick",
-                "Rogue-like",
-                "Score Attack"
+                "Rogue-like"
             ],
             "info": []
         },
@@ -160054,8 +160151,8 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Female Protagonist",
-                "Has Secondary Objectives"
+                "Has Secondary Objectives",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -161413,10 +161510,10 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Grappler",
                 "Awkward Movement",
                 "3D Platformer",
-                "Foddian",
-                "Grappler"
+                "Foddian"
             ],
             "info": [
                 "Animal Protagonist"
@@ -162926,8 +163023,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Avoid'em'Up",
-                "Rhythm"
+                "Rhythm",
+                "Avoid'em'Up"
             ],
             "info": [
                 "Has Community Objectives",
@@ -163020,9 +163117,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Animal Protagonist",
                 "Has Community Objectives",
-                "Curated",
-                "Animal Protagonist"
+                "Curated"
             ]
         },
         "gameTags": [
@@ -164274,9 +164371,9 @@ var data =
             "Rhythm",
             "Psychological Horror",
             "Anime",
-            "Cute",
             "Music",
             "Visual Novel",
+            "Cute",
             "Multiple Endings",
             "Adventure",
             "Female Protagonist",
@@ -165084,12 +165181,12 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Curated",
                 "Has Community Objectives",
                 "Requires Co-op",
                 "Uncleared",
                 "Has Secondary Objectives",
-                "Overwhelmingly Positive",
-                "Curated"
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -167241,11 +167338,11 @@ var data =
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 387,
+        "medianPlaytime": 338,
         "createdAt": "2026-06-02T08:53:09.000Z",
-        "updatedAt": "2026-11-11T17:04:36.000Z",
+        "updatedAt": "2026-11-14T01:38:43.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
         "milestones": {
@@ -167323,12 +167420,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Miscellaneous",
                 "Autorunner",
+                "Horror",
                 "Mini-Games",
+                "Miscellaneous",
                 "Score Attack",
-                "Arcade Puzzler",
-                "Horror"
+                "Arcade Puzzler"
             ],
             "info": [
                 "Free"
@@ -167516,8 +167613,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "First Person Shooter"
+                "First Person Shooter",
+                "Score Attack"
             ],
             "info": [
                 "Has Community Objectives",
@@ -167656,14 +167753,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
                 "Real-Time Strategy",
+                "Rogue-like",
                 "Turn-Based"
             ],
             "info": [
+                "Curated",
                 "Free",
-                "Has Community Objectives",
-                "Curated"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -167784,13 +167881,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Horror",
-                "Stealth"
+                "Stealth",
+                "Horror"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Has Community Objectives",
-                "Free",
-                "Has Secondary Objectives"
+                "Free"
             ]
         },
         "gameTags": [
@@ -168393,9 +168490,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Delisted",
                 "Loop Featured",
-                "Has Secondary Objectives",
-                "Delisted"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
@@ -168754,8 +168851,8 @@ var data =
                 "Score Attack"
             ],
             "info": [
-                "Free",
-                "Animal Protagonist"
+                "Animal Protagonist",
+                "Free"
             ]
         },
         "gameTags": [
@@ -168799,8 +168896,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "2D Platformer"
+                "2D Platformer",
+                "Grappler"
             ],
             "info": [
                 "Free"
@@ -169458,8 +169555,8 @@ var data =
                 "Racing"
             ],
             "info": [
-                "Overwhelmingly Positive",
                 "Animal Protagonist",
+                "Overwhelmingly Positive",
                 "Free"
             ]
         },
@@ -169954,7 +170051,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 189,
         "createdAt": "2022-03-02T03:53:16.000Z",
-        "updatedAt": "2026-11-12T15:32:44.000Z",
+        "updatedAt": "2026-11-14T01:40:20.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 134,
         "playersStarted": 0,
@@ -170600,14 +170697,14 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Avoidance",
-                "2D Platformer"
+                "2D Platformer",
+                "Avoidance"
             ],
             "info": [
                 "Overwhelmingly Positive",
-                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Free"
+                "Free",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -170856,10 +170953,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
                 "Real-Time Strategy",
+                "Resource Management",
                 "Turn-Based",
-                "Resource Management"
+                "Rogue-like"
             ],
             "info": [
                 "Delisted"
@@ -171160,8 +171257,8 @@ var data =
             "info": [
                 "Has Community Objectives",
                 "Free",
-                "Curated",
-                "Loop Featured"
+                "Loop Featured",
+                "Curated"
             ]
         },
         "gameTags": [
@@ -171523,8 +171620,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Rogue-like"
             ],
             "info": [
                 "Has Community Objectives",
@@ -171627,11 +171724,11 @@ var data =
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 207,
+        "medianPlaytime": 201,
         "createdAt": "2024-07-12T16:38:56.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T11:36:31.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 44,
+        "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 277,
         "milestones": {
@@ -171845,8 +171942,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Uncleared",
-                "Free"
+                "Free",
+                "Uncleared"
             ]
         },
         "gameTags": [
@@ -172039,13 +172136,13 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "2D Platformer"
+                "2D Platformer",
+                "Action-Platformer"
             ],
             "info": [
-                "Has Community Objectives",
                 "Female Protagonist",
-                "Free"
+                "Free",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -173096,8 +173193,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Rhythm"
+                "Rhythm",
+                "Score Attack"
             ],
             "info": [
                 "Has Community Objectives",
@@ -174251,7 +174348,7 @@ var data =
         "secondaryPoints": 10,
         "medianPlaytime": 696,
         "createdAt": "2026-05-25T06:24:24.000Z",
-        "updatedAt": "2026-11-11T11:45:14.000Z",
+        "updatedAt": "2026-11-14T07:17:12.000Z",
         "playersOvercompleted": 4,
         "playersCompleted": 30,
         "playersStarted": 23,
@@ -174270,10 +174367,10 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Overwhelmingly Positive",
                 "Has Secondary Objectives",
                 "Female Protagonist",
-                "Has Community Objectives",
-                "Overwhelmingly Positive"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -174281,8 +174378,8 @@ var data =
             "Shoot 'Em Up",
             "Female Protagonist",
             "Difficult",
-            "Faith",
             "Great Soundtrack",
+            "Faith",
             "Action",
             "Singleplayer",
             "2D",
@@ -174347,8 +174444,8 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Has Community Objectives",
-                "Free"
+                "Free",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -174389,7 +174486,7 @@ var data =
         "playersOvercompleted": 0,
         "playersCompleted": 0,
         "playersStarted": 30,
-        "playersTotal": 622,
+        "playersTotal": 623,
         "milestones": {
             "primary": 9,
             "primaryText": "Trackmania: Race with your Friends (UNCLEARED) [0\u2605]\nObtain the author medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nDRVR (UNCLEARED) [0\u2605]\nObtain the gold medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nFour Wheel Guy [40\u2605]\nObtain the author medal on tracks 1-17, and finish tracks 18-25 in the official \"Platform Discovery\" campaign. (Ubisoft Nadeo)\n\nUrbs Digitalis (UNCLEARED) [0\u2605]\nObtain all 23 author medals on the official \"NEOCUPRA\" and \"Streamers Campaign\" tracks. (Cupra, Ubisoft Nadeo)\n\nSolstice [130\u2605]\nObtain all 200 author medals in the official seasonal campaigns for 2023 & 2024.\n\nEquinox [90\u2605]\nObtain all 250 author medals in the official seasonal campaigns for 2020, 2021, and 2022.\n\n N. ormal Trilogy [70\u2605]\nObtain all 65 author medals from the official Snow, Rally, and Desert Discovery campaigns. (Ubisoft Nadeo)\n\nUbisoft Cinematic Universe [15\u2605]\nObtain all 15 author medals on the official Hungry Shark, AC: Mirage, Laserhawk campaigns. (Ubisoft Club)\n\nTraining V2 [5\u2605]\nObtain the author medal for the first 20 \"Weekly Shorts\".",
@@ -174712,8 +174809,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Female Protagonist",
-                "Free"
+                "Free",
+                "Female Protagonist"
             ]
         },
         "gameTags": [
@@ -174980,8 +175077,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Metroidvania",
-                "Action-Adventure"
+                "Action-Adventure",
+                "Metroidvania"
             ],
             "info": [
                 "Free"
@@ -175028,8 +175125,8 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 0,
-        "playersStarted": 2,
-        "playersTotal": 16,
+        "playersStarted": 3,
+        "playersTotal": 17,
         "milestones": {
             "primary": 2,
             "primaryText": "Crimson Sweet [5\u2605]\nScore 5000 points in a single game.\n\nCarolina Cross (UNCLEARED) [0\u2605]\nScore 10000 points in a single game.",
@@ -175172,8 +175269,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Awkward Movement"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": [
                 "Mouse Focused",
@@ -175307,9 +175404,9 @@ var data =
                 "Beat'em'Up"
             ],
             "info": [
+                "Delisted",
                 "Has Community Objectives",
-                "Overwhelmingly Positive",
-                "Delisted"
+                "Overwhelmingly Positive"
             ]
         },
         "gameTags": [
@@ -175407,12 +175504,12 @@ var data =
         "tier": 1,
         "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 748,
+        "medianPlaytime": 690,
         "createdAt": "2020-01-28T09:02:43.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-14T02:20:08.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 29,
-        "playersStarted": 178,
+        "playersCompleted": 30,
+        "playersStarted": 177,
         "playersTotal": 711,
         "milestones": {
             "primary": 2,
@@ -175491,9 +175588,9 @@ var data =
                 "Horror"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Free",
-                "Has Community Objectives",
-                "Has Secondary Objectives"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
@@ -175555,8 +175652,8 @@ var data =
                 "Twin Stick"
             ],
             "info": [
-                "Uncleared",
-                "Delisted"
+                "Delisted",
+                "Uncleared"
             ]
         },
         "gameTags": [],
@@ -175593,9 +175690,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Deck-Builder",
                 "Rogue-like",
-                "Turn-Based",
-                "Deck-Builder"
+                "Turn-Based"
             ],
             "info": [
                 "Uncleared",
@@ -176501,9 +176598,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Trapformer",
                 "Action-Platformer",
-                "2D Platformer",
-                "Trapformer"
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -179100,8 +179197,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "VSRG"
+                "VSRG",
+                "Rhythm"
             ],
             "info": [
                 "Has Community Objectives"
@@ -179146,8 +179243,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "VSRG",
-                "Rhythm"
+                "Rhythm",
+                "VSRG"
             ],
             "info": [
                 "Uncleared"
@@ -179192,8 +179289,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "VSRG",
-                "Rhythm"
+                "Rhythm",
+                "VSRG"
             ],
             "info": [
                 "Uncleared"
@@ -179326,8 +179423,8 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Animal Protagonist",
-                "Uncleared"
+                "Uncleared",
+                "Animal Protagonist"
             ]
         },
         "information": "Game is valued with farming lives in mind."
@@ -179466,52 +179563,6 @@ var data =
     },
     {
         "gameType": 3,
-        "platformId": 19198,
-        "CEId": "cbde1b44-0640-4279-90ff-0d82d136c823",
-        "name": "Incredible Hulk, The: Ultimate Destruction",
-        "header": "https://upload.cedb.me/cbde1b44-0640-4279-90ff-0d82d136c823.png",
-        "genre": [
-            "Action"
-        ],
-        "tier": 1,
-        "points": 10,
-        "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-05-08T20:49:34.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
-        "playersOvercompleted": 0,
-        "playersCompleted": 0,
-        "playersStarted": 1,
-        "playersTotal": 2,
-        "gameTags": [
-            "Sandbox"
-        ],
-        "consoleData": {
-            "name": "PlayStation 2",
-            "family": "Sony",
-            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
-        },
-        "milestones": {
-            "primary": 2,
-            "primaryText": "Smashing! (UNCLEARED) [0\u2605]\nEarn a Gold Medal in all Challenge Missions\n\nAlways Angry [10\u2605]\nComplete the game on Hard mode",
-            "secondary": 0,
-            "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 72
-        },
-        "CETags": {
-            "genre": [
-                "Action-Adventure"
-            ],
-            "info": [
-                "Uncleared"
-            ]
-        },
-        "information": "When playing in Hard mode, DO NOT TRY OUT A NEWLY UNLOCKED MOVE. It will change the game difficulty to Normal and there is no way to change it back to hard. Do not save over your file and reload save if you accidently try out a move\n\nThe CE page will most likely be switched to the GCN set on RetroAchievements instead of the PS2 set as the prior covers more content. If you intent to start the game, it is recommended to the play the Gamecube port"
-    },
-    {
-        "gameType": 3,
         "platformId": 22294,
         "CEId": "55797a38-66aa-4244-83f1-13f85ade9b73",
         "name": "Irritating Ship",
@@ -179636,8 +179687,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Vertical Shoot'em'Up"
+                "Vertical Shoot'em'Up",
+                "Boss Rush"
             ],
             "info": []
         }
@@ -179815,9 +179866,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Trapformer",
-                "Action-Platformer",
-                "2D Platformer"
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -179863,8 +179914,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Boss Rush"
             ],
             "info": []
         }
@@ -179911,9 +179962,9 @@ var data =
                 "Puzzle Platformer"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Mouse Focused",
-                "Uncleared",
-                "Has Secondary Objectives"
+                "Uncleared"
             ]
         },
         "information": "For the first clearer of the \"The Kirby Benchmark\" PO, the proof requirement will be informed by the assessed value of the objective.\n\nPlease consider recording/taking the following proof: (A) video of Chapter 4, (B) screenshot of Chapter 4's result screen with RA hardcore overlay enabled, or (C) link to RA chapter 4 leaderboard showing 30000 points.\n"
@@ -180126,9 +180177,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "2D Platformer",
                 "Mini-Games",
                 "Autorunner",
-                "2D Platformer",
                 "Marble"
             ],
             "info": [
@@ -180403,8 +180454,8 @@ var data =
                 "Miscellaneous"
             ],
             "info": [
-                "Animal Protagonist",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Animal Protagonist"
             ]
         }
     },
@@ -180447,8 +180498,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Autorunner",
-                "3D Platformer"
+                "3D Platformer",
+                "Autorunner"
             ],
             "info": [
                 "Has Community Objectives",
@@ -180991,8 +181042,8 @@ var data =
                 "Run & Gun"
             ],
             "info": [
-                "Uncleared",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Uncleared"
             ]
         },
         "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
@@ -181036,8 +181087,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Run & Gun",
-                "Action-Platformer"
+                "Action-Platformer",
+                "Run & Gun"
             ],
             "info": [
                 "Has Community Objectives"
@@ -181129,8 +181180,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Run & Gun"
+                "Run & Gun",
+                "Action-Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -181573,8 +181624,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Grappler"
+                "Grappler",
+                "Action-Platformer"
             ],
             "info": []
         }
@@ -183006,8 +183057,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Run & Gun"
+                "Run & Gun",
+                "Action-Platformer"
             ],
             "info": []
         }
@@ -183050,9 +183101,9 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Boss Rush",
                 "Run & Gun",
-                "Action-Platformer",
-                "Boss Rush"
+                "Action-Platformer"
             ],
             "info": []
         }
@@ -183098,8 +183149,8 @@ var data =
                 "Action-Platformer"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Has Secondary Objectives"
             ]
         }
     },
@@ -183359,8 +183410,8 @@ var data =
                 "Action-Adventure"
             ],
             "info": [
-                "Uncleared",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Uncleared"
             ]
         }
     },
@@ -184197,8 +184248,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Autorunner"
+                "Autorunner",
+                "Score Attack"
             ],
             "info": []
         }
@@ -184452,12 +184503,58 @@ var data =
                 "Arcade Puzzler"
             ],
             "info": [
+                "Uncleared",
                 "Has Secondary Objectives",
-                "Has Community Objectives",
-                "Uncleared"
+                "Has Community Objectives"
             ]
         },
         "information": "Everything should be done in the PLUS version of the game, indicated by the PLUS text in the bottom right corner of the screen. \n\nPOs have been grouped by mode, with the mode ordering based on the peak challenge in each. The order is not meant to suggest that \"Death Defier\" (GM in Death mode) is expected to be easier than Stacking Student (Level 500 in Master mode).\n\nTo enable Item mode: While selecting Master, hold B and C, then press Start while \"READY\" is still on-screen. If the code was correctly entered, the \"NEXT\" text will pulsate when the game starts.\nTo enable the Big Block cheat, input {\u2190 Left 4\u00d7, \u2193 Down, C, B, A}."
+    },
+    {
+        "gameType": 3,
+        "platformId": 3794,
+        "CEId": "a8a7f3ce-0cd6-43d1-bfbf-bcb3dbb724d4",
+        "name": "The Incredible Hulk: Ultimate Destruction",
+        "header": "https://upload.cedb.me/hulk.png",
+        "genre": [
+            "Action"
+        ],
+        "tier": 1,
+        "points": 15,
+        "secondaryPoints": 0,
+        "medianPlaytime": 0,
+        "createdAt": "2026-11-13T16:53:54.000Z",
+        "updatedAt": "2026-11-13T17:04:40.000Z",
+        "playersOvercompleted": 0,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 1,
+        "gameTags": [
+            "Action-Adventure",
+            "Sandbox"
+        ],
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "Always Angry [10\u2605]\nComplete the game on Hard mode\n\nSmashing! [5\u2605]\nEarn a Gold Medal in all Challenge Missions",
+            "secondary": 0,
+            "secondaryText": "",
+            "community": 0,
+            "communityText": "",
+            "achievements": 70
+        },
+        "CETags": {
+            "genre": [
+                "Action-Adventure",
+                "Beat'em'Up"
+            ],
+            "info": []
+        },
+        "information": "During your hard difficulty playthrough, do not select \"Try Out A New Move\", as it will set the difficulty to normal and there is no way to change it back to hard. Reload the game without saving if you accidently try a move out"
     },
     {
         "gameType": 3,
@@ -185507,7 +185604,7 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 2732,
         "createdAt": "2020-08-28T17:22:24.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T10:50:03.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 18,
         "playersStarted": 7,
@@ -185523,11 +185620,12 @@ var data =
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "Arena Shooter"
+                "Arena Shooter",
+                "First Person Shooter"
             ],
             "info": [
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Requires Co-op"
             ]
         },
         "gameTags": [
@@ -185575,9 +185673,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Has Community Objectives",
                 "Has Secondary Objectives",
-                "Free",
-                "Has Community Objectives"
+                "Free"
             ]
         },
         "information": "Available on https://errant-pixel-software.itch.io/aero-chimera.\n\nWarning: replays desync if using focused bombs. It's recommended to record videos of live runs."
@@ -185616,10 +185714,10 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Uncleared",
                 "Free",
                 "Animal Protagonist",
-                "Has Community Objectives",
-                "Uncleared"
+                "Has Community Objectives"
             ]
         },
         "information": "Available on https://www.maddymakesgames.com/."
@@ -185760,13 +185858,13 @@ var data =
         },
         "CETags": {
             "genre": [
+                "Turn-Based",
+                "Puzzle",
                 "Arcade Puzzler",
                 "Sports",
                 "Score Attack",
                 "Racing",
-                "Mini-Games",
-                "Turn-Based",
-                "Puzzle"
+                "Mini-Games"
             ],
             "info": []
         },
@@ -185801,9 +185899,9 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
                 "Awkward Movement",
-                "Puzzle Platformer"
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": [
                 "Has Community Objectives"
@@ -185881,8 +185979,8 @@ var data =
                 "Autorunner"
             ],
             "info": [
-                "Free",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Free"
             ]
         },
         "information": "Available on the following platforms:\n\u2022 Apple App Store: https://apps.apple.com/sa/app/dash-till-puff/id925702629\n\u2022 Google Play Store: https://play.google.com/store/apps/details?id=com.riftergames.ovi.android"
@@ -185934,14 +186032,14 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 0,
         "createdAt": "2026-11-06T20:28:22.000Z",
-        "updatedAt": "2026-11-12T18:29:47.000Z",
+        "updatedAt": "2026-11-13T17:51:17.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
         "milestones": {
             "primary": 4,
-            "primaryText": "Monkey's Uncle [20\u2605]\nObtain a gold medal on all levels in Turbo Attack Mode.\n\nCountry of the Apes [30\u2605]\nObtain a shiny gold medal on all levels in Time Attack Mode.\n\nStrong Like Kong [10\u2605]\nBeat every level in Mirror Mode with all KONG letters collected.\n\nBarrels of Fun [10\u2605]\nBeat every level with all KONG letters collected.",
+            "primaryText": "Dopamine Kong [20\u2605]\nObtain a gold medal on all levels in Turbo Attack Mode.\n\nCountry of the Apes [30\u2605]\nObtain a shiny gold medal on all levels in Time Attack Mode.\n\nStrong Like Kong [10\u2605]\nBeat every level in Mirror Mode with all KONG letters collected.\n\nBarrels of Fun [10\u2605]\nBeat every level with all KONG letters collected.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
@@ -185990,8 +186088,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Animal Protagonist",
-                "Uncleared"
+                "Uncleared",
+                "Animal Protagonist"
             ]
         },
         "information": "## All primary objectives require you to play on Original Mode."
@@ -186101,8 +186199,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "VSRG"
+                "VSRG",
+                "Rhythm"
             ],
             "info": [
                 "Has Secondary Objectives",
@@ -186328,9 +186426,9 @@ var data =
                 "2D Platformer"
             ],
             "info": [
+                "Has Secondary Objectives",
                 "Has Community Objectives",
-                "Free",
-                "Has Secondary Objectives"
+                "Free"
             ]
         },
         "information": "Available on https://delicious-fruit.com/ratings/game_details.php?id=22994."
@@ -186439,8 +186537,8 @@ var data =
                 "2D Platformer"
             ],
             "info": [
-                "Uncleared",
-                "Free"
+                "Free",
+                "Uncleared"
             ]
         },
         "information": "The game can be downloaded for free from\nwww.maddymakesgames.com"
@@ -186474,8 +186572,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Action-Platformer"
+                "Action-Platformer",
+                "2D Platformer"
             ],
             "info": [
                 "Free"
@@ -186513,10 +186611,10 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Rhythm",
                 "Traditional Fighter",
-                "2D Platformer"
+                "2D Platformer",
+                "Boss Rush",
+                "Rhythm"
             ],
             "info": []
         },
@@ -186664,8 +186762,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Mini-Games",
-                "Boss Rush"
+                "Boss Rush",
+                "Mini-Games"
             ],
             "info": []
         }
@@ -186683,11 +186781,11 @@ var data =
         "secondaryPoints": 0,
         "medianPlaytime": 0,
         "createdAt": "2026-04-01T02:36:05.000Z",
-        "updatedAt": "2026-11-09T13:35:50.000Z",
+        "updatedAt": "2026-11-13T18:27:36.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 3,
         "playersStarted": 16,
-        "playersTotal": 41,
+        "playersTotal": 43,
         "milestones": {
             "primary": 9,
             "primaryText": "Come He11 on High Water [65\u2605]\nObtain an M rank in each campaign of Episode 3 Boss Pursuit in Minesweeper Adventure.\n\nCustodian of the Sea [40\u2605]\nObtain an M rank in each campaign of Episode 3 Normal in Minesweeper Adventure.\n\nTurned Up to 11 [10\u2605]\nComplete the Expert campaign of Episode 3 Boss Pursuit in Minesweeper Adventure.\n\nThe Devil's Locker [20\u2605]\nComplete the Expert campaign of Episode 3 Normal in Minesweeper Adventure.\n\nBa10 Down the Hatches! [25\u2605]\nObtain an M rank in each campaign of Episode 2 Boss Pursuit in Minesweeper Adventure.\n\n9sweeper [35\u2605]\nObtain an M rank in each campaign of Episode 1 Boss Pursuit in Minesweeper Adventure.\n\nMines, Ahoy! [15\u2605]\nObtain an M rank in each campaign of Episode 2 Normal in Minesweeper Adventure.\n\nCrunching Numbers [20\u2605]\nObtain an M rank in each campaign of Episode 1 Normal in Minesweeper Adventure.\n\nSoukaitei! [10\u2605]\nComplete the Expert campaign of Episodes 1 and 2 Normal in Minesweeper Adventure.",
@@ -186773,8 +186871,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Autorunner",
-                "2D Platformer"
+                "2D Platformer",
+                "Autorunner"
             ],
             "info": [
                 "Free"
@@ -186941,9 +187039,9 @@ var data =
         "createdAt": "2026-10-23T00:01:34.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 7,
+        "playersTotal": 8,
         "milestones": {
             "primary": 1,
             "primaryText": "Upwell [5\u2605]\nObtain all medals.",
@@ -187309,7 +187407,7 @@ var data =
         "playersOvercompleted": 5,
         "playersCompleted": 33,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "milestones": {
             "primary": 1,
             "primaryText": "Sakurai's Prodigy [10\u2605]\nClear Classic Mode on Intensity 9.9 with any character.",
@@ -187362,8 +187460,8 @@ var data =
                 "Score Attack"
             ],
             "info": [
-                "Has Secondary Objectives",
-                "Has Community Objectives"
+                "Has Community Objectives",
+                "Has Secondary Objectives"
             ]
         },
         "information": "Tetris: The Grand Master originally released only on Japanese arcades, therefore the only way to play it was to emulate it using MAME. However, in 2022, the game officially rereleased worldwide on PS4 and Nintendo Switch as part of the Arcade Archives series.\n\n[Click here for a comprehensive TGM guide.](https://tgm.tips/)\n_____________________\nTo obtain the GM grade, you need to fulfil the following conditions throughout the run:\n\u2022 At level 300, score above 12,000  (Grade 1)   & time below  4:15.\n\u2022 At level 500, score above 40,000  (Grade S4)  & time below  7:30.\n\u2022 At level 999, score above 126,000 (Grade S9+) & time below 13:30. \n\nTo enable 20G Mode, input {Down 8\u00d7, C, B, A}.\nTo enable the Big Block cheat, input {Left x4, Down x1, C, B, A}."
@@ -187421,7 +187519,7 @@ var data =
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 2,
         "playersCompleted": 4,
-        "playersStarted": 18,
+        "playersStarted": 19,
         "playersTotal": 32,
         "milestones": {
             "primary": 5,
@@ -187437,9 +187535,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Secondary Objectives",
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Has Community Objectives"
             ]
         }
     },
@@ -187475,9 +187573,9 @@ var data =
                 "Vertical Shoot'em'Up"
             ],
             "info": [
+                "Female Protagonist",
                 "Has Secondary Objectives",
-                "Has Community Objectives",
-                "Female Protagonist"
+                "Has Community Objectives"
             ]
         },
         "information": "Available on [https://shop.akbh.jp/en/collections/touhou-project/products/2100000000036](https://shop.akbh.jp/en/collections/touhou-project/products/2100000000036)."
@@ -187519,6 +187617,47 @@ var data =
             ]
         },
         "information": "Available on https://apps.apple.com/us/app/trapadventure-hardest-retro-game/id625996479."
+    },
+    {
+        "gameType": 5,
+        "CEId": "20131ea1-ec6f-42aa-90c7-a29a7c2224ff",
+        "name": "Trials Frontier\u2122",
+        "header": "https://upload.cedb.me/trialsFrontier_header.png",
+        "genre": [
+            "Platformer",
+            "Arcade"
+        ],
+        "tier": 4,
+        "points": 95,
+        "secondaryPoints": 0,
+        "medianPlaytime": 0,
+        "createdAt": "2026-11-02T07:31:42.000Z",
+        "updatedAt": "2026-11-13T23:46:30.000Z",
+        "playersOvercompleted": 0,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 3,
+            "primaryText": "King of the Wild Frontier [35\u2605]\nObtain the platinum medal on all Tier III tracks with any Basic bike.\n\nOff the Beaten Track [25\u2605]\nObtain the platinum medal on all Tier II tracks with any Basic bike.\n\nWasteland Rider [35\u2605]\nObtain the platinum medal on all Tier I tracks with any Basic bike.",
+            "secondary": 8,
+            "secondaryText": "Wildest Rider in the West [0\u2605]\nObtain the platinum medal on all Tier III tracks with any Crazy bike.\n\nMad to the Max [0\u2605]\nObtain the platinum medal on all Tier II tracks with any Crazy bike.\n\nOff Your Nut and Bolt [0\u2605]\nObtain the platinum medal on all Tier I tracks with any Crazy bike.\n\nHorsing Around [0\u2605]\nBeat all tracks with any Crazy bike.\n\nBadlands Badass [0\u2605]\nObtain the platinum medal on all Tier III tracks with the Donkey bike.\n\nDoing the Donkey Work [0\u2605]\nObtain the platinum medal on all Tier II tracks with the Donkey bike.\n\nGet Your Ass in Gear [0\u2605]\nObtain the platinum medal on all Tier I tracks with the Donkey bike.\n\nA Touch of Butch [0\u2605]\nBeat all tracks with the Donkey bike.",
+            "community": 3,
+            "communityText": "Jack of Diamonds\nObtain the diamond medal on all Tier III tracks with any Basic bike.\n\nPolished Act\nObtain the diamond medal on all Tier II tracks with any Basic bike.\n\nGem in the Rough\nObtain the diamond medal on all Tier I tracks with any Basic bike.",
+            "achievements": 0
+        },
+        "CETags": {
+            "genre": [
+                "Racing",
+                "2D Platformer",
+                "Sports"
+            ],
+            "info": [
+                "Has Community Objectives",
+                "Has Secondary Objectives"
+            ]
+        },
+        "information": "Available for download on Android and iOS devices at https://trialsproject.com/. Be sure to read the installation instructions beforehand.\n\n### NOTE: A new best medal will only be shown on the level select if you MATCH or SURPASS your previous best time and faults. For example, if you got a gold medal time with zero faults, continued to the results screen, then retried the level and got a platinum medal with one fault, the level select will still show the gold medal.\n\nThe website and available downloads are a **community-driven revival project**, and includes features that did not come with the original game. All primary and secondary objectives focus on content that came with the official version before its servers were shut down and the game became delisted, and proof requirements have been confirmed to be consistent with the game's original features.\n\nCommunity-added features, such as diamond medals, the Pasila bike (not acknowledged in-game as a Crazy bike due to being an unreleased vehicle), and the ability to play tracks with non-matching tier basic bikes, are only acceptable as community objectives."
     },
     {
         "gameType": 5,
@@ -187586,8 +187725,8 @@ var data =
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Beat'em'Up"
+                "Beat'em'Up",
+                "Boss Rush"
             ],
             "info": [
                 "Has Secondary Objectives",
@@ -187599,13 +187738,13 @@ var data =
 ]
 var date =
 {
-    "day": 13,
+    "day": 14,
     "month": 11,
     "year": 2026,
-    "hour": 9,
-    "minute": 50,
-    "second": 37,
-    "searchTime": 1013.1954295635223
+    "hour": 10,
+    "minute": 15,
+    "second": 52,
+    "searchTime": 998.8875098228455
 }
 const staticTags =
 {
