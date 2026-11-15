@@ -2236,9 +2236,9 @@ var masoData =
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
         "owners": 127,
-        "completions": 51,
-        "playtime": 245.59607843137255,
-        "newestCompletion": "2026-07-20T07:27:16.000Z",
+        "completions": 52,
+        "playtime": 243.49551282051283,
+        "newestCompletion": "2026-11-15T01:05:20.000Z",
         "badges": {
             "count": 1,
             "points": 10
