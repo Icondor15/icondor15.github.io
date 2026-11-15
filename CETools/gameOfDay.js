@@ -2,87 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 665270,
-        "CEId": "8d34839e-5283-4f79-8a66-5780c2156bd9",
-        "name": "Barrage Musical  ~A Fantasy of Tempest~",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/665270/header.jpg?t=1576291657",
+        "platformId": 584640,
+        "CEId": "6699e6ad-ac54-4af1-a592-142f48ceeb70",
+        "name": "SUPER CHICKEN JUMPER",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/584640/header.jpg?t=1633256758",
         "genre": [
-            "Bullet Hell"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 65,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 725,
-        "createdAt": "2022-11-14T02:57:31.000Z",
+        "medianPlaytime": 422,
+        "createdAt": "2021-11-15T20:34:39.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
-        "playersStarted": 11,
-        "playersTotal": 64,
+        "playersCompleted": 54,
+        "playersStarted": 0,
+        "playersTotal": 185,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 299,
+                "final": 299,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 999,
-                "final": 999,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 699,
-                "final": 699,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 98000,
-                "final": 98000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605 (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
+            "primary": 1,
+            "primaryText": "Playing Chicken [20\u2605]\nSeparately, complete all challenges and survive 2 minutes in all endless modes.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 29
+            "achievements": 22
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Autorunner",
+                "2D Platformer"
             ],
-            "info": []
+            "info": [
+                "Overwhelmingly Positive",
+                "Animal Protagonist"
+            ]
         },
         "gameTags": [
+            "Difficult",
+            "2D",
+            "Arcade",
+            "Pixel Graphics",
+            "Cute",
+            "Action-Adventure",
+            "Funny",
+            "Anime",
             "Indie",
             "Action",
-            "Bullet Hell",
-            "Great Soundtrack",
-            "Shoot 'Em Up",
-            "Anime",
-            "Shooter",
-            "Female Protagonist",
-            "Rhythm"
+            "Souls-like",
+            "Colorful",
+            "Adventure",
+            "Singleplayer",
+            "Co-op",
+            "Multiplayer",
+            "Local Multiplayer",
+            "Platformer",
+            "Procedural Generation",
+            "Atmospheric"
         ],
         "languages": {
             "english": "IS",
-            "japanese": "IS",
-            "schinese": "IS",
-            "tchinese": "S"
+            "brazilian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-11-14'
+var gameOfDayDate = '2026-11-15'
