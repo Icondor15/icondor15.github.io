@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 584640,
-        "CEId": "6699e6ad-ac54-4af1-a592-142f48ceeb70",
-        "name": "SUPER CHICKEN JUMPER",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/584640/header.jpg?t=1633256758",
+        "platformId": 264220,
+        "CEId": "1d10e32a-918d-4c02-9807-b1ab7de03016",
+        "name": "Mr. Bree+",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/264220/header.jpg?t=1447359435",
         "genre": [
             "Platformer"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 422,
-        "createdAt": "2021-11-15T20:34:39.000Z",
+        "medianPlaytime": 766,
+        "createdAt": "2022-11-16T04:53:51.000Z",
         "updatedAt": "2026-11-09T13:35:50.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 54,
+        "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 185,
+        "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -26,76 +26,57 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 299,
+                "final": 299,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 399,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 29800,
+                "final": 29800,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 569,
-                "final": 569,
+                "initial": 329,
+                "final": 329,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Playing Chicken [20\u2605]\nSeparately, complete all challenges and survive 2 minutes in all endless modes.",
+            "primaryText": "This Piggy Went Home Alive [10\u2605]\nBeat all levels without dying.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 22
+            "achievements": 43
         },
         "CETags": {
             "genre": [
-                "Autorunner",
                 "2D Platformer"
             ],
-            "info": [
-                "Overwhelmingly Positive",
-                "Animal Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Difficult",
-            "2D",
-            "Arcade",
-            "Pixel Graphics",
-            "Cute",
-            "Action-Adventure",
-            "Funny",
-            "Anime",
             "Indie",
-            "Action",
-            "Souls-like",
-            "Colorful",
             "Adventure",
-            "Singleplayer",
-            "Co-op",
-            "Multiplayer",
-            "Local Multiplayer",
+            "Action",
             "Platformer",
-            "Procedural Generation",
-            "Atmospheric"
+            "2D",
+            "Singleplayer"
         ],
         "languages": {
             "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
             "brazilian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-11-15'
+var gameOfDayDate = '2026-11-16'
