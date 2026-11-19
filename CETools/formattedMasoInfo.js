@@ -2644,9 +2644,9 @@ var masoData =
         "description": "death in all caps",
         "tier": "1",
         "owners": 106,
-        "completions": 54,
-        "playtime": 16.4070987654321,
-        "newestCompletion": "2026-07-17T03:15:03.000Z"
+        "completions": 55,
+        "playtime": 16.360909090909093,
+        "newestCompletion": "2026-11-18T17:43:04.000Z"
     },
     "1170060": {
         "description": "\u272a Okay Boomerang ",
@@ -3739,7 +3739,7 @@ var masoData =
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
-        "owners": 78,
+        "owners": 79,
         "completions": 9,
         "playtime": 77.33888888888889,
         "newestCompletion": "2026-09-17T04:29:52.000Z"
@@ -4271,7 +4271,7 @@ var masoData =
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
         "tier": "5",
-        "owners": 31,
+        "owners": 32,
         "completions": 2,
         "playtime": 106.95833333333333,
         "newestCompletion": "2024-08-03T06:00:49.000Z"
@@ -4355,7 +4355,7 @@ var masoData =
     "3044100": {
         "description": "\u272a Tier 4",
         "tier": "4",
-        "owners": 19,
+        "owners": 20,
         "completions": 2,
         "playtime": 76.15,
         "newestCompletion": "2026-01-01T05:17:47.000Z"
@@ -4681,7 +4681,7 @@ var masoData =
         "tier": "3",
         "owners": 22,
         "completions": 6,
-        "playtime": 50.044444444444444,
+        "playtime": 74.53611111111111,
         "newestCompletion": "2026-08-29T23:22:05.000Z"
     },
     "1711520": {
