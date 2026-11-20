@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 272,
         "completions": 150,
-        "playtime": 201.57855555555554,
+        "playtime": 201.59922222222218,
         "newestCompletion": "2026-11-03T22:38:01.000Z",
         "badges": {
             "count": 2,
@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 136,
+        "owners": 137,
         "completions": 31,
         "playtime": 43.053225806451614,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 163,
         "completions": 42,
-        "playtime": 272.90396825396823,
+        "playtime": 272.9972222222222,
         "newestCompletion": "2026-08-12T04:19:17.000Z",
         "badges": {
             "count": 1,
@@ -1771,7 +1771,7 @@ var masoData =
     "460810": {
         "description": "\u2733 PlatinumGames",
         "tier": "2",
-        "owners": 43,
+        "owners": 44,
         "completions": 12,
         "playtime": 23.270833333333332,
         "newestCompletion": "2026-11-15T14:19:29.000Z"
@@ -3343,7 +3343,7 @@ var masoData =
     "1743850": {
         "description": "\u2733 LSDD",
         "tier": "2",
-        "owners": 125,
+        "owners": 126,
         "completions": 42,
         "playtime": 87.05753968253968,
         "newestCompletion": "2026-11-04T01:01:11.000Z",
@@ -3483,7 +3483,7 @@ var masoData =
     "1462040": {
         "description": "\u2733 That's got to be the most expensive game in the curator's history. And the game is not even finished.",
         "tier": "2",
-        "owners": 23,
+        "owners": 24,
         "completions": 5,
         "playtime": 80.53333333333333,
         "newestCompletion": "2023-11-26T01:28:45.000Z"
@@ -3937,7 +3937,7 @@ var masoData =
         "tier": "2",
         "owners": 26,
         "completions": 11,
-        "playtime": 49.312121212121205,
+        "playtime": 49.42727272727272,
         "newestCompletion": "2025-03-15T23:40:19.000Z"
     },
     "1627720": {
@@ -4495,17 +4495,17 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 44,
-        "completions": 31,
-        "playtime": 8.205913978494625,
-        "newestCompletion": "2026-08-11T17:50:49.000Z"
+        "owners": 45,
+        "completions": 32,
+        "playtime": 8.266666666666667,
+        "newestCompletion": "2026-11-19T23:40:28.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 172,
         "completions": 43,
-        "playtime": 109.39728682170539,
+        "playtime": 109.9050387596899,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
     },
     "322170": {
@@ -4523,7 +4523,7 @@ var masoData =
     "312520": {
         "description": "\u2606 you're in for a whole new world of rain",
         "tier": "3",
-        "owners": 116,
+        "owners": 117,
         "completions": 3,
         "playtime": 218.23333333333332,
         "newestCompletion": "2026-08-05T23:09:22.000Z"
@@ -4779,9 +4779,9 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 41,
-        "completions": 11,
-        "playtime": 92.85757575757576,
+        "owners": 42,
+        "completions": 12,
+        "playtime": 90.28888888888889,
         "newestCompletion": "2025-05-07T18:04:15.000Z",
         "badges": {
             "count": 4,
