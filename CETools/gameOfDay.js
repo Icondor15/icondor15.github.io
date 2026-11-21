@@ -2,100 +2,106 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2555950,
-        "CEId": "0b81217a-9952-4166-9dc3-558c9aa6cf45",
-        "name": "Million Depth",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2555950/8db98d71aa3de6c10c4fe5160fc2ac03ed1802de/header.jpg?t=1763373023",
+        "platformId": 1286350,
+        "CEId": "66b12511-7552-4121-84d5-d60ac73efe23",
+        "name": "BPM: BULLETS PER MINUTE",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1286350/header.jpg?t=1630609037",
         "genre": [
-            "Action"
+            "First-Person"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 3,
+        "points": 60,
         "secondaryPoints": 0,
-        "medianPlaytime": 1915,
-        "createdAt": "2025-11-20T08:25:21.000Z",
+        "medianPlaytime": 2521,
+        "createdAt": "2020-11-21T15:13:11.000Z",
         "updatedAt": "2026-11-16T18:59:04.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 2,
-        "playersTotal": 35,
+        "playersCompleted": 17,
+        "playersStarted": 35,
+        "playersTotal": 578,
         "priceData": {
             "USD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1649,
-                "final": 1649,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1429,
-                "final": 1429,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 187000,
-                "final": 187000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2495,
-                "final": 2495,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2199,
-                "final": 2199,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Fall to 3 Million Depths [10\u2605]\nClear Dimension Over Mode.\n\nTranscendent Being of All Worlds [10\u2605]\nClear all timelines at maximum Magnetic Field.",
+            "primary": 3,
+            "primaryText": "Hellish QuakeDancer [35\u2605]\nBeat Hellish with Sanngri\u00f0r.\n\nBosses Per Minute [15\u2605]\nComplete Mega Boss Rush.\n\nGetting Odr it [10\u2605]\nBeat Hard with Odr.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 51
+            "community": 1,
+            "communityText": "Yggdrasil\nComplete every challenge.",
+            "achievements": 28
         },
         "CETags": {
             "genre": [
-                "Rogue-like"
+                "Rogue-like",
+                "Rhythm",
+                "First Person Shooter"
             ],
             "info": [
-                "Female Protagonist"
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
-            "Crafting",
-            "Time Manipulation",
-            "Action Roguelike",
-            "Multiple Endings",
-            "Time Travel",
-            "Roguelite",
+            "FPS",
+            "Rhythm",
             "Roguelike",
-            "Exploration",
-            "Sci-fi",
-            "Underground",
-            "Strategy",
-            "Perma Death",
-            "2D",
-            "Pixel Graphics",
-            "Cute",
-            "Story Rich",
             "Action",
-            "Simulation",
+            "Indie",
+            "Shooter",
             "Adventure",
-            "Singleplayer"
+            "Action Roguelike",
+            "Music",
+            "Great Soundtrack",
+            "Rock Music",
+            "Difficult",
+            "Roguelite",
+            "Singleplayer",
+            "First-Person",
+            "Female Protagonist",
+            "Fast-Paced",
+            "Bullet Hell",
+            "Procedural Generation",
+            "Boomer Shooter"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-11-20'
+var gameOfDayDate = '2026-11-21'
