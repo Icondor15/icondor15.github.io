@@ -1307,10 +1307,10 @@ var masoData =
     "65300": {
         "description": "\u2733 High precision platformer with a very high learning curve. Completing it is just the first step...",
         "tier": "2",
-        "owners": 170,
-        "completions": 72,
-        "playtime": 238.12314814814812,
-        "newestCompletion": "2025-08-29T21:26:24.000Z",
+        "owners": 171,
+        "completions": 73,
+        "playtime": 235.45022831050227,
+        "newestCompletion": "2026-11-18T20:22:52.000Z",
         "badges": {
             "count": 2,
             "points": 15
@@ -3407,7 +3407,7 @@ var masoData =
     "1309940": {
         "description": "Swinging plant beats up grandpa",
         "tier": "1",
-        "owners": 51,
+        "owners": 52,
         "completions": 14,
         "playtime": 7.682142857142858,
         "newestCompletion": "2026-10-03T09:12:55.000Z"
