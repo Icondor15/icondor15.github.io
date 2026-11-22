@@ -725,7 +725,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 17,
-        "playtime": 126.88039215686274,
+        "playtime": 130.82254901960786,
         "newestCompletion": "2026-10-30T21:12:06.000Z",
         "badges": {
             "count": 3,
@@ -1249,7 +1249,7 @@ var masoData =
         "tier": "5",
         "owners": 235,
         "completions": 11,
-        "playtime": 633.760606060606,
+        "playtime": 633.8848484848485,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
@@ -2265,7 +2265,7 @@ var masoData =
         "tier": "2",
         "owners": 137,
         "completions": 93,
-        "playtime": 19.93369175627241,
+        "playtime": 19.933870967741942,
         "newestCompletion": "2026-08-07T15:06:50.000Z",
         "badges": {
             "count": 1,
@@ -2696,9 +2696,9 @@ var masoData =
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
         "owners": 129,
-        "completions": 12,
-        "playtime": 18.740277777777774,
-        "newestCompletion": "2026-06-27T06:56:19.000Z"
+        "completions": 13,
+        "playtime": 18.434615384615384,
+        "newestCompletion": "2026-10-04T19:45:16.000Z"
     },
     "598550": {
         "description": "\u272a Before &amp; After Plastic Surgeries",
@@ -3056,9 +3056,9 @@ var masoData =
         "description": "\u2733 Bruh",
         "tier": "2",
         "owners": 32,
-        "completions": 5,
-        "playtime": 23.023333333333333,
-        "newestCompletion": "2026-01-13T12:12:28.000Z"
+        "completions": 6,
+        "playtime": 22.022222222222222,
+        "newestCompletion": "2026-11-13T16:38:18.000Z"
     },
     "1245620": {
         "description": "\u2733 why is it always fort, night",
@@ -3120,16 +3120,16 @@ var masoData =
         "description": "very very pure",
         "tier": "1",
         "owners": 33,
-        "completions": 9,
-        "playtime": 7.809259259259259,
-        "newestCompletion": "2025-10-07T21:05:48.000Z"
+        "completions": 10,
+        "playtime": 8.216666666666665,
+        "newestCompletion": "2026-11-06T16:53:31.000Z"
     },
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
         "owners": 65,
         "completions": 10,
-        "playtime": 97.715,
+        "playtime": 98.39833333333334,
         "newestCompletion": "2026-04-12T20:08:01.000Z",
         "badges": {
             "count": 2,
@@ -4660,9 +4660,9 @@ var masoData =
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
         "owners": 24,
-        "completions": 8,
-        "playtime": 32.225,
-        "newestCompletion": "2026-09-05T16:49:10.000Z"
+        "completions": 9,
+        "playtime": 31.67592592592593,
+        "newestCompletion": "2026-11-21T16:34:18.000Z"
     },
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
@@ -4699,7 +4699,7 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 11,
+        "owners": 12,
         "completions": 9,
         "playtime": 9.077777777777778,
         "newestCompletion": "2026-09-15T16:44:13.000Z"
@@ -4793,7 +4793,7 @@ var masoData =
         "tier": "4",
         "owners": 4,
         "completions": 2,
-        "playtime": 47.06666666666666,
+        "playtime": 62.675,
         "newestCompletion": "2026-10-11T03:29:25.000Z"
     },
     "2533600": {
