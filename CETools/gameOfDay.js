@@ -2,94 +2,115 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1998530,
-        "CEId": "43d68032-5c98-4bec-8142-7b39e1bca64b",
-        "name": "Yoiyami Dancers: Twilight Danmaku Dancers",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1998530/header.jpg?t=1741390345",
+        "platformId": 692890,
+        "CEId": "15e7e8bf-dbd9-4e72-bb3a-585fa509da32",
+        "name": "Roboquest",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/692890/header.jpg?t=1700122097",
         "genre": [
-            "Arcade"
+            "First-Person"
         ],
-        "tier": 4,
-        "points": 90,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 4533,
-        "createdAt": "2022-11-22T05:21:44.000Z",
+        "medianPlaytime": 2359,
+        "createdAt": "2023-11-23T18:17:19.000Z",
         "updatedAt": "2026-11-22T01:29:34.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 4,
-        "playersTotal": 110,
+        "playersCompleted": 49,
+        "playersStarted": 0,
+        "playersTotal": 348,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 100000,
-                "final": 100000,
+                "initial": 334000,
+                "final": 334000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 3999,
+                "final": 3999,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 3499,
+                "final": 3499,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "God of Dance [55\u2605]\nGet a gold medal on the Boss Rush of all scenarios on Lunatic.\n\nBullet Backup Dancer [35\u2605]\nClear all scenarios on Lunatic.",
+            "primary": 1,
+            "primaryText": "Metallic Guardian [20\u2605]\nFinish the game on Guardian 4 difficulty with an S Rank average.",
             "secondary": 0,
             "secondaryText": "",
             "community": 1,
-            "communityText": "Dancing Purist\nClear all scenarios on Lunatic without dying.",
-            "achievements": 36
+            "communityText": "Robofest\nFinish the game solo on Guardian 4 difficulty with an S rank average with every character.",
+            "achievements": 76
         },
         "CETags": {
             "genre": [
-                "Rhythm",
-                "Avoid'em'Up"
+                "Rogue-like",
+                "First Person Shooter"
             ],
             "info": [
+                "Has Community Objectives",
                 "Overwhelmingly Positive",
-                "Has Community Objectives"
+                "Curated"
             ]
         },
         "gameTags": [
-            "Action",
-            "Rhythm",
-            "Cute",
+            "FPS",
+            "Action Roguelike",
+            "Roguelite",
+            "Shooter",
+            "Co-op",
+            "Online Co-Op",
+            "Fast-Paced",
+            "Looter Shooter",
             "Bullet Hell",
-            "2D",
-            "Female Protagonist",
-            "Fantasy",
+            "Action",
+            "Post-apocalyptic",
+            "Indie",
+            "Roguelike",
+            "Multiplayer",
+            "Stylized",
+            "Sci-fi",
+            "Perma Death",
+            "First-Person",
             "Singleplayer",
-            "Faith",
-            "Controller",
-            "Difficult",
-            "Funny",
-            "Great Soundtrack",
-            "Anime"
+            "Colorful"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "dutch": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "persian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-11-22'
+var gameOfDayDate = '2026-11-23'
