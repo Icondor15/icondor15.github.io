@@ -3544,9 +3544,9 @@ var masoData =
         "description": "\u2733 Pizza, Pasta, Put it in a box",
         "tier": "2",
         "owners": 113,
-        "completions": 40,
-        "playtime": 59.642916666666665,
-        "newestCompletion": "2025-11-11T03:13:24.000Z"
+        "completions": 41,
+        "playtime": 59.18821138211382,
+        "newestCompletion": "2026-11-19T22:36:50.000Z"
     },
     "1442170": {
         "description": "\u2733 360 no scope, but fast",
@@ -4217,7 +4217,7 @@ var masoData =
         "tier": "4",
         "owners": 61,
         "completions": 9,
-        "playtime": 285.81481481481484,
+        "playtime": 285.82592592592596,
         "newestCompletion": "2026-03-02T21:42:12.000Z",
         "badges": {
             "count": 1,
