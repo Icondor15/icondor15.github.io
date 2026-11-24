@@ -132,8 +132,8 @@ var masoData =
         "description": "Shmup meets Undertale",
         "tier": "1",
         "owners": 57,
-        "completions": 31,
-        "playtime": 16.161290322580644,
+        "completions": 30,
+        "playtime": 16.307777777777776,
         "newestCompletion": "2026-10-08T07:43:31.000Z"
     },
     "286100": {
@@ -397,7 +397,7 @@ var masoData =
         "tier": "5",
         "owners": 87,
         "completions": 4,
-        "playtime": 90.41666666666666,
+        "playtime": 90.42083333333333,
         "newestCompletion": "2026-09-27T16:38:02.000Z"
     },
     "437570": {
@@ -717,7 +717,7 @@ var masoData =
         "tier": "4",
         "owners": 61,
         "completions": 17,
-        "playtime": 46.79607843137254,
+        "playtime": 47.04607843137254,
         "newestCompletion": "2026-11-04T20:20:55.000Z"
     },
     "384250": {
@@ -1020,9 +1020,9 @@ var masoData =
         "description": "\u2606 Eternal Nightmare",
         "tier": "3",
         "owners": 93,
-        "completions": 6,
-        "playtime": 446.5222222222221,
-        "newestCompletion": "2025-05-16T00:36:22.000Z"
+        "completions": 7,
+        "playtime": 392.345238095238,
+        "newestCompletion": "2026-11-23T08:05:39.000Z"
     },
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
@@ -1979,10 +1979,10 @@ var masoData =
     "1159450": {
         "description": "\u2733 Coronavirus : Origins",
         "tier": "2",
-        "owners": 44,
-        "completions": 17,
-        "playtime": 10.326470588235296,
-        "newestCompletion": "2025-09-21T20:24:18.000Z"
+        "owners": 45,
+        "completions": 18,
+        "playtime": 10.136111111111113,
+        "newestCompletion": "2026-09-08T03:53:46.000Z"
     },
     "977950": {
         "description": "\u2606 Visually challenging rhythm gameplay",
@@ -3008,9 +3008,9 @@ var masoData =
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
         "owners": 146,
-        "completions": 17,
-        "playtime": 82.2127450980392,
-        "newestCompletion": "2026-09-03T16:03:50.000Z"
+        "completions": 18,
+        "playtime": 81.4962962962963,
+        "newestCompletion": "2026-11-23T09:08:48.000Z"
     },
     "355630": {
         "description": "\u2606 A heart of gold with a mind of steel",
@@ -3756,9 +3756,9 @@ var masoData =
         "description": "When the luck of the draw gets dicey",
         "tier": "1",
         "owners": 90,
-        "completions": 29,
-        "playtime": 71.32413793103447,
-        "newestCompletion": "2025-08-24T16:09:59.000Z"
+        "completions": 30,
+        "playtime": 70.36444444444444,
+        "newestCompletion": "2026-08-24T19:39:19.000Z"
     },
     "1035950": {
         "description": "baby don't hurt me, don't hurt me, no more",
