@@ -2,58 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1700220,
-        "CEId": "08ca6bc9-8cae-46ab-b059-bb85694dfd4f",
-        "name": "\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1700220/header.jpg?t=1664766579",
+        "platformId": 651550,
+        "CEId": "c0b7d70d-c1fa-4afd-93fd-1db0dc265d6d",
+        "name": "ConcPerfect 2017",
+        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/651550/header.jpg",
         "genre": [
-            "Bullet Hell"
+            "First-Person"
         ],
-        "tier": 3,
-        "points": 60,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 712,
-        "createdAt": "2022-11-24T21:29:41.000Z",
-        "updatedAt": "2026-11-22T01:29:34.000Z",
+        "medianPlaytime": 579,
+        "createdAt": "2024-11-25T09:17:29.000Z",
+        "updatedAt": "2026-11-25T04:24:04.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 7,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 27,
+        "playersTotal": 22,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 99,
+                "final": 99,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 799,
-                "final": 799,
+                "initial": 79,
+                "final": 79,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 799,
-                "final": 799,
+                "initial": 79,
+                "final": 79,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 100000,
-                "final": 100000,
+                "initial": 10000,
+                "final": 10000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 150,
+                "final": 150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 119,
+                "final": 119,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Transcending Time and Space [25\u2605]\nOn Lunatic, reach and beat the TLB of Stage INF without using continues. (Get the Unexpected Ending)\n\nVanishing Galaxy [35\u2605]\nProve yourself.",
+            "primary": 1,
+            "primaryText": "Rock Out With Your Conc Out [20\u2605]\nComplete all time- and medal-related achievements",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
@@ -62,35 +62,19 @@ var gameOfDay =
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "First Person Movement"
             ],
             "info": []
         },
         "gameTags": [
-            "Casual",
-            "Bullet Hell",
-            "Faith",
-            "Anime",
-            "Multiple Endings",
             "Action",
-            "Top-Down",
-            "Flight",
-            "Singleplayer",
-            "Shoot 'Em Up",
-            "Third-Person Shooter",
-            "Score Attack",
-            "Shooter",
-            "Top-Down Shooter",
-            "Third Person",
-            "Beat 'em up",
-            "Psychedelic",
-            "Trains",
-            "Fantasy",
-            "Combat"
+            "Indie",
+            "Casual",
+            "Racing"
         ],
         "languages": {
-            "schinese": "IS"
+            "english": "IA"
         }
     }
 }
-var gameOfDayDate = '2026-11-24'
+var gameOfDayDate = '2026-11-25'
