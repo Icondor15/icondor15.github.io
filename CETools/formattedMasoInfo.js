@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 284,
         "completions": 211,
-        "playtime": 246.2866508688784,
+        "playtime": 248.0092417061612,
         "newestCompletion": "2026-09-22T19:58:16.000Z",
         "badges": {
             "count": 2,
@@ -944,9 +944,9 @@ var masoData =
         "description": "\u2733 Can you?",
         "tier": "2",
         "owners": 207,
-        "completions": 105,
-        "playtime": 33.81444444444446,
-        "newestCompletion": "2026-03-16T13:18:39.000Z"
+        "completions": 106,
+        "playtime": 34.29481132075473,
+        "newestCompletion": "2026-11-25T01:28:32.000Z"
     },
     "510620": {
         "description": "\u2606 Jukenation",
@@ -2348,9 +2348,9 @@ var masoData =
         "description": "I will beat you to death",
         "tier": "1",
         "owners": 206,
-        "completions": 104,
-        "playtime": 15.76394230769231,
-        "newestCompletion": "2026-07-01T23:22:17.000Z"
+        "completions": 105,
+        "playtime": 15.709047619047622,
+        "newestCompletion": "2026-11-24T19:01:00.000Z"
     },
     "757320": {
         "description": "\u2606 Nuclear Valley",
@@ -3232,9 +3232,9 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 144,
-        "completions": 72,
-        "playtime": 77.52476851851854,
-        "newestCompletion": "2026-09-08T20:20:48.000Z",
+        "completions": 73,
+        "playtime": 78.32694063926942,
+        "newestCompletion": "2026-11-25T03:50:22.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4649,7 +4649,7 @@ var masoData =
         "tier": "0",
         "owners": 19,
         "completions": 4,
-        "playtime": 264.2916666666667,
+        "playtime": 264.80833333333334,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
