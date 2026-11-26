@@ -2,79 +2,102 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 651550,
-        "CEId": "c0b7d70d-c1fa-4afd-93fd-1db0dc265d6d",
-        "name": "ConcPerfect 2017",
-        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/651550/header.jpg",
+        "platformId": 460790,
+        "CEId": "97594e7f-bde8-4f71-b4eb-32cd81675b66",
+        "name": "Bayonetta",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/460790/header.jpg?t=1670260448",
         "genre": [
-            "First-Person"
+            "Action"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 4,
+        "points": 80,
         "secondaryPoints": 0,
-        "medianPlaytime": 579,
-        "createdAt": "2024-11-25T09:17:29.000Z",
+        "medianPlaytime": 5099,
+        "createdAt": "2023-11-26T21:21:39.000Z",
         "updatedAt": "2026-11-25T04:24:04.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 22,
+        "playersTotal": 533,
         "priceData": {
             "USD": {
-                "initial": 99,
-                "final": 99,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "EUR": {
-                "initial": 79,
-                "final": 79,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "GBP": {
-                "initial": 79,
-                "final": 79,
-                "discountPercent": 0
+                "initial": 1599,
+                "final": 479,
+                "discountPercent": 70
             },
             "JPY": {
-                "initial": 10000,
-                "final": 10000,
-                "discountPercent": 0
+                "initial": 218000,
+                "final": 65400,
+                "discountPercent": 70
             },
             "AUD": {
-                "initial": 150,
-                "final": 150,
-                "discountPercent": 0
+                "initial": 2495,
+                "final": 748,
+                "discountPercent": 70
             },
             "CAD": {
-                "initial": 119,
-                "final": 119,
-                "discountPercent": 0
+                "initial": 2999,
+                "final": 899,
+                "discountPercent": 70
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Rock Out With Your Conc Out [20\u2605]\nComplete all time- and medal-related achievements",
+            "primary": 2,
+            "primaryText": "Angel Slayer [50\u2605]\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch[30\u2605 (Partial: 5\u2605)]\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 50
         },
         "CETags": {
             "genre": [
-                "First Person Movement"
+                "Hack & Slash"
             ],
-            "info": []
+            "info": [
+                "Female Protagonist"
+            ]
         },
         "gameTags": [
             "Action",
-            "Indie",
-            "Casual",
-            "Racing"
+            "Female Protagonist",
+            "Hack and Slash",
+            "Sexual Content",
+            "Nudity",
+            "Singleplayer",
+            "Spectacle fighter",
+            "Great Soundtrack",
+            "Character Action Game",
+            "Adventure",
+            "Fast-Paced",
+            "Third Person",
+            "Beat 'em up",
+            "Fantasy",
+            "Comedy",
+            "Classic",
+            "Gore",
+            "Anime",
+            "Atmospheric",
+            "Difficult"
         ],
         "languages": {
-            "english": "IA"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-11-25'
+var gameOfDayDate = '2026-11-26'
