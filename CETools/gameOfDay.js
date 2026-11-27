@@ -2,102 +2,94 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 460790,
-        "CEId": "97594e7f-bde8-4f71-b4eb-32cd81675b66",
-        "name": "Bayonetta",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/460790/header.jpg?t=1670260448",
+        "platformId": 2288630,
+        "CEId": "92c8c25e-67e2-4bb3-a666-77971669932b",
+        "name": "Taiko no Tatsujin: Rhythm Festival",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/header.jpg?t=1730935385",
         "genre": [
-            "Action"
+            "Arcade"
         ],
-        "tier": 4,
-        "points": 80,
+        "tier": 7,
+        "points": 1200,
         "secondaryPoints": 0,
-        "medianPlaytime": 5099,
-        "createdAt": "2023-11-26T21:21:39.000Z",
+        "medianPlaytime": 5246,
+        "createdAt": "2024-11-27T08:18:36.000Z",
         "updatedAt": "2026-11-25T04:24:04.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 0,
-        "playersTotal": 533,
+        "playersCompleted": 1,
+        "playersStarted": 14,
+        "playersTotal": 96,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 599,
-                "discountPercent": 70
+                "initial": 7999,
+                "final": 3999,
+                "discountPercent": 50
             },
             "EUR": {
-                "initial": 1999,
-                "final": 599,
-                "discountPercent": 70
+                "initial": 7999,
+                "final": 3999,
+                "discountPercent": 50
             },
             "GBP": {
-                "initial": 1599,
-                "final": 479,
-                "discountPercent": 70
+                "initial": 6499,
+                "final": 3249,
+                "discountPercent": 50
             },
             "JPY": {
-                "initial": 218000,
-                "final": 65400,
-                "discountPercent": 70
+                "initial": 946000,
+                "final": 473000,
+                "discountPercent": 50
             },
             "AUD": {
-                "initial": 2495,
-                "final": 748,
-                "discountPercent": 70
+                "initial": 11495,
+                "final": 5747,
+                "discountPercent": 50
             },
             "CAD": {
-                "initial": 2999,
-                "final": 899,
-                "discountPercent": 70
+                "initial": 10649,
+                "final": 5324,
+                "discountPercent": 50
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Angel Slayer [50\u2605]\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch[30\u2605 (Partial: 5\u2605)]\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
+            "primary": 5,
+            "primaryText": "Tatsujin [600\u2605]\nEarn a Rainbow Crown on every base game \u260610 chart.\n\nMeijin [280\u2605]\nEarn a Golden Crown on every base game \u260610 chart.\n\nChoujin [260\u2605]\nEarn a Rainbow Crown on every base game \u26068 and \u26069 charts.\n\nKurouto [40\u2605]\nEarn a Golden Crown on every base game \u26068 and \u26069 charts.\n\nDonder [20\u2605]\nEarn a Silver Crown on every base game \u260610 chart.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 50
+            "achievements": 33
         },
         "CETags": {
             "genre": [
-                "Hack & Slash"
+                "Rhythm"
             ],
-            "info": [
-                "Female Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action",
-            "Female Protagonist",
-            "Hack and Slash",
-            "Sexual Content",
-            "Nudity",
+            "Casual",
+            "Rhythm",
+            "Multiplayer",
             "Singleplayer",
-            "Spectacle fighter",
-            "Great Soundtrack",
-            "Character Action Game",
-            "Adventure",
-            "Fast-Paced",
-            "Third Person",
-            "Beat 'em up",
-            "Fantasy",
-            "Comedy",
-            "Classic",
-            "Gore",
+            "PvP",
+            "Music",
+            "Cute",
             "Anime",
-            "Atmospheric",
-            "Difficult"
+            "Difficult",
+            "Arcade"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "IS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
             "japanese": "IAS",
-            "spanish": "IS"
-        }
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
+        "information": "Subscription/DLC songs currently not required for CE objectives."
     }
 }
-var gameOfDayDate = '2026-11-26'
+var gameOfDayDate = '2026-11-27'
