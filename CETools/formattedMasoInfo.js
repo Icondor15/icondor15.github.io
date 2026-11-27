@@ -4779,10 +4779,10 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 42,
-        "completions": 12,
-        "playtime": 90.28888888888889,
-        "newestCompletion": "2025-05-07T18:04:15.000Z",
+        "owners": 43,
+        "completions": 13,
+        "playtime": 89.59615384615384,
+        "newestCompletion": "2026-11-26T02:20:57.000Z",
         "badges": {
             "count": 4,
             "points": 15
