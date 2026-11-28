@@ -367,7 +367,7 @@ var masoData =
     "356650": {
         "description": "\u2733 2D Dark Souls, any other description would be a lie",
         "tier": "2",
-        "owners": 62,
+        "owners": 63,
         "completions": 2,
         "playtime": 47.13333333333333,
         "newestCompletion": "2021-10-12T09:08:31.000Z"
@@ -396,9 +396,9 @@ var masoData =
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
         "owners": 87,
-        "completions": 4,
-        "playtime": 90.42083333333333,
-        "newestCompletion": "2026-09-27T16:38:02.000Z"
+        "completions": 5,
+        "playtime": 82.32000000000001,
+        "newestCompletion": "2026-11-28T02:43:06.000Z"
     },
     "437570": {
         "description": "Don\"t lose your head",
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 272,
         "completions": 150,
-        "playtime": 201.59922222222218,
+        "playtime": 201.6074444444444,
         "newestCompletion": "2026-11-03T22:38:01.000Z",
         "badges": {
             "count": 2,
@@ -844,9 +844,9 @@ var masoData =
         "description": "Wtf is happening",
         "tier": "1",
         "owners": 82,
-        "completions": 62,
-        "playtime": 3.5801075268817213,
-        "newestCompletion": "2026-09-13T12:22:27.000Z"
+        "completions": 63,
+        "playtime": 3.5465608465608476,
+        "newestCompletion": "2026-11-08T14:14:33.000Z"
     },
     "397950": {
         "description": "Literally",
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 207,
         "completions": 106,
-        "playtime": 34.29481132075473,
+        "playtime": 34.302201257861654,
         "newestCompletion": "2026-11-25T01:28:32.000Z"
     },
     "510620": {
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 250,
         "completions": 67,
-        "playtime": 61.62164179104477,
+        "playtime": 61.62611940298506,
         "newestCompletion": "2026-03-26T19:43:04.000Z"
     },
     "317710": {
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 123,
         "completions": 39,
-        "playtime": 91.87991452991453,
+        "playtime": 91.94572649572649,
         "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
@@ -3089,7 +3089,7 @@ var masoData =
         "tier": "3",
         "owners": 190,
         "completions": 51,
-        "playtime": 193.46307189542483,
+        "playtime": 193.4633986928105,
         "newestCompletion": "2026-04-19T09:33:00.000Z"
     },
     "456390": {
@@ -3731,7 +3731,7 @@ var masoData =
     "1608640": {
         "description": "\u2606 Wolf in sheep's clothing",
         "tier": "3",
-        "owners": 53,
+        "owners": 54,
         "completions": 12,
         "playtime": 18.297222222222228,
         "newestCompletion": "2026-05-09T22:06:55.000Z"
@@ -3849,7 +3849,7 @@ var masoData =
         "tier": "2",
         "owners": 36,
         "completions": 5,
-        "playtime": 142.80333333333334,
+        "playtime": 143.03000000000003,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
         "badges": {
             "count": 1,
@@ -3960,9 +3960,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
         "owners": 47,
-        "completions": 28,
-        "playtime": 22.03869047619048,
-        "newestCompletion": "2026-07-05T02:26:12.000Z",
+        "completions": 29,
+        "playtime": 21.564942528735635,
+        "newestCompletion": "2026-09-21T06:07:24.000Z",
         "badges": {
             "count": 1,
             "points": 3
